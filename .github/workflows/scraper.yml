@@ -20,27 +20,42 @@ jobs:
       uses: actions/checkout@v4
       
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.x'
         
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests
+        pip install -r requirements.txt
         
-    - name: Run M3U8 scraper
+    - name: Run M3U8 stream extractor
       run: |
         python scraper.py
+      timeout-minutes: 30
         
-    - name: Check if channels.json was created
+    - name: Check extraction results
       run: |
         if [ -f channels.json ]; then
-          echo "channels.json created successfully"
-          echo "File size: $(wc -c < channels.json) bytes"
-          echo "Channel count: $(jq '.total_channels' channels.json)"
+          echo "✅ channels.json created successfully"
+          echo "📁 File size: $(wc -c < channels.json) bytes"
+          
+          # Check if jq is available for JSON parsing
+          if command -v jq &> /dev/null; then
+            echo "📺 Channel count: $(jq '.total_channels' channels.json)"
+            echo "🎯 Extraction method: $(jq -r '.extraction_method' channels.json)"
+            echo "⏰ Last updated: $(jq -r '.last_updated' channels.json)"
+            
+            # Show first 3 channel names as examples
+            echo "🔗 Sample channels:"
+            jq -r '.channels[:3][] | "  - " + .name + " -> " + .url' channels.json
+          else
+            echo "📊 JSON file created (jq not available for detailed stats)"
+          fi
         else
-          echo "channels.json was not created"
+          echo "❌ channels.json was not created"
+          echo "🔍 Checking for any output files..."
+          ls -la *.json 2>/dev/null || echo "No JSON files found"
           exit 1
         fi
         
@@ -54,11 +69,12 @@ jobs:
         
         # Check if there are changes to commit
         if git diff --staged --quiet; then
-          echo "No changes to commit"
+          echo "📝 No changes to commit"
         else
-          echo "Changes detected, committing..."
-          git commit -m "Update channels.json - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          echo "🔄 Changes detected, committing..."
+          git commit -m "🎬 Update channels.json with M3U8 streams - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
           git push
+          echo "✅ Successfully pushed updated channels.json"
         fi
 
     - name: Upload JSON as artifact
