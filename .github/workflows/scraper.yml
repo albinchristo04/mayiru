@@ -1,0 +1,69 @@
+name: M3U8 Scraper
+
+on:
+  schedule:
+    # Run every 5 hours (at minute 0 of hours 0, 5, 10, 15, 20)
+    - cron: '0 */5 * * *'
+  workflow_dispatch: # Allow manual triggering
+  push:
+    branches: [ main ]
+
+jobs:
+  scrape-m3u8:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write  # Allow the action to write to the repository
+      
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+        
+    - name: Run M3U8 scraper
+      run: |
+        python scraper.py
+        
+    - name: Check if channels.json was created
+      run: |
+        if [ -f channels.json ]; then
+          echo "channels.json created successfully"
+          echo "File size: $(wc -c < channels.json) bytes"
+          echo "Channel count: $(jq '.total_channels' channels.json)"
+        else
+          echo "channels.json was not created"
+          exit 1
+        fi
+        
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Add the JSON file
+        git add channels.json
+        
+        # Check if there are changes to commit
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          echo "Changes detected, committing..."
+          git commit -m "Update channels.json - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          git push
+        fi
+
+    - name: Upload JSON as artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: channels-json
+        path: channels.json
+        retention-days: 30
