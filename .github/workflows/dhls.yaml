@@ -1,0 +1,59 @@
+name: DLHD Extractor
+
+on:
+  workflow_dispatch:
+    inputs:
+      stream_url:
+        description: 'Enter the DaddyLive (DLHD) stream URL to extract'
+        required: true
+        type: string
+
+jobs:
+  extract:
+    name: Extract Stream Info
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install aiohttp aiohttp-proxy zstandard
+
+      - name: Run DLHD Extractor
+        id: run_extractor
+        env:
+          # Optional environment variables
+          DLHD_PROXIES: ${{ secrets.DLHD_PROXIES }}  # Comma-separated list of proxies (optional)
+          DLHD_REQUEST_HEADERS: ${{ secrets.DLHD_HEADERS }}  # JSON headers if needed (optional)
+          OUTPUT_PATH: dlhd_result.json
+        run: |
+          echo "Running DLHD extractor..."
+          python dlhd_extractor_cli.py --url "${{ github.event.inputs.stream_url }}" --output dlhd_result.json || true
+          
+          echo "---- Extractor Output ----"
+          cat dlhd_result.json || echo "No output file found"
+
+          # Export parsed values as GitHub Action outputs
+          DEST_URL=$(jq -r '.data.destination_url // empty' dlhd_result.json)
+          STREAM_INFO=$(jq -r '.data.stream_info // empty' dlhd_result.json)
+          echo "destination_url=${DEST_URL}" >> $GITHUB_OUTPUT
+          echo "stream_info=${STREAM_INFO}" >> $GITHUB_OUTPUT
+
+      - name: Upload JSON Result as Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: dlhd-result
+          path: dlhd_result.json
+
+      - name: Print Outputs
+        run: |
+          echo "Destination URL: ${{ steps.run_extractor.outputs.destination_url }}"
+          echo "Stream Info: ${{ steps.run_extractor.outputs.stream_info }}"
