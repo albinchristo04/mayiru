@@ -1,0 +1,155 @@
+name: Extract M3U8 URLs
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:  # Allow manual trigger
+    inputs:
+      urls:
+        description: 'Comma-separated URLs to extract (optional)'
+        required: false
+        type: string
+
+jobs:
+  extract-m3u8:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        pip install aiohttp aiohttp-proxy zstandard
+    
+    - name: Create extractor script
+      run: |
+        cat > run_extractor.py << 'EOF'
+        import asyncio
+        import json
+        import sys
+        from datetime import datetime
+        from pathlib import Path
+        
+        # Import the extractor (assuming the file is in the repo)
+        from sportsonline_extractor import SportsonlineExtractor
+        
+        async def main():
+            # Read URLs from config file or environment
+            config_file = Path('config.json')
+            if config_file.exists():
+                with open(config_file) as f:
+                    config = json.load(f)
+                    urls = config.get('urls', [])
+            else:
+                # Default URLs - replace with your actual URLs
+                urls = [
+                    'https://sportzonline.st/your-stream-1',
+                    'https://sportzonline.st/your-stream-2'
+                ]
+            
+            # Override with manual input if provided
+            manual_urls = sys.argv[1] if len(sys.argv) > 1 else None
+            if manual_urls:
+                urls = [u.strip() for u in manual_urls.split(',')]
+            
+            results = []
+            timestamp = datetime.utcnow().isoformat()
+            
+            extractor = SportsonlineExtractor(
+                request_headers={},
+                proxies=[]  # Add proxies if needed
+            )
+            
+            try:
+                for url in urls:
+                    try:
+                        print(f"Extracting: {url}")
+                        result = await extractor.extract(url)
+                        results.append({
+                            'source_url': url,
+                            'extracted_at': timestamp,
+                            'status': 'success',
+                            'data': result
+                        })
+                        print(f"✓ Success: {result['destination_url']}")
+                    except Exception as e:
+                        results.append({
+                            'source_url': url,
+                            'extracted_at': timestamp,
+                            'status': 'error',
+                            'error': str(e)
+                        })
+                        print(f"✗ Error: {e}")
+            finally:
+                await extractor.close()
+            
+            # Save results
+            output_dir = Path('m3u8_data')
+            output_dir.mkdir(exist_ok=True)
+            
+            # Save timestamped JSON
+            json_file = output_dir / f"extraction_{datetime.utcnow().strftime('%Y%m%d_%H%M%S')}.json"
+            with open(json_file, 'w') as f:
+                json.dump(results, f, indent=2)
+            
+            # Update latest.json
+            latest_file = output_dir / 'latest.json'
+            with open(latest_file, 'w') as f:
+                json.dump(results, f, indent=2)
+            
+            # Create M3U8 playlist file
+            m3u8_file = output_dir / 'streams.m3u8'
+            with open(m3u8_file, 'w') as f:
+                f.write('#EXTM3U\n')
+                for r in results:
+                    if r['status'] == 'success':
+                        f.write(f"#EXTINF:-1,{r['source_url']}\n")
+                        f.write(f"{r['data']['destination_url']}\n")
+            
+            print(f"\n✓ Saved {len(results)} results to {output_dir}")
+            
+            # Keep only last 100 extraction files
+            json_files = sorted(output_dir.glob('extraction_*.json'))
+            if len(json_files) > 100:
+                for old_file in json_files[:-100]:
+                    old_file.unlink()
+        
+        if __name__ == '__main__':
+            asyncio.run(main())
+        EOF
+    
+    - name: Run extraction
+      env:
+        MANUAL_URLS: ${{ github.event.inputs.urls }}
+      run: |
+        python run_extractor.py "$MANUAL_URLS"
+    
+    - name: Commit and push results
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add m3u8_data/
+        
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update M3U8 extractions - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
+        fi
+    
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v4
+      if: always()
+      with:
+        name: m3u8-extractions
+        path: m3u8_data/
+        retention-days: 30
