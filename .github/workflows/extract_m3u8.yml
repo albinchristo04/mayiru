@@ -2,8 +2,8 @@ name: Extract M3U8 URLs
 
 on:
   schedule:
-    # Run every 6 hours
-    - cron: '0 */6 * * *'
+    # Run every 10 minutes to keep URLs fresh
+    - cron: '*/10 * * * *'
   workflow_dispatch:  # Allow manual trigger
     inputs:
       urls:
