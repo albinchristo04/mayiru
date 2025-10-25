@@ -14,12 +14,15 @@ on:
 jobs:
   extract-m3u8:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Grant write permission to push changes
     
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
+        persist-credentials: true
     
     - name: Set up Python
       uses: actions/setup-python@v5
