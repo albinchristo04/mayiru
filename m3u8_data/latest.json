@@ -1,10 +1,10 @@
 [
   {
     "source_url": "https://sportzonline.live/channels/hd/hd6.php",
-    "extracted_at": "2025-10-30T23:45:08.500344",
+    "extracted_at": "2025-10-30T23:55:01.157336",
     "status": "success",
     "data": {
-      "destination_url": "https://ryhmaif.234276133.fit:8443/hls/l57xdb4wvi930cf.m3u8?s=fZL2gFJstlA_G7p1LuLEbg&e=1761889509",
+      "destination_url": "https://qbkunwt.234276133.fit:8443/hls/l57xdb4wvi930cf.m3u8?s=3SfEzRGehmhSExpMKsQQQA&e=1761890102",
       "request_headers": {
         "Referer": "https://staypoor.net/embed/x2qidlx7",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
@@ -14,10 +14,10 @@
   },
   {
     "source_url": "https://sportzonline.live/channels/hd/hd9.php",
-    "extracted_at": "2025-10-30T23:45:08.500344",
+    "extracted_at": "2025-10-30T23:55:01.157336",
     "status": "success",
     "data": {
-      "destination_url": "https://ryhmaif.234276133.fit:8443/hls/mhbq0m7am17nhai.m3u8?s=5nN1cpi2_6pn59tnZpsiMg&e=1761889509",
+      "destination_url": "https://qbkunwt.234276133.fit:8443/hls/mhbq0m7am17nhai.m3u8?s=b991SupzSGjSiwdfJ5hfEw&e=1761890103",
       "request_headers": {
         "Referer": "https://staypoor.net/embed/mhbq0m7am17nhai",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
