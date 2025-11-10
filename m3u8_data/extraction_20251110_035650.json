@@ -1,12 +1,12 @@
 [
   {
     "source_url": "https://sportzonline.live/channels/hd/hd6.php",
-    "extracted_at": "2025-11-08T19:15:32.486490",
+    "extracted_at": "2025-11-10T03:56:48.048144",
     "status": "success",
     "data": {
-      "destination_url": "https://dreoap.6522236688.shop:8443/hls/l57xdb4wvi930cf.m3u8?s=ZEf8xIietb3ph5OYOquIow&e=1762650933",
+      "destination_url": "https://uwqgqq.5606087801.art:8443/hls/l57xdb4wvi930cf.m3u8?s=QgVHV1JZWlJp1ahaPMmRsg&e=1762768609",
       "request_headers": {
-        "Referer": "https://badwagon.net/embed/x2qidlx7",
+        "Referer": "https://dukehorror.net/embed/x2qidlx7",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
       },
       "mediaflow_endpoint": "hls_manifest_proxy"
@@ -14,12 +14,12 @@
   },
   {
     "source_url": "https://sportzonline.live/channels/hd/hd9.php",
-    "extracted_at": "2025-11-08T19:15:32.486490",
+    "extracted_at": "2025-11-10T03:56:48.048144",
     "status": "success",
     "data": {
-      "destination_url": "https://dreoap.6522236688.shop:8443/hls/mhbq0m7am17nhai.m3u8?s=dgsgE9i37Ea6CCMmlRl_5A&e=1762650934",
+      "destination_url": "https://uwqgqq.5606087801.art:8443/hls/mhbq0m7am17nhai.m3u8?s=1WtWrewrk4-Dh4yigbg9Sg&e=1762768610",
       "request_headers": {
-        "Referer": "https://badwagon.net/embed/mhbq0m7am17nhai",
+        "Referer": "https://dukehorror.net/embed/mhbq0m7am17nhai",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
       },
       "mediaflow_endpoint": "hls_manifest_proxy"
