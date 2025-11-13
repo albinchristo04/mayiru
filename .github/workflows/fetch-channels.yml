@@ -1,0 +1,59 @@
+name: Fetch TVTap Channels
+
+on:
+  schedule:
+    # Run daily at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches:
+      - main
+
+jobs:
+  fetch-channels:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pycryptodome
+      
+      - name: Fetch TVTap channels
+        run: |
+          python tvtap_fetcher.py > channels.json 2> fetch.log
+      
+      - name: Display fetch log
+        if: always()
+        run: cat fetch.log
+      
+      - name: Upload channels JSON as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: tvtap-channels-${{ github.run_number }}
+          path: channels.json
+          retention-days: 30
+      
+      - name: Commit and push if changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Check if there are changes
+          if [ -n "$(git status --porcelain channels.json)" ]; then
+            git add channels.json
+            git commit -m "Update TVTap channels - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
