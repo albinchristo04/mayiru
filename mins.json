@@ -183,3 +183,43 @@
 
 
 
+2025-11-13 10:21:24,640 - WARNING - HTTP 401 for https://a1xs.vip/700008
+2025-11-13 10:21:24,640 - INFO - Processing: USA Network PL -> http://fl41.moveonjoy.com/USA_NETWORK/index.m3u8
+2025-11-13 10:21:24,893 - INFO - ✅ Found via redirect: USA Network PL -> http://fl41.moveonjoy.com/USA_NETWORK/index.m3u8
+2025-11-13 10:21:24,894 - INFO - Processing: NBC US PL -> http://fl25.moveonjoy.com/NBC_EAST/index.m3u8
+2025-11-13 10:21:24,895 - INFO - Progress: 217/5444 - ✅ USA Network PL
+2025-11-13 10:21:24,901 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status
+
+
+
+2025-11-13 10:24:44,153 - INFO - Processing: DAZN Football (FAST) -> https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
+2025-11-13 10:24:45,258 - INFO - ✅ Found via redirect: DAZN Football (FAST) -> https://stitcher-ipv4.pluto.tv/v2/stitch/hls/channel/647f07e74cfc2c0008a2e557/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=true&jwt=***
+2025-11-13 10:24:45,258 - INFO - Processing: DAZN 1 DE -> http://fl7.moveonjoy.com/DAZN_1/index.m3u8
+2025-11-13 10:24:45,259 - INFO - Progress: 228/5444 - ✅ DAZN Football (FAST)
+2025-11-13 10:24:45,318 - INFO - ✅ Found via redirect: DAZN 1 DE -> http://fl7.moveonjoy.com/DAZN_1/index.m3u8
+2025-11-13 10:24:45,318 - INFO - Processing: DAZN 2 DE -> http://fl7.moveonjoy.com/DAZN_2/index.m3u8
+2025-11-13 10:24:45,319 - INFO - Progress: 229/5444 - ✅ DAZN 1 DE
+2025-11-13 10:24:45,337 - INFO - ✅ Found via redirect: DAZN 2 DE -> http://fl7.moveonjoy.com/DAZN_2/index.m3u8
+2025-11-13 10:24:45,337 - INFO - Processing: DAZN 3 -> https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=786
+2025-11-13 10:24:45,338 - INFO - Progress: 230/5444 - ✅ DAZN 2 DE
+
+
+2025-11-13 10:39:30,583 - INFO - Processing: Formula 1 Channel -> https://jmp2.uk/stvp-US600011Q2
+
+2025-11-13 10:39:31,332 - INFO - ✅ Found via redirect: Formula 1 Channel -> https://d3g1m5lrv3w26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-thrsk81iky5l8/out/v1/52ba482df1324f2ca366eddda656ff23/HLS_CMAF_DRM/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=US600011Q2
+
+2025-11-13 10:21:26,930 - INFO - Processing: PSN 1 -> https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+2025-11-13 10:21:28,320 - INFO - ✅ Found via redirect: PSN 1 -> https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+2025-11-13 10:21:28,320 - INFO - Processing: PSN 2 -> https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+2025-11-13 10:21:28,321 - INFO - Progress: 218/5444 - ✅ PSN 1
+2025-11-13 10:21:28,614 - INFO - ✅ Found via redirect: PSN 2 -> https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+2025-11-13 10:21:28,614 - INFO - Processing: PSN 4 -> https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+2025-11-13 10:21:28,615 - INFO - Progress: 219/5444 - ✅ PSN 2
+2025-11-13 10:21:28,910 - INFO - ✅ Found via redirect: PSN 4 -> https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+2025-11-13 10:21:28,910 - INFO - Processing: PSN 5 -> https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+2025-11-13 10:21:28,911 - INFO - Progress: 220/5444 - ✅ PSN 4
+2025-11-13 10:21:29,204 - INFO - ✅ Found via redirect: PSN 5 -> https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+2025-11-13 10:21:29,204 - INFO - Processing: Star Sports Select 1 HD -> https://tvsen6.aynaott.com/spsel1/index.m3u8
+2025-11-13 10:21:29,205 - INFO - Progress: 221/5444 - ✅ PSN 5
+2025-11-13 10:21:36,293 - WARNING - ⏱️ Timeout for: A Sports HD PK
+2025-11-13 10:21:36,293 - INFO - Processing: Star Sports Select 2 HD -> https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=783
