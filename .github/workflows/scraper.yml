@@ -1,85 +1,59 @@
-name: M3U8 Scraper
+name: Best scraper Channels
 
 on:
   schedule:
-    # Run every 5 hours (at minute 0 of hours 0, 5, 10, 15, 20)
-    - cron: '0 */5 * * *'
-  workflow_dispatch: # Allow manual triggering
+    # Run daily at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual trigger
   push:
-    branches: [ main ]
+    branches:
+      - main
 
 jobs:
-  scrape-m3u8:
+  fetch-channels:
     runs-on: ubuntu-latest
     
-    permissions:
-      contents: write  # Allow the action to write to the repository
-      
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
       
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.x'
-        
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-        
-    - name: Run M3U8 stream extractor
-      run: |
-        python scraper.py
-      timeout-minutes: 30
-        
-    - name: Check extraction results
-      run: |
-        if [ -f channels.json ]; then
-          echo "✅ channels.json created successfully"
-          echo "📁 File size: $(wc -c < channels.json) bytes"
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+      
+      - name: Fetch M3U8 channels
+        run: |
+          python scraper.py > updatedv3.json 2> fetch.log
+      
+      - name: Display fetch log
+        if: always()
+        run: cat fetch.log
+      
+      - name: Upload channels JSON as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: m3u8-channels-${{ github.run_number }}
+          path: updatedv3.json
+          retention-days: 30
+      
+      - name: Commit and push if changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           
-          # Check if jq is available for JSON parsing
-          if command -v jq &> /dev/null; then
-            echo "📺 Channel count: $(jq '.total_channels' channels.json)"
-            echo "🎯 Extraction method: $(jq -r '.extraction_method' channels.json)"
-            echo "⏰ Last updated: $(jq -r '.last_updated' channels.json)"
-            
-            # Show first 3 channel names as examples
-            echo "🔗 Sample channels:"
-            jq -r '.channels[:3][] | "  - " + .name + " -> " + .url' channels.json
+          # Check if there are changes
+          if [ -n "$(git status --porcelain updatedv3.json)" ]; then
+            git add updatedv3.json
+            git commit -m "Update M3U8 channels (1500 limit) - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+            git push
           else
-            echo "📊 JSON file created (jq not available for detailed stats)"
+            echo "No changes to commit"
           fi
-        else
-          echo "❌ channels.json was not created"
-          echo "🔍 Checking for any output files..."
-          ls -la *.json 2>/dev/null || echo "No JSON files found"
-          exit 1
-        fi
-        
-    - name: Commit and push if changed
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        
-        # Add the JSON file
-        git add channels.json
-        
-        # Check if there are changes to commit
-        if git diff --staged --quiet; then
-          echo "📝 No changes to commit"
-        else
-          echo "🔄 Changes detected, committing..."
-          git commit -m "🎬 Update channels.json with M3U8 streams - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-          git push
-          echo "✅ Successfully pushed updated channels.json"
-        fi
-
-    - name: Upload JSON as artifact
-      uses: actions/upload-artifact@v4
-      with:
-        name: channels-json
-        path: channels.json
-        retention-days: 30
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
