@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-14T09:32:15.175813Z",
+    "source": "api",
+    "type": "sports_only",
+    "total_channels": 3,
+    "countries_count": 1,
+    "countries": [
+      "ES"
+    ],
+    "streams_resolved": true,
+    "channels_with_streams": 3,
+    "stream_success_rate": "100.0%"
+  },
+  "channels_by_country": {
+    "ES": [
+      {
+        "id": "354",
+        "name": "Bein Sports",
+        "country": "ES",
+        "thumbnail": "images/channel_imgs/231216034647beinsp.jpeg",
+        "stream_url": "http://stream.mardio.link:8081/live/es-bein.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjEzIEFNJmhhc2hfdmFsdWU9d3ltcnNUKzFNNE4rMDhlclBpQU1EQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzMzNjU0"
+      },
+      {
+        "id": "359",
+        "name": "Dazn F1",
+        "country": "ES",
+        "thumbnail": "images/channel_imgs/131022041033dazn-f1.png",
+        "stream_url": "http://stream.mardio.link:8081/live/es-daznf1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE0IEFNJmhhc2hfdmFsdWU9RHY3cFBKUnI3UzV5N0xvWmVZeHQ1UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM0Mzg5"
+      },
+      {
+        "id": "741",
+        "name": "Euro Sport",
+        "country": "ES",
+        "thumbnail": "images/channel_imgs/250518014244eurrrr.png",
+        "stream_url": "http://stream.mardio.link:8081/live/es-eurosport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE1IEFNJmhhc2hfdmFsdWU9a21FYm1TSHQxTDRLWmhNWVQ5K0dFQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM1MTE4"
+      }
+    ]
+  },
+  "channels_flat": [
+    {
+      "id": "354",
+      "name": "Bein Sports",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/231216034647beinsp.jpeg",
+      "stream_url": "http://stream.mardio.link:8081/live/es-bein.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjEzIEFNJmhhc2hfdmFsdWU9d3ltcnNUKzFNNE4rMDhlclBpQU1EQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzMzNjU0"
+    },
+    {
+      "id": "359",
+      "name": "Dazn F1",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/131022041033dazn-f1.png",
+      "stream_url": "http://stream.mardio.link:8081/live/es-daznf1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE0IEFNJmhhc2hfdmFsdWU9RHY3cFBKUnI3UzV5N0xvWmVZeHQ1UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM0Mzg5"
+    },
+    {
+      "id": "741",
+      "name": "Euro Sport",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/250518014244eurrrr.png",
+      "stream_url": "http://stream.mardio.link:8081/live/es-eurosport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE1IEFNJmhhc2hfdmFsdWU9a21FYm1TSHQxTDRLWmhNWVQ5K0dFQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM1MTE4"
+    }
+  ]
+}
