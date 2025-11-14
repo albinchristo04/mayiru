@@ -6,6 +6,7 @@ This script efficiently extracts M3U8 URLs by:
 2. Parsing webpage content quickly
 3. Using multiple detection methods
 4. Handling timeouts and errors gracefully
+5. Limited to processing first 1500 channels
 """
 
 import requests
@@ -29,9 +30,10 @@ logging.basicConfig(
 )
 
 class FastM3U8Extractor:
-    def __init__(self, max_workers=5, timeout=15):
+    def __init__(self, max_workers=5, timeout=15, max_channels=1500):
         self.max_workers = max_workers
         self.timeout = timeout
+        self.max_channels = max_channels
         self.lock = threading.Lock()
         self.processed_count = 0
         
@@ -98,6 +100,12 @@ class FastM3U8Extractor:
                 i += 1
         
         logging.info(f"Found {len(channels)} channels in M3U")
+        
+        # Limit to max_channels
+        if len(channels) > self.max_channels:
+            logging.info(f"⚠️ Limiting processing to first {self.max_channels} channels")
+            channels = channels[:self.max_channels]
+        
         return channels
 
     def extract_channel_info(self, extinf_line):
@@ -342,12 +350,13 @@ class FastM3U8Extractor:
         
         return successful_channels
 
-    def save_to_json(self, channels, filename='channels.json'):
+    def save_to_json(self, channels, filename='updatedv3.json'):
         """Save channels to JSON file"""
         data = {
             'last_updated': datetime.utcnow().isoformat() + 'Z',
             'total_channels': len(channels),
             'extraction_method': 'fast_parallel_extractor',
+            'max_channels_limit': self.max_channels,
             'channels': channels
         }
         
@@ -361,10 +370,10 @@ class FastM3U8Extractor:
             return False
 
 def main():
-    logging.info("🚀 Starting Fast M3U8 Extractor...")
+    logging.info("🚀 Starting Fast M3U8 Extractor (Limited to 1500 channels)...")
     
-    # Initialize extractor
-    extractor = FastM3U8Extractor(max_workers=8, timeout=15)
+    # Initialize extractor with 1500 channel limit
+    extractor = FastM3U8Extractor(max_workers=8, timeout=15, max_channels=1500)
     
     # M3U URL
     m3u_url = "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/hilaytv.m3u"
@@ -403,7 +412,7 @@ def main():
         logging.info("🎉 EXTRACTION COMPLETE!")
         logging.info(f"📊 SUMMARY:")
         logging.info(f"   ⏱️  Processing time: {processing_time:.1f} seconds")
-        logging.info(f"   📺 Total channels: {len(channels)}")
+        logging.info(f"   📺 Total channels processed: {len(channels)}")
         logging.info(f"   ✅ Successful: {len(successful_channels)}")
         logging.info(f"   ❌ Failed: {len(channels) - len(successful_channels)}")
         logging.info(f"   📈 Success rate: {success_rate:.1f}%")
