@@ -1,460 +1,1672 @@
 {
   "metadata": {
-    "timestamp": "2025-11-14T09:30:49.290626Z",
+    "timestamp": "2025-11-14T09:31:38.394255Z",
     "source": "api",
-    "total_channels": 75,
-    "country": "IT"
+    "type": "sports_only",
+    "total_channels": 116,
+    "countries_count": 10,
+    "countries": [
+      "AR",
+      "CA",
+      "DE",
+      "ES",
+      "FR",
+      "IT",
+      "OTH",
+      "PT",
+      "UK",
+      "US"
+    ],
+    "streams_resolved": false,
+    "channels_with_streams": null,
+    "stream_success_rate": null
   },
-  "channels": [
+  "channels_by_country": {
+    "ES": [
+      {
+        "id": "354",
+        "name": "Bein Sports",
+        "country": "ES",
+        "thumbnail": "images/channel_imgs/231216034647beinsp.jpeg",
+        "stream_url": null
+      },
+      {
+        "id": "359",
+        "name": "Dazn F1",
+        "country": "ES",
+        "thumbnail": "images/channel_imgs/131022041033dazn-f1.png",
+        "stream_url": null
+      },
+      {
+        "id": "741",
+        "name": "Euro Sport",
+        "country": "ES",
+        "thumbnail": "images/channel_imgs/250518014244eurrrr.png",
+        "stream_url": null
+      }
+    ],
+    "US": [
+      {
+        "id": "415",
+        "name": "Bein Sports",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/041017012448beinus.jpg",
+        "stream_url": null
+      },
+      {
+        "id": "416",
+        "name": "CBS Sports Network",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/041017012728cbss.jpg",
+        "stream_url": null
+      },
+      {
+        "id": "101",
+        "name": "ESPN",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/160116015231espn.png",
+        "stream_url": null
+      },
+      {
+        "id": "104",
+        "name": "ESPN 2",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/190116044202espn2.png",
+        "stream_url": null
+      },
+      {
+        "id": "106",
+        "name": "ESPN News",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/190116044259espnnew.gif",
+        "stream_url": null
+      },
+      {
+        "id": "414",
+        "name": "ESPN U",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/041017012253espnu.png",
+        "stream_url": null
+      },
+      {
+        "id": "120",
+        "name": "Fox Sports 1",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/190116045235foxsp1.jpg",
+        "stream_url": null
+      },
+      {
+        "id": "121",
+        "name": "Fox Sports 2",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/190116045256fox2.jpg",
+        "stream_url": null
+      },
+      {
+        "id": "125",
+        "name": "Golf Channel",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/190116045453golf.png",
+        "stream_url": null
+      },
+      {
+        "id": "148",
+        "name": "MLB Network",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/200116013246mlb.png",
+        "stream_url": null
+      },
+      {
+        "id": "159",
+        "name": "NBA TV",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/200116020842nba.png",
+        "stream_url": null
+      },
+      {
+        "id": "164",
+        "name": "NFL Network",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/200116021039nfl.jpg",
+        "stream_url": null
+      },
+      {
+        "id": "494",
+        "name": "NHL network",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/201217100935nhll.png",
+        "stream_url": null
+      },
+      {
+        "id": "306",
+        "name": "Tennis",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/211216095835tennis.png",
+        "stream_url": null
+      }
+    ],
+    "AR": [
+      {
+        "id": "48",
+        "name": "Bein Sports 1",
+        "country": "AR",
+        "thumbnail": "images/channel_imgs/250118041629beinsp1.png",
+        "stream_url": null
+      },
+      {
+        "id": "270",
+        "name": "Bein Sports 2",
+        "country": "AR",
+        "thumbnail": "images/channel_imgs/250118041650bein2.jpg",
+        "stream_url": null
+      },
+      {
+        "id": "271",
+        "name": "Bein Sports 3",
+        "country": "AR",
+        "thumbnail": "images/channel_imgs/130216035348bein3.jpg",
+        "stream_url": null
+      },
+      {
+        "id": "272",
+        "name": "Bein Sports 4",
+        "country": "AR",
+        "thumbnail": "images/channel_imgs/130216035427bein4.jpg",
+        "stream_url": null
+      },
+      {
+        "id": "273",
+        "name": "Bein Sports 5",
+        "country": "AR",
+        "thumbnail": "images/channel_imgs/130216035528bein5.jpg",
+        "stream_url": null
+      },
+      {
+        "id": "274",
+        "name": "Bein Sports 6",
+        "country": "AR",
+        "thumbnail": "images/channel_imgs/130216035739bein6.jpg",
+        "stream_url": null
+      },
+      {
+        "id": "275",
+        "name": "Bein Sports 7",
+        "country": "AR",
+        "thumbnail": "images/channel_imgs/130216035811bein7.jpg",
+        "stream_url": null
+      },
+      {
+        "id": "740",
+        "name": "Bein Sports News",
+        "country": "AR",
+        "thumbnail": "images/channel_imgs/250518014141bein.png",
+        "stream_url": null
+      }
+    ],
+    "FR": [
+      {
+        "id": "49",
+        "name": "Bein Sports 1",
+        "country": "FR",
+        "thumbnail": "images/channel_imgs/160116114930bein1f.png",
+        "stream_url": null
+      },
+      {
+        "id": "51",
+        "name": "Bein Sports 2",
+        "country": "FR",
+        "thumbnail": "images/channel_imgs/160116115022bein2fr.png",
+        "stream_url": null
+      },
+      {
+        "id": "52",
+        "name": "Bein Sports 3",
+        "country": "FR",
+        "thumbnail": "images/channel_imgs/160116115109bein3fr.png",
+        "stream_url": null
+      },
+      {
+        "id": "451",
+        "name": "Bein Sports Max 4",
+        "country": "FR",
+        "thumbnail": "images/channel_imgs/201217090105bein4.png",
+        "stream_url": null
+      },
+      {
+        "id": "452",
+        "name": "Bein Sports Max 5",
+        "country": "FR",
+        "thumbnail": "images/channel_imgs/201217090208bein5.png",
+        "stream_url": null
+      },
+      {
+        "id": "453",
+        "name": "Bein Sports Max 6",
+        "country": "FR",
+        "thumbnail": "images/channel_imgs/201217090246bein6.png",
+        "stream_url": null
+      },
+      {
+        "id": "454",
+        "name": "Bein Sports Max 7",
+        "country": "FR",
+        "thumbnail": "images/channel_imgs/201217090332bein7.png",
+        "stream_url": null
+      },
+      {
+        "id": "316",
+        "name": "Canal+ Sport",
+        "country": "FR",
+        "thumbnail": "images/channel_imgs/221216034815canalplus sport.gif",
+        "stream_url": null
+      },
+      {
+        "id": "504",
+        "name": "TF1",
+        "country": "FR",
+        "thumbnail": "images/channel_imgs/201217102056tf1.jpeg",
+        "stream_url": null
+      }
+    ],
+    "OTH": [
+      {
+        "id": "631",
+        "name": "Bein Sports 1",
+        "country": "OTH",
+        "thumbnail": "images/channel_imgs/250118034414beinsp1.png",
+        "stream_url": null
+      },
+      {
+        "id": "632",
+        "name": "Bein Sports 2",
+        "country": "OTH",
+        "thumbnail": "images/channel_imgs/250118034444bein2.jpg",
+        "stream_url": null
+      },
+      {
+        "id": "633",
+        "name": "Bein Sports 3",
+        "country": "OTH",
+        "thumbnail": "images/channel_imgs/250118034734bein3.jpeg",
+        "stream_url": null
+      },
+      {
+        "id": "174",
+        "name": "PTV Sports",
+        "country": "OTH",
+        "thumbnail": "images/channel_imgs/200116034954ptvs.PNG",
+        "stream_url": null
+      }
+    ],
+    "UK": [
+      {
+        "id": "59",
+        "name": "BT Sport 1",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/160116115523bt1.jpg",
+        "stream_url": null
+      },
+      {
+        "id": "60",
+        "name": "BT Sport 2",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/160116115549bt2.jpg",
+        "stream_url": null
+      },
+      {
+        "id": "298",
+        "name": "BT Sport 3",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/270916013607bt3.png",
+        "stream_url": null
+      },
+      {
+        "id": "821",
+        "name": "BT Sport box office",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/101219032704box.jpg",
+        "stream_url": null
+      },
+      {
+        "id": "108",
+        "name": "Euro Sport",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/190116044352euro.png",
+        "stream_url": null
+      },
+      {
+        "id": "109",
+        "name": "Euro Sport 2",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/190116044416euro2.jpg",
+        "stream_url": null
+      },
+      {
+        "id": "178",
+        "name": "Racing UK",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/200116035209racing.png",
+        "stream_url": null
+      },
+      {
+        "id": "411",
+        "name": "Sky Sports Arena",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/270717102912arena1.jpeg",
+        "stream_url": null
+      },
+      {
+        "id": "205",
+        "name": "Sky Sports Cricket",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/200717080620skycric.jpeg",
+        "stream_url": null
+      },
+      {
+        "id": "209",
+        "name": "Sky Sports F1",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/200717081443f12.jpeg",
+        "stream_url": null
+      },
+      {
+        "id": "410",
+        "name": "Sky Sports Football",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/270717102848foot1.jpeg",
+        "stream_url": null
+      },
+      {
+        "id": "207",
+        "name": "Sky Sports Golf",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/041122093920Sky_Sports_Golf.png",
+        "stream_url": null
+      },
+      {
+        "id": "204",
+        "name": "Sky Sports Main Event",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/200717080757main1.jpeg",
+        "stream_url": null
+      },
+      {
+        "id": "308",
+        "name": "Sky Sports Mix",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/200717081554mix2.jpeg",
+        "stream_url": null
+      },
+      {
+        "id": "206",
+        "name": "Sky Sports NFL",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/020321091841nflll.png",
+        "stream_url": null
+      },
+      {
+        "id": "210",
+        "name": "Sky Sports News",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/200717081653news1.jpeg",
+        "stream_url": null
+      },
+      {
+        "id": "208",
+        "name": "Sky Sports Premier League",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/200717081219pl2.jpeg",
+        "stream_url": null
+      },
+      {
+        "id": "41",
+        "name": "Sky Sports Racing",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/101022031600skr.png",
+        "stream_url": null
+      },
+      {
+        "id": "785",
+        "name": "UFC Fight Pass",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/310818013311ufff.jpeg",
+        "stream_url": null
+      },
+      {
+        "id": "170",
+        "name": "Viaplay Sports 1",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/041122093027Viaplay_Sports_1.png",
+        "stream_url": null
+      },
+      {
+        "id": "782",
+        "name": "Viaplay Sports 2",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/041122093121Viaplay_Sports_2.png",
+        "stream_url": null
+      }
+    ],
+    "DE": [
+      {
+        "id": "777",
+        "name": "Dazn 1",
+        "country": "DE",
+        "thumbnail": "images/channel_imgs/210818121951dazn.png",
+        "stream_url": null
+      },
+      {
+        "id": "778",
+        "name": "Dazn 2",
+        "country": "DE",
+        "thumbnail": "images/channel_imgs/210818122006dazn.png",
+        "stream_url": null
+      },
+      {
+        "id": "385",
+        "name": "Euro Sport",
+        "country": "DE",
+        "thumbnail": "images/channel_imgs/150617081436eurosport.png",
+        "stream_url": null
+      },
+      {
+        "id": "401",
+        "name": "Sky Bundesliga 1",
+        "country": "DE",
+        "thumbnail": "images/channel_imgs/12121701510510.png",
+        "stream_url": null
+      },
+      {
+        "id": "431",
+        "name": "Sky Bundesliga 2",
+        "country": "DE",
+        "thumbnail": "images/channel_imgs/12121701532322.png",
+        "stream_url": null
+      },
+      {
+        "id": "432",
+        "name": "Sky Bundesliga 3",
+        "country": "DE",
+        "thumbnail": "images/channel_imgs/12121701522033.png",
+        "stream_url": null
+      },
+      {
+        "id": "433",
+        "name": "Sky Bundesliga 4",
+        "country": "DE",
+        "thumbnail": "images/channel_imgs/12121701545144.png",
+        "stream_url": null
+      },
+      {
+        "id": "434",
+        "name": "Sky Bundesliga 5",
+        "country": "DE",
+        "thumbnail": "images/channel_imgs/12121701564455.png",
+        "stream_url": null
+      },
+      {
+        "id": "435",
+        "name": "Sky Bundesliga 6",
+        "country": "DE",
+        "thumbnail": "images/channel_imgs/12121701573666.png",
+        "stream_url": null
+      },
+      {
+        "id": "436",
+        "name": "Sky Bundesliga 7",
+        "country": "DE",
+        "thumbnail": "images/channel_imgs/12121701583177.png",
+        "stream_url": null
+      },
+      {
+        "id": "437",
+        "name": "Sky Bundesliga 8",
+        "country": "DE",
+        "thumbnail": "images/channel_imgs/12121701592288.png",
+        "stream_url": null
+      },
+      {
+        "id": "403",
+        "name": "Sky Sport 1 DE",
+        "country": "DE",
+        "thumbnail": "images/channel_imgs/150617075308skysporrrr.png",
+        "stream_url": null
+      },
+      {
+        "id": "404",
+        "name": "Sky Sport 2 DE",
+        "country": "DE",
+        "thumbnail": "images/channel_imgs/150617075204skysport22.jpeg",
+        "stream_url": null
+      },
+      {
+        "id": "405",
+        "name": "Sport 1",
+        "country": "DE",
+        "thumbnail": "images/channel_imgs/150617075053sport1.png",
+        "stream_url": null
+      }
+    ],
+    "IT": [
+      {
+        "id": "830",
+        "name": "Dazn 1",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/161019085616dazn.png",
+        "stream_url": null
+      },
+      {
+        "id": "819",
+        "name": "Dazn 10",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/031118035735dazn.png",
+        "stream_url": null
+      },
+      {
+        "id": "820",
+        "name": "Dazn 11",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/031118035743dazn.png",
+        "stream_url": null
+      },
+      {
+        "id": "768",
+        "name": "Dazn 2",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/100818031954dazn.png",
+        "stream_url": null
+      },
+      {
+        "id": "769",
+        "name": "Dazn 3",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/100818032007dazn.png",
+        "stream_url": null
+      },
+      {
+        "id": "770",
+        "name": "Dazn 4",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/100818032020dazn.png",
+        "stream_url": null
+      },
+      {
+        "id": "771",
+        "name": "Dazn 5",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/100818032033dazn.png",
+        "stream_url": null
+      },
+      {
+        "id": "815",
+        "name": "Dazn 6",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/031118035634dazn.png",
+        "stream_url": null
+      },
+      {
+        "id": "816",
+        "name": "Dazn 7",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/031118035755dazn.png",
+        "stream_url": null
+      },
+      {
+        "id": "817",
+        "name": "Dazn 8",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/031118035807dazn.png",
+        "stream_url": null
+      },
+      {
+        "id": "818",
+        "name": "Dazn 9",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/031118035815dazn.png",
+        "stream_url": null
+      },
+      {
+        "id": "711",
+        "name": "Euro Sport",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/140518053159eur.png",
+        "stream_url": null
+      },
+      {
+        "id": "712",
+        "name": "Euro Sport 2",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/140518053309euro2.png",
+        "stream_url": null
+      },
+      {
+        "id": "582",
+        "name": "Sky Calcio 1",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223031412cal1.png",
+        "stream_url": null
+      },
+      {
+        "id": "583",
+        "name": "Sky Calcio 2",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223031528cal2.png",
+        "stream_url": null
+      },
+      {
+        "id": "706",
+        "name": "Sky Calcio 3",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223031538cal3.png",
+        "stream_url": null
+      },
+      {
+        "id": "707",
+        "name": "Sky Calcio 4",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223031552cal4.png",
+        "stream_url": null
+      },
+      {
+        "id": "708",
+        "name": "Sky Calcio 5",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223031609cal5.png",
+        "stream_url": null
+      },
+      {
+        "id": "709",
+        "name": "Sky Calcio 6",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223031621cal6.png",
+        "stream_url": null
+      },
+      {
+        "id": "876",
+        "name": "Sky Calcio 7",
+        "country": "IT",
+        "thumbnail": "/images/channel_imgs/200223032135cal7.png",
+        "stream_url": null
+      },
+      {
+        "id": "877",
+        "name": "Sky Calcio 8",
+        "country": "IT",
+        "thumbnail": "/images/channel_imgs/200223032149cal8.png",
+        "stream_url": null
+      },
+      {
+        "id": "878",
+        "name": "Sky Calcio 9",
+        "country": "IT",
+        "thumbnail": "/images/channel_imgs/200223032202cal9.png",
+        "stream_url": null
+      },
+      {
+        "id": "629",
+        "name": "Sky Sport 24",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223035132Sky_Sport_24_-_Logo_2020.svg.png",
+        "stream_url": null
+      },
+      {
+        "id": "579",
+        "name": "Sky Sport Arena",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/190718073708arenaa.jpeg",
+        "stream_url": null
+      },
+      {
+        "id": "705",
+        "name": "Sky Sport Calcio",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/190223125815Sky_Sport_Calcio.png",
+        "stream_url": null
+      },
+      {
+        "id": "581",
+        "name": "Sky Sport F1",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223034533Sky_Sport_F1_2020.png",
+        "stream_url": null
+      },
+      {
+        "id": "580",
+        "name": "Sky Sport Football",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/190718075156foot.jpeg",
+        "stream_url": null
+      },
+      {
+        "id": "668",
+        "name": "Sky Sport Motogp",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223035257Sky_Sport_MotoGP_2020.png",
+        "stream_url": null
+      },
+      {
+        "id": "704",
+        "name": "Sky Sport NBA",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/130818011304nba.png",
+        "stream_url": null
+      },
+      {
+        "id": "578",
+        "name": "Sky Sport Uno",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/190718073552uno.png",
+        "stream_url": null
+      }
+    ],
+    "PT": [
+      {
+        "id": "505",
+        "name": "Sport tv 1",
+        "country": "PT",
+        "thumbnail": "images/channel_imgs/201217102635sp111.png",
+        "stream_url": null
+      },
+      {
+        "id": "506",
+        "name": "Sport tv 2",
+        "country": "PT",
+        "thumbnail": "images/channel_imgs/201217102542sp2.png",
+        "stream_url": null
+      },
+      {
+        "id": "507",
+        "name": "Sport tv 3",
+        "country": "PT",
+        "thumbnail": "images/channel_imgs/201217102612sp3.png",
+        "stream_url": null
+      },
+      {
+        "id": "508",
+        "name": "Sport tv 4",
+        "country": "PT",
+        "thumbnail": "images/channel_imgs/201217102708sp4.png",
+        "stream_url": null
+      },
+      {
+        "id": "509",
+        "name": "Sport tv 5",
+        "country": "PT",
+        "thumbnail": "images/channel_imgs/080118035520spopp.png",
+        "stream_url": null
+      }
+    ],
+    "CA": [
+      {
+        "id": "417",
+        "name": "Sportsnet One",
+        "country": "CA",
+        "thumbnail": "images/channel_imgs/041017012929sn1.jpg",
+        "stream_url": null
+      },
+      {
+        "id": "214",
+        "name": "Sportsnet Ontario",
+        "country": "CA",
+        "thumbnail": "images/channel_imgs/200116042105ont.png",
+        "stream_url": null
+      },
+      {
+        "id": "215",
+        "name": "Sportsnet World",
+        "country": "CA",
+        "thumbnail": "images/channel_imgs/200116042130worl.jpg",
+        "stream_url": null
+      },
+      {
+        "id": "233",
+        "name": "TSN 1",
+        "country": "CA",
+        "thumbnail": "images/channel_imgs/200116043251tsn1.jpg",
+        "stream_url": null
+      },
+      {
+        "id": "234",
+        "name": "TSN 2",
+        "country": "CA",
+        "thumbnail": "images/channel_imgs/200116043314ts2.png",
+        "stream_url": null
+      },
+      {
+        "id": "235",
+        "name": "TSN 3",
+        "country": "CA",
+        "thumbnail": "images/channel_imgs/200116043351ts3.png",
+        "stream_url": null
+      },
+      {
+        "id": "412",
+        "name": "TSN 4",
+        "country": "CA",
+        "thumbnail": "images/channel_imgs/090917013550tsn4.png",
+        "stream_url": null
+      },
+      {
+        "id": "413",
+        "name": "TSN 5",
+        "country": "CA",
+        "thumbnail": "images/channel_imgs/090917013648tsn5.png",
+        "stream_url": null
+      }
+    ]
+  },
+  "channels_flat": [
     {
-      "id": "813",
-      "name": "Baby TV",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/111018013256baby.jpg"
+      "id": "354",
+      "name": "Bein Sports",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/231216034647beinsp.jpeg",
+      "stream_url": null
     },
     {
-      "id": "812",
-      "name": "Boomerang",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/111018013155boome.gif"
+      "id": "415",
+      "name": "Bein Sports",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/041017012448beinus.jpg",
+      "stream_url": null
     },
     {
-      "id": "438",
-      "name": "Canale 5",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/13121701250455.gif"
+      "id": "48",
+      "name": "Bein Sports 1",
+      "country": "AR",
+      "thumbnail": "images/channel_imgs/250118041629beinsp1.png",
+      "stream_url": null
     },
     {
-      "id": "439",
-      "name": "Cartoon Network",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/131217012619cnn.png"
+      "id": "49",
+      "name": "Bein Sports 1",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/160116114930bein1f.png",
+      "stream_url": null
     },
     {
-      "id": "810",
-      "name": "Classica",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/111018012907classica.png"
+      "id": "631",
+      "name": "Bein Sports 1",
+      "country": "OTH",
+      "thumbnail": "images/channel_imgs/250118034414beinsp1.png",
+      "stream_url": null
     },
     {
-      "id": "776",
-      "name": "Comedy Central-",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/130818012353comedy.png"
+      "id": "270",
+      "name": "Bein Sports 2",
+      "country": "AR",
+      "thumbnail": "images/channel_imgs/250118041650bein2.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "51",
+      "name": "Bein Sports 2",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/160116115022bein2fr.png",
+      "stream_url": null
+    },
+    {
+      "id": "632",
+      "name": "Bein Sports 2",
+      "country": "OTH",
+      "thumbnail": "images/channel_imgs/250118034444bein2.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "271",
+      "name": "Bein Sports 3",
+      "country": "AR",
+      "thumbnail": "images/channel_imgs/130216035348bein3.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "52",
+      "name": "Bein Sports 3",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/160116115109bein3fr.png",
+      "stream_url": null
+    },
+    {
+      "id": "633",
+      "name": "Bein Sports 3",
+      "country": "OTH",
+      "thumbnail": "images/channel_imgs/250118034734bein3.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "272",
+      "name": "Bein Sports 4",
+      "country": "AR",
+      "thumbnail": "images/channel_imgs/130216035427bein4.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "273",
+      "name": "Bein Sports 5",
+      "country": "AR",
+      "thumbnail": "images/channel_imgs/130216035528bein5.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "274",
+      "name": "Bein Sports 6",
+      "country": "AR",
+      "thumbnail": "images/channel_imgs/130216035739bein6.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "275",
+      "name": "Bein Sports 7",
+      "country": "AR",
+      "thumbnail": "images/channel_imgs/130216035811bein7.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "451",
+      "name": "Bein Sports Max 4",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/201217090105bein4.png",
+      "stream_url": null
+    },
+    {
+      "id": "452",
+      "name": "Bein Sports Max 5",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/201217090208bein5.png",
+      "stream_url": null
+    },
+    {
+      "id": "453",
+      "name": "Bein Sports Max 6",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/201217090246bein6.png",
+      "stream_url": null
+    },
+    {
+      "id": "454",
+      "name": "Bein Sports Max 7",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/201217090332bein7.png",
+      "stream_url": null
+    },
+    {
+      "id": "740",
+      "name": "Bein Sports News",
+      "country": "AR",
+      "thumbnail": "images/channel_imgs/250518014141bein.png",
+      "stream_url": null
+    },
+    {
+      "id": "59",
+      "name": "BT Sport 1",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116115523bt1.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "60",
+      "name": "BT Sport 2",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116115549bt2.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "298",
+      "name": "BT Sport 3",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/270916013607bt3.png",
+      "stream_url": null
+    },
+    {
+      "id": "821",
+      "name": "BT Sport box office",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/101219032704box.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "316",
+      "name": "Canal+ Sport",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/221216034815canalplus sport.gif",
+      "stream_url": null
+    },
+    {
+      "id": "416",
+      "name": "CBS Sports Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/041017012728cbss.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "777",
+      "name": "Dazn 1",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/210818121951dazn.png",
+      "stream_url": null
     },
     {
       "id": "830",
       "name": "Dazn 1",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/161019085616dazn.png"
+      "thumbnail": "images/channel_imgs/161019085616dazn.png",
+      "stream_url": null
     },
     {
       "id": "819",
       "name": "Dazn 10",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/031118035735dazn.png"
+      "thumbnail": "images/channel_imgs/031118035735dazn.png",
+      "stream_url": null
     },
     {
       "id": "820",
       "name": "Dazn 11",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/031118035743dazn.png"
+      "thumbnail": "images/channel_imgs/031118035743dazn.png",
+      "stream_url": null
     },
     {
       "id": "768",
       "name": "Dazn 2",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/100818031954dazn.png"
+      "thumbnail": "images/channel_imgs/100818031954dazn.png",
+      "stream_url": null
+    },
+    {
+      "id": "778",
+      "name": "Dazn 2",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/210818122006dazn.png",
+      "stream_url": null
     },
     {
       "id": "769",
       "name": "Dazn 3",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/100818032007dazn.png"
+      "thumbnail": "images/channel_imgs/100818032007dazn.png",
+      "stream_url": null
     },
     {
       "id": "770",
       "name": "Dazn 4",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/100818032020dazn.png"
+      "thumbnail": "images/channel_imgs/100818032020dazn.png",
+      "stream_url": null
     },
     {
       "id": "771",
       "name": "Dazn 5",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/100818032033dazn.png"
+      "thumbnail": "images/channel_imgs/100818032033dazn.png",
+      "stream_url": null
     },
     {
       "id": "815",
       "name": "Dazn 6",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/031118035634dazn.png"
+      "thumbnail": "images/channel_imgs/031118035634dazn.png",
+      "stream_url": null
     },
     {
       "id": "816",
       "name": "Dazn 7",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/031118035755dazn.png"
+      "thumbnail": "images/channel_imgs/031118035755dazn.png",
+      "stream_url": null
     },
     {
       "id": "817",
       "name": "Dazn 8",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/031118035807dazn.png"
+      "thumbnail": "images/channel_imgs/031118035807dazn.png",
+      "stream_url": null
     },
     {
       "id": "818",
       "name": "Dazn 9",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/031118035815dazn.png"
+      "thumbnail": "images/channel_imgs/031118035815dazn.png",
+      "stream_url": null
     },
     {
-      "id": "811",
-      "name": "Dea Kids",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/121118053223db.php"
+      "id": "359",
+      "name": "Dazn F1",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/131022041033dazn-f1.png",
+      "stream_url": null
     },
     {
-      "id": "700",
-      "name": "Discovery",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/020518010950dis.jpg"
+      "id": "101",
+      "name": "ESPN",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/160116015231espn.png",
+      "stream_url": null
     },
     {
-      "id": "731",
-      "name": "Discovery Real Time",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/220518013354realll.png"
+      "id": "104",
+      "name": "ESPN 2",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116044202espn2.png",
+      "stream_url": null
     },
     {
-      "id": "737",
-      "name": "Discovery Science",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/220518014439sci.png"
+      "id": "106",
+      "name": "ESPN News",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116044259espnnew.gif",
+      "stream_url": null
     },
     {
-      "id": "713",
-      "name": "Discovery Travel & Living",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/140518053444diss.jpeg"
+      "id": "414",
+      "name": "ESPN U",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/041017012253espnu.png",
+      "stream_url": null
     },
     {
-      "id": "732",
-      "name": "Dmax",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/220518013431dmax.jpg"
+      "id": "108",
+      "name": "Euro Sport",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/190116044352euro.png",
+      "stream_url": null
+    },
+    {
+      "id": "385",
+      "name": "Euro Sport",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/150617081436eurosport.png",
+      "stream_url": null
     },
     {
       "id": "711",
       "name": "Euro Sport",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/140518053159eur.png"
+      "thumbnail": "images/channel_imgs/140518053159eur.png",
+      "stream_url": null
+    },
+    {
+      "id": "741",
+      "name": "Euro Sport",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/250518014244eurrrr.png",
+      "stream_url": null
+    },
+    {
+      "id": "109",
+      "name": "Euro Sport 2",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/190116044416euro2.jpg",
+      "stream_url": null
     },
     {
       "id": "712",
       "name": "Euro Sport 2",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/140518053309euro2.png"
+      "thumbnail": "images/channel_imgs/140518053309euro2.png",
+      "stream_url": null
     },
     {
-      "id": "442",
-      "name": "History",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/131217013205his.jpg"
+      "id": "120",
+      "name": "Fox Sports 1",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116045235foxsp1.jpg",
+      "stream_url": null
     },
     {
-      "id": "739",
-      "name": "Inter Tv",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/250518014057inter.jpg"
+      "id": "121",
+      "name": "Fox Sports 2",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116045256fox2.jpg",
+      "stream_url": null
     },
     {
-      "id": "443",
-      "name": "Italia 1",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/131217013326it1.png"
+      "id": "125",
+      "name": "Golf Channel",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116045453golf.png",
+      "stream_url": null
     },
     {
-      "id": "466",
-      "name": "La 7",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/201217092735la7.png"
+      "id": "148",
+      "name": "MLB Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116013246mlb.png",
+      "stream_url": null
     },
     {
-      "id": "794",
-      "name": "Lazio Style",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/150918123638lazo.png"
+      "id": "159",
+      "name": "NBA TV",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116020842nba.png",
+      "stream_url": null
     },
     {
-      "id": "797",
-      "name": "MediaSet Focus",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/250918041549Focus_New.png"
+      "id": "164",
+      "name": "NFL Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116021039nfl.jpg",
+      "stream_url": null
     },
     {
-      "id": "718",
-      "name": "Mediaset 2",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/140518054804mediaset.jpg"
+      "id": "494",
+      "name": "NHL network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217100935nhll.png",
+      "stream_url": null
     },
     {
-      "id": "749",
-      "name": "Mediaset Extra",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/140618010621extr.jpeg"
+      "id": "174",
+      "name": "PTV Sports",
+      "country": "OTH",
+      "thumbnail": "images/channel_imgs/200116034954ptvs.PNG",
+      "stream_url": null
     },
     {
-      "id": "729",
-      "name": "Milan tv",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/220518013021milan.png"
+      "id": "178",
+      "name": "Racing UK",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200116035209racing.png",
+      "stream_url": null
     },
     {
-      "id": "791",
-      "name": "Nicklodean",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/310818124938nicku.png"
+      "id": "401",
+      "name": "Sky Bundesliga 1",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/12121701510510.png",
+      "stream_url": null
     },
     {
-      "id": "801",
-      "name": "Nove",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/250918041937nove.png"
+      "id": "431",
+      "name": "Sky Bundesliga 2",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/12121701532322.png",
+      "stream_url": null
     },
     {
-      "id": "426",
-      "name": "Rai 1",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/071217024326rai1.png"
+      "id": "432",
+      "name": "Sky Bundesliga 3",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/12121701522033.png",
+      "stream_url": null
     },
     {
-      "id": "427",
-      "name": "Rai 2",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/071217024432rai2.png"
+      "id": "433",
+      "name": "Sky Bundesliga 4",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/12121701545144.png",
+      "stream_url": null
     },
     {
-      "id": "428",
-      "name": "Rai 3",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/071217024513rai3.png"
+      "id": "434",
+      "name": "Sky Bundesliga 5",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/12121701564455.png",
+      "stream_url": null
     },
     {
-      "id": "429",
-      "name": "Rai 4",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/071217024545rai4.png"
+      "id": "435",
+      "name": "Sky Bundesliga 6",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/12121701573666.png",
+      "stream_url": null
     },
     {
-      "id": "430",
-      "name": "Rai 5",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/071217024754rai5.png"
+      "id": "436",
+      "name": "Sky Bundesliga 7",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/12121701583177.png",
+      "stream_url": null
     },
     {
-      "id": "800",
-      "name": "Rai Movie",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/250918041844raaaai.png"
-    },
-    {
-      "id": "784",
-      "name": "Rai Premium",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/210818123233raiii.jpeg"
-    },
-    {
-      "id": "698",
-      "name": "Rai news 24",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/250418043056ree.png"
-    },
-    {
-      "id": "465",
-      "name": "Rete 4",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/201217092643retee.png"
-    },
-    {
-      "id": "710",
-      "name": "Sky Atlantic",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/140518052900atl.png"
+      "id": "437",
+      "name": "Sky Bundesliga 8",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/12121701592288.png",
+      "stream_url": null
     },
     {
       "id": "582",
       "name": "Sky Calcio 1",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/200223031412cal1.png"
+      "thumbnail": "images/channel_imgs/200223031412cal1.png",
+      "stream_url": null
     },
     {
       "id": "583",
       "name": "Sky Calcio 2",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/200223031528cal2.png"
+      "thumbnail": "images/channel_imgs/200223031528cal2.png",
+      "stream_url": null
     },
     {
       "id": "706",
       "name": "Sky Calcio 3",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/200223031538cal3.png"
+      "thumbnail": "images/channel_imgs/200223031538cal3.png",
+      "stream_url": null
     },
     {
       "id": "707",
       "name": "Sky Calcio 4",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/200223031552cal4.png"
+      "thumbnail": "images/channel_imgs/200223031552cal4.png",
+      "stream_url": null
     },
     {
       "id": "708",
       "name": "Sky Calcio 5",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/200223031609cal5.png"
+      "thumbnail": "images/channel_imgs/200223031609cal5.png",
+      "stream_url": null
     },
     {
       "id": "709",
       "name": "Sky Calcio 6",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/200223031621cal6.png"
+      "thumbnail": "images/channel_imgs/200223031621cal6.png",
+      "stream_url": null
     },
     {
       "id": "876",
       "name": "Sky Calcio 7",
       "country": "IT",
-      "thumbnail": "/images/channel_imgs/200223032135cal7.png"
+      "thumbnail": "/images/channel_imgs/200223032135cal7.png",
+      "stream_url": null
     },
     {
       "id": "877",
       "name": "Sky Calcio 8",
       "country": "IT",
-      "thumbnail": "/images/channel_imgs/200223032149cal8.png"
+      "thumbnail": "/images/channel_imgs/200223032149cal8.png",
+      "stream_url": null
     },
     {
       "id": "878",
       "name": "Sky Calcio 9",
       "country": "IT",
-      "thumbnail": "/images/channel_imgs/200223032202cal9.png"
+      "thumbnail": "/images/channel_imgs/200223032202cal9.png",
+      "stream_url": null
     },
     {
-      "id": "590",
-      "name": "Sky Cinema Action",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/190223011205Sky_Cinema_Action_-_Logo_2021.svg.png"
+      "id": "403",
+      "name": "Sky Sport 1 DE",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/150617075308skysporrrr.png",
+      "stream_url": null
     },
     {
-      "id": "589",
-      "name": "Sky Cinema Collection",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/190223010724Sky_Cinema_Collection_-_Logo_2021.svg.png"
-    },
-    {
-      "id": "586",
-      "name": "Sky Cinema Comedy",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/190223010812Sky_Cinema_Comedy_-_Logo_2021.svg.png"
-    },
-    {
-      "id": "587",
-      "name": "Sky Cinema Due",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/190223011459Sky_Cinema_Due_-_Logo_2021.svg.png"
-    },
-    {
-      "id": "588",
-      "name": "Sky Cinema Family",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/190223011523Sky_Cinema_Family_-_Logo_2021.svg.png"
-    },
-    {
-      "id": "591",
-      "name": "Sky Cinema Romance",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/190223010955Sky_Cinema_Romance_-_Logo_2021.svg.png"
-    },
-    {
-      "id": "584",
-      "name": "Sky Cinema UNO",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/190223011941Sky_Cinema_Uno_-_Logo_2021.svg.png"
+      "id": "404",
+      "name": "Sky Sport 2 DE",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/150617075204skysport22.jpeg",
+      "stream_url": null
     },
     {
       "id": "629",
       "name": "Sky Sport 24",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/200223035132Sky_Sport_24_-_Logo_2020.svg.png"
+      "thumbnail": "images/channel_imgs/200223035132Sky_Sport_24_-_Logo_2020.svg.png",
+      "stream_url": null
     },
     {
       "id": "579",
       "name": "Sky Sport Arena",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/190718073708arenaa.jpeg"
+      "thumbnail": "images/channel_imgs/190718073708arenaa.jpeg",
+      "stream_url": null
     },
     {
       "id": "705",
       "name": "Sky Sport Calcio",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/190223125815Sky_Sport_Calcio.png"
+      "thumbnail": "images/channel_imgs/190223125815Sky_Sport_Calcio.png",
+      "stream_url": null
     },
     {
       "id": "581",
       "name": "Sky Sport F1",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/200223034533Sky_Sport_F1_2020.png"
+      "thumbnail": "images/channel_imgs/200223034533Sky_Sport_F1_2020.png",
+      "stream_url": null
     },
     {
       "id": "580",
       "name": "Sky Sport Football",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/190718075156foot.jpeg"
+      "thumbnail": "images/channel_imgs/190718075156foot.jpeg",
+      "stream_url": null
     },
     {
       "id": "668",
       "name": "Sky Sport Motogp",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/200223035257Sky_Sport_MotoGP_2020.png"
+      "thumbnail": "images/channel_imgs/200223035257Sky_Sport_MotoGP_2020.png",
+      "stream_url": null
     },
     {
       "id": "704",
       "name": "Sky Sport NBA",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/130818011304nba.png"
+      "thumbnail": "images/channel_imgs/130818011304nba.png",
+      "stream_url": null
     },
     {
       "id": "578",
       "name": "Sky Sport Uno",
       "country": "IT",
-      "thumbnail": "images/channel_imgs/190718073552uno.png"
+      "thumbnail": "images/channel_imgs/190718073552uno.png",
+      "stream_url": null
     },
     {
-      "id": "592",
-      "name": "Sky TG24",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/080118035005tg.png"
+      "id": "411",
+      "name": "Sky Sports Arena",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/270717102912arena1.jpeg",
+      "stream_url": null
     },
     {
-      "id": "593",
-      "name": "Sky Uno",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/080118035124uno.png"
+      "id": "205",
+      "name": "Sky Sports Cricket",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717080620skycric.jpeg",
+      "stream_url": null
     },
     {
-      "id": "792",
-      "name": "TG Com 24",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/310818125154tgcom.jpeg"
+      "id": "209",
+      "name": "Sky Sports F1",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717081443f12.jpeg",
+      "stream_url": null
     },
     {
-      "id": "809",
-      "name": "TV 2000",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/111018012756tv2000.png"
+      "id": "410",
+      "name": "Sky Sports Football",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/270717102848foot1.jpeg",
+      "stream_url": null
     },
     {
-      "id": "798",
-      "name": "TV8",
-      "country": "IT",
-      "thumbnail": "images/channel_imgs/250918041645tv8.png"
+      "id": "207",
+      "name": "Sky Sports Golf",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/041122093920Sky_Sports_Golf.png",
+      "stream_url": null
+    },
+    {
+      "id": "204",
+      "name": "Sky Sports Main Event",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717080757main1.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "308",
+      "name": "Sky Sports Mix",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717081554mix2.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "210",
+      "name": "Sky Sports News",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717081653news1.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "206",
+      "name": "Sky Sports NFL",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/020321091841nflll.png",
+      "stream_url": null
+    },
+    {
+      "id": "208",
+      "name": "Sky Sports Premier League",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717081219pl2.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "41",
+      "name": "Sky Sports Racing",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/101022031600skr.png",
+      "stream_url": null
+    },
+    {
+      "id": "405",
+      "name": "Sport 1",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/150617075053sport1.png",
+      "stream_url": null
+    },
+    {
+      "id": "505",
+      "name": "Sport tv 1",
+      "country": "PT",
+      "thumbnail": "images/channel_imgs/201217102635sp111.png",
+      "stream_url": null
+    },
+    {
+      "id": "506",
+      "name": "Sport tv 2",
+      "country": "PT",
+      "thumbnail": "images/channel_imgs/201217102542sp2.png",
+      "stream_url": null
+    },
+    {
+      "id": "507",
+      "name": "Sport tv 3",
+      "country": "PT",
+      "thumbnail": "images/channel_imgs/201217102612sp3.png",
+      "stream_url": null
+    },
+    {
+      "id": "508",
+      "name": "Sport tv 4",
+      "country": "PT",
+      "thumbnail": "images/channel_imgs/201217102708sp4.png",
+      "stream_url": null
+    },
+    {
+      "id": "509",
+      "name": "Sport tv 5",
+      "country": "PT",
+      "thumbnail": "images/channel_imgs/080118035520spopp.png",
+      "stream_url": null
+    },
+    {
+      "id": "417",
+      "name": "Sportsnet One",
+      "country": "CA",
+      "thumbnail": "images/channel_imgs/041017012929sn1.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "214",
+      "name": "Sportsnet Ontario",
+      "country": "CA",
+      "thumbnail": "images/channel_imgs/200116042105ont.png",
+      "stream_url": null
+    },
+    {
+      "id": "215",
+      "name": "Sportsnet World",
+      "country": "CA",
+      "thumbnail": "images/channel_imgs/200116042130worl.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "306",
+      "name": "Tennis",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/211216095835tennis.png",
+      "stream_url": null
+    },
+    {
+      "id": "504",
+      "name": "TF1",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/201217102056tf1.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "233",
+      "name": "TSN 1",
+      "country": "CA",
+      "thumbnail": "images/channel_imgs/200116043251tsn1.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "234",
+      "name": "TSN 2",
+      "country": "CA",
+      "thumbnail": "images/channel_imgs/200116043314ts2.png",
+      "stream_url": null
+    },
+    {
+      "id": "235",
+      "name": "TSN 3",
+      "country": "CA",
+      "thumbnail": "images/channel_imgs/200116043351ts3.png",
+      "stream_url": null
+    },
+    {
+      "id": "412",
+      "name": "TSN 4",
+      "country": "CA",
+      "thumbnail": "images/channel_imgs/090917013550tsn4.png",
+      "stream_url": null
+    },
+    {
+      "id": "413",
+      "name": "TSN 5",
+      "country": "CA",
+      "thumbnail": "images/channel_imgs/090917013648tsn5.png",
+      "stream_url": null
+    },
+    {
+      "id": "785",
+      "name": "UFC Fight Pass",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/310818013311ufff.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "170",
+      "name": "Viaplay Sports 1",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/041122093027Viaplay_Sports_1.png",
+      "stream_url": null
+    },
+    {
+      "id": "782",
+      "name": "Viaplay Sports 2",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/041122093121Viaplay_Sports_2.png",
+      "stream_url": null
     }
   ]
 }
