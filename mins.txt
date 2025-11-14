@@ -1,0 +1,185 @@
+2025-11-13 10:24:51,483 - INFO - Processing: Fubo Sports -> https://livetv-fa.tubi.video/fubo/master.m3u8
+2025-11-13 10:24:51,687 - INFO - ✅ Found via redirect: Fubo Sports -> https://livetv-fa.tubi.video/fubo/master.m3u8
+2025-11-13 10:24:51,687 - INFO - Processing: NBC Sports US -> https://d3f4oii5n0oeqi.cloudfront.net/11701/88814624/hls/master.m3u8?ads.xumo_channelId=88814624&ads.xumo_streamId=88814624
+2025-11-13 10:24:51,688 - INFO - Progress: 231/5444 - ✅ Fubo Sports
+2025-11-13 10:24:51,801 - INFO - ✅ Found via redirect: NBC Sports US -> https://d3f4oii5n0oeqi.cloudfront.net/11701/88814624/hls/master.m3u8?ads.xumo_channelId=88814624&ads.xumo_streamId=88814624
+2025-11-13 10:24:51,801 - INFO - Processing: CBS SPORTS NETWORK US -> https://fl31.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+2025-11-13 10:24:51,801 - INFO - Progress: 232/5444 - ✅ NBC Sports US
+2025-11-13 10:24:52,212 - INFO - ✅ Found via redirect: CBS SPORTS NETWORK US -> https://fl31.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+2025-11-13 10:24:52,212 - INFO - Processing: CBS SPORTS HQ US -> https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+2025-11-13 10:24:52,213 - INFO - Progress: 233/5444 - ✅ CBS SPORTS NETWORK US
+2025-11-13 10:24:53,060 - INFO - ✅ Found via redirect: CBS SPORTS HQ US -> https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+2025-11-13 10:24:53,060 - INFO - Processing: CBS SPORTS GOLAZO NETWORK US -> https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+2025-11-13 10:24:53,061 - INFO - Progress: 234/5444 - ✅ CBS SPORTS HQ US
+2025-11-13 10:24:53,906 - INFO - ✅ Found via redirect: CBS SPORTS GOLAZO NETWORK US -> https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+2025-11-13 10:24:53,906 - INFO - Processing: TUDN MX -> http://fl25.moveonjoy.com/TUDN/index.m3u8
+2025-11-13 10:24:53,907 - INFO - Progress: 235/5444 - ✅ CBS SPORTS GOLAZO NETWORK US
+
+
+<urllib3.connection.HTTPConnection object at 0x7f787c20e9c0>: Failed to resolve 'fl25.moveonjoy.com' ([Errno -2] Name or service not known)"))
+2025-11-13 10:24:56,052 - INFO - Processing: Bein Sports US -> http://fl61.moveonjoy.com/BEIN_SPORTS/index.m3u8
+2025-11-13 10:24:56,306 - INFO - ✅ Found via redirect: Bein Sports US -> http://fl61.moveonjoy.com/BEIN_SPORTS/index.m3u8
+2025-11-13 10:24:56,306 - INFO - Processing: Bein Sports XtraUS -> https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8?is_lat=0&us_privacy=
+2025-11-13 10:24:56,307 - INFO - Progress: 236/5444 - ✅ Bein Sports US
+2025-11-13 10:24:56,396 - INFO - ✅ Found via redirect: Bein Sports XtraUS -> https://bein-xtra-xumo.amagi.tv/amRdirect/us_privacy=&is_lat=0&uid=1j9ubuci8-p16m-f8g-uzgt-4900mqwstq2/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
+2025-11-13 10:24:56,396 - INFO - Processing: FS1 US -> http://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
+2025-11-13 10:24:56,397 - INFO - Progress: 237/5444 - ✅ Bein Sports XtraUS
+2025-11-13 10:24:56,417 - INFO - ✅ Found via redirect: FS1 US -> http://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
+2025-11-13 10:24:56,417 - INFO - Processing: FS2 US -> http://fl7.moveonjoy.com/FOX_SPORTS_2/index.m3u8
+2025-11-13 10:24:56,418 - INFO - Progress: 238/5444 - ✅ FS1 US
+2025-11-13 10:24:56,437 - INFO - ✅ Found via redirect: FS2 US -> http://fl7.moveonjoy.com/FOX_SPORTS_2/index.m3u8
+2025-11-13 10:24:56,437 - INFO - Processing: Fox Deportes US -> https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
+2025-11-13 10:24:56,438 - INFO - Progress: 239/5444 - ✅ FS2 US
+2025-11-13 10:24:56,443 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f787c29d8c0>, 'Connection to xui.neongreenlight.com timed out. (connect timeout=15)')': /hileytv/hileytv/448.ts
+2025-11-13 10:24:57,287 - INFO - ✅ Found via redirect: Fox Deportes US -> https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+2025-11-13 10:24:57,287 - INFO - Processing: ESPN US -> http://41.205.93.154/ESPN/index.m3u8
+2025-11-13 10:24:57,287 - INFO - Progress: 240/5444 - ✅ Fox Deportes US
+2025-11-13 10:24:57,713 - INFO - ✅ Found via redirect: ESPN US -> http://41.205.93.154/ESPN/index.m3u8
+2025-11-13 10:24:57,713 - INFO - Processing: ESPN 2 US -> http://fl25.moveonjoy.com/ESPN_2/index.m3u8
+2025-11-13 10:24:57,714 - INFO - Progress: 241/5444 - ✅ ESPN US
+
+
+
+
+
+2025-11-13 10:24:59,795 - INFO - Processing: ESPN News US -> http://41.205.93.154/ESPNNEWS/index.m3u8
+2025-11-13 10:25:00,010 - INFO - ✅ Found via redirect: ESPN News US -> http://41.205.93.154/ESPNNEWS/index.m3u8
+2025-11-13 10:25:00,010 - INFO - Processing: ESPN U US -> http://41.205.93.154/ESPNU/index.m3u8
+2025-11-13 10:25:00,011 - INFO - Progress: 242/5444 - ✅ ESPN News US
+2025-11-13 10:25:00,225 - INFO - ✅ Found via redirect: ESPN U US -> http://41.205.93.154/ESPNU/index.m3u8
+2025-11-13 10:25:00,225 - INFO - Processing: ESPN DEPORTES US -> https://e3.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
+2025-11-13 10:25:00,226 - INFO - Progress: 243/5444 - ✅ ESPN U US
+2025-11-13 10:25:00,658 - INFO - ✅ Found via redirect: ESPN DEPORTES US -> https://e3.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
+2025-11-13 10:25:00,658 - INFO - Processing: Golf Channel US -> http://fl41.moveonjoy.com/GOLF/index.m3u8
+2025-11-13 10:25:00,658 - INFO - Progress: 244/5444 - ✅ ESPN DEPORTES US
+2025-11-13 10:25:00,891 - INFO - ✅ Found via redirect: Golf Channel US -> http://fl41.moveonjoy.com/GOLF/index.m3u8
+2025-11-13 10:25:00,891 - INFO - Processing: BEIN SPORT 1 -> http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=99962&extension=m3u8&play_token=
+2025-11-13 10:25:00,892 - INFO - Progress: 245/5444 - ✅ Golf Channel US
+2025-11-13 10:25:02,526 - WARNING - HTTP 409 for http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=99962&extension=m3u8&play_token=
+2025-11-13 10:25:02,527 - INFO - Processing: BEIN SPORT 2 -> https://live20.bozztv.com/akamaissh101/ssh101/vipmixflix/chunks.m3u8
+2025-11-13 10:25:02,765 - INFO - ✅ Found via redirect: BEIN SPORT 2 -> https://live20.bozztv.com/akamaissh101/ssh101/vipmixflix/chunks.m3u8
+2025-11-13 10:25:02,765 - INFO - Processing: BEIN SPORT 3 -> http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=85781&extension=m3u8&play_token=
+2025-11-13 10:25:02,766 - INFO - Progress: 246/5444 - ✅ BEIN SPORT 2
+
+
+2025-11-13 10:28:10,121 - WARNING - ⏱️ Timeout for: A Sports HD PK
+2025-11-13 10:28:10,121 - INFO - Processing: PTV Sports HD PK -> https://ptvsports-cgc.pages.dev/720p.m3u8
+2025-11-13 10:28:10,222 - INFO - ✅ Found via redirect: PTV Sports HD PK -> https://ptvsports-cgc.pages.dev/720p.m3u8
+2025-11-13 10:28:10,222 - INFO - Processing: Willow US -> http://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+2025-11-13 10:28:10,223 - INFO - Progress: 251/5444 - ✅ PTV Sports HD PK
+2025-11-13 10:28:10,283 - INFO - ✅ Found via redirect: Willow US -> http://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+2025-11-13 10:28:10,284 - INFO - Processing: TSN SPORTS 1 CA -> http://fl7.moveonjoy.com/TSN_1/index.m3u8
+2025-11-13 10:28:10,285 - INFO - Progress: 252/5444 - ✅ Willow US
+2025-11-13 10:28:10,303 - INFO - ✅ Found via redirect: TSN SPORTS 1 CA -> http://fl7.moveonjoy.com/TSN_1/index.m3u8
+2025-11-13 10:28:10,303 - INFO - Processing: TSN SPORTS 2 CA -> http://fl31.moveonjoy.com/TSN_2/index.m3u8
+2025-11-13 10:28:10,304 - INFO - Progress: 253/5444 - ✅ TSN SPORTS 1 CA
+2025-11-13 10:28:10,535 - INFO - ✅ Found via redirect: TSN SPORTS 2 CA -> http://fl31.moveonjoy.com/TSN_2/index.m3u8
+2025-11-13 10:28:10,535 - INFO - Processing: TSN SPORTS 3 CA -> http://fl31.moveonjoy.com/TSN_3/index.m3u8
+2025-11-13 10:28:10,536 - INFO - Progress: 254/5444 - ✅ TSN SPORTS 2 CA
+2025-11-13 10:28:10,652 - INFO - ✅ Found via redirect: TSN SPORTS 3 CA -> http://fl31.moveonjoy.com/TSN_3/index.m3u8
+2025-11-13 10:28:10,652 - INFO - Processing: TSN SPORTS 4 CA -> http://fl7.moveonjoy.com/TSN_4/index.m3u8
+2025-11-13 10:28:10,652 - INFO - Progress: 255/5444 - ✅ TSN SPORTS 3 CA
+2025-11-13 10:28:10,672 - INFO - ✅ Found via redirect: TSN SPORTS 4 CA -> http://fl7.moveonjoy.com/TSN_4/index.m3u8
+2025-11-13 10:28:10,672 - INFO - Processing: TSN SPORTS 5 CA -> https://fl31.moveonjoy.com/TSN_5/index.m3u8
+2025-11-13 10:28:10,673 - INFO - Progress: 256/5444 - ✅ TSN SPORTS 4 CA
+2025-11-13 10:28:11,082 - INFO - ✅ Found via redirect: TSN SPORTS 5 CA -> https://fl31.moveonjoy.com/TSN_5/index.m3u8
+2025-11-13 10:28:11,082 - INFO - Processing: Eurosport 1 -> http://185.189.225.157/EuroSport1/index.m3u8
+2025-11-13 10:28:11,082 - INFO - Progress: 257/5444 - ✅ TSN SPORTS 5 CA
+
+
+
+2025-11-13 10:31:18,665 - INFO - Processing: Barca One -> https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+2025-11-13 10:31:18,950 - INFO - ✅ Found via redirect: Barca One -> https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+2025-11-13 10:31:18,950 - INFO - Processing: Real Madrid TV -> https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+2025-11-13 10:31:18,950 - INFO - Progress: 258/5444 - ✅ Barca One
+2025-11-13 10:31:19,463 - INFO - ✅ Found via redirect: Real Madrid TV -> https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+2025-11-13 10:31:19,463 - INFO - Processing: Dubai Sports 1 (1080p) -> https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+2025-11-13 10:31:19,463 - INFO - Progress: 259/5444 - ✅ Real Madrid TV
+2025-11-13 10:31:19,737 - INFO - ✅ Found via redirect: Dubai Sports 1 (1080p) -> https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+2025-11-13 10:31:19,737 - INFO - Processing: Dubai Sports 2 (720p) -> https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+2025-11-13 10:31:19,738 - INFO - Progress: 260/5444 - ✅ Dubai Sports 1 (1080p)
+2025-11-13 10:31:20,105 - INFO - ✅ Found via redirect: Dubai Sports 2 (720p) -> https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+2025-11-13 10:31:20,105 - INFO - Processing: Dubai Sports 3 (1080p) -> https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
+2025-11-13 10:31:20,105 - INFO - Progress: 261/5444 - ✅ Dubai Sports 2 (720p)
+2025-11-13 10:31:20,383 - INFO - ✅ Found via redirect: Dubai Sports 3 (1080p) -> https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
+2025-11-13 10:31:20,383 - INFO - Processing: Trace Sports Stars -> https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+2025-11-13 10:31:20,384 - INFO - Progress: 262/5444 - ✅ Dubai Sports 3 (1080p)
+2025-11-13 10:31:20,820 - INFO - ✅ Found via redirect: Trace Sports Stars -> https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+2025-11-13 10:31:20,820 - INFO - Processing: Womens Sports Network -> https://livetv-fa.tubi.video/fast-studios-womens-sports/playlist.m3u8
+2025-11-13 10:31:20,821 - INFO - Progress: 263/5444 - ✅ Trace Sports Stars
+2025-11-13 10:31:20,963 - INFO - ✅ Found via redirect: Womens Sports Network -> https://livetv-fa.tubi.video/fast-studios-womens-sports/playlist.m3u8
+2025-11-13 10:31:20,963 - INFO - Processing: Bloomberg TV+ UHD -> https://cc-gws4pd7sbzkn2.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gws4pd7sbzkn2/btvp775634/indexen.m3u8
+2025-11-13 10:31:20,964 - INFO - Progress: 264/5444 - ✅ Womens Sports Network
+2025-11-13 10:31:21,746 - INFO - ✅ Found via redirect: Bloomberg TV+ UHD -> https://cc-gws4pd7sbzkn2.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gws4pd7sbzkn2/btvp775634/indexen.m3u8
+2025-11-13 10:31:21,746 - INFO - Processing: FTV UHD -> https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
+2025-11-13 10:31:21,747 - INFO - Progress: 265/5444 - ✅ Bloomberg TV+ UHD
+2025-11-13 10:31:22,462 - INFO - ✅ Found via redirect: FTV UHD -> https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
+2025-11-13 10:31:22,462 - INFO - Processing: Love Nature -> https://live-manifest.production-public.tubi.io/live/470abd8a-dea0-41a1-98bc-bf7f98671ab5/playlist.m3u8
+2025-11-13 10:31:22,462 - INFO - Progress: 266/5444 - ✅ FTV UHD
+2025-11-13 10:31:23,043 - INFO - ✅ Found via redirect: Love Nature -> https://csm-e-eb.csm.tubi.video/csm/live/750519336.m3u8?playback_start_ts=1763029883&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&
+2025-11-13 10:31:23,043 - INFO - Processing: Loupe 4K -> https://jmp2.uk/stvp-USBB1000002TK
+2025-11-13 10:31:23,044 - INFO - Progress: 267/5444 - ✅ Love Nature
+2025-11-13 10:31:24,013 - INFO - ✅ Found via redirect: Loupe 4K -> https://d1mc7j87d84vqe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-d102ouk2nzqfu/manifest/loupe4k-loupe001-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBB1000002TK
+2025-11-13 10:31:24,013 - INFO - Processing: Insight TV -> https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+2025-11-13 10:31:24,013 - INFO - Progress: 268/5444 - ✅ Loupe 4K
+2025-11-13 10:31:24,354 - INFO - ✅ Found via redirect: Insight TV -> https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+2025-11-13 10:31:24,355 - INFO - Processing: Astro Sports UHD -> http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
+2025-11-13 10:31:24,355 - INFO - Progress: 269/5444 - ✅ Insight TV
+
+
+
+2025-11-13 10:39:22,201 - INFO - ✅ Found via redirect: FIFA+ -> https://833c8463.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c0dlcm1hbl9ITFM/playlist.m3u8?ads.wurl_channel=1777&ads.wurl_name=FIFAPlusGerman&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+2025-11-13 10:39:22,201 - INFO - Processing: FIFA+ -> https://jmp2.uk/stvp-FRBA3300037Y7
+2025-11-13 10:39:22,202 - INFO - Progress: 922/5444 - ✅ FIFA+
+2025-11-13 10:39:22,586 - INFO - ✅ Found via redirect: FIFA+ -> https://wurlfifa.global.transmit.live/hls/68e580584ddca6d9da0689e2/v1/sysdata_s_p_a_fifa_2/samsung_ch/latest/main/hls/playlist.m3u8?wurl_channel=1777&wurl_name=FIFAPlusGerman&coppa=0&rdid=%7BPSID%7D&dnt=%7BTARGETOPT%7D&appstoreurl=%7BAPP_DOMAIN%7D&appname=%7BAPP_NAME%7D&gdpr_consent=%7BTC_STRING%7D
+2025-11-13 10:39:22,586 - INFO - Processing: FIFA+ -> https://jmp2.uk/stvp-GBBD1100008YW
+2025-11-13 10:39:22,587 - INFO - Progress: 923/5444 - ✅ FIFA+
+2025-11-13 10:39:22,679 - INFO - ✅ Found via redirect: FIFA+ -> https://9c68bfdd.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9GSUZBUGx1c0dlcm1hbl9ITFM/playlist.m3u8?ads.wurl_channel=1777&ads.wurl_name=FIFAPlusGerman&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+2025-11-13 10:39:22,679 - INFO - Processing: FIFA+ -> https://jmp2.uk/stvp-IN270000230
+2025-11-13 10:39:22,680 - INFO - Progress: 924/5444 - ✅ FIFA+
+2025-11-13 10:39:22,681 - INFO - ✅ Found via redirect: FIFA+ -> https://dtjdiffefl00u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z1wjerfevs3hx/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=CABD1200008JG
+2025-11-13 10:39:22,681 - INFO - Processing: FIFA+ -> https://jmp2.uk/stvp-ITBD1000002HF
+2025-11-13 10:39:22,681 - INFO - Progress: 925/5444 - ✅ FIFA+
+2025-11-13 10:39:22,778 - INFO - ✅ Found via redirect: FIFA+ -> https://f7ef8624.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c1NwYW5pc2hfSExT/playlist.m3u8?ads.wurl_channel=1780&ads.wurl_name=FIFAPlusSpanish&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+2025-11-13 10:39:22,778 - INFO - Processing: FIFA+ -> https://jmp2.uk/stvp-KR2900002NO
+2025-11-13 10:39:22,779 - INFO - Progress: 926/5444 - ✅ FIFA+
+2025-11-13 10:39:22,949 - INFO - ✅ Found via redirect: FIFA+ -> https://9b839ec7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9GSUZBUGx1c0ZyZW5jaF9ITFM/playlist.m3u8?ads.wurl_channel=1778&ads.wurl_name=FIFAPlusFrench&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+2025-11-13 10:39:22,950 - INFO - Processing: FIFA+ -> https://jmp2.uk/stvp-USBD12000255B
+2025-11-13 10:39:22,950 - INFO - Progress: 927/5444 - ✅ FIFA+
+2025-11-13 10:39:23,445 - INFO - ✅ Found via redirect: FIFA+ -> https://ba3e2e93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8?ads.wurl_channel=1781&ads.wurl_name=FIFAPlusEnglish&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+2025-11-13 10:39:23,446 - INFO - Processing: FIGHT TV -> https://jmp2.uk/stvp-INBC2800017OC
+2025-11-13 10:39:23,447 - INFO - Progress: 928/5444 - ✅ FIFA+
+2025-11-13 10:39:23,461 - INFO - ✅ Found via redirect: FIFA+ -> https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8?ads.wurl_channel=1781&ads.wurl_name=FIFAPlusEnglish&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+2025-11-13 10:39:23,461 - INFO - Processing: Film Al Femminile - Wedo Movies -> https://jmp2.uk/stvp-ITBC4700004EQ
+2025-11-13 10:39:23,461 - INFO - Progress: 929/5444 - ✅ FIFA+
+2025-11-13 10:39:23,536 - INFO - ✅ Found via redirect: FIFA+ -> https://cabe7a5f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9GSUZBUGx1c0l0YWxpYW5fSExT/playlist.m3u8?ads.wurl_channel=1779&ads.wurl_name=FIFAPlusItalian&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+2025-11-13 10:39:23,536 - INFO - Processing: Film Al Femminile - Wedo Movies [IT] -> https://jmp2.uk/stvp-CHBD600003EI
+2025-11-13 10:39:23,536 - INFO - Progress: 930/5444 - ✅ FIFA+
+2025-11-13 10:39:23,654 - INFO - ✅ Found via redirect: FIFA+ -> https://afa7d3ea.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1rcl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8?ads.wurl_channel=1781&ads.wurl_name=FIFAPlusEnglish&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+2025-11-13 10:39:23,654 - INFO - Processing: Film Asiatici - Rakuten TV -> https://jmp2.uk/stvp-IT2600006JG
+2025-11-13 10:39:23,655 - INFO - Progress: 931/5444 - ✅ FIFA+
+2025-11-13 10:39:23,699 - INFO - ✅ Found via redirect: FIFA+ -> https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD12000255B
+2025-11-13 10:39:23,700 - INFO - Processing: Film d'azione - Rakuten TV -> https://jmp2.uk/stvp-IT2600003FM
+2025-11-13 10:39:23,700 - INFO - Progress: 932/5444 - ✅ FIFA+
+
+
+
+
+2025-11-13 10:43:31,172 - INFO - ✅ Found via redirect: Swerve Combat -> https://aka-live1050.delivery.roku.com/8e42098f-4bbb-4f94-8d79-012257e5a107/t2-origin/out/v1/live.m3u8
+2025-11-13 10:43:31,173 - INFO - Processing: For The Fans -> https://jmp2.uk/rok-e0970e3e4ea951689b1a15f64b091cb1.m3u8
+2025-11-13 10:43:31,173 - INFO - Progress: 2494/5444 - ✅ Swerve Combat
+2025-11-13 10:43:31,200 - INFO - ✅ Found via redirect: Fubo Sports -> https://aka-live1050.delivery.roku.com/4fce7c00-6a39-4c09-bc6c-2ae2c006e87e/t2-origin/out/v1/live.m3u8
+2025-11-13 10:43:31,200 - INFO - Processing: beIN SPORTS Xtra -> https://jmp2.uk/rok-bc932f13c31e542db6e3e6247e7131bc.m3u8
+2025-11-13 10:43:31,201 - INFO - Progress: 2495/5444 - ✅ Fubo Sports
+2025-11-13 10:43:31,348 - INFO - ✅ Found via redirect: Team USA TV -> https://aka-live1050.delivery.roku.com/84cec635-79f8-4edb-a045-1b6f19889d24/t2-origin/out/v1/live.m3u8
+2025-11-13 10:43:31,348 - INFO - Processing: Big 12 Studios -> https://jmp2.uk/rok-955058d03806e22dbb37bf1ee8d681a1.m3u8
+2025-11-13 10:43:31,349 - INFO - Progress: 2496/5444 - ✅ Team USA TV
+2025-11-13 10:43:31,507 - INFO - ✅ Found via redirect: For The Fans -> https://aka-live1050.delivery.roku.com/4e1bfa5f-346d-44f9-a848-60b7c0167841/t2-origin/out/v1/live.m3u8
+2025-11-13 10:43:31,508 - INFO - Processing: ACC Digital Network -> https://jmp2.uk/rok-409951b52fa75a1684ba8efe5b724e91.m3u8
+2025-11-13 10:43:31,508 - INFO - Progress: 2497/5444 - ✅ For The Fans
+2025-11-13 10:43:31,538 - INFO - ✅ Found via redirect: GolfPass -> https://aka-live1050.delivery.roku.com/6bc978a6-eb3c-40a1-9ecf-9726db9ae43c/t2-origin/out/v1/live.m3u8
+2025-11-13 10:43:31,538 - INFO - Processing: NESN Nation -> https://jmp2.uk/rok-1d720f86119e6cb8d2a8eae051242554.m3u8
+2025-11-13 10:43:31,539 - INFO - Progress: 2498/5444 - ✅ GolfPass
+
+
+
