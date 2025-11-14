@@ -2,7 +2,6 @@ name: Fetch TVTap Sports Channels
 
 on:
   schedule:
-    # Run daily at 00:00 UTC
     - cron: '0 0 * * *'
   workflow_dispatch:
     inputs:
@@ -32,8 +31,10 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Checkout repository
+      - name: Checkout repository (full history)
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -61,7 +62,6 @@ jobs:
           with open('sports_channels.json', 'r') as f:
               data = json.load(f)
           
-          # Save each country separately
           for country, channels in data['channels_by_country'].items():
               country_data = {
                   'metadata': {
@@ -103,7 +103,6 @@ jobs:
           with open('sports_statistics.json', 'w') as f:
               json.dump(stats, f, ensure_ascii=False, indent=2)
           
-          # Generate README stats
           with open('SPORTS_STATS.md', 'w') as f:
               f.write('# TVTap Sports Channels Statistics\n\n')
               f.write(f'**Last Updated:** {data[\"metadata\"][\"timestamp\"]}\n\n')
@@ -111,10 +110,9 @@ jobs:
               f.write(f'**Total Countries:** {data[\"metadata\"][\"countries_count\"]}\n\n')
               f.write('## Sports Channels by Country\n\n')
               
-              # Sort by channel count descending
               sorted_countries = sorted(stats['countries'].items(), 
-                                      key=lambda x: x[1]['channel_count'], 
-                                      reverse=True)
+                                        key=lambda x: x[1]['channel_count'], 
+                                        reverse=True)
               
               for country, info in sorted_countries:
                   count = info['channel_count']
@@ -142,22 +140,26 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          
+
+          git pull --rebase origin main
+
           git add sports_channels.json sports_*.json sports_statistics.json SPORTS_STATS.md
-          
+
           if [ -n "$(git status --porcelain)" ]; then
             CHANNEL_COUNT=$(cat sports_statistics.json | grep -o '\"total_sports_channels\": [0-9]*' | grep -o '[0-9]*')
             COUNTRY_COUNT=$(cat sports_statistics.json | grep -o '\"total_countries\": [0-9]*' | grep -o '[0-9]*')
+
             git commit -m "Update sports channels metadata - $(date -u '+%Y-%m-%d %H:%M:%S UTC')" \
                        -m "Total sports channels: $CHANNEL_COUNT" \
                        -m "Countries: $COUNTRY_COUNT"
-            git push
+
+            git push origin main
           else
-            echo "No changes to commit"
+            echo 'No changes to commit'
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
+
   fetch-popular-sports-streams:
     runs-on: ubuntu-latest
     needs: fetch-sports-metadata
@@ -168,8 +170,10 @@ jobs:
       fail-fast: false
     
     steps:
-      - name: Checkout repository
+      - name: Checkout repository (full history)
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -215,9 +219,8 @@ jobs:
                   for channel in data.get('channels_flat', []):
                       if channel.get('stream_url'):
                           name = channel['name']
-                          url = channel['stream_url'].split('|')[0]  # Clean URL
+                          url = channel['stream_url'].split('|')[0]
                           
-                          # Add channel info
                           f.write(f'#EXTINF:-1 tvg-name=\"{name}\" tvg-country=\"${{ matrix.country }}\",{name}\n')
                           f.write(f'{url}\n\n')
                           channels_added += 1
@@ -244,13 +247,14 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+
+          git pull --rebase origin main
           
-          git pull --rebase
           git add sports_${{ matrix.country }}_streams.json sports_${{ matrix.country }}.m3u
           
-          if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Update ${{ matrix.country }} sports streams - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-            git push
+          if [ -n "$(git.status --porcelain)" ]; then
+            git.commit -m "Update ${{ matrix.country }} sports streams - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+            git.push origin main
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
