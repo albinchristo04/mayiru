@@ -136,27 +136,36 @@ jobs:
             *.log
           retention-days: 90
       
-      - name: Commit metadata changes
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+    - name: Commit metadata changes
+  run: |
+    git config --local user.email "github-actions[bot]@users.noreply.github.com"
+    git.config --local user.name "github-actions[bot]"
 
-          git pull --rebase origin main
+    # Stash ALL changes (tracked + untracked)
+    git add -A
+    git stash --include-untracked
 
-          git add sports_channels.json sports_*.json sports_statistics.json SPORTS_STATS.md
+    # Pull latest with rebase
+    git pull --rebase origin main || true
 
-          if [ -n "$(git status --porcelain)" ]; then
-            CHANNEL_COUNT=$(cat sports_statistics.json | grep -o '\"total_sports_channels\": [0-9]*' | grep -o '[0-9]*')
-            COUNTRY_COUNT=$(cat sports_statistics.json | grep -o '\"total_countries\": [0-9]*' | grep -o '[0-9]*')
+    # Restore changes
+    git stash pop || true
 
-            git commit -m "Update sports channels metadata - $(date -u '+%Y-%m-%d %H:%M:%S UTC')" \
-                       -m "Total sports channels: $CHANNEL_COUNT" \
-                       -m "Countries: $COUNTRY_COUNT"
+    git add -A
 
-            git push origin main
-          else
-            echo 'No changes to commit'
-          fi
+    if [ -n "$(git status --porcelain)" ]; then
+      CHANNEL_COUNT=$(cat sports_statistics.json | grep -o '\"total_sports_channels\": [0-9]*' | grep -o '[0-9]*')
+      COUNTRY_COUNT=$(cat sports_statistics.json | grep -o '\"total_countries\": [0-9]*' | grep -o '[0-9]*')
+
+      git commit -m "Update sports channels metadata - $(date -u '+%Y-%m-%d %H:%M:%S UTC')" \
+                 -m "Total sports channels: $CHANNEL_COUNT" \
+                 -m "Countries: $COUNTRY_COUNT"
+
+      git push origin main
+    else
+      echo "No changes to commit"
+    fi
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
