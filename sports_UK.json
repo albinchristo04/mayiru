@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-14T09:31:57.560198Z",
+    "country": "UK",
+    "type": "sports_only",
+    "total_channels": 21
+  },
+  "channels": [
+    {
+      "id": "59",
+      "name": "BT Sport 1",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116115523bt1.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "60",
+      "name": "BT Sport 2",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116115549bt2.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "298",
+      "name": "BT Sport 3",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/270916013607bt3.png",
+      "stream_url": null
+    },
+    {
+      "id": "821",
+      "name": "BT Sport box office",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/101219032704box.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "108",
+      "name": "Euro Sport",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/190116044352euro.png",
+      "stream_url": null
+    },
+    {
+      "id": "109",
+      "name": "Euro Sport 2",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/190116044416euro2.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "178",
+      "name": "Racing UK",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200116035209racing.png",
+      "stream_url": null
+    },
+    {
+      "id": "411",
+      "name": "Sky Sports Arena",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/270717102912arena1.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "205",
+      "name": "Sky Sports Cricket",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717080620skycric.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "209",
+      "name": "Sky Sports F1",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717081443f12.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "410",
+      "name": "Sky Sports Football",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/270717102848foot1.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "207",
+      "name": "Sky Sports Golf",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/041122093920Sky_Sports_Golf.png",
+      "stream_url": null
+    },
+    {
+      "id": "204",
+      "name": "Sky Sports Main Event",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717080757main1.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "308",
+      "name": "Sky Sports Mix",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717081554mix2.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "206",
+      "name": "Sky Sports NFL",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/020321091841nflll.png",
+      "stream_url": null
+    },
+    {
+      "id": "210",
+      "name": "Sky Sports News",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717081653news1.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "208",
+      "name": "Sky Sports Premier League",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717081219pl2.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "41",
+      "name": "Sky Sports Racing",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/101022031600skr.png",
+      "stream_url": null
+    },
+    {
+      "id": "785",
+      "name": "UFC Fight Pass",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/310818013311ufff.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "170",
+      "name": "Viaplay Sports 1",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/041122093027Viaplay_Sports_1.png",
+      "stream_url": null
+    },
+    {
+      "id": "782",
+      "name": "Viaplay Sports 2",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/041122093121Viaplay_Sports_2.png",
+      "stream_url": null
+    }
+  ]
+}

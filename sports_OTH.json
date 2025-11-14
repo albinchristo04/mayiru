@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-14T09:31:57.560198Z",
+    "country": "OTH",
+    "type": "sports_only",
+    "total_channels": 4
+  },
+  "channels": [
+    {
+      "id": "631",
+      "name": "Bein Sports 1",
+      "country": "OTH",
+      "thumbnail": "images/channel_imgs/250118034414beinsp1.png",
+      "stream_url": null
+    },
+    {
+      "id": "632",
+      "name": "Bein Sports 2",
+      "country": "OTH",
+      "thumbnail": "images/channel_imgs/250118034444bein2.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "633",
+      "name": "Bein Sports 3",
+      "country": "OTH",
+      "thumbnail": "images/channel_imgs/250118034734bein3.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "174",
+      "name": "PTV Sports",
+      "country": "OTH",
+      "thumbnail": "images/channel_imgs/200116034954ptvs.PNG",
+      "stream_url": null
+    }
+  ]
+}

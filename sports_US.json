@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-14T09:31:57.560198Z",
+    "country": "US",
+    "type": "sports_only",
+    "total_channels": 14
+  },
+  "channels": [
+    {
+      "id": "415",
+      "name": "Bein Sports",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/041017012448beinus.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "416",
+      "name": "CBS Sports Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/041017012728cbss.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "101",
+      "name": "ESPN",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/160116015231espn.png",
+      "stream_url": null
+    },
+    {
+      "id": "104",
+      "name": "ESPN 2",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116044202espn2.png",
+      "stream_url": null
+    },
+    {
+      "id": "106",
+      "name": "ESPN News",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116044259espnnew.gif",
+      "stream_url": null
+    },
+    {
+      "id": "414",
+      "name": "ESPN U",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/041017012253espnu.png",
+      "stream_url": null
+    },
+    {
+      "id": "120",
+      "name": "Fox Sports 1",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116045235foxsp1.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "121",
+      "name": "Fox Sports 2",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116045256fox2.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "125",
+      "name": "Golf Channel",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116045453golf.png",
+      "stream_url": null
+    },
+    {
+      "id": "148",
+      "name": "MLB Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116013246mlb.png",
+      "stream_url": null
+    },
+    {
+      "id": "159",
+      "name": "NBA TV",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116020842nba.png",
+      "stream_url": null
+    },
+    {
+      "id": "164",
+      "name": "NFL Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116021039nfl.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "494",
+      "name": "NHL network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217100935nhll.png",
+      "stream_url": null
+    },
+    {
+      "id": "306",
+      "name": "Tennis",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/211216095835tennis.png",
+      "stream_url": null
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-14T09:31:57.560198Z",
+    "country": "FR",
+    "type": "sports_only",
+    "total_channels": 9
+  },
+  "channels": [
+    {
+      "id": "49",
+      "name": "Bein Sports 1",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/160116114930bein1f.png",
+      "stream_url": null
+    },
+    {
+      "id": "51",
+      "name": "Bein Sports 2",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/160116115022bein2fr.png",
+      "stream_url": null
+    },
+    {
+      "id": "52",
+      "name": "Bein Sports 3",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/160116115109bein3fr.png",
+      "stream_url": null
+    },
+    {
+      "id": "451",
+      "name": "Bein Sports Max 4",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/201217090105bein4.png",
+      "stream_url": null
+    },
+    {
+      "id": "452",
+      "name": "Bein Sports Max 5",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/201217090208bein5.png",
+      "stream_url": null
+    },
+    {
+      "id": "453",
+      "name": "Bein Sports Max 6",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/201217090246bein6.png",
+      "stream_url": null
+    },
+    {
+      "id": "454",
+      "name": "Bein Sports Max 7",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/201217090332bein7.png",
+      "stream_url": null
+    },
+    {
+      "id": "316",
+      "name": "Canal+ Sport",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/221216034815canalplus sport.gif",
+      "stream_url": null
+    },
+    {
+      "id": "504",
+      "name": "TF1",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/201217102056tf1.jpeg",
+      "stream_url": null
+    }
+  ]
+}

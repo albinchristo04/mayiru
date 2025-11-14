@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-14T09:31:57.560198Z",
+    "country": "ES",
+    "type": "sports_only",
+    "total_channels": 3
+  },
+  "channels": [
+    {
+      "id": "354",
+      "name": "Bein Sports",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/231216034647beinsp.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "359",
+      "name": "Dazn F1",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/131022041033dazn-f1.png",
+      "stream_url": null
+    },
+    {
+      "id": "741",
+      "name": "Euro Sport",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/250518014244eurrrr.png",
+      "stream_url": null
+    }
+  ]
+}

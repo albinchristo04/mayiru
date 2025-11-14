@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-14T09:31:57.560198Z",
+    "country": "AR",
+    "type": "sports_only",
+    "total_channels": 8
+  },
+  "channels": [
+    {
+      "id": "48",
+      "name": "Bein Sports 1",
+      "country": "AR",
+      "thumbnail": "images/channel_imgs/250118041629beinsp1.png",
+      "stream_url": null
+    },
+    {
+      "id": "270",
+      "name": "Bein Sports 2",
+      "country": "AR",
+      "thumbnail": "images/channel_imgs/250118041650bein2.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "271",
+      "name": "Bein Sports 3",
+      "country": "AR",
+      "thumbnail": "images/channel_imgs/130216035348bein3.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "272",
+      "name": "Bein Sports 4",
+      "country": "AR",
+      "thumbnail": "images/channel_imgs/130216035427bein4.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "273",
+      "name": "Bein Sports 5",
+      "country": "AR",
+      "thumbnail": "images/channel_imgs/130216035528bein5.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "274",
+      "name": "Bein Sports 6",
+      "country": "AR",
+      "thumbnail": "images/channel_imgs/130216035739bein6.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "275",
+      "name": "Bein Sports 7",
+      "country": "AR",
+      "thumbnail": "images/channel_imgs/130216035811bein7.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "740",
+      "name": "Bein Sports News",
+      "country": "AR",
+      "thumbnail": "images/channel_imgs/250518014141bein.png",
+      "stream_url": null
+    }
+  ]
+}

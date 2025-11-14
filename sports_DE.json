@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-14T09:31:57.560198Z",
+    "country": "DE",
+    "type": "sports_only",
+    "total_channels": 14
+  },
+  "channels": [
+    {
+      "id": "777",
+      "name": "Dazn 1",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/210818121951dazn.png",
+      "stream_url": null
+    },
+    {
+      "id": "778",
+      "name": "Dazn 2",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/210818122006dazn.png",
+      "stream_url": null
+    },
+    {
+      "id": "385",
+      "name": "Euro Sport",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/150617081436eurosport.png",
+      "stream_url": null
+    },
+    {
+      "id": "401",
+      "name": "Sky Bundesliga 1",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/12121701510510.png",
+      "stream_url": null
+    },
+    {
+      "id": "431",
+      "name": "Sky Bundesliga 2",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/12121701532322.png",
+      "stream_url": null
+    },
+    {
+      "id": "432",
+      "name": "Sky Bundesliga 3",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/12121701522033.png",
+      "stream_url": null
+    },
+    {
+      "id": "433",
+      "name": "Sky Bundesliga 4",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/12121701545144.png",
+      "stream_url": null
+    },
+    {
+      "id": "434",
+      "name": "Sky Bundesliga 5",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/12121701564455.png",
+      "stream_url": null
+    },
+    {
+      "id": "435",
+      "name": "Sky Bundesliga 6",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/12121701573666.png",
+      "stream_url": null
+    },
+    {
+      "id": "436",
+      "name": "Sky Bundesliga 7",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/12121701583177.png",
+      "stream_url": null
+    },
+    {
+      "id": "437",
+      "name": "Sky Bundesliga 8",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/12121701592288.png",
+      "stream_url": null
+    },
+    {
+      "id": "403",
+      "name": "Sky Sport 1 DE",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/150617075308skysporrrr.png",
+      "stream_url": null
+    },
+    {
+      "id": "404",
+      "name": "Sky Sport 2 DE",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/150617075204skysport22.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "405",
+      "name": "Sport 1",
+      "country": "DE",
+      "thumbnail": "images/channel_imgs/150617075053sport1.png",
+      "stream_url": null
+    }
+  ]
+}
