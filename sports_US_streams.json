@@ -1,0 +1,217 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-14T09:32:21.273130Z",
+    "source": "api",
+    "type": "sports_only",
+    "total_channels": 14,
+    "countries_count": 1,
+    "countries": [
+      "US"
+    ],
+    "streams_resolved": true,
+    "channels_with_streams": 14,
+    "stream_success_rate": "100.0%"
+  },
+  "channels_by_country": {
+    "US": [
+      {
+        "id": "415",
+        "name": "Bein Sports",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/041017012448beinus.jpg",
+        "stream_url": "http://stream.mardio.link:8081/live/us-bein.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjExIEFNJmhhc2hfdmFsdWU9TkNuVnZOVXpLaGx0UlpWRm9aa1dadz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzMxNzc5"
+      },
+      {
+        "id": "416",
+        "name": "CBS Sports Network",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/041017012728cbss.jpg",
+        "stream_url": "http://stream.mardio.link:8081/live/us-cbssportshd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjEyIEFNJmhhc2hfdmFsdWU9WTk0b3FqUFlsWlJIK2pRay8zSEYvZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzMyNTAx"
+      },
+      {
+        "id": "101",
+        "name": "ESPN",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/160116015231espn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/us-espn-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjEzIEFNJmhhc2hfdmFsdWU9bjc3c2ZyUzN3cEdCKzUvT2JjSTVLdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzMzMTky"
+      },
+      {
+        "id": "104",
+        "name": "ESPN 2",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/190116044202espn2.png",
+        "stream_url": "http://stream.mardio.link:8081/live/us-espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjEzIEFNJmhhc2hfdmFsdWU9a0psUXZQUnlMSjcvRXV2anZ1UGd3QT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzMzOTgz"
+      },
+      {
+        "id": "106",
+        "name": "ESPN News",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/190116044259espnnew.gif",
+        "stream_url": "http://stream.mardio.link:8081/live/us-espnnewshd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE0IEFNJmhhc2hfdmFsdWU9cnQxeTA2SnhFUHlXNnBkQ05zekQ3dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM0Nzcz"
+      },
+      {
+        "id": "414",
+        "name": "ESPN U",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/041017012253espnu.png",
+        "stream_url": "http://stream.mardio.link:8081/live/us-espnuhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE1IEFNJmhhc2hfdmFsdWU9VDJNd0UrRmgza0I4cjRycUxEN2ZOUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM1NDkw"
+      },
+      {
+        "id": "120",
+        "name": "Fox Sports 1",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/190116045235foxsp1.jpg",
+        "stream_url": "http://stream.mardio.link:8081/live/us-foxsports1hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE2IEFNJmhhc2hfdmFsdWU9ZVNtY3RqTi85R1AvRWJHbWpiL0lzdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM2MTkz"
+      },
+      {
+        "id": "121",
+        "name": "Fox Sports 2",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/190116045256fox2.jpg",
+        "stream_url": "http://stream.mardio.link:8081/live/us-foxsports2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE2IEFNJmhhc2hfdmFsdWU9MVZweWY2bGtnLzd6R0wvWHo0VjVQdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM2OTEw"
+      },
+      {
+        "id": "125",
+        "name": "Golf Channel",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/190116045453golf.png",
+        "stream_url": "http://stream.mardio.link:8081/live/us-golf.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE3IEFNJmhhc2hfdmFsdWU9eE9mUkpNT2dNYlBnT0NoZ2NweTc5QT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM3NjE3"
+      },
+      {
+        "id": "148",
+        "name": "MLB Network",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/200116013246mlb.png",
+        "stream_url": "http://stream.mardio.link:8081/live/us-mlbnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE4IEFNJmhhc2hfdmFsdWU9NmxyVEtMOERsclp6NW1HcnpRWGJQZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM4MzE2"
+      },
+      {
+        "id": "159",
+        "name": "NBA TV",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/200116020842nba.png",
+        "stream_url": "http://stream.mardio.link:8081/live/us-nbanetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE5IEFNJmhhc2hfdmFsdWU9bm9GMTdFRzA4cFhiN3BhZk9HOGlqdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM5MTEw"
+      },
+      {
+        "id": "164",
+        "name": "NFL Network",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/200116021039nfl.jpg",
+        "stream_url": "http://stream.mardio.link:8081/live/us-nflnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE5IEFNJmhhc2hfdmFsdWU9S012RDdxa2o0S0puVzBrbE9CVlJMUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM5Nzk2"
+      },
+      {
+        "id": "494",
+        "name": "NHL network",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/201217100935nhll.png",
+        "stream_url": "http://stream.mardio.link:8081/live/us-nhlnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIwIEFNJmhhc2hfdmFsdWU9NmowVXd6alV4UTl6UjdBQ2ZaRXBQUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQwNTEw"
+      },
+      {
+        "id": "306",
+        "name": "Tennis",
+        "country": "US",
+        "thumbnail": "images/channel_imgs/211216095835tennis.png",
+        "stream_url": "http://stream.mardio.link:8081/live/us-tennis.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIxIEFNJmhhc2hfdmFsdWU9T3VMV05WMVRndTY3T3F2WDRSdUxXZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQxMjIx"
+      }
+    ]
+  },
+  "channels_flat": [
+    {
+      "id": "415",
+      "name": "Bein Sports",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/041017012448beinus.jpg",
+      "stream_url": "http://stream.mardio.link:8081/live/us-bein.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjExIEFNJmhhc2hfdmFsdWU9TkNuVnZOVXpLaGx0UlpWRm9aa1dadz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzMxNzc5"
+    },
+    {
+      "id": "416",
+      "name": "CBS Sports Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/041017012728cbss.jpg",
+      "stream_url": "http://stream.mardio.link:8081/live/us-cbssportshd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjEyIEFNJmhhc2hfdmFsdWU9WTk0b3FqUFlsWlJIK2pRay8zSEYvZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzMyNTAx"
+    },
+    {
+      "id": "101",
+      "name": "ESPN",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/160116015231espn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/us-espn-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjEzIEFNJmhhc2hfdmFsdWU9bjc3c2ZyUzN3cEdCKzUvT2JjSTVLdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzMzMTky"
+    },
+    {
+      "id": "104",
+      "name": "ESPN 2",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116044202espn2.png",
+      "stream_url": "http://stream.mardio.link:8081/live/us-espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjEzIEFNJmhhc2hfdmFsdWU9a0psUXZQUnlMSjcvRXV2anZ1UGd3QT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzMzOTgz"
+    },
+    {
+      "id": "106",
+      "name": "ESPN News",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116044259espnnew.gif",
+      "stream_url": "http://stream.mardio.link:8081/live/us-espnnewshd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE0IEFNJmhhc2hfdmFsdWU9cnQxeTA2SnhFUHlXNnBkQ05zekQ3dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM0Nzcz"
+    },
+    {
+      "id": "414",
+      "name": "ESPN U",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/041017012253espnu.png",
+      "stream_url": "http://stream.mardio.link:8081/live/us-espnuhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE1IEFNJmhhc2hfdmFsdWU9VDJNd0UrRmgza0I4cjRycUxEN2ZOUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM1NDkw"
+    },
+    {
+      "id": "120",
+      "name": "Fox Sports 1",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116045235foxsp1.jpg",
+      "stream_url": "http://stream.mardio.link:8081/live/us-foxsports1hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE2IEFNJmhhc2hfdmFsdWU9ZVNtY3RqTi85R1AvRWJHbWpiL0lzdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM2MTkz"
+    },
+    {
+      "id": "121",
+      "name": "Fox Sports 2",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116045256fox2.jpg",
+      "stream_url": "http://stream.mardio.link:8081/live/us-foxsports2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE2IEFNJmhhc2hfdmFsdWU9MVZweWY2bGtnLzd6R0wvWHo0VjVQdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM2OTEw"
+    },
+    {
+      "id": "125",
+      "name": "Golf Channel",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116045453golf.png",
+      "stream_url": "http://stream.mardio.link:8081/live/us-golf.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE3IEFNJmhhc2hfdmFsdWU9eE9mUkpNT2dNYlBnT0NoZ2NweTc5QT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM3NjE3"
+    },
+    {
+      "id": "148",
+      "name": "MLB Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116013246mlb.png",
+      "stream_url": "http://stream.mardio.link:8081/live/us-mlbnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE4IEFNJmhhc2hfdmFsdWU9NmxyVEtMOERsclp6NW1HcnpRWGJQZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM4MzE2"
+    },
+    {
+      "id": "159",
+      "name": "NBA TV",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116020842nba.png",
+      "stream_url": "http://stream.mardio.link:8081/live/us-nbanetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE5IEFNJmhhc2hfdmFsdWU9bm9GMTdFRzA4cFhiN3BhZk9HOGlqdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM5MTEw"
+    },
+    {
+      "id": "164",
+      "name": "NFL Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116021039nfl.jpg",
+      "stream_url": "http://stream.mardio.link:8081/live/us-nflnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE5IEFNJmhhc2hfdmFsdWU9S012RDdxa2o0S0puVzBrbE9CVlJMUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM5Nzk2"
+    },
+    {
+      "id": "494",
+      "name": "NHL network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217100935nhll.png",
+      "stream_url": "http://stream.mardio.link:8081/live/us-nhlnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIwIEFNJmhhc2hfdmFsdWU9NmowVXd6alV4UTl6UjdBQ2ZaRXBQUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQwNTEw"
+    },
+    {
+      "id": "306",
+      "name": "Tennis",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/211216095835tennis.png",
+      "stream_url": "http://stream.mardio.link:8081/live/us-tennis.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIxIEFNJmhhc2hfdmFsdWU9T3VMV05WMVRndTY3T3F2WDRSdUxXZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQxMjIx"
+    }
+  ]
+}

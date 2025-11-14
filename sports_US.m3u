@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1,TVTap - US Sports Channels
+
+#EXTINF:-1 tvg-name="Bein Sports" tvg-country="US",Bein Sports
+http://stream.mardio.link:8081/live/us-bein.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjExIEFNJmhhc2hfdmFsdWU9TkNuVnZOVXpLaGx0UlpWRm9aa1dadz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzMxNzc5
+
+#EXTINF:-1 tvg-name="CBS Sports Network" tvg-country="US",CBS Sports Network
+http://stream.mardio.link:8081/live/us-cbssportshd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjEyIEFNJmhhc2hfdmFsdWU9WTk0b3FqUFlsWlJIK2pRay8zSEYvZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzMyNTAx
+
+#EXTINF:-1 tvg-name="ESPN" tvg-country="US",ESPN
+http://stream.mardio.link:8081/live/us-espn-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjEzIEFNJmhhc2hfdmFsdWU9bjc3c2ZyUzN3cEdCKzUvT2JjSTVLdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzMzMTky
+
+#EXTINF:-1 tvg-name="ESPN 2" tvg-country="US",ESPN 2
+http://stream.mardio.link:8081/live/us-espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjEzIEFNJmhhc2hfdmFsdWU9a0psUXZQUnlMSjcvRXV2anZ1UGd3QT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzMzOTgz
+
+#EXTINF:-1 tvg-name="ESPN News" tvg-country="US",ESPN News
+http://stream.mardio.link:8081/live/us-espnnewshd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE0IEFNJmhhc2hfdmFsdWU9cnQxeTA2SnhFUHlXNnBkQ05zekQ3dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM0Nzcz
+
+#EXTINF:-1 tvg-name="ESPN U" tvg-country="US",ESPN U
+http://stream.mardio.link:8081/live/us-espnuhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE1IEFNJmhhc2hfdmFsdWU9VDJNd0UrRmgza0I4cjRycUxEN2ZOUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM1NDkw
+
+#EXTINF:-1 tvg-name="Fox Sports 1" tvg-country="US",Fox Sports 1
+http://stream.mardio.link:8081/live/us-foxsports1hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE2IEFNJmhhc2hfdmFsdWU9ZVNtY3RqTi85R1AvRWJHbWpiL0lzdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM2MTkz
+
+#EXTINF:-1 tvg-name="Fox Sports 2" tvg-country="US",Fox Sports 2
+http://stream.mardio.link:8081/live/us-foxsports2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE2IEFNJmhhc2hfdmFsdWU9MVZweWY2bGtnLzd6R0wvWHo0VjVQdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM2OTEw
+
+#EXTINF:-1 tvg-name="Golf Channel" tvg-country="US",Golf Channel
+http://stream.mardio.link:8081/live/us-golf.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE3IEFNJmhhc2hfdmFsdWU9eE9mUkpNT2dNYlBnT0NoZ2NweTc5QT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM3NjE3
+
+#EXTINF:-1 tvg-name="MLB Network" tvg-country="US",MLB Network
+http://stream.mardio.link:8081/live/us-mlbnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE4IEFNJmhhc2hfdmFsdWU9NmxyVEtMOERsclp6NW1HcnpRWGJQZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM4MzE2
+
+#EXTINF:-1 tvg-name="NBA TV" tvg-country="US",NBA TV
+http://stream.mardio.link:8081/live/us-nbanetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE5IEFNJmhhc2hfdmFsdWU9bm9GMTdFRzA4cFhiN3BhZk9HOGlqdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM5MTEw
+
+#EXTINF:-1 tvg-name="NFL Network" tvg-country="US",NFL Network
+http://stream.mardio.link:8081/live/us-nflnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE5IEFNJmhhc2hfdmFsdWU9S012RDdxa2o0S0puVzBrbE9CVlJMUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM5Nzk2
+
+#EXTINF:-1 tvg-name="NHL network" tvg-country="US",NHL network
+http://stream.mardio.link:8081/live/us-nhlnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIwIEFNJmhhc2hfdmFsdWU9NmowVXd6alV4UTl6UjdBQ2ZaRXBQUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQwNTEw
+
+#EXTINF:-1 tvg-name="Tennis" tvg-country="US",Tennis
+http://stream.mardio.link:8081/live/us-tennis.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIxIEFNJmhhc2hfdmFsdWU9T3VMV05WMVRndTY3T3F2WDRSdUxXZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQxMjIx
+
