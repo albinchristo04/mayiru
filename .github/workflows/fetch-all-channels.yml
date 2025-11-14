@@ -1,4 +1,4 @@
-name: Fetch TVTap All Channels
+name: Fetch TVTap Sports Channels
 
 on:
   schedule:
@@ -15,19 +15,20 @@ on:
         description: 'Filter by country code (e.g., IT, US, UK) - leave empty for all'
         required: false
         type: string
-      limit:
-        description: 'Limit number of channels (for testing)'
+      max_streams:
+        description: 'Max streams to resolve (to avoid timeout)'
         required: false
         type: number
+        default: 100
   push:
     branches:
       - main
     paths:
-      - 'tvtap_all_channels.py'
-      - '.github/workflows/fetch-all-channels.yml'
+      - 'tvtap_sports_fetcher.py'
+      - '.github/workflows/fetch-sports-channels.yml'
 
 jobs:
-  fetch-all-channels:
+  fetch-sports-metadata:
     runs-on: ubuntu-latest
     
     steps:
@@ -44,25 +45,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests pycryptodome pyDes
       
-      - name: Fetch all channels (metadata only)
-        if: github.event.inputs.resolve_streams != 'true' && !github.event.inputs.country_filter && !github.event.inputs.limit
+      - name: Fetch sports channels metadata
         run: |
-          python tvtap_all_channels.py > channels_all.json 2> fetch.log
-      
-      - name: Fetch channels with custom options
-        if: github.event.inputs.resolve_streams == 'true' || github.event.inputs.country_filter || github.event.inputs.limit
-        run: |
-          ARGS=""
-          if [ "${{ github.event.inputs.resolve_streams }}" == "true" ]; then
-            ARGS="$ARGS --resolve-streams"
-          fi
-          if [ -n "${{ github.event.inputs.country_filter }}" ]; then
-            ARGS="$ARGS --country ${{ github.event.inputs.country_filter }}"
-          fi
-          if [ -n "${{ github.event.inputs.limit }}" ]; then
-            ARGS="$ARGS --limit ${{ github.event.inputs.limit }}"
-          fi
-          python tvtap_all_channels.py $ARGS > channels_all.json 2> fetch.log
+          python tvtap_sports_fetcher.py > sports_channels.json 2> fetch.log
       
       - name: Display fetch log
         if: always()
@@ -70,10 +55,10 @@ jobs:
       
       - name: Generate country-specific files
         run: |
-          # Extract each country into separate file
           python -c "
           import json
-          with open('channels_all.json', 'r') as f:
+          
+          with open('sports_channels.json', 'r') as f:
               data = json.load(f)
           
           # Save each country separately
@@ -82,27 +67,29 @@ jobs:
                   'metadata': {
                       'timestamp': data['metadata']['timestamp'],
                       'country': country,
+                      'type': 'sports_only',
                       'total_channels': len(channels)
                   },
                   'channels': channels
               }
-              with open(f'channels_{country}.json', 'w') as cf:
+              with open(f'sports_{country}.json', 'w') as cf:
                   json.dump(country_data, cf, ensure_ascii=False, indent=2)
           
           print(f'Generated files for {len(data[\"channels_by_country\"])} countries')
           " 2>&1 | tee country_split.log
       
-      - name: Generate channel statistics
+      - name: Generate sports statistics
         run: |
           python -c "
           import json
           
-          with open('channels_all.json', 'r') as f:
+          with open('sports_channels.json', 'r') as f:
               data = json.load(f)
           
           stats = {
               'timestamp': data['metadata']['timestamp'],
-              'total_channels': data['metadata']['total_channels'],
+              'type': 'sports_channels',
+              'total_sports_channels': data['metadata']['total_channels'],
               'total_countries': data['metadata']['countries_count'],
               'countries': {}
           }
@@ -113,49 +100,57 @@ jobs:
                   'channel_names': [ch['name'] for ch in channels]
               }
           
-          with open('statistics.json', 'w') as f:
+          with open('sports_statistics.json', 'w') as f:
               json.dump(stats, f, ensure_ascii=False, indent=2)
           
           # Generate README stats
-          with open('STATS.md', 'w') as f:
-              f.write('# TVTap Channels Statistics\n\n')
+          with open('SPORTS_STATS.md', 'w') as f:
+              f.write('# TVTap Sports Channels Statistics\n\n')
               f.write(f'**Last Updated:** {data[\"metadata\"][\"timestamp\"]}\n\n')
-              f.write(f'**Total Channels:** {data[\"metadata\"][\"total_channels\"]}\n\n')
+              f.write(f'**Total Sports Channels:** {data[\"metadata\"][\"total_channels\"]}\n\n')
               f.write(f'**Total Countries:** {data[\"metadata\"][\"countries_count\"]}\n\n')
-              f.write('## Channels by Country\n\n')
+              f.write('## Sports Channels by Country\n\n')
               
-              for country in sorted(stats['countries'].keys()):
-                  count = stats['countries'][country]['channel_count']
-                  f.write(f'- **{country}**: {count} channels\n')
+              # Sort by channel count descending
+              sorted_countries = sorted(stats['countries'].items(), 
+                                      key=lambda x: x[1]['channel_count'], 
+                                      reverse=True)
+              
+              for country, info in sorted_countries:
+                  count = info['channel_count']
+                  f.write(f'### {country} ({count} channels)\n\n')
+                  for name in sorted(info['channel_names']):
+                      f.write(f'- {name}\n')
+                  f.write('\n')
           
-          print('Statistics generated successfully')
+          print('Sports statistics generated successfully')
           " 2>&1 | tee stats.log
       
-      - name: Upload all channels JSON as artifact
+      - name: Upload sports metadata
         uses: actions/upload-artifact@v4
         with:
-          name: tvtap-all-channels-${{ github.run_number }}
+          name: tvtap-sports-metadata-${{ github.run_number }}
           path: |
-            channels_all.json
-            channels_*.json
-            statistics.json
-            STATS.md
+            sports_channels.json
+            sports_*.json
+            sports_statistics.json
+            SPORTS_STATS.md
             *.log
           retention-days: 90
       
-      - name: Commit and push if changes
+      - name: Commit metadata changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Add all generated files
-          git add -A
+          git add sports_channels.json sports_*.json sports_statistics.json SPORTS_STATS.md
           
-          # Check if there are changes
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Update TVTap channels - $(date -u '+%Y-%m-%d %H:%M:%S UTC')" \
-                       -m "Total channels: $(cat statistics.json | grep -o '\"total_channels\": [0-9]*' | grep -o '[0-9]*')" \
-                       -m "Countries: $(cat statistics.json | grep -o '\"total_countries\": [0-9]*' | grep -o '[0-9]*')"
+            CHANNEL_COUNT=$(cat sports_statistics.json | grep -o '\"total_sports_channels\": [0-9]*' | grep -o '[0-9]*')
+            COUNTRY_COUNT=$(cat sports_statistics.json | grep -o '\"total_countries\": [0-9]*' | grep -o '[0-9]*')
+            git commit -m "Update sports channels metadata - $(date -u '+%Y-%m-%d %H:%M:%S UTC')" \
+                       -m "Total sports channels: $CHANNEL_COUNT" \
+                       -m "Countries: $COUNTRY_COUNT"
             git push
           else
             echo "No changes to commit"
@@ -163,10 +158,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
-  fetch-italian-channels-with-streams:
+  fetch-popular-sports-streams:
     runs-on: ubuntu-latest
-    needs: fetch-all-channels
-    if: github.event.schedule || github.event_name == 'workflow_dispatch'
+    needs: fetch-sports-metadata
+    if: github.event.schedule || (github.event_name == 'workflow_dispatch' && github.event.inputs.resolve_streams == 'true')
+    strategy:
+      matrix:
+        country: ['IT', 'US', 'UK', 'ES']
+      fail-fast: false
     
     steps:
       - name: Checkout repository
@@ -182,59 +181,75 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests pycryptodome pyDes
       
-      - name: Fetch Italian channels with streams
+      - name: Fetch sports streams for ${{ matrix.country }}
         run: |
-          python tvtap_all_channels.py --country IT --resolve-streams > channels_IT_with_streams.json 2> fetch_it_streams.log
+          MAX_STREAMS=${{ github.event.inputs.max_streams || '50' }}
+          python tvtap_sports_fetcher.py \
+            --country ${{ matrix.country }} \
+            --resolve-streams \
+            --max-streams $MAX_STREAMS \
+            --stream-delay 0.3 \
+            > sports_${{ matrix.country }}_streams.json 2> fetch_${{ matrix.country }}_streams.log
+        timeout-minutes: 25
       
-      - name: Display Italian streams log
+      - name: Display stream fetch log
         if: always()
-        run: cat fetch_it_streams.log
+        run: cat fetch_${{ matrix.country }}_streams.log || echo "No log file"
       
-      - name: Generate M3U playlist for Italian channels
+      - name: Generate M3U playlist for ${{ matrix.country }}
+        if: success()
         run: |
           python -c "
           import json
+          import sys
           
-          with open('channels_IT_with_streams.json', 'r') as f:
-              data = json.load(f)
-          
-          with open('italian_channels.m3u', 'w') as f:
-              f.write('#EXTM3U\n')
-              f.write('#EXTINF:-1,TVTap - Italian Channels\n\n')
+          try:
+              with open('sports_${{ matrix.country }}_streams.json', 'r') as f:
+                  data = json.load(f)
               
-              channels_added = 0
-              for channel in data['channels_flat']:
-                  if channel.get('stream_url'):
-                      name = channel['name']
-                      url = channel['stream_url'].split('|')[0]  # Clean URL
-                      f.write(f'#EXTINF:-1,{name}\n')
-                      f.write(f'{url}\n\n')
-                      channels_added += 1
-              
-              print(f'M3U playlist created with {channels_added} channels')
-          " 2>&1 | tee m3u_gen.log
+              with open('sports_${{ matrix.country }}.m3u', 'w') as f:
+                  f.write('#EXTM3U\n')
+                  f.write('#EXTINF:-1,TVTap - ${{ matrix.country }} Sports Channels\n\n')
+                  
+                  channels_added = 0
+                  for channel in data.get('channels_flat', []):
+                      if channel.get('stream_url'):
+                          name = channel['name']
+                          url = channel['stream_url'].split('|')[0]  # Clean URL
+                          
+                          # Add channel info
+                          f.write(f'#EXTINF:-1 tvg-name=\"{name}\" tvg-country=\"${{ matrix.country }}\",{name}\n')
+                          f.write(f'{url}\n\n')
+                          channels_added += 1
+                  
+                  print(f'M3U playlist created with {channels_added} channels')
+          except Exception as e:
+              print(f'Error creating M3U: {e}', file=sys.stderr)
+              sys.exit(1)
+          " 2>&1 | tee m3u_${{ matrix.country }}.log
       
-      - name: Upload Italian channels with streams
+      - name: Upload ${{ matrix.country }} sports streams
         uses: actions/upload-artifact@v4
         with:
-          name: tvtap-italian-streams-${{ github.run_number }}
+          name: tvtap-sports-${{ matrix.country }}-streams-${{ github.run_number }}
           path: |
-            channels_IT_with_streams.json
-            italian_channels.m3u
-            fetch_it_streams.log
-            m3u_gen.log
+            sports_${{ matrix.country }}_streams.json
+            sports_${{ matrix.country }}.m3u
+            fetch_${{ matrix.country }}_streams.log
+            m3u_${{ matrix.country }}.log
           retention-days: 30
       
-      - name: Commit Italian channels
+      - name: Commit ${{ matrix.country }} streams
+        if: success()
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          git pull
-          git add channels_IT_with_streams.json italian_channels.m3u
+          git pull --rebase
+          git add sports_${{ matrix.country }}_streams.json sports_${{ matrix.country }}.m3u
           
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Update Italian channels with streams - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+            git commit -m "Update ${{ matrix.country }} sports streams - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
             git push
           fi
         env:
