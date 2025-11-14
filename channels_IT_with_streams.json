@@ -1,0 +1,1069 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-14T02:02:08.930135Z",
+    "source": "api",
+    "total_channels": 75,
+    "countries_count": 1,
+    "countries": [
+      "IT"
+    ],
+    "streams_resolved": true,
+    "channels_with_streams": 75
+  },
+  "channels_by_country": {
+    "IT": [
+      {
+        "id": "813",
+        "name": "Baby TV",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/111018013256baby.jpg",
+        "stream_url": "http://stream.mardio.link:8081/live/it-babytv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjQ3IEFNJmhhc2hfdmFsdWU9ajhaNnhGcU8vUE5pejlHWGhKL1U5Zz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjQ3MzY5"
+      },
+      {
+        "id": "812",
+        "name": "Boomerang",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/111018013155boome.gif",
+        "stream_url": "http://stream.mardio.link:8081/live/it-boomerang.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjQ4IEFNJmhhc2hfdmFsdWU9M1dhOFhGTUFld3UzVW5CRm0vREUyZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjQ4NDkz"
+      },
+      {
+        "id": "438",
+        "name": "Canale 5",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/13121701250455.gif",
+        "stream_url": "http://stream.mardio.link:8081/live/it-canale5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjQ5IEFNJmhhc2hfdmFsdWU9bHlZb0hQa2paUUk0eCtDayt4Znp1Zz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjQ5NTk1"
+      },
+      {
+        "id": "439",
+        "name": "Cartoon Network",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/131217012619cnn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-cartoonnetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjUwIEFNJmhhc2hfdmFsdWU9UlpWMXllaWpQUUN1OVhWYmVOaWx0Zz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjUwNzAw"
+      },
+      {
+        "id": "810",
+        "name": "Classica",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/111018012907classica.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-classica.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjUxIEFNJmhhc2hfdmFsdWU9KzB2WmdDMmJFUkZ6Y1FDcTRRenJ5Zz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjUxODEx"
+      },
+      {
+        "id": "776",
+        "name": "Comedy Central-",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/130818012353comedy.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-comedycentral.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjUyIEFNJmhhc2hfdmFsdWU9QnF2djRGOFVhQjgyZmUvK3ZZZGxxdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjUyODkz"
+      },
+      {
+        "id": "830",
+        "name": "Dazn 1",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/161019085616dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjUzIEFNJmhhc2hfdmFsdWU9WEJOOVA0MXE3ZGplMjNzelU4K3NMZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjUzOTg0"
+      },
+      {
+        "id": "819",
+        "name": "Dazn 10",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/031118035735dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn10.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjU1IEFNJmhhc2hfdmFsdWU9ZUFlcHZlWG5WNWpJZW5lWm44QzhkUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjU1MDk1"
+      },
+      {
+        "id": "820",
+        "name": "Dazn 11",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/031118035743dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn11.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjU2IEFNJmhhc2hfdmFsdWU9QlVjOVlKZEJxNHJ5bm1NM3NuNHA3dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjU2MjU4"
+      },
+      {
+        "id": "768",
+        "name": "Dazn 2",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/100818031954dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjU3IEFNJmhhc2hfdmFsdWU9TjFxb0ljM2hCbGdSbTVGaE1hQ0ZUUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjU3NTIz"
+      },
+      {
+        "id": "769",
+        "name": "Dazn 3",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/100818032007dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjU4IEFNJmhhc2hfdmFsdWU9WnlPR2tSUzNjL2NiVS9RREFoUzZxZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjU4NjIy"
+      },
+      {
+        "id": "770",
+        "name": "Dazn 4",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/100818032020dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjU5IEFNJmhhc2hfdmFsdWU9V29iTDltdGdraG9FbWV1TFUxTG9udz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjU5NzA5"
+      },
+      {
+        "id": "771",
+        "name": "Dazn 5",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/100818032033dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjAwIEFNJmhhc2hfdmFsdWU9VGY5TlhzcFlGZXQyQndkN0pPbm9iZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjYwNzk5"
+      },
+      {
+        "id": "815",
+        "name": "Dazn 6",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/031118035634dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjAxIEFNJmhhc2hfdmFsdWU9eXBkc1dOM0FzdmFuKzJnbW1uQzBhUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjYxODk3"
+      },
+      {
+        "id": "816",
+        "name": "Dazn 7",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/031118035755dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn7.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjAzIEFNJmhhc2hfdmFsdWU9WEtzVSs5dm84dzE5eGNSWGp3QWJ1Zz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjYzMDA1"
+      },
+      {
+        "id": "817",
+        "name": "Dazn 8",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/031118035807dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn8.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjA0IEFNJmhhc2hfdmFsdWU9WkNoS25uVCtodnFvUDB2elNrUm9sQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjY0MTA3"
+      },
+      {
+        "id": "818",
+        "name": "Dazn 9",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/031118035815dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjA1IEFNJmhhc2hfdmFsdWU9VlJXeTh5Q0dPaE9ORW5iUDFwREpNZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjY1MjA2"
+      },
+      {
+        "id": "811",
+        "name": "Dea Kids",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/121118053223db.php",
+        "stream_url": "http://stream.mardio.link:8081/live/it-deakids.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjA2IEFNJmhhc2hfdmFsdWU9cUNvS3RSa2hDRFVxT0x0U1kwVkxnZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjY2Mjkz"
+      },
+      {
+        "id": "700",
+        "name": "Discovery",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/020518010950dis.jpg",
+        "stream_url": "http://stream.mardio.link:8081/live/it-discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjA3IEFNJmhhc2hfdmFsdWU9d1RqejdjSm1FeWFPQ0lReW5EMzBsdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjY3Mzgz"
+      },
+      {
+        "id": "731",
+        "name": "Discovery Real Time",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/220518013354realll.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-realtime.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjA4IEFNJmhhc2hfdmFsdWU9cFpEMURKclI2YzNEVnBTdFlqand4dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjY4NTAx"
+      },
+      {
+        "id": "737",
+        "name": "Discovery Science",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/220518014439sci.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-discoveryscience.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjA5IEFNJmhhc2hfdmFsdWU9cmRFZkFrZEVZZm1HeWd1ZlBhbkZ3UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjY5NjA4"
+      },
+      {
+        "id": "713",
+        "name": "Discovery Travel & Living",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/140518053444diss.jpeg",
+        "stream_url": "http://stream.mardio.link:8081/live/it-discoverytravel.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjEwIEFNJmhhc2hfdmFsdWU9NllKK0lSN3ZIZ2NPTjdVUnhOV0d0dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjcwNzA4"
+      },
+      {
+        "id": "732",
+        "name": "Dmax",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/220518013431dmax.jpg",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dmax.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjExIEFNJmhhc2hfdmFsdWU9dlIvZDRUUGJvNkxuTmZ5SlpLU2VnUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjcxODA1"
+      },
+      {
+        "id": "711",
+        "name": "Euro Sport",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/140518053159eur.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-eurosport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjEyIEFNJmhhc2hfdmFsdWU9Rm5xUHp2b09ZMnR1M3g3VStlQ2tsdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjcyODk0"
+      },
+      {
+        "id": "712",
+        "name": "Euro Sport 2",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/140518053309euro2.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-eurosport2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjEzIEFNJmhhc2hfdmFsdWU9eTk0MmRIUEtGdDFmMXpLczR0cDNJZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjczOTg0"
+      },
+      {
+        "id": "442",
+        "name": "History",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/131217013205his.jpg",
+        "stream_url": "http://stream.mardio.link:8081/live/it-history.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjE1IEFNJmhhc2hfdmFsdWU9aC9qK2VRYWhMNC8wUnBCM3BXWWxsQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njc1MDgy"
+      },
+      {
+        "id": "739",
+        "name": "Inter Tv",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/250518014057inter.jpg",
+        "stream_url": "http://stream.mardio.link:8081/live/it-intertv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjE2IEFNJmhhc2hfdmFsdWU9eXV3S08zbWl3dFdhbWN2R3AxTWc4dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njc2MjA4"
+      },
+      {
+        "id": "443",
+        "name": "Italia 1",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/131217013326it1.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-italia1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjE3IEFNJmhhc2hfdmFsdWU9QUNYMG9sWUpoUi9FVUt5VTQ4dUk3Zz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njc3MzA4"
+      },
+      {
+        "id": "466",
+        "name": "La 7",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/201217092735la7.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-la7.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjE4IEFNJmhhc2hfdmFsdWU9Sk9aWm45aWc3VGV0SEZHcjdFZ1FnZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njc4NDA3"
+      },
+      {
+        "id": "794",
+        "name": "Lazio Style",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/150918123638lazo.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-lazio.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjE5IEFNJmhhc2hfdmFsdWU9YUpqRHlKYllXUmQrb1ZQcFZIWFptdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njc5NDk0"
+      },
+      {
+        "id": "797",
+        "name": "MediaSet Focus",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/250918041549Focus_New.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-focus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjIyIEFNJmhhc2hfdmFsdWU9eExSY2N3QXZudWlEMkF5T2RjRXFPUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjgyNzk2"
+      },
+      {
+        "id": "718",
+        "name": "Mediaset 2",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/140518054804mediaset.jpg",
+        "stream_url": "http://stream.mardio.link:8081/live/it-mediaset2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjIwIEFNJmhhc2hfdmFsdWU9SExoRE1QNmlUb1p1Vis3UVV5aXhqQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjgwNTg3"
+      },
+      {
+        "id": "749",
+        "name": "Mediaset Extra",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/140618010621extr.jpeg",
+        "stream_url": "http://stream.mardio.link:8081/live/it-mediasetextra.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjIxIEFNJmhhc2hfdmFsdWU9ajIxV1hrcUNjdWFyY3A1eVJTZkN3Zz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjgxNjg1"
+      },
+      {
+        "id": "729",
+        "name": "Milan tv",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/220518013021milan.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-milantv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjIzIEFNJmhhc2hfdmFsdWU9VFJkTzdzcFBTcFFTVzZSSnNvSjFCZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjgzODk3"
+      },
+      {
+        "id": "791",
+        "name": "Nicklodean",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/310818124938nicku.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-nicklodeon.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjI0IEFNJmhhc2hfdmFsdWU9Ym12SFB5ejFTYThicE5IYkFXMzRGZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njg0OTkz"
+      },
+      {
+        "id": "801",
+        "name": "Nove",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/250918041937nove.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-nove.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjI2IEFNJmhhc2hfdmFsdWU9a3ZCdDJjZDVEc0JTcnB1Nmdkc250dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njg2MDgz"
+      },
+      {
+        "id": "426",
+        "name": "Rai 1",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/071217024326rai1.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-rai1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjI3IEFNJmhhc2hfdmFsdWU9dkhqOVR5am1BbmxpTEFUdlhxVzFKZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njg3MTcy"
+      },
+      {
+        "id": "427",
+        "name": "Rai 2",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/071217024432rai2.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-rai2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjI4IEFNJmhhc2hfdmFsdWU9cTIxNDNEREpJdGRPWHY2cFk4Uk9nUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njg4Mjcw"
+      },
+      {
+        "id": "428",
+        "name": "Rai 3",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/071217024513rai3.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-rai3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjI5IEFNJmhhc2hfdmFsdWU9Q0JoSmljK3NXeEczejlVNzJLa3dhQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njg5Mzc2"
+      },
+      {
+        "id": "429",
+        "name": "Rai 4",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/071217024545rai4.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-rai4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjMwIEFNJmhhc2hfdmFsdWU9WE9tK2hpRmQ4ZWRJOUVwVDB6c3pyQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjkwNDc2"
+      },
+      {
+        "id": "430",
+        "name": "Rai 5",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/071217024754rai5.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-rai5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjMxIEFNJmhhc2hfdmFsdWU9WUozbktrckxkVW43emRhT1h2Y3Z4UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjkxNTcz"
+      },
+      {
+        "id": "800",
+        "name": "Rai Movie",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/250918041844raaaai.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-raimovie.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjMyIEFNJmhhc2hfdmFsdWU9Rkh2YzJQZFdDelNmRlZWNjU5alpEdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjkyNjYw"
+      },
+      {
+        "id": "784",
+        "name": "Rai Premium",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/210818123233raiii.jpeg",
+        "stream_url": "http://stream.mardio.link:8081/live/it-raipremium.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjM0IEFNJmhhc2hfdmFsdWU9a1F2bHFsQkFjLzIwcXhUMzRicUVFZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njk0ODQ4"
+      },
+      {
+        "id": "698",
+        "name": "Rai news 24",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/250418043056ree.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-rainews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjMzIEFNJmhhc2hfdmFsdWU9SVAxcTVrejlPWUx6Wis0MWRRd3g3dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjkzNzQ5"
+      },
+      {
+        "id": "465",
+        "name": "Rete 4",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/201217092643retee.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-rete4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjM1IEFNJmhhc2hfdmFsdWU9eDVPMU5aSjMwQVBRd2ZBN2tWY1Q4dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njk1OTUz"
+      },
+      {
+        "id": "710",
+        "name": "Sky Atlantic",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/140518052900atl.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skyatlantic.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjM3IEFNJmhhc2hfdmFsdWU9VUhBc2ZCYlI3dm0wOTlEYWF1UmoyUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njk3MDU0"
+      },
+      {
+        "id": "582",
+        "name": "Sky Calcio 1",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223031412cal1.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-sky-calcio1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjM4IEFNJmhhc2hfdmFsdWU9RUNac2M4RFVrbEo0UEdtYm92QUt3dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njk4MTUy"
+      },
+      {
+        "id": "583",
+        "name": "Sky Calcio 2",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223031528cal2.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-sky-calcio2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjM5IEFNJmhhc2hfdmFsdWU9NDM4VFo3M1dRVG5LcXpqclY0cTRMdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njk5MjM5"
+      },
+      {
+        "id": "706",
+        "name": "Sky Calcio 3",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223031538cal3.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skycalcio3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjQwIEFNJmhhc2hfdmFsdWU9QlNjSTlHcG5wSEZhNjRsY01RZTZtdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzAwMzI5"
+      },
+      {
+        "id": "707",
+        "name": "Sky Calcio 4",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223031552cal4.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skycalcio4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjQxIEFNJmhhc2hfdmFsdWU9SERhdE5DSXFhZWhIV1ZJTjViaTVHZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzAxNDI2"
+      },
+      {
+        "id": "708",
+        "name": "Sky Calcio 5",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223031609cal5.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skycalcio5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjQyIEFNJmhhc2hfdmFsdWU9VjhZdmRnYUdRcUtycUR2L2hheVRBQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzAyNTMw"
+      },
+      {
+        "id": "709",
+        "name": "Sky Calcio 6",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223031621cal6.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skycalcio6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjQzIEFNJmhhc2hfdmFsdWU9Tk5kSXFUekViT0tXTjJPSStwNVdhQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzAzNjM0"
+      },
+      {
+        "id": "876",
+        "name": "Sky Calcio 7",
+        "country": "IT",
+        "thumbnail": "/images/channel_imgs/200223032135cal7.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-sky-calcio7.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjQ0IEFNJmhhc2hfdmFsdWU9QlBUVG9MOFVNa0FFVllyU1Mva1luQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzA0NzMy"
+      },
+      {
+        "id": "877",
+        "name": "Sky Calcio 8",
+        "country": "IT",
+        "thumbnail": "/images/channel_imgs/200223032149cal8.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-sky-calcio8.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjQ1IEFNJmhhc2hfdmFsdWU9WHhrU2RhQmpoMy9IL0cwS0RMMnlCdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzA1ODIy"
+      },
+      {
+        "id": "878",
+        "name": "Sky Calcio 9",
+        "country": "IT",
+        "thumbnail": "/images/channel_imgs/200223032202cal9.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-sky-calcio9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjQ2IEFNJmhhc2hfdmFsdWU9S1p3WEhwdys0K0JkSjBoUmRKUkxXdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzA2OTA5"
+      },
+      {
+        "id": "590",
+        "name": "Sky Cinema Action",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/190223011205Sky_Cinema_Action_-_Logo_2021.svg.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-sky-cinema-max.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjQ4IEFNJmhhc2hfdmFsdWU9YlN0SVFLV0F1a3htajZwZDVQcE9NQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzA4MDA4"
+      },
+      {
+        "id": "589",
+        "name": "Sky Cinema Collection",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/190223010724Sky_Cinema_Collection_-_Logo_2021.svg.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-sky-cinema-collection.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjQ5IEFNJmhhc2hfdmFsdWU9R3RZYWRpNC84aUQxQVBpdVdZbjlqdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzA5MTEz"
+      },
+      {
+        "id": "586",
+        "name": "Sky Cinema Comedy",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/190223010812Sky_Cinema_Comedy_-_Logo_2021.svg.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-sky-cinema-comedy.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjUwIEFNJmhhc2hfdmFsdWU9UmtNVHhLWU84Nko5Y3o5bWZZckhnQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzEwMjEz"
+      },
+      {
+        "id": "587",
+        "name": "Sky Cinema Due",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/190223011459Sky_Cinema_Due_-_Logo_2021.svg.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-sky-cinema-due.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjUxIEFNJmhhc2hfdmFsdWU9VkE3WXdCWWI5VG95RExmM2FQQmRjdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzExMzEx"
+      },
+      {
+        "id": "588",
+        "name": "Sky Cinema Family",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/190223011523Sky_Cinema_Family_-_Logo_2021.svg.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-sky-cinema-family.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjUyIEFNJmhhc2hfdmFsdWU9VjA1NzFhZ1RSd2tBa3Zpclg1NHowQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzEyMzk4"
+      },
+      {
+        "id": "591",
+        "name": "Sky Cinema Romance",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/190223010955Sky_Cinema_Romance_-_Logo_2021.svg.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-sky-cinema-romance.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjUzIEFNJmhhc2hfdmFsdWU9TkFmRW0wTzN4V2dMalpGQWJkMkorZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzEzNDg3"
+      },
+      {
+        "id": "584",
+        "name": "Sky Cinema UNO",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/190223011941Sky_Cinema_Uno_-_Logo_2021.svg.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skycinema-uno.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjU0IEFNJmhhc2hfdmFsdWU9UG5YYzZOekh0Yk14c1Rjd0FQaU1MUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzE0NTg2"
+      },
+      {
+        "id": "629",
+        "name": "Sky Sport 24",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223035132Sky_Sport_24_-_Logo_2020.svg.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skysports24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjU1IEFNJmhhc2hfdmFsdWU9eGs1WHdrZUN5dlRBQUlSb3ViZWFGdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzE1Njkz"
+      },
+      {
+        "id": "579",
+        "name": "Sky Sport Arena",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/190718073708arenaa.jpeg",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skysport-arena.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjU2IEFNJmhhc2hfdmFsdWU9bytWbTRCd3ZaRkRPcFAxaXdXbkFVdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzE2Nzky"
+      },
+      {
+        "id": "705",
+        "name": "Sky Sport Calcio",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/190223125815Sky_Sport_Calcio.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skysportcalcio.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjU3IEFNJmhhc2hfdmFsdWU9TXluZHlDazFRN1Z1R0RnNC9KcDZhUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzE3ODkw"
+      },
+      {
+        "id": "581",
+        "name": "Sky Sport F1",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223034533Sky_Sport_F1_2020.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skysport-f1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjU4IEFNJmhhc2hfdmFsdWU9NVY5SStHUjJoWnJwZXFjV0RzTHhCdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzE4OTc4"
+      },
+      {
+        "id": "580",
+        "name": "Sky Sport Football",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/190718075156foot.jpeg",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skysport-football.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAyOjAwIEFNJmhhc2hfdmFsdWU9R1VCZmFkY3VlU0tGZFZQSlhhOUlLZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzIwMDY4"
+      },
+      {
+        "id": "668",
+        "name": "Sky Sport Motogp",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223035257Sky_Sport_MotoGP_2020.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skysport-motogp.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAyOjAxIEFNJmhhc2hfdmFsdWU9NTVOdC92NDMvcUF4L1EzV0N5eHpOUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzIxMTY2"
+      },
+      {
+        "id": "704",
+        "name": "Sky Sport NBA",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/130818011304nba.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skysport-nba.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAyOjAyIEFNJmhhc2hfdmFsdWU9TDl6Zjl0ak0vcHNyeXFUR1JHMnZpZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzIyMjcy"
+      },
+      {
+        "id": "578",
+        "name": "Sky Sport Uno",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/190718073552uno.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skysport-uno.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAyOjAzIEFNJmhhc2hfdmFsdWU9MXBac1J2YUhnSTJaZ3pDTjNvbHNwdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzIzMzcy"
+      },
+      {
+        "id": "592",
+        "name": "Sky TG24",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/080118035005tg.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-sky-tg24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAyOjA0IEFNJmhhc2hfdmFsdWU9QmpFVzNmdFpWaitram05UjYzVmQzUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzI0NDY4"
+      },
+      {
+        "id": "593",
+        "name": "Sky Uno",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/080118035124uno.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-sky-uno.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAyOjA1IEFNJmhhc2hfdmFsdWU9anlOQzlOcVpLTFczQ2FTdU5WWFBuUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzI1NTU0"
+      },
+      {
+        "id": "792",
+        "name": "TG Com 24",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/310818125154tgcom.jpeg",
+        "stream_url": "http://stream.mardio.link:8081/live/it-tgcom24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAyOjA2IEFNJmhhc2hfdmFsdWU9cEZnMDBmZm1XelEyc3oxcW8rMTlpdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzI2NjQ0"
+      },
+      {
+        "id": "809",
+        "name": "TV 2000",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/111018012756tv2000.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-tv2000.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAyOjA3IEFNJmhhc2hfdmFsdWU9T0VUeENFay96dW5tdnZoTUlMd2hDUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzI3NzQy"
+      },
+      {
+        "id": "798",
+        "name": "TV8",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/250918041645tv8.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-tv8.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAyOjA4IEFNJmhhc2hfdmFsdWU9d2JrT2xYQnZmb0RTZ0JLT29pU2JvUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzI4ODQ4"
+      }
+    ]
+  },
+  "channels_flat": [
+    {
+      "id": "813",
+      "name": "Baby TV",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/111018013256baby.jpg",
+      "stream_url": "http://stream.mardio.link:8081/live/it-babytv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjQ3IEFNJmhhc2hfdmFsdWU9ajhaNnhGcU8vUE5pejlHWGhKL1U5Zz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjQ3MzY5"
+    },
+    {
+      "id": "812",
+      "name": "Boomerang",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/111018013155boome.gif",
+      "stream_url": "http://stream.mardio.link:8081/live/it-boomerang.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjQ4IEFNJmhhc2hfdmFsdWU9M1dhOFhGTUFld3UzVW5CRm0vREUyZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjQ4NDkz"
+    },
+    {
+      "id": "438",
+      "name": "Canale 5",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/13121701250455.gif",
+      "stream_url": "http://stream.mardio.link:8081/live/it-canale5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjQ5IEFNJmhhc2hfdmFsdWU9bHlZb0hQa2paUUk0eCtDayt4Znp1Zz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjQ5NTk1"
+    },
+    {
+      "id": "439",
+      "name": "Cartoon Network",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/131217012619cnn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-cartoonnetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjUwIEFNJmhhc2hfdmFsdWU9UlpWMXllaWpQUUN1OVhWYmVOaWx0Zz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjUwNzAw"
+    },
+    {
+      "id": "810",
+      "name": "Classica",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/111018012907classica.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-classica.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjUxIEFNJmhhc2hfdmFsdWU9KzB2WmdDMmJFUkZ6Y1FDcTRRenJ5Zz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjUxODEx"
+    },
+    {
+      "id": "776",
+      "name": "Comedy Central-",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/130818012353comedy.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-comedycentral.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjUyIEFNJmhhc2hfdmFsdWU9QnF2djRGOFVhQjgyZmUvK3ZZZGxxdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjUyODkz"
+    },
+    {
+      "id": "830",
+      "name": "Dazn 1",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/161019085616dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjUzIEFNJmhhc2hfdmFsdWU9WEJOOVA0MXE3ZGplMjNzelU4K3NMZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjUzOTg0"
+    },
+    {
+      "id": "819",
+      "name": "Dazn 10",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/031118035735dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn10.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjU1IEFNJmhhc2hfdmFsdWU9ZUFlcHZlWG5WNWpJZW5lWm44QzhkUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjU1MDk1"
+    },
+    {
+      "id": "820",
+      "name": "Dazn 11",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/031118035743dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn11.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjU2IEFNJmhhc2hfdmFsdWU9QlVjOVlKZEJxNHJ5bm1NM3NuNHA3dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjU2MjU4"
+    },
+    {
+      "id": "768",
+      "name": "Dazn 2",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/100818031954dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjU3IEFNJmhhc2hfdmFsdWU9TjFxb0ljM2hCbGdSbTVGaE1hQ0ZUUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjU3NTIz"
+    },
+    {
+      "id": "769",
+      "name": "Dazn 3",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/100818032007dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjU4IEFNJmhhc2hfdmFsdWU9WnlPR2tSUzNjL2NiVS9RREFoUzZxZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjU4NjIy"
+    },
+    {
+      "id": "770",
+      "name": "Dazn 4",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/100818032020dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAwOjU5IEFNJmhhc2hfdmFsdWU9V29iTDltdGdraG9FbWV1TFUxTG9udz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjU5NzA5"
+    },
+    {
+      "id": "771",
+      "name": "Dazn 5",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/100818032033dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjAwIEFNJmhhc2hfdmFsdWU9VGY5TlhzcFlGZXQyQndkN0pPbm9iZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjYwNzk5"
+    },
+    {
+      "id": "815",
+      "name": "Dazn 6",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/031118035634dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjAxIEFNJmhhc2hfdmFsdWU9eXBkc1dOM0FzdmFuKzJnbW1uQzBhUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjYxODk3"
+    },
+    {
+      "id": "816",
+      "name": "Dazn 7",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/031118035755dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn7.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjAzIEFNJmhhc2hfdmFsdWU9WEtzVSs5dm84dzE5eGNSWGp3QWJ1Zz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjYzMDA1"
+    },
+    {
+      "id": "817",
+      "name": "Dazn 8",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/031118035807dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn8.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjA0IEFNJmhhc2hfdmFsdWU9WkNoS25uVCtodnFvUDB2elNrUm9sQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjY0MTA3"
+    },
+    {
+      "id": "818",
+      "name": "Dazn 9",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/031118035815dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjA1IEFNJmhhc2hfdmFsdWU9VlJXeTh5Q0dPaE9ORW5iUDFwREpNZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjY1MjA2"
+    },
+    {
+      "id": "811",
+      "name": "Dea Kids",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/121118053223db.php",
+      "stream_url": "http://stream.mardio.link:8081/live/it-deakids.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjA2IEFNJmhhc2hfdmFsdWU9cUNvS3RSa2hDRFVxT0x0U1kwVkxnZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjY2Mjkz"
+    },
+    {
+      "id": "700",
+      "name": "Discovery",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/020518010950dis.jpg",
+      "stream_url": "http://stream.mardio.link:8081/live/it-discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjA3IEFNJmhhc2hfdmFsdWU9d1RqejdjSm1FeWFPQ0lReW5EMzBsdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjY3Mzgz"
+    },
+    {
+      "id": "731",
+      "name": "Discovery Real Time",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/220518013354realll.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-realtime.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjA4IEFNJmhhc2hfdmFsdWU9cFpEMURKclI2YzNEVnBTdFlqand4dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjY4NTAx"
+    },
+    {
+      "id": "737",
+      "name": "Discovery Science",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/220518014439sci.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-discoveryscience.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjA5IEFNJmhhc2hfdmFsdWU9cmRFZkFrZEVZZm1HeWd1ZlBhbkZ3UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjY5NjA4"
+    },
+    {
+      "id": "713",
+      "name": "Discovery Travel & Living",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/140518053444diss.jpeg",
+      "stream_url": "http://stream.mardio.link:8081/live/it-discoverytravel.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjEwIEFNJmhhc2hfdmFsdWU9NllKK0lSN3ZIZ2NPTjdVUnhOV0d0dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjcwNzA4"
+    },
+    {
+      "id": "732",
+      "name": "Dmax",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/220518013431dmax.jpg",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dmax.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjExIEFNJmhhc2hfdmFsdWU9dlIvZDRUUGJvNkxuTmZ5SlpLU2VnUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjcxODA1"
+    },
+    {
+      "id": "711",
+      "name": "Euro Sport",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/140518053159eur.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-eurosport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjEyIEFNJmhhc2hfdmFsdWU9Rm5xUHp2b09ZMnR1M3g3VStlQ2tsdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjcyODk0"
+    },
+    {
+      "id": "712",
+      "name": "Euro Sport 2",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/140518053309euro2.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-eurosport2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjEzIEFNJmhhc2hfdmFsdWU9eTk0MmRIUEtGdDFmMXpLczR0cDNJZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjczOTg0"
+    },
+    {
+      "id": "442",
+      "name": "History",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/131217013205his.jpg",
+      "stream_url": "http://stream.mardio.link:8081/live/it-history.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjE1IEFNJmhhc2hfdmFsdWU9aC9qK2VRYWhMNC8wUnBCM3BXWWxsQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njc1MDgy"
+    },
+    {
+      "id": "739",
+      "name": "Inter Tv",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/250518014057inter.jpg",
+      "stream_url": "http://stream.mardio.link:8081/live/it-intertv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjE2IEFNJmhhc2hfdmFsdWU9eXV3S08zbWl3dFdhbWN2R3AxTWc4dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njc2MjA4"
+    },
+    {
+      "id": "443",
+      "name": "Italia 1",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/131217013326it1.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-italia1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjE3IEFNJmhhc2hfdmFsdWU9QUNYMG9sWUpoUi9FVUt5VTQ4dUk3Zz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njc3MzA4"
+    },
+    {
+      "id": "466",
+      "name": "La 7",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/201217092735la7.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-la7.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjE4IEFNJmhhc2hfdmFsdWU9Sk9aWm45aWc3VGV0SEZHcjdFZ1FnZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njc4NDA3"
+    },
+    {
+      "id": "794",
+      "name": "Lazio Style",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/150918123638lazo.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-lazio.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjE5IEFNJmhhc2hfdmFsdWU9YUpqRHlKYllXUmQrb1ZQcFZIWFptdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njc5NDk0"
+    },
+    {
+      "id": "718",
+      "name": "Mediaset 2",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/140518054804mediaset.jpg",
+      "stream_url": "http://stream.mardio.link:8081/live/it-mediaset2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjIwIEFNJmhhc2hfdmFsdWU9SExoRE1QNmlUb1p1Vis3UVV5aXhqQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjgwNTg3"
+    },
+    {
+      "id": "749",
+      "name": "Mediaset Extra",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/140618010621extr.jpeg",
+      "stream_url": "http://stream.mardio.link:8081/live/it-mediasetextra.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjIxIEFNJmhhc2hfdmFsdWU9ajIxV1hrcUNjdWFyY3A1eVJTZkN3Zz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjgxNjg1"
+    },
+    {
+      "id": "797",
+      "name": "MediaSet Focus",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/250918041549Focus_New.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-focus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjIyIEFNJmhhc2hfdmFsdWU9eExSY2N3QXZudWlEMkF5T2RjRXFPUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjgyNzk2"
+    },
+    {
+      "id": "729",
+      "name": "Milan tv",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/220518013021milan.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-milantv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjIzIEFNJmhhc2hfdmFsdWU9VFJkTzdzcFBTcFFTVzZSSnNvSjFCZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjgzODk3"
+    },
+    {
+      "id": "791",
+      "name": "Nicklodean",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/310818124938nicku.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-nicklodeon.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjI0IEFNJmhhc2hfdmFsdWU9Ym12SFB5ejFTYThicE5IYkFXMzRGZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njg0OTkz"
+    },
+    {
+      "id": "801",
+      "name": "Nove",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/250918041937nove.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-nove.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjI2IEFNJmhhc2hfdmFsdWU9a3ZCdDJjZDVEc0JTcnB1Nmdkc250dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njg2MDgz"
+    },
+    {
+      "id": "426",
+      "name": "Rai 1",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/071217024326rai1.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-rai1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjI3IEFNJmhhc2hfdmFsdWU9dkhqOVR5am1BbmxpTEFUdlhxVzFKZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njg3MTcy"
+    },
+    {
+      "id": "427",
+      "name": "Rai 2",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/071217024432rai2.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-rai2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjI4IEFNJmhhc2hfdmFsdWU9cTIxNDNEREpJdGRPWHY2cFk4Uk9nUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njg4Mjcw"
+    },
+    {
+      "id": "428",
+      "name": "Rai 3",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/071217024513rai3.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-rai3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjI5IEFNJmhhc2hfdmFsdWU9Q0JoSmljK3NXeEczejlVNzJLa3dhQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njg5Mzc2"
+    },
+    {
+      "id": "429",
+      "name": "Rai 4",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/071217024545rai4.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-rai4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjMwIEFNJmhhc2hfdmFsdWU9WE9tK2hpRmQ4ZWRJOUVwVDB6c3pyQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjkwNDc2"
+    },
+    {
+      "id": "430",
+      "name": "Rai 5",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/071217024754rai5.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-rai5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjMxIEFNJmhhc2hfdmFsdWU9WUozbktrckxkVW43emRhT1h2Y3Z4UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjkxNTcz"
+    },
+    {
+      "id": "800",
+      "name": "Rai Movie",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/250918041844raaaai.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-raimovie.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjMyIEFNJmhhc2hfdmFsdWU9Rkh2YzJQZFdDelNmRlZWNjU5alpEdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjkyNjYw"
+    },
+    {
+      "id": "698",
+      "name": "Rai news 24",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/250418043056ree.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-rainews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjMzIEFNJmhhc2hfdmFsdWU9SVAxcTVrejlPWUx6Wis0MWRRd3g3dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NjkzNzQ5"
+    },
+    {
+      "id": "784",
+      "name": "Rai Premium",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/210818123233raiii.jpeg",
+      "stream_url": "http://stream.mardio.link:8081/live/it-raipremium.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjM0IEFNJmhhc2hfdmFsdWU9a1F2bHFsQkFjLzIwcXhUMzRicUVFZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njk0ODQ4"
+    },
+    {
+      "id": "465",
+      "name": "Rete 4",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/201217092643retee.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-rete4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjM1IEFNJmhhc2hfdmFsdWU9eDVPMU5aSjMwQVBRd2ZBN2tWY1Q4dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njk1OTUz"
+    },
+    {
+      "id": "710",
+      "name": "Sky Atlantic",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/140518052900atl.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skyatlantic.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjM3IEFNJmhhc2hfdmFsdWU9VUhBc2ZCYlI3dm0wOTlEYWF1UmoyUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njk3MDU0"
+    },
+    {
+      "id": "582",
+      "name": "Sky Calcio 1",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223031412cal1.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-sky-calcio1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjM4IEFNJmhhc2hfdmFsdWU9RUNac2M4RFVrbEo0UEdtYm92QUt3dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njk4MTUy"
+    },
+    {
+      "id": "583",
+      "name": "Sky Calcio 2",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223031528cal2.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-sky-calcio2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjM5IEFNJmhhc2hfdmFsdWU9NDM4VFo3M1dRVG5LcXpqclY0cTRMdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1Njk5MjM5"
+    },
+    {
+      "id": "706",
+      "name": "Sky Calcio 3",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223031538cal3.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skycalcio3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjQwIEFNJmhhc2hfdmFsdWU9QlNjSTlHcG5wSEZhNjRsY01RZTZtdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzAwMzI5"
+    },
+    {
+      "id": "707",
+      "name": "Sky Calcio 4",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223031552cal4.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skycalcio4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjQxIEFNJmhhc2hfdmFsdWU9SERhdE5DSXFhZWhIV1ZJTjViaTVHZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzAxNDI2"
+    },
+    {
+      "id": "708",
+      "name": "Sky Calcio 5",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223031609cal5.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skycalcio5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjQyIEFNJmhhc2hfdmFsdWU9VjhZdmRnYUdRcUtycUR2L2hheVRBQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzAyNTMw"
+    },
+    {
+      "id": "709",
+      "name": "Sky Calcio 6",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223031621cal6.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skycalcio6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjQzIEFNJmhhc2hfdmFsdWU9Tk5kSXFUekViT0tXTjJPSStwNVdhQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzAzNjM0"
+    },
+    {
+      "id": "876",
+      "name": "Sky Calcio 7",
+      "country": "IT",
+      "thumbnail": "/images/channel_imgs/200223032135cal7.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-sky-calcio7.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjQ0IEFNJmhhc2hfdmFsdWU9QlBUVG9MOFVNa0FFVllyU1Mva1luQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzA0NzMy"
+    },
+    {
+      "id": "877",
+      "name": "Sky Calcio 8",
+      "country": "IT",
+      "thumbnail": "/images/channel_imgs/200223032149cal8.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-sky-calcio8.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjQ1IEFNJmhhc2hfdmFsdWU9WHhrU2RhQmpoMy9IL0cwS0RMMnlCdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzA1ODIy"
+    },
+    {
+      "id": "878",
+      "name": "Sky Calcio 9",
+      "country": "IT",
+      "thumbnail": "/images/channel_imgs/200223032202cal9.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-sky-calcio9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjQ2IEFNJmhhc2hfdmFsdWU9S1p3WEhwdys0K0JkSjBoUmRKUkxXdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzA2OTA5"
+    },
+    {
+      "id": "590",
+      "name": "Sky Cinema Action",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190223011205Sky_Cinema_Action_-_Logo_2021.svg.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-sky-cinema-max.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjQ4IEFNJmhhc2hfdmFsdWU9YlN0SVFLV0F1a3htajZwZDVQcE9NQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzA4MDA4"
+    },
+    {
+      "id": "589",
+      "name": "Sky Cinema Collection",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190223010724Sky_Cinema_Collection_-_Logo_2021.svg.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-sky-cinema-collection.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjQ5IEFNJmhhc2hfdmFsdWU9R3RZYWRpNC84aUQxQVBpdVdZbjlqdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzA5MTEz"
+    },
+    {
+      "id": "586",
+      "name": "Sky Cinema Comedy",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190223010812Sky_Cinema_Comedy_-_Logo_2021.svg.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-sky-cinema-comedy.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjUwIEFNJmhhc2hfdmFsdWU9UmtNVHhLWU84Nko5Y3o5bWZZckhnQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzEwMjEz"
+    },
+    {
+      "id": "587",
+      "name": "Sky Cinema Due",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190223011459Sky_Cinema_Due_-_Logo_2021.svg.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-sky-cinema-due.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjUxIEFNJmhhc2hfdmFsdWU9VkE3WXdCWWI5VG95RExmM2FQQmRjdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzExMzEx"
+    },
+    {
+      "id": "588",
+      "name": "Sky Cinema Family",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190223011523Sky_Cinema_Family_-_Logo_2021.svg.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-sky-cinema-family.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjUyIEFNJmhhc2hfdmFsdWU9VjA1NzFhZ1RSd2tBa3Zpclg1NHowQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzEyMzk4"
+    },
+    {
+      "id": "591",
+      "name": "Sky Cinema Romance",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190223010955Sky_Cinema_Romance_-_Logo_2021.svg.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-sky-cinema-romance.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjUzIEFNJmhhc2hfdmFsdWU9TkFmRW0wTzN4V2dMalpGQWJkMkorZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzEzNDg3"
+    },
+    {
+      "id": "584",
+      "name": "Sky Cinema UNO",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190223011941Sky_Cinema_Uno_-_Logo_2021.svg.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skycinema-uno.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjU0IEFNJmhhc2hfdmFsdWU9UG5YYzZOekh0Yk14c1Rjd0FQaU1MUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzE0NTg2"
+    },
+    {
+      "id": "629",
+      "name": "Sky Sport 24",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223035132Sky_Sport_24_-_Logo_2020.svg.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skysports24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjU1IEFNJmhhc2hfdmFsdWU9eGs1WHdrZUN5dlRBQUlSb3ViZWFGdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzE1Njkz"
+    },
+    {
+      "id": "579",
+      "name": "Sky Sport Arena",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190718073708arenaa.jpeg",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skysport-arena.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjU2IEFNJmhhc2hfdmFsdWU9bytWbTRCd3ZaRkRPcFAxaXdXbkFVdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzE2Nzky"
+    },
+    {
+      "id": "705",
+      "name": "Sky Sport Calcio",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190223125815Sky_Sport_Calcio.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skysportcalcio.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjU3IEFNJmhhc2hfdmFsdWU9TXluZHlDazFRN1Z1R0RnNC9KcDZhUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzE3ODkw"
+    },
+    {
+      "id": "581",
+      "name": "Sky Sport F1",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223034533Sky_Sport_F1_2020.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skysport-f1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAxOjU4IEFNJmhhc2hfdmFsdWU9NVY5SStHUjJoWnJwZXFjV0RzTHhCdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzE4OTc4"
+    },
+    {
+      "id": "580",
+      "name": "Sky Sport Football",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190718075156foot.jpeg",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skysport-football.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAyOjAwIEFNJmhhc2hfdmFsdWU9R1VCZmFkY3VlU0tGZFZQSlhhOUlLZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzIwMDY4"
+    },
+    {
+      "id": "668",
+      "name": "Sky Sport Motogp",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223035257Sky_Sport_MotoGP_2020.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skysport-motogp.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAyOjAxIEFNJmhhc2hfdmFsdWU9NTVOdC92NDMvcUF4L1EzV0N5eHpOUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzIxMTY2"
+    },
+    {
+      "id": "704",
+      "name": "Sky Sport NBA",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/130818011304nba.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skysport-nba.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAyOjAyIEFNJmhhc2hfdmFsdWU9TDl6Zjl0ak0vcHNyeXFUR1JHMnZpZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzIyMjcy"
+    },
+    {
+      "id": "578",
+      "name": "Sky Sport Uno",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190718073552uno.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skysport-uno.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAyOjAzIEFNJmhhc2hfdmFsdWU9MXBac1J2YUhnSTJaZ3pDTjNvbHNwdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzIzMzcy"
+    },
+    {
+      "id": "592",
+      "name": "Sky TG24",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/080118035005tg.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-sky-tg24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAyOjA0IEFNJmhhc2hfdmFsdWU9QmpFVzNmdFpWaitram05UjYzVmQzUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzI0NDY4"
+    },
+    {
+      "id": "593",
+      "name": "Sky Uno",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/080118035124uno.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-sky-uno.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAyOjA1IEFNJmhhc2hfdmFsdWU9anlOQzlOcVpLTFczQ2FTdU5WWFBuUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzI1NTU0"
+    },
+    {
+      "id": "792",
+      "name": "TG Com 24",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/310818125154tgcom.jpeg",
+      "stream_url": "http://stream.mardio.link:8081/live/it-tgcom24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAyOjA2IEFNJmhhc2hfdmFsdWU9cEZnMDBmZm1XelEyc3oxcW8rMTlpdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzI2NjQ0"
+    },
+    {
+      "id": "809",
+      "name": "TV 2000",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/111018012756tv2000.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-tv2000.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAyOjA3IEFNJmhhc2hfdmFsdWU9T0VUeENFay96dW5tdnZoTUlMd2hDUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzI3NzQy"
+    },
+    {
+      "id": "798",
+      "name": "TV8",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/250918041645tv8.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-tv8.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAyOjAyOjA4IEFNJmhhc2hfdmFsdWU9d2JrT2xYQnZmb0RTZ0JLT29pU2JvUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMDg1NzI4ODQ4"
+    }
+  ]
+}
