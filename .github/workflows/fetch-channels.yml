@@ -29,7 +29,7 @@ jobs:
       
       - name: Fetch TVTap channels
         run: |
-          python tvtap_fetcher.py > channels.json 2> fetch.log
+          python tvtap_sports_fetcher.py > channels.json 2> fetch.log
       
       - name: Display fetch log
         if: always()
