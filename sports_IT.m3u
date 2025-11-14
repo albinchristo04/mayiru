@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1,TVTap - IT Sports Channels
+
+#EXTINF:-1 tvg-name="Dazn 1" tvg-country="IT",Dazn 1
+http://stream.mardio.link:8081/live/it-dazn1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE2IEFNJmhhc2hfdmFsdWU9TlhNTmJ4T1ZjY0RWcEFtdDYwQUloQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM2OTIx
+
+#EXTINF:-1 tvg-name="Dazn 10" tvg-country="IT",Dazn 10
+http://stream.mardio.link:8081/live/it-dazn10.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE3IEFNJmhhc2hfdmFsdWU9bXR6OTVRd1ZQWmNqTTc4SmdCVXpvQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM3ODc1
+
+#EXTINF:-1 tvg-name="Dazn 11" tvg-country="IT",Dazn 11
+http://stream.mardio.link:8081/live/it-dazn11.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE4IEFNJmhhc2hfdmFsdWU9VEpZRGJ6QVFFemwvUnA3aG8xUERaZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM4ODE5
+
+#EXTINF:-1 tvg-name="Dazn 2" tvg-country="IT",Dazn 2
+http://stream.mardio.link:8081/live/it-dazn2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE5IEFNJmhhc2hfdmFsdWU9SjR2OTFhbzQ4L0swVitmV09VbHpHQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM5NjY1
+
+#EXTINF:-1 tvg-name="Dazn 3" tvg-country="IT",Dazn 3
+http://stream.mardio.link:8081/live/it-dazn3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIwIEFNJmhhc2hfdmFsdWU9K1hHWjlNRGRxeERQYjcxSHhnQmd4UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQwNjE3
+
+#EXTINF:-1 tvg-name="Dazn 4" tvg-country="IT",Dazn 4
+http://stream.mardio.link:8081/live/it-dazn4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIxIEFNJmhhc2hfdmFsdWU9cStVRzVRdkEvTmV5RTczL1pmc0dFQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQxNDk1
+
+#EXTINF:-1 tvg-name="Dazn 5" tvg-country="IT",Dazn 5
+http://stream.mardio.link:8081/live/it-dazn5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIyIEFNJmhhc2hfdmFsdWU9Y01NUnVseGI3cTJZUVdnaEUzQnYyUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQyNDI4
+
+#EXTINF:-1 tvg-name="Dazn 6" tvg-country="IT",Dazn 6
+http://stream.mardio.link:8081/live/it-dazn6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIzIEFNJmhhc2hfdmFsdWU9MnBIMVJIWW54SGZzZllLQlEzNlk4UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQzMjk4
+
+#EXTINF:-1 tvg-name="Dazn 7" tvg-country="IT",Dazn 7
+http://stream.mardio.link:8081/live/it-dazn7.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI0IEFNJmhhc2hfdmFsdWU9OFdjWkQwQ0NGNFpLWGNXWDBvNGl3dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ0MTUw
+
+#EXTINF:-1 tvg-name="Dazn 8" tvg-country="IT",Dazn 8
+http://stream.mardio.link:8081/live/it-dazn8.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI1IEFNJmhhc2hfdmFsdWU9UTBMYmdJRTM4TTJKZHEzTGxyVjNiQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ1MDM4
+
+#EXTINF:-1 tvg-name="Dazn 9" tvg-country="IT",Dazn 9
+http://stream.mardio.link:8081/live/it-dazn9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI1IEFNJmhhc2hfdmFsdWU9ZkpDTmZDa0pkRERxTjE2UVYxOS9QUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ1OTEy
+
+#EXTINF:-1 tvg-name="Euro Sport" tvg-country="IT",Euro Sport
+http://stream.mardio.link:8081/live/it-eurosport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI2IEFNJmhhc2hfdmFsdWU9RkdHL1VSVHhIMFVQWk0yVisvTGc2dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ2NzYx
+
+#EXTINF:-1 tvg-name="Euro Sport 2" tvg-country="IT",Euro Sport 2
+http://stream.mardio.link:8081/live/it-eurosport2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI3IEFNJmhhc2hfdmFsdWU9NlUrY004ZDdTZXlHVEJla090Qjdkdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ3NjU1
+
+#EXTINF:-1 tvg-name="Sky Calcio 1" tvg-country="IT",Sky Calcio 1
+http://stream.mardio.link:8081/live/it-sky-calcio1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI4IEFNJmhhc2hfdmFsdWU9L2gyOTBzQm5WbHBnU243TnkvTG1lQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ4NTQ0
+
+#EXTINF:-1 tvg-name="Sky Calcio 2" tvg-country="IT",Sky Calcio 2
+http://stream.mardio.link:8081/live/it-sky-calcio2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI5IEFNJmhhc2hfdmFsdWU9ajk1dHZmMHJLL0VCZHk2VFUrSmkrZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ5NDA5
+
+#EXTINF:-1 tvg-name="Sky Calcio 3" tvg-country="IT",Sky Calcio 3
+http://stream.mardio.link:8081/live/it-skycalcio3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjMwIEFNJmhhc2hfdmFsdWU9eWZqc0VKWHp3YzlVN3lGNWEyd0h1UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzUwMjc5
+
+#EXTINF:-1 tvg-name="Sky Calcio 4" tvg-country="IT",Sky Calcio 4
+http://stream.mardio.link:8081/live/it-skycalcio4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjMxIEFNJmhhc2hfdmFsdWU9SlF4Y2ViUkNOY25uaGdwelliWUVNdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzUxMTMx
+
+#EXTINF:-1 tvg-name="Sky Calcio 5" tvg-country="IT",Sky Calcio 5
+http://stream.mardio.link:8081/live/it-skycalcio5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjMyIEFNJmhhc2hfdmFsdWU9d3F2NWJlK0RSclF4TktJUVcvTkMzQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzUyMDE3
+
+#EXTINF:-1 tvg-name="Sky Calcio 6" tvg-country="IT",Sky Calcio 6
+http://stream.mardio.link:8081/live/it-skycalcio6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjMyIEFNJmhhc2hfdmFsdWU9VHBWcU9HQmJXNWxObzhsSllTVFNrUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzUyODg2
+
+#EXTINF:-1 tvg-name="Sky Calcio 7" tvg-country="IT",Sky Calcio 7
+http://stream.mardio.link:8081/live/it-sky-calcio7.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjMzIEFNJmhhc2hfdmFsdWU9aHo1bEVHelBYMGRRMVEydnk5NVFHUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzUzNzM1
+
+#EXTINF:-1 tvg-name="Sky Calcio 8" tvg-country="IT",Sky Calcio 8
+http://stream.mardio.link:8081/live/it-sky-calcio8.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjM0IEFNJmhhc2hfdmFsdWU9dzNUbE43MS83c013VGduUWtGUjNmdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzU0NjI5
+
+#EXTINF:-1 tvg-name="Sky Calcio 9" tvg-country="IT",Sky Calcio 9
+http://stream.mardio.link:8081/live/it-sky-calcio9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjM1IEFNJmhhc2hfdmFsdWU9aVpyY3NGbzRNMDg5cjlDU3NTRHlxdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzU1NTEw
+
+#EXTINF:-1 tvg-name="Sky Sport 24" tvg-country="IT",Sky Sport 24
+http://stream.mardio.link:8081/live/it-skysports24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjM2IEFNJmhhc2hfdmFsdWU9aVc3dVF5enlWMnVjZUpqR0JBMVZKQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzU2Mzg2
+
+#EXTINF:-1 tvg-name="Sky Sport Arena" tvg-country="IT",Sky Sport Arena
+http://stream.mardio.link:8081/live/it-skysport-arena.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjM3IEFNJmhhc2hfdmFsdWU9UmR0UXYrSkk2UDNhQmxiak9hUFVNQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzU3MjU3
+
+#EXTINF:-1 tvg-name="Sky Sport Calcio" tvg-country="IT",Sky Sport Calcio
+http://stream.mardio.link:8081/live/it-skysportcalcio.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjM4IEFNJmhhc2hfdmFsdWU9NEczei85SkNUYzdQVUZtVmVwZEhYUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzU4MTA1
+
+#EXTINF:-1 tvg-name="Sky Sport F1" tvg-country="IT",Sky Sport F1
+http://stream.mardio.link:8081/live/it-skysport-f1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjM4IEFNJmhhc2hfdmFsdWU9VFVZZG5VNHpQenBrSXR3aVFUZDhOQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzU4OTkw
+
+#EXTINF:-1 tvg-name="Sky Sport Football" tvg-country="IT",Sky Sport Football
+http://stream.mardio.link:8081/live/it-skysport-football.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjM5IEFNJmhhc2hfdmFsdWU9UURyZzdHUjZCY2QrSmx3aHRWcDliUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzU5ODY0
+
+#EXTINF:-1 tvg-name="Sky Sport Motogp" tvg-country="IT",Sky Sport Motogp
+http://stream.mardio.link:8081/live/it-skysport-motogp.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjQwIEFNJmhhc2hfdmFsdWU9b2UwdDZ5ZkFHcWxEZEE4enRrY2NvUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzYwNzE1
+
+#EXTINF:-1 tvg-name="Sky Sport NBA" tvg-country="IT",Sky Sport NBA
+http://stream.mardio.link:8081/live/it-skysport-nba.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjQxIEFNJmhhc2hfdmFsdWU9c2Mvcm5lNnVoOW1XTzJvZU9kSU42Zz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzYxNjA3
+
+#EXTINF:-1 tvg-name="Sky Sport Uno" tvg-country="IT",Sky Sport Uno
+http://stream.mardio.link:8081/live/it-skysport-uno.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjQyIEFNJmhhc2hfdmFsdWU9dFkxUTdWSmRlU2xiUENuR0RiaVdVZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzYyNDg5
+

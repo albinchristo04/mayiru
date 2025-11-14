@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-14T09:32:42.569479Z",
+    "source": "api",
+    "type": "sports_only",
+    "total_channels": 30,
+    "countries_count": 1,
+    "countries": [
+      "IT"
+    ],
+    "streams_resolved": true,
+    "channels_with_streams": 30,
+    "stream_success_rate": "100.0%"
+  },
+  "channels_by_country": {
+    "IT": [
+      {
+        "id": "830",
+        "name": "Dazn 1",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/161019085616dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE2IEFNJmhhc2hfdmFsdWU9TlhNTmJ4T1ZjY0RWcEFtdDYwQUloQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM2OTIx"
+      },
+      {
+        "id": "819",
+        "name": "Dazn 10",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/031118035735dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn10.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE3IEFNJmhhc2hfdmFsdWU9bXR6OTVRd1ZQWmNqTTc4SmdCVXpvQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM3ODc1"
+      },
+      {
+        "id": "820",
+        "name": "Dazn 11",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/031118035743dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn11.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE4IEFNJmhhc2hfdmFsdWU9VEpZRGJ6QVFFemwvUnA3aG8xUERaZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM4ODE5"
+      },
+      {
+        "id": "768",
+        "name": "Dazn 2",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/100818031954dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE5IEFNJmhhc2hfdmFsdWU9SjR2OTFhbzQ4L0swVitmV09VbHpHQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM5NjY1"
+      },
+      {
+        "id": "769",
+        "name": "Dazn 3",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/100818032007dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIwIEFNJmhhc2hfdmFsdWU9K1hHWjlNRGRxeERQYjcxSHhnQmd4UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQwNjE3"
+      },
+      {
+        "id": "770",
+        "name": "Dazn 4",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/100818032020dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIxIEFNJmhhc2hfdmFsdWU9cStVRzVRdkEvTmV5RTczL1pmc0dFQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQxNDk1"
+      },
+      {
+        "id": "771",
+        "name": "Dazn 5",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/100818032033dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIyIEFNJmhhc2hfdmFsdWU9Y01NUnVseGI3cTJZUVdnaEUzQnYyUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQyNDI4"
+      },
+      {
+        "id": "815",
+        "name": "Dazn 6",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/031118035634dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIzIEFNJmhhc2hfdmFsdWU9MnBIMVJIWW54SGZzZllLQlEzNlk4UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQzMjk4"
+      },
+      {
+        "id": "816",
+        "name": "Dazn 7",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/031118035755dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn7.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI0IEFNJmhhc2hfdmFsdWU9OFdjWkQwQ0NGNFpLWGNXWDBvNGl3dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ0MTUw"
+      },
+      {
+        "id": "817",
+        "name": "Dazn 8",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/031118035807dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn8.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI1IEFNJmhhc2hfdmFsdWU9UTBMYmdJRTM4TTJKZHEzTGxyVjNiQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ1MDM4"
+      },
+      {
+        "id": "818",
+        "name": "Dazn 9",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/031118035815dazn.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-dazn9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI1IEFNJmhhc2hfdmFsdWU9ZkpDTmZDa0pkRERxTjE2UVYxOS9QUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ1OTEy"
+      },
+      {
+        "id": "711",
+        "name": "Euro Sport",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/140518053159eur.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-eurosport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI2IEFNJmhhc2hfdmFsdWU9RkdHL1VSVHhIMFVQWk0yVisvTGc2dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ2NzYx"
+      },
+      {
+        "id": "712",
+        "name": "Euro Sport 2",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/140518053309euro2.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-eurosport2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI3IEFNJmhhc2hfdmFsdWU9NlUrY004ZDdTZXlHVEJla090Qjdkdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ3NjU1"
+      },
+      {
+        "id": "582",
+        "name": "Sky Calcio 1",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223031412cal1.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-sky-calcio1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI4IEFNJmhhc2hfdmFsdWU9L2gyOTBzQm5WbHBnU243TnkvTG1lQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ4NTQ0"
+      },
+      {
+        "id": "583",
+        "name": "Sky Calcio 2",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223031528cal2.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-sky-calcio2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI5IEFNJmhhc2hfdmFsdWU9ajk1dHZmMHJLL0VCZHk2VFUrSmkrZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ5NDA5"
+      },
+      {
+        "id": "706",
+        "name": "Sky Calcio 3",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223031538cal3.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skycalcio3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjMwIEFNJmhhc2hfdmFsdWU9eWZqc0VKWHp3YzlVN3lGNWEyd0h1UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzUwMjc5"
+      },
+      {
+        "id": "707",
+        "name": "Sky Calcio 4",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223031552cal4.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skycalcio4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjMxIEFNJmhhc2hfdmFsdWU9SlF4Y2ViUkNOY25uaGdwelliWUVNdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzUxMTMx"
+      },
+      {
+        "id": "708",
+        "name": "Sky Calcio 5",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223031609cal5.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skycalcio5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjMyIEFNJmhhc2hfdmFsdWU9d3F2NWJlK0RSclF4TktJUVcvTkMzQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzUyMDE3"
+      },
+      {
+        "id": "709",
+        "name": "Sky Calcio 6",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223031621cal6.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skycalcio6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjMyIEFNJmhhc2hfdmFsdWU9VHBWcU9HQmJXNWxObzhsSllTVFNrUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzUyODg2"
+      },
+      {
+        "id": "876",
+        "name": "Sky Calcio 7",
+        "country": "IT",
+        "thumbnail": "/images/channel_imgs/200223032135cal7.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-sky-calcio7.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjMzIEFNJmhhc2hfdmFsdWU9aHo1bEVHelBYMGRRMVEydnk5NVFHUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzUzNzM1"
+      },
+      {
+        "id": "877",
+        "name": "Sky Calcio 8",
+        "country": "IT",
+        "thumbnail": "/images/channel_imgs/200223032149cal8.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-sky-calcio8.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjM0IEFNJmhhc2hfdmFsdWU9dzNUbE43MS83c013VGduUWtGUjNmdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzU0NjI5"
+      },
+      {
+        "id": "878",
+        "name": "Sky Calcio 9",
+        "country": "IT",
+        "thumbnail": "/images/channel_imgs/200223032202cal9.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-sky-calcio9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjM1IEFNJmhhc2hfdmFsdWU9aVpyY3NGbzRNMDg5cjlDU3NTRHlxdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzU1NTEw"
+      },
+      {
+        "id": "629",
+        "name": "Sky Sport 24",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223035132Sky_Sport_24_-_Logo_2020.svg.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skysports24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjM2IEFNJmhhc2hfdmFsdWU9aVc3dVF5enlWMnVjZUpqR0JBMVZKQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzU2Mzg2"
+      },
+      {
+        "id": "579",
+        "name": "Sky Sport Arena",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/190718073708arenaa.jpeg",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skysport-arena.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjM3IEFNJmhhc2hfdmFsdWU9UmR0UXYrSkk2UDNhQmxiak9hUFVNQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzU3MjU3"
+      },
+      {
+        "id": "705",
+        "name": "Sky Sport Calcio",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/190223125815Sky_Sport_Calcio.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skysportcalcio.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjM4IEFNJmhhc2hfdmFsdWU9NEczei85SkNUYzdQVUZtVmVwZEhYUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzU4MTA1"
+      },
+      {
+        "id": "581",
+        "name": "Sky Sport F1",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223034533Sky_Sport_F1_2020.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skysport-f1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjM4IEFNJmhhc2hfdmFsdWU9VFVZZG5VNHpQenBrSXR3aVFUZDhOQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzU4OTkw"
+      },
+      {
+        "id": "580",
+        "name": "Sky Sport Football",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/190718075156foot.jpeg",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skysport-football.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjM5IEFNJmhhc2hfdmFsdWU9UURyZzdHUjZCY2QrSmx3aHRWcDliUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzU5ODY0"
+      },
+      {
+        "id": "668",
+        "name": "Sky Sport Motogp",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/200223035257Sky_Sport_MotoGP_2020.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skysport-motogp.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjQwIEFNJmhhc2hfdmFsdWU9b2UwdDZ5ZkFHcWxEZEE4enRrY2NvUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzYwNzE1"
+      },
+      {
+        "id": "704",
+        "name": "Sky Sport NBA",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/130818011304nba.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skysport-nba.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjQxIEFNJmhhc2hfdmFsdWU9c2Mvcm5lNnVoOW1XTzJvZU9kSU42Zz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzYxNjA3"
+      },
+      {
+        "id": "578",
+        "name": "Sky Sport Uno",
+        "country": "IT",
+        "thumbnail": "images/channel_imgs/190718073552uno.png",
+        "stream_url": "http://stream.mardio.link:8081/live/it-skysport-uno.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjQyIEFNJmhhc2hfdmFsdWU9dFkxUTdWSmRlU2xiUENuR0RiaVdVZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzYyNDg5"
+      }
+    ]
+  },
+  "channels_flat": [
+    {
+      "id": "830",
+      "name": "Dazn 1",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/161019085616dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE2IEFNJmhhc2hfdmFsdWU9TlhNTmJ4T1ZjY0RWcEFtdDYwQUloQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM2OTIx"
+    },
+    {
+      "id": "819",
+      "name": "Dazn 10",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/031118035735dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn10.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE3IEFNJmhhc2hfdmFsdWU9bXR6OTVRd1ZQWmNqTTc4SmdCVXpvQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM3ODc1"
+    },
+    {
+      "id": "820",
+      "name": "Dazn 11",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/031118035743dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn11.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE4IEFNJmhhc2hfdmFsdWU9VEpZRGJ6QVFFemwvUnA3aG8xUERaZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM4ODE5"
+    },
+    {
+      "id": "768",
+      "name": "Dazn 2",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/100818031954dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE5IEFNJmhhc2hfdmFsdWU9SjR2OTFhbzQ4L0swVitmV09VbHpHQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM5NjY1"
+    },
+    {
+      "id": "769",
+      "name": "Dazn 3",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/100818032007dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIwIEFNJmhhc2hfdmFsdWU9K1hHWjlNRGRxeERQYjcxSHhnQmd4UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQwNjE3"
+    },
+    {
+      "id": "770",
+      "name": "Dazn 4",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/100818032020dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIxIEFNJmhhc2hfdmFsdWU9cStVRzVRdkEvTmV5RTczL1pmc0dFQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQxNDk1"
+    },
+    {
+      "id": "771",
+      "name": "Dazn 5",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/100818032033dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIyIEFNJmhhc2hfdmFsdWU9Y01NUnVseGI3cTJZUVdnaEUzQnYyUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQyNDI4"
+    },
+    {
+      "id": "815",
+      "name": "Dazn 6",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/031118035634dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIzIEFNJmhhc2hfdmFsdWU9MnBIMVJIWW54SGZzZllLQlEzNlk4UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQzMjk4"
+    },
+    {
+      "id": "816",
+      "name": "Dazn 7",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/031118035755dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn7.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI0IEFNJmhhc2hfdmFsdWU9OFdjWkQwQ0NGNFpLWGNXWDBvNGl3dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ0MTUw"
+    },
+    {
+      "id": "817",
+      "name": "Dazn 8",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/031118035807dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn8.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI1IEFNJmhhc2hfdmFsdWU9UTBMYmdJRTM4TTJKZHEzTGxyVjNiQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ1MDM4"
+    },
+    {
+      "id": "818",
+      "name": "Dazn 9",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/031118035815dazn.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-dazn9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI1IEFNJmhhc2hfdmFsdWU9ZkpDTmZDa0pkRERxTjE2UVYxOS9QUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ1OTEy"
+    },
+    {
+      "id": "711",
+      "name": "Euro Sport",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/140518053159eur.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-eurosport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI2IEFNJmhhc2hfdmFsdWU9RkdHL1VSVHhIMFVQWk0yVisvTGc2dz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ2NzYx"
+    },
+    {
+      "id": "712",
+      "name": "Euro Sport 2",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/140518053309euro2.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-eurosport2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI3IEFNJmhhc2hfdmFsdWU9NlUrY004ZDdTZXlHVEJla090Qjdkdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ3NjU1"
+    },
+    {
+      "id": "582",
+      "name": "Sky Calcio 1",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223031412cal1.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-sky-calcio1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI4IEFNJmhhc2hfdmFsdWU9L2gyOTBzQm5WbHBnU243TnkvTG1lQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ4NTQ0"
+    },
+    {
+      "id": "583",
+      "name": "Sky Calcio 2",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223031528cal2.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-sky-calcio2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI5IEFNJmhhc2hfdmFsdWU9ajk1dHZmMHJLL0VCZHk2VFUrSmkrZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ5NDA5"
+    },
+    {
+      "id": "706",
+      "name": "Sky Calcio 3",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223031538cal3.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skycalcio3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjMwIEFNJmhhc2hfdmFsdWU9eWZqc0VKWHp3YzlVN3lGNWEyd0h1UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzUwMjc5"
+    },
+    {
+      "id": "707",
+      "name": "Sky Calcio 4",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223031552cal4.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skycalcio4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjMxIEFNJmhhc2hfdmFsdWU9SlF4Y2ViUkNOY25uaGdwelliWUVNdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzUxMTMx"
+    },
+    {
+      "id": "708",
+      "name": "Sky Calcio 5",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223031609cal5.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skycalcio5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjMyIEFNJmhhc2hfdmFsdWU9d3F2NWJlK0RSclF4TktJUVcvTkMzQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzUyMDE3"
+    },
+    {
+      "id": "709",
+      "name": "Sky Calcio 6",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223031621cal6.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skycalcio6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjMyIEFNJmhhc2hfdmFsdWU9VHBWcU9HQmJXNWxObzhsSllTVFNrUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzUyODg2"
+    },
+    {
+      "id": "876",
+      "name": "Sky Calcio 7",
+      "country": "IT",
+      "thumbnail": "/images/channel_imgs/200223032135cal7.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-sky-calcio7.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjMzIEFNJmhhc2hfdmFsdWU9aHo1bEVHelBYMGRRMVEydnk5NVFHUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzUzNzM1"
+    },
+    {
+      "id": "877",
+      "name": "Sky Calcio 8",
+      "country": "IT",
+      "thumbnail": "/images/channel_imgs/200223032149cal8.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-sky-calcio8.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjM0IEFNJmhhc2hfdmFsdWU9dzNUbE43MS83c013VGduUWtGUjNmdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzU0NjI5"
+    },
+    {
+      "id": "878",
+      "name": "Sky Calcio 9",
+      "country": "IT",
+      "thumbnail": "/images/channel_imgs/200223032202cal9.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-sky-calcio9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjM1IEFNJmhhc2hfdmFsdWU9aVpyY3NGbzRNMDg5cjlDU3NTRHlxdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzU1NTEw"
+    },
+    {
+      "id": "629",
+      "name": "Sky Sport 24",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223035132Sky_Sport_24_-_Logo_2020.svg.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skysports24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjM2IEFNJmhhc2hfdmFsdWU9aVc3dVF5enlWMnVjZUpqR0JBMVZKQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzU2Mzg2"
+    },
+    {
+      "id": "579",
+      "name": "Sky Sport Arena",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190718073708arenaa.jpeg",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skysport-arena.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjM3IEFNJmhhc2hfdmFsdWU9UmR0UXYrSkk2UDNhQmxiak9hUFVNQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzU3MjU3"
+    },
+    {
+      "id": "705",
+      "name": "Sky Sport Calcio",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190223125815Sky_Sport_Calcio.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skysportcalcio.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjM4IEFNJmhhc2hfdmFsdWU9NEczei85SkNUYzdQVUZtVmVwZEhYUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzU4MTA1"
+    },
+    {
+      "id": "581",
+      "name": "Sky Sport F1",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223034533Sky_Sport_F1_2020.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skysport-f1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjM4IEFNJmhhc2hfdmFsdWU9VFVZZG5VNHpQenBrSXR3aVFUZDhOQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzU4OTkw"
+    },
+    {
+      "id": "580",
+      "name": "Sky Sport Football",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190718075156foot.jpeg",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skysport-football.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjM5IEFNJmhhc2hfdmFsdWU9UURyZzdHUjZCY2QrSmx3aHRWcDliUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzU5ODY0"
+    },
+    {
+      "id": "668",
+      "name": "Sky Sport Motogp",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223035257Sky_Sport_MotoGP_2020.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skysport-motogp.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjQwIEFNJmhhc2hfdmFsdWU9b2UwdDZ5ZkFHcWxEZEE4enRrY2NvUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzYwNzE1"
+    },
+    {
+      "id": "704",
+      "name": "Sky Sport NBA",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/130818011304nba.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skysport-nba.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjQxIEFNJmhhc2hfdmFsdWU9c2Mvcm5lNnVoOW1XTzJvZU9kSU42Zz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzYxNjA3"
+    },
+    {
+      "id": "578",
+      "name": "Sky Sport Uno",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190718073552uno.png",
+      "stream_url": "http://stream.mardio.link:8081/live/it-skysport-uno.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjQyIEFNJmhhc2hfdmFsdWU9dFkxUTdWSmRlU2xiUENuR0RiaVdVZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzYyNDg5"
+    }
+  ]
+}
