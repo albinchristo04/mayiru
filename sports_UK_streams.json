@@ -1,0 +1,315 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-14T09:32:30.889668Z",
+    "source": "api",
+    "type": "sports_only",
+    "total_channels": 21,
+    "countries_count": 1,
+    "countries": [
+      "UK"
+    ],
+    "streams_resolved": true,
+    "channels_with_streams": 21,
+    "stream_success_rate": "100.0%"
+  },
+  "channels_by_country": {
+    "UK": [
+      {
+        "id": "59",
+        "name": "BT Sport 1",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/160116115523bt1.jpg",
+        "stream_url": "http://stream.mardio.link:8081/live/uk-btsport1-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE2IEFNJmhhc2hfdmFsdWU9SDBKakRjSjJScmFqN3dVczVGaHM4QT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM2MzU5"
+      },
+      {
+        "id": "60",
+        "name": "BT Sport 2",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/160116115549bt2.jpg",
+        "stream_url": "http://stream.mardio.link:8081/live/uk-btsport2-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE3IEFNJmhhc2hfdmFsdWU9ME50MzhwcHp5NFhxUTZ1aHVzN1BuZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM3MDky"
+      },
+      {
+        "id": "298",
+        "name": "BT Sport 3",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/270916013607bt3.png",
+        "stream_url": "http://stream.mardio.link:8081/live/uk-btsport3-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE3IEFNJmhhc2hfdmFsdWU9RVhZOUNER0RrRWs5c1JMcGFHQ01PUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM3ODIx"
+      },
+      {
+        "id": "821",
+        "name": "BT Sport box office",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/101219032704box.jpg",
+        "stream_url": "http://stream.mardio.link:8081/live/btbox.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE4IEFNJmhhc2hfdmFsdWU9UElaeVhOZUhKTnkzSkpNeTJiU0trZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM4NjA5"
+      },
+      {
+        "id": "108",
+        "name": "Euro Sport",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/190116044352euro.png",
+        "stream_url": "http://stream.mardio.link:8081/live/uk-eurosport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE5IEFNJmhhc2hfdmFsdWU9VjgzTi9SM01WakRucXoyUThJTlhCUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM5MzI1"
+      },
+      {
+        "id": "109",
+        "name": "Euro Sport 2",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/190116044416euro2.jpg",
+        "stream_url": "http://stream.mardio.link:8081/live/uk-eurosport2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIwIEFNJmhhc2hfdmFsdWU9aHBXS1RiSUptckN2d2pYMi8xSjlEUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQwMTEy"
+      },
+      {
+        "id": "178",
+        "name": "Racing UK",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/200116035209racing.png",
+        "stream_url": "http://stream.mardio.link:8081/live/uk-racing.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIwIEFNJmhhc2hfdmFsdWU9RG1zMnpySXlEUzJGWUZvNFVkM01wQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQwODE0"
+      },
+      {
+        "id": "411",
+        "name": "Sky Sports Arena",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/270717102912arena1.jpeg",
+        "stream_url": "http://stream.mardio.link:8081/live/uk-skysportsarena-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIxIEFNJmhhc2hfdmFsdWU9anJtSHNaVGUrK2drR016RHh6Q2R2UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQxNTA2"
+      },
+      {
+        "id": "205",
+        "name": "Sky Sports Cricket",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/200717080620skycric.jpeg",
+        "stream_url": "http://stream.mardio.link:8081/live/uk-skysportscricket-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIyIEFNJmhhc2hfdmFsdWU9dHdSc2Rra2hRZmdTVUpMUFJJd1Z3UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQyMjM0"
+      },
+      {
+        "id": "209",
+        "name": "Sky Sports F1",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/200717081443f12.jpeg",
+        "stream_url": "http://stream.mardio.link:8081/live/uk-skysportsf1-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIyIEFNJmhhc2hfdmFsdWU9cTFIREo0QnNlcG5CN09hZ1RxNVRHZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQyOTMw"
+      },
+      {
+        "id": "410",
+        "name": "Sky Sports Football",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/270717102848foot1.jpeg",
+        "stream_url": "http://stream.mardio.link:8081/live/uk-skysportsfootball-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIzIEFNJmhhc2hfdmFsdWU9Q2gxcXU1dEVTbU1WUTFHbXpQSGJqUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQzNzIx"
+      },
+      {
+        "id": "207",
+        "name": "Sky Sports Golf",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/041122093920Sky_Sports_Golf.png",
+        "stream_url": "http://stream.mardio.link:8081/live/uk-skysportsgolf-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI0IEFNJmhhc2hfdmFsdWU9T2tuWUpubUJ6NmJqTU5FV001Y2E4UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ0NDUz"
+      },
+      {
+        "id": "204",
+        "name": "Sky Sports Main Event",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/200717080757main1.jpeg",
+        "stream_url": "http://stream.mardio.link:8081/live/uk-skysportsmainevent-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI1IEFNJmhhc2hfdmFsdWU9ODFvUHJVOTNDNkt0VXNxRkVPTC9qZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ1MTg0"
+      },
+      {
+        "id": "308",
+        "name": "Sky Sports Mix",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/200717081554mix2.jpeg",
+        "stream_url": "http://stream.mardio.link:8081/live/uk-skysportsmix-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI1IEFNJmhhc2hfdmFsdWU9RDY2N3B6Y0tVYmVDdVBkOXV0dUVSdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ1ODgz"
+      },
+      {
+        "id": "206",
+        "name": "Sky Sports NFL",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/020321091841nflll.png",
+        "stream_url": "http://stream.mardio.link:8081/live/uk-skysportsnfl-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI3IEFNJmhhc2hfdmFsdWU9Z2lybGNVNUsrMkp5dWhCbHVMcE5Wdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ3Mjg0"
+      },
+      {
+        "id": "210",
+        "name": "Sky Sports News",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/200717081653news1.jpeg",
+        "stream_url": "http://stream.mardio.link:8081/live/uk-skysportsnews-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI2IEFNJmhhc2hfdmFsdWU9SlhNWDUyU24rMS9EeWI3b0hCbjBkdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ2NTgw"
+      },
+      {
+        "id": "208",
+        "name": "Sky Sports Premier League",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/200717081219pl2.jpeg",
+        "stream_url": "http://stream.mardio.link:8081/live/uk-skysportspremierleague-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI3IEFNJmhhc2hfdmFsdWU9c1Jic1FoRFhHQzBFbXA3SStKb1dLZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ3OTc3"
+      },
+      {
+        "id": "41",
+        "name": "Sky Sports Racing",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/101022031600skr.png",
+        "stream_url": "http://stream.mardio.link:8081/live/uk-skysportsracing-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI4IEFNJmhhc2hfdmFsdWU9NHZBeWlhYmNvWlE0WW95YVdQeHhqUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ4Njc5"
+      },
+      {
+        "id": "785",
+        "name": "UFC Fight Pass",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/310818013311ufff.jpeg",
+        "stream_url": "http://stream.mardio.link:8081/live/uk-ufcfight1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI5IEFNJmhhc2hfdmFsdWU9WmEvcGE1VC8zWFhCTFQ2M1d2WTNndz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ5NDA2"
+      },
+      {
+        "id": "170",
+        "name": "Viaplay Sports 1",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/041122093027Viaplay_Sports_1.png",
+        "stream_url": "http://stream.mardio.link:8081/live/uk-viaplaysports1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjMwIEFNJmhhc2hfdmFsdWU9Z1FKV28rMHZLV3VFa0kwS0JMM1ZMdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzUwMTAz"
+      },
+      {
+        "id": "782",
+        "name": "Viaplay Sports 2",
+        "country": "UK",
+        "thumbnail": "images/channel_imgs/041122093121Viaplay_Sports_2.png",
+        "stream_url": "http://stream.mardio.link:8081/live/uk-viaplaysports2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjMwIEFNJmhhc2hfdmFsdWU9cFgzTTUvZVNYUEdpSVFzMnZ0cDN1UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzUwODMy"
+      }
+    ]
+  },
+  "channels_flat": [
+    {
+      "id": "59",
+      "name": "BT Sport 1",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116115523bt1.jpg",
+      "stream_url": "http://stream.mardio.link:8081/live/uk-btsport1-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE2IEFNJmhhc2hfdmFsdWU9SDBKakRjSjJScmFqN3dVczVGaHM4QT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM2MzU5"
+    },
+    {
+      "id": "60",
+      "name": "BT Sport 2",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116115549bt2.jpg",
+      "stream_url": "http://stream.mardio.link:8081/live/uk-btsport2-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE3IEFNJmhhc2hfdmFsdWU9ME50MzhwcHp5NFhxUTZ1aHVzN1BuZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM3MDky"
+    },
+    {
+      "id": "298",
+      "name": "BT Sport 3",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/270916013607bt3.png",
+      "stream_url": "http://stream.mardio.link:8081/live/uk-btsport3-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE3IEFNJmhhc2hfdmFsdWU9RVhZOUNER0RrRWs5c1JMcGFHQ01PUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM3ODIx"
+    },
+    {
+      "id": "821",
+      "name": "BT Sport box office",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/101219032704box.jpg",
+      "stream_url": "http://stream.mardio.link:8081/live/btbox.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE4IEFNJmhhc2hfdmFsdWU9UElaeVhOZUhKTnkzSkpNeTJiU0trZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM4NjA5"
+    },
+    {
+      "id": "108",
+      "name": "Euro Sport",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/190116044352euro.png",
+      "stream_url": "http://stream.mardio.link:8081/live/uk-eurosport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjE5IEFNJmhhc2hfdmFsdWU9VjgzTi9SM01WakRucXoyUThJTlhCUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzM5MzI1"
+    },
+    {
+      "id": "109",
+      "name": "Euro Sport 2",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/190116044416euro2.jpg",
+      "stream_url": "http://stream.mardio.link:8081/live/uk-eurosport2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIwIEFNJmhhc2hfdmFsdWU9aHBXS1RiSUptckN2d2pYMi8xSjlEUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQwMTEy"
+    },
+    {
+      "id": "178",
+      "name": "Racing UK",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200116035209racing.png",
+      "stream_url": "http://stream.mardio.link:8081/live/uk-racing.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIwIEFNJmhhc2hfdmFsdWU9RG1zMnpySXlEUzJGWUZvNFVkM01wQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQwODE0"
+    },
+    {
+      "id": "411",
+      "name": "Sky Sports Arena",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/270717102912arena1.jpeg",
+      "stream_url": "http://stream.mardio.link:8081/live/uk-skysportsarena-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIxIEFNJmhhc2hfdmFsdWU9anJtSHNaVGUrK2drR016RHh6Q2R2UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQxNTA2"
+    },
+    {
+      "id": "205",
+      "name": "Sky Sports Cricket",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717080620skycric.jpeg",
+      "stream_url": "http://stream.mardio.link:8081/live/uk-skysportscricket-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIyIEFNJmhhc2hfdmFsdWU9dHdSc2Rra2hRZmdTVUpMUFJJd1Z3UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQyMjM0"
+    },
+    {
+      "id": "209",
+      "name": "Sky Sports F1",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717081443f12.jpeg",
+      "stream_url": "http://stream.mardio.link:8081/live/uk-skysportsf1-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIyIEFNJmhhc2hfdmFsdWU9cTFIREo0QnNlcG5CN09hZ1RxNVRHZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQyOTMw"
+    },
+    {
+      "id": "410",
+      "name": "Sky Sports Football",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/270717102848foot1.jpeg",
+      "stream_url": "http://stream.mardio.link:8081/live/uk-skysportsfootball-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjIzIEFNJmhhc2hfdmFsdWU9Q2gxcXU1dEVTbU1WUTFHbXpQSGJqUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQzNzIx"
+    },
+    {
+      "id": "207",
+      "name": "Sky Sports Golf",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/041122093920Sky_Sports_Golf.png",
+      "stream_url": "http://stream.mardio.link:8081/live/uk-skysportsgolf-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI0IEFNJmhhc2hfdmFsdWU9T2tuWUpubUJ6NmJqTU5FV001Y2E4UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ0NDUz"
+    },
+    {
+      "id": "204",
+      "name": "Sky Sports Main Event",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717080757main1.jpeg",
+      "stream_url": "http://stream.mardio.link:8081/live/uk-skysportsmainevent-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI1IEFNJmhhc2hfdmFsdWU9ODFvUHJVOTNDNkt0VXNxRkVPTC9qZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ1MTg0"
+    },
+    {
+      "id": "308",
+      "name": "Sky Sports Mix",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717081554mix2.jpeg",
+      "stream_url": "http://stream.mardio.link:8081/live/uk-skysportsmix-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI1IEFNJmhhc2hfdmFsdWU9RDY2N3B6Y0tVYmVDdVBkOXV0dUVSdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ1ODgz"
+    },
+    {
+      "id": "210",
+      "name": "Sky Sports News",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717081653news1.jpeg",
+      "stream_url": "http://stream.mardio.link:8081/live/uk-skysportsnews-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI2IEFNJmhhc2hfdmFsdWU9SlhNWDUyU24rMS9EeWI3b0hCbjBkdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ2NTgw"
+    },
+    {
+      "id": "206",
+      "name": "Sky Sports NFL",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/020321091841nflll.png",
+      "stream_url": "http://stream.mardio.link:8081/live/uk-skysportsnfl-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI3IEFNJmhhc2hfdmFsdWU9Z2lybGNVNUsrMkp5dWhCbHVMcE5Wdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ3Mjg0"
+    },
+    {
+      "id": "208",
+      "name": "Sky Sports Premier League",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717081219pl2.jpeg",
+      "stream_url": "http://stream.mardio.link:8081/live/uk-skysportspremierleague-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI3IEFNJmhhc2hfdmFsdWU9c1Jic1FoRFhHQzBFbXA3SStKb1dLZz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ3OTc3"
+    },
+    {
+      "id": "41",
+      "name": "Sky Sports Racing",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/101022031600skr.png",
+      "stream_url": "http://stream.mardio.link:8081/live/uk-skysportsracing-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI4IEFNJmhhc2hfdmFsdWU9NHZBeWlhYmNvWlE0WW95YVdQeHhqUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ4Njc5"
+    },
+    {
+      "id": "785",
+      "name": "UFC Fight Pass",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/310818013311ufff.jpeg",
+      "stream_url": "http://stream.mardio.link:8081/live/uk-ufcfight1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjI5IEFNJmhhc2hfdmFsdWU9WmEvcGE1VC8zWFhCTFQ2M1d2WTNndz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzQ5NDA2"
+    },
+    {
+      "id": "170",
+      "name": "Viaplay Sports 1",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/041122093027Viaplay_Sports_1.png",
+      "stream_url": "http://stream.mardio.link:8081/live/uk-viaplaysports1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjMwIEFNJmhhc2hfdmFsdWU9Z1FKV28rMHZLV3VFa0kwS0JMM1ZMdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzUwMTAz"
+    },
+    {
+      "id": "782",
+      "name": "Viaplay Sports 2",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/041122093121Viaplay_Sports_2.png",
+      "stream_url": "http://stream.mardio.link:8081/live/uk-viaplaysports2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA5OjMyOjMwIEFNJmhhc2hfdmFsdWU9cFgzTTUvZVNYUEdpSVFzMnZ0cDN1UT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzYzMTEyNzUwODMy"
+    }
+  ]
+}
