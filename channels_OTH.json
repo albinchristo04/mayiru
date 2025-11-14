@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-14T02:00:30.222302Z",
+    "country": "OTH",
+    "total_channels": 7
+  },
+  "channels": [
+    {
+      "id": "26",
+      "name": "ABP News",
+      "country": "OTH",
+      "thumbnail": "images/channel_imgs/160116113252abp.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "631",
+      "name": "Bein Sports 1",
+      "country": "OTH",
+      "thumbnail": "images/channel_imgs/250118034414beinsp1.png",
+      "stream_url": null
+    },
+    {
+      "id": "632",
+      "name": "Bein Sports 2",
+      "country": "OTH",
+      "thumbnail": "images/channel_imgs/250118034444bein2.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "633",
+      "name": "Bein Sports 3",
+      "country": "OTH",
+      "thumbnail": "images/channel_imgs/250118034734bein3.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "174",
+      "name": "PTV Sports",
+      "country": "OTH",
+      "thumbnail": "images/channel_imgs/200116034954ptvs.PNG",
+      "stream_url": null
+    },
+    {
+      "id": "725",
+      "name": "Rsi La2",
+      "country": "OTH",
+      "thumbnail": "images/channel_imgs/220518012140la2.gif",
+      "stream_url": null
+    },
+    {
+      "id": "688",
+      "name": "SRF Zwei",
+      "country": "OTH",
+      "thumbnail": "images/channel_imgs/080318124020zw.png",
+      "stream_url": null
+    }
+  ]
+}

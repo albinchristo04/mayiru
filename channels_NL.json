@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-14T02:00:30.222302Z",
+    "country": "NL",
+    "total_channels": 1
+  },
+  "channels": [
+    {
+      "id": "750",
+      "name": "NPO 1",
+      "country": "NL",
+      "thumbnail": "images/channel_imgs/140618010747npo1.png",
+      "stream_url": null
+    }
+  ]
+}

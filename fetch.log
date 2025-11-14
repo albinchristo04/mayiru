@@ -1,0 +1,8 @@
+[INFO] Starting TVTap all channels fetch...
+[INFO] Sending request to TVTap API for all channels...
+[INFO] Response status: 200
+[INFO] Found 375 total channels from API
+[INFO] Extracted 375 channels
+[INFO] Successfully fetched 375 channels from api
+[INFO] Countries: 11
+[INFO] Done!

@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-14T02:00:30.222302Z",
+    "country": "CA",
+    "total_channels": 11
+  },
+  "channels": [
+    {
+      "id": "613",
+      "name": "CBC",
+      "country": "CA",
+      "thumbnail": "images/channel_imgs/170118031806cbc.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "691",
+      "name": "CTV",
+      "country": "CA",
+      "thumbnail": "images/channel_imgs/090318035210ctb.png",
+      "stream_url": null
+    },
+    {
+      "id": "659",
+      "name": "Global TV",
+      "country": "CA",
+      "thumbnail": "images/channel_imgs/030218025358glo.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "417",
+      "name": "Sportsnet One",
+      "country": "CA",
+      "thumbnail": "images/channel_imgs/041017012929sn1.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "214",
+      "name": "Sportsnet Ontario",
+      "country": "CA",
+      "thumbnail": "images/channel_imgs/200116042105ont.png",
+      "stream_url": null
+    },
+    {
+      "id": "215",
+      "name": "Sportsnet World",
+      "country": "CA",
+      "thumbnail": "images/channel_imgs/200116042130worl.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "233",
+      "name": "TSN 1",
+      "country": "CA",
+      "thumbnail": "images/channel_imgs/200116043251tsn1.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "234",
+      "name": "TSN 2",
+      "country": "CA",
+      "thumbnail": "images/channel_imgs/200116043314ts2.png",
+      "stream_url": null
+    },
+    {
+      "id": "235",
+      "name": "TSN 3",
+      "country": "CA",
+      "thumbnail": "images/channel_imgs/200116043351ts3.png",
+      "stream_url": null
+    },
+    {
+      "id": "412",
+      "name": "TSN 4",
+      "country": "CA",
+      "thumbnail": "images/channel_imgs/090917013550tsn4.png",
+      "stream_url": null
+    },
+    {
+      "id": "413",
+      "name": "TSN 5",
+      "country": "CA",
+      "thumbnail": "images/channel_imgs/090917013648tsn5.png",
+      "stream_url": null
+    }
+  ]
+}

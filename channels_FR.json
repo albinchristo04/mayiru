@@ -1,0 +1,212 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-14T02:00:30.222302Z",
+    "country": "FR",
+    "total_channels": 29
+  },
+  "channels": [
+    {
+      "id": "327",
+      "name": "Arte",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/221216041215arte.gif",
+      "stream_url": null
+    },
+    {
+      "id": "49",
+      "name": "Bein Sports 1",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/160116114930bein1f.png",
+      "stream_url": null
+    },
+    {
+      "id": "51",
+      "name": "Bein Sports 2",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/160116115022bein2fr.png",
+      "stream_url": null
+    },
+    {
+      "id": "52",
+      "name": "Bein Sports 3",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/160116115109bein3fr.png",
+      "stream_url": null
+    },
+    {
+      "id": "451",
+      "name": "Bein Sports Max 4",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/201217090105bein4.png",
+      "stream_url": null
+    },
+    {
+      "id": "452",
+      "name": "Bein Sports Max 5",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/201217090208bein5.png",
+      "stream_url": null
+    },
+    {
+      "id": "453",
+      "name": "Bein Sports Max 6",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/201217090246bein6.png",
+      "stream_url": null
+    },
+    {
+      "id": "454",
+      "name": "Bein Sports Max 7",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/201217090332bein7.png",
+      "stream_url": null
+    },
+    {
+      "id": "503",
+      "name": "C8",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/201217101951c88.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "751",
+      "name": "CNews",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/210618010403cbb.png",
+      "stream_url": null
+    },
+    {
+      "id": "315",
+      "name": "Canal+",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/221216034553canalplus.png",
+      "stream_url": null
+    },
+    {
+      "id": "325",
+      "name": "Canal+ Cinema",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/221216040826c+cine.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "317",
+      "name": "Canal+ Family",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/221216035024canalplus fam.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "323",
+      "name": "Canal+ Series",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/221216040233c+ser.png",
+      "stream_url": null
+    },
+    {
+      "id": "316",
+      "name": "Canal+ Sport",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/221216034815canalplus sport.gif",
+      "stream_url": null
+    },
+    {
+      "id": "335",
+      "name": "Cine+ Classic",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/221216044957CINE-PLUS-CLASSIC.SD.png",
+      "stream_url": null
+    },
+    {
+      "id": "333",
+      "name": "Cine+ Emotion",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/221216043757cine emo.png",
+      "stream_url": null
+    },
+    {
+      "id": "320",
+      "name": "Cine+ Frisson",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/221216035653frisson.png",
+      "stream_url": null
+    },
+    {
+      "id": "334",
+      "name": "Cine+ Premier",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/221216044634cine premier.png",
+      "stream_url": null
+    },
+    {
+      "id": "670",
+      "name": "Cstar",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/260218112227cstar.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "763",
+      "name": "Discovery",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/080818014912disco.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "783",
+      "name": "Discovery Science",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/210818123109scie.png",
+      "stream_url": null
+    },
+    {
+      "id": "326",
+      "name": "Gulli",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/221216041047gulli.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "753",
+      "name": "LCI",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/210618010934lci.png",
+      "stream_url": null
+    },
+    {
+      "id": "321",
+      "name": "M6",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/221216035828m6.png",
+      "stream_url": null
+    },
+    {
+      "id": "764",
+      "name": "Nat Geo",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/080818014954nat.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "504",
+      "name": "TF1",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/201217102056tf1.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "766",
+      "name": "Ushuaia tv",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/080818020614ush.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "765",
+      "name": "Voyage tv",
+      "country": "FR",
+      "thumbnail": "images/channel_imgs/080818020320voyage.png",
+      "stream_url": null
+    }
+  ]
+}

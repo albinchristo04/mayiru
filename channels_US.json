@@ -1,0 +1,695 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-14T02:00:30.222302Z",
+    "country": "US",
+    "total_channels": 98
+  },
+  "channels": [
+    {
+      "id": "22",
+      "name": "A&E",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/160116112847ae.gif",
+      "stream_url": null
+    },
+    {
+      "id": "23",
+      "name": "ABC",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/280123080254abc.png",
+      "stream_url": null
+    },
+    {
+      "id": "868",
+      "name": "ACC Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/221022031721accn.png",
+      "stream_url": null
+    },
+    {
+      "id": "28",
+      "name": "AMC",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/160116113647amc.png",
+      "stream_url": null
+    },
+    {
+      "id": "42",
+      "name": "AXS TV",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/160116114345axs.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "491",
+      "name": "Abc news",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217100630abcnew.png",
+      "stream_url": null
+    },
+    {
+      "id": "31",
+      "name": "Animal Planet",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/160116113836animal.PNG",
+      "stream_url": null
+    },
+    {
+      "id": "478",
+      "name": "BBC America",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217094623bbca.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "874",
+      "name": "BET",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/291022023227bet.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "415",
+      "name": "Bein Sports",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/041017012448beinus.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "861",
+      "name": "Big Ten Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/221022033817bigten.png",
+      "stream_url": null
+    },
+    {
+      "id": "493",
+      "name": "Bloomberg",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217100838bloom.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "635",
+      "name": "Boomerang",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/250118035258boom.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "56",
+      "name": "Bravo",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/160116115406bravo.png",
+      "stream_url": null
+    },
+    {
+      "id": "64",
+      "name": "CBS",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/160116115741cbs.png",
+      "stream_url": null
+    },
+    {
+      "id": "492",
+      "name": "CBS News",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217100730cbsn.gif",
+      "stream_url": null
+    },
+    {
+      "id": "416",
+      "name": "CBS Sports Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/041017012728cbss.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "79",
+      "name": "CNBC",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/160116010754cnbs.png",
+      "stream_url": null
+    },
+    {
+      "id": "82",
+      "name": "CNN",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/160116010910cnn.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "87",
+      "name": "CW",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/160116011155thecw.png",
+      "stream_url": null
+    },
+    {
+      "id": "63",
+      "name": "Cartoon Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/160116115720cn.png",
+      "stream_url": null
+    },
+    {
+      "id": "467",
+      "name": "Cinemax",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217092847cinemax.png",
+      "stream_url": null
+    },
+    {
+      "id": "470",
+      "name": "Cinemax 5star max",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/2012170934305star.png",
+      "stream_url": null
+    },
+    {
+      "id": "468",
+      "name": "Cinemax action",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217093233actionmax.png",
+      "stream_url": null
+    },
+    {
+      "id": "85",
+      "name": "Comedy Central.",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/160116011031comedy.png",
+      "stream_url": null
+    },
+    {
+      "id": "754",
+      "name": "Crime investigation",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/210618020312crime.png",
+      "stream_url": null
+    },
+    {
+      "id": "638",
+      "name": "Destination America",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/250118035643desti.png",
+      "stream_url": null
+    },
+    {
+      "id": "94",
+      "name": "Discovery",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/160116011727disc.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "490",
+      "name": "Disney Channel",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217100354diss.png",
+      "stream_url": null
+    },
+    {
+      "id": "755",
+      "name": "Disney XD",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/210618021734xd.png",
+      "stream_url": null
+    },
+    {
+      "id": "101",
+      "name": "ESPN",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/160116015231espn.png",
+      "stream_url": null
+    },
+    {
+      "id": "104",
+      "name": "ESPN 2",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116044202espn2.png",
+      "stream_url": null
+    },
+    {
+      "id": "106",
+      "name": "ESPN News",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116044259espnnew.gif",
+      "stream_url": null
+    },
+    {
+      "id": "414",
+      "name": "ESPN U",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/041017012253espnu.png",
+      "stream_url": null
+    },
+    {
+      "id": "123",
+      "name": "FX",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116045335fx.png",
+      "stream_url": null
+    },
+    {
+      "id": "116",
+      "name": "Food Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116045045foodd.png",
+      "stream_url": null
+    },
+    {
+      "id": "117",
+      "name": "Fox",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/170123095825Fox_2019.png",
+      "stream_url": null
+    },
+    {
+      "id": "870",
+      "name": "Fox Business",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/221022032119FOXBusiness_2019.png",
+      "stream_url": null
+    },
+    {
+      "id": "119",
+      "name": "Fox News",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116045208foxnew.png",
+      "stream_url": null
+    },
+    {
+      "id": "120",
+      "name": "Fox Sports 1",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116045235foxsp1.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "121",
+      "name": "Fox Sports 2",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116045256fox2.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "675",
+      "name": "Freeform",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/260218113117free.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "603",
+      "name": "Fxx",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/090118040055fxx.png",
+      "stream_url": null
+    },
+    {
+      "id": "864",
+      "name": "Game Show Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/221022031055Game_Show_Network_2018.png",
+      "stream_url": null
+    },
+    {
+      "id": "125",
+      "name": "Golf Channel",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116045453golf.png",
+      "stream_url": null
+    },
+    {
+      "id": "128",
+      "name": "HBO",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116045722hbo.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "611",
+      "name": "HBO Family",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/100118035735fam.png",
+      "stream_url": null
+    },
+    {
+      "id": "609",
+      "name": "HBO Zone",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/100118034736hbozone.png",
+      "stream_url": null
+    },
+    {
+      "id": "130",
+      "name": "HGTV",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116045843hgt.png",
+      "stream_url": null
+    },
+    {
+      "id": "479",
+      "name": "Hallmark",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217094707hall.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "133",
+      "name": "History",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190116050031his.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "608",
+      "name": "LMN",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/100118032404lmnn.png",
+      "stream_url": null
+    },
+    {
+      "id": "146",
+      "name": "Lifetime",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116013131life.png",
+      "stream_url": null
+    },
+    {
+      "id": "148",
+      "name": "MLB Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116013246mlb.png",
+      "stream_url": null
+    },
+    {
+      "id": "424",
+      "name": "MSNBC",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/131017031444msnbc.gif",
+      "stream_url": null
+    },
+    {
+      "id": "153",
+      "name": "MTV",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116020600mtvu.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "872",
+      "name": "Magnolia Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/221022032719Magnolia_Network.png",
+      "stream_url": null
+    },
+    {
+      "id": "866",
+      "name": "MeTV",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/221022031332MeTV_logo_2014.png",
+      "stream_url": null
+    },
+    {
+      "id": "697",
+      "name": "Motor Trend",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/100424102218Motor_Trend.png",
+      "stream_url": null
+    },
+    {
+      "id": "159",
+      "name": "NBA TV",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116020842nba.png",
+      "stream_url": null
+    },
+    {
+      "id": "160",
+      "name": "NBC",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116020902nbc.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "162",
+      "name": "NBCSN",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116020945nbcsn.png",
+      "stream_url": null
+    },
+    {
+      "id": "164",
+      "name": "NFL Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116021039nfl.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "494",
+      "name": "NHL network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217100935nhll.png",
+      "stream_url": null
+    },
+    {
+      "id": "158",
+      "name": "Nat Geo",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116020816natgeo.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "486",
+      "name": "Nat Geo Wild",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217095700net.png",
+      "stream_url": null
+    },
+    {
+      "id": "167",
+      "name": "Nick",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116021225nick.png",
+      "stream_url": null
+    },
+    {
+      "id": "489",
+      "name": "Nick Toons",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217100201nickk.png",
+      "stream_url": null
+    },
+    {
+      "id": "639",
+      "name": "OWN",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/250118035754own.png",
+      "stream_url": null
+    },
+    {
+      "id": "637",
+      "name": "Oxygen",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/221022031600Oxygen_2017.png",
+      "stream_url": null
+    },
+    {
+      "id": "168",
+      "name": "Pac 12",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116033519pac12.png",
+      "stream_url": null
+    },
+    {
+      "id": "677",
+      "name": "Paramount Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/260218113343para.png",
+      "stream_url": null
+    },
+    {
+      "id": "488",
+      "name": "Science",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217095933sci.png",
+      "stream_url": null
+    },
+    {
+      "id": "860",
+      "name": "Sec Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/061022111909sec.png",
+      "stream_url": null
+    },
+    {
+      "id": "472",
+      "name": "Showtime",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217093820showtime.png",
+      "stream_url": null
+    },
+    {
+      "id": "473",
+      "name": "Showtime 2",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217094114show22.png",
+      "stream_url": null
+    },
+    {
+      "id": "475",
+      "name": "Showtime showcase",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217094322showca.png",
+      "stream_url": null
+    },
+    {
+      "id": "867",
+      "name": "Smithsonian Channel",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/221022031445smithsonian.png",
+      "stream_url": null
+    },
+    {
+      "id": "602",
+      "name": "Starz",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/090118040003starz.gif",
+      "stream_url": null
+    },
+    {
+      "id": "482",
+      "name": "Starz cinema",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217095043starzci.png",
+      "stream_url": null
+    },
+    {
+      "id": "483",
+      "name": "Starz comedy",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217095127Starz_Comedy_2016.svg.png",
+      "stream_url": null
+    },
+    {
+      "id": "484",
+      "name": "Starz edge",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217095201Starz_Edge_2016.svg.png",
+      "stream_url": null
+    },
+    {
+      "id": "485",
+      "name": "Starz encore",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/201217095446encc.png",
+      "stream_url": null
+    },
+    {
+      "id": "676",
+      "name": "Sundance Tv",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/260218113223sund.png",
+      "stream_url": null
+    },
+    {
+      "id": "221",
+      "name": "Syfy",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116042554sfy.png",
+      "stream_url": null
+    },
+    {
+      "id": "222",
+      "name": "TBS",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/190223121850tbs.png",
+      "stream_url": null
+    },
+    {
+      "id": "307",
+      "name": "TLC",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/211216100014tlcc.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "228",
+      "name": "TNT",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/170123085940tnt.png",
+      "stream_url": null
+    },
+    {
+      "id": "865",
+      "name": "TV Land",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/221022031218TV_Land_2015.png",
+      "stream_url": null
+    },
+    {
+      "id": "863",
+      "name": "TV ONE",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/221022030826TV_One_logo_2016.png",
+      "stream_url": null
+    },
+    {
+      "id": "306",
+      "name": "Tennis",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/211216095835tennis.png",
+      "stream_url": null
+    },
+    {
+      "id": "596",
+      "name": "The Weather Channel",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/221022031958The_Weather_Channel.png",
+      "stream_url": null
+    },
+    {
+      "id": "786",
+      "name": "Travel",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/310818124102tr.png",
+      "stream_url": null
+    },
+    {
+      "id": "238",
+      "name": "USA Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116043501usaa.gif",
+      "stream_url": null
+    },
+    {
+      "id": "607",
+      "name": "VH1",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/100118032012vh.png",
+      "stream_url": null
+    },
+    {
+      "id": "612",
+      "name": "Vice TV",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/040424112801vice.png",
+      "stream_url": null
+    },
+    {
+      "id": "869",
+      "name": "Yes Network",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/221022031826YES_Network_logo.png",
+      "stream_url": null
+    },
+    {
+      "id": "241",
+      "name": "wwe HD",
+      "country": "US",
+      "thumbnail": "images/channel_imgs/200116043641wwee.gif",
+      "stream_url": null
+    }
+  ]
+}

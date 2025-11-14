@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-14T02:00:30.222302Z",
+    "country": "PT",
+    "total_channels": 5
+  },
+  "channels": [
+    {
+      "id": "505",
+      "name": "Sport tv 1",
+      "country": "PT",
+      "thumbnail": "images/channel_imgs/201217102635sp111.png",
+      "stream_url": null
+    },
+    {
+      "id": "506",
+      "name": "Sport tv 2",
+      "country": "PT",
+      "thumbnail": "images/channel_imgs/201217102542sp2.png",
+      "stream_url": null
+    },
+    {
+      "id": "507",
+      "name": "Sport tv 3",
+      "country": "PT",
+      "thumbnail": "images/channel_imgs/201217102612sp3.png",
+      "stream_url": null
+    },
+    {
+      "id": "508",
+      "name": "Sport tv 4",
+      "country": "PT",
+      "thumbnail": "images/channel_imgs/201217102708sp4.png",
+      "stream_url": null
+    },
+    {
+      "id": "509",
+      "name": "Sport tv 5",
+      "country": "PT",
+      "thumbnail": "images/channel_imgs/080118035520spopp.png",
+      "stream_url": null
+    }
+  ]
+}

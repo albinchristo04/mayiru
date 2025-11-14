@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-14T02:00:30.222302Z",
+    "country": "ES",
+    "total_channels": 15
+  },
+  "channels": [
+    {
+      "id": "339",
+      "name": "Antenna 3",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/231216025029antena.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "344",
+      "name": "Barca",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/231216030739barca.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "354",
+      "name": "Bein Sports",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/231216034647beinsp.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "359",
+      "name": "Dazn F1",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/131022041033dazn-f1.png",
+      "stream_url": null
+    },
+    {
+      "id": "673",
+      "name": "Discovery",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/260218112622dis.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "741",
+      "name": "Euro Sport",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/250518014244eurrrr.png",
+      "stream_url": null
+    },
+    {
+      "id": "360",
+      "name": "Fox",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/231216040658fox.png",
+      "stream_url": null
+    },
+    {
+      "id": "356",
+      "name": "Historia",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/231216035755historriia.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "370",
+      "name": "La1",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/30011812104812.png",
+      "stream_url": null
+    },
+    {
+      "id": "803",
+      "name": "Movistar Esternos",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/250918042359estre.png",
+      "stream_url": null
+    },
+    {
+      "id": "463",
+      "name": "Movistar accion",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/201217092117accc.png",
+      "stream_url": null
+    },
+    {
+      "id": "347",
+      "name": "Nat Geo",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/231216032637nattt.png",
+      "stream_url": null
+    },
+    {
+      "id": "361",
+      "name": "Nat Geo Wild",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/231216040903natw.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "805",
+      "name": "TCM",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/250918042554tcm.png",
+      "stream_url": null
+    },
+    {
+      "id": "368",
+      "name": "TNT",
+      "country": "ES",
+      "thumbnail": "images/channel_imgs/231216043056tntse.png",
+      "stream_url": null
+    }
+  ]
+}

@@ -1,0 +1,653 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-14T02:00:30.222302Z",
+    "country": "UK",
+    "total_channels": 92
+  },
+  "channels": [
+    {
+      "id": "501",
+      "name": "4seven",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/201217101744477.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "502",
+      "name": "5usa",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/2012171018385usa.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "496",
+      "name": "AMC",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/201217101152amc.png",
+      "stream_url": null
+    },
+    {
+      "id": "248",
+      "name": "BBC Entertainment",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/070216060150bbc_entertainment_logo.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "43",
+      "name": "BBC Four",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116114416bb.gif",
+      "stream_url": null
+    },
+    {
+      "id": "47",
+      "name": "BBC News",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116114840bbcnew.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "44",
+      "name": "BBC One",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116114707bbc1.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "46",
+      "name": "BBC Two",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116114814bbc2.png",
+      "stream_url": null
+    },
+    {
+      "id": "425",
+      "name": "BET",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/011117023501bet.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "59",
+      "name": "BT Sport 1",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116115523bt1.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "60",
+      "name": "BT Sport 2",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116115549bt2.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "298",
+      "name": "BT Sport 3",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/270916013607bt3.png",
+      "stream_url": null
+    },
+    {
+      "id": "821",
+      "name": "BT Sport box office",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/101219032704box.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "642",
+      "name": "Challenge",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/250118040131chal.png",
+      "stream_url": null
+    },
+    {
+      "id": "77",
+      "name": "Channel 4",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116120342ch44.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "299",
+      "name": "Channel 5",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/29091604580355.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "84",
+      "name": "Comedy Central",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116011001comedy.png",
+      "stream_url": null
+    },
+    {
+      "id": "647",
+      "name": "Comedy central extra",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/250118040645cooo.png",
+      "stream_url": null
+    },
+    {
+      "id": "623",
+      "name": "Crime investigation",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/250118033123crim.png",
+      "stream_url": null
+    },
+    {
+      "id": "88",
+      "name": "Dave",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116011221dave.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "91",
+      "name": "Discovery",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116011400disc.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "92",
+      "name": "Discovery History",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116011615disht.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "93",
+      "name": "Discovery Science",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116011644dissc.png",
+      "stream_url": null
+    },
+    {
+      "id": "268",
+      "name": "Discovery Shed",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/070216081748150px-Discovery_Shed.png",
+      "stream_url": null
+    },
+    {
+      "id": "267",
+      "name": "Discovery Turbo",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/070216081612turb.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "95",
+      "name": "Disney",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116012005disnep.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "96",
+      "name": "Disney Junior",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116014600disj.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "97",
+      "name": "Dmax",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116014633dmax.png",
+      "stream_url": null
+    },
+    {
+      "id": "100",
+      "name": "E4",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/160116014921e4.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "108",
+      "name": "Euro Sport",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/190116044352euro.png",
+      "stream_url": null
+    },
+    {
+      "id": "109",
+      "name": "Euro Sport 2",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/190116044416euro2.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "112",
+      "name": "Film 4",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/190116044643film.png",
+      "stream_url": null
+    },
+    {
+      "id": "115",
+      "name": "Food Network",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/190116044823food.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "290",
+      "name": "Fox UK",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/290616022614fox.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "236",
+      "name": "Gold",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200116043416gold.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "726",
+      "name": "H2",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/220518012211h2.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "641",
+      "name": "HGTV",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/090223030518hgtv.png",
+      "stream_url": null
+    },
+    {
+      "id": "131",
+      "name": "History",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/190116045928his.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "722",
+      "name": "Horror Xtra",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/081022030215horror-xtra.png",
+      "stream_url": null
+    },
+    {
+      "id": "137",
+      "name": "ITV",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/190116050342itv.png",
+      "stream_url": null
+    },
+    {
+      "id": "139",
+      "name": "ITV2",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/190116050434itv2.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "140",
+      "name": "ITV3",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/190116050519itv3.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "142",
+      "name": "ITV4",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200116012425itv4.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "145",
+      "name": "LFC TV",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200116013110lfc.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "150",
+      "name": "MTV",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200116013341mtv.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "151",
+      "name": "MTV Classic",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200116013404mtvclas.png",
+      "stream_url": null
+    },
+    {
+      "id": "295",
+      "name": "MTV Dance",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/290616023145mtvd.png",
+      "stream_url": null
+    },
+    {
+      "id": "296",
+      "name": "MTV Rocks",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/290616023224mtvr.png",
+      "stream_url": null
+    },
+    {
+      "id": "154",
+      "name": "MU TV",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200116020618mutv.gif",
+      "stream_url": null
+    },
+    {
+      "id": "500",
+      "name": "More4",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/201217101617more4.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "155",
+      "name": "Nat Geo",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200116020643natgeo.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "157",
+      "name": "Nat Geo Wild",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200116020726wild.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "165",
+      "name": "Nick",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200116021059nick.png",
+      "stream_url": null
+    },
+    {
+      "id": "166",
+      "name": "Nick Toons",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200116021120nicktoons.png",
+      "stream_url": null
+    },
+    {
+      "id": "645",
+      "name": "Nick jr.",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/250118040447nickjr.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "644",
+      "name": "Nick jr.too",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/250118040355jr.png",
+      "stream_url": null
+    },
+    {
+      "id": "650",
+      "name": "Pick",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/250118040926pick.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "177",
+      "name": "Quest",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200116035140quest.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "178",
+      "name": "Racing UK",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200116035209racing.png",
+      "stream_url": null
+    },
+    {
+      "id": "66",
+      "name": "Reality Xtra",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/090223031206RealityXtra.png",
+      "stream_url": null
+    },
+    {
+      "id": "189",
+      "name": "Sky 1",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200116040021sky1.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "192",
+      "name": "Sky Atlantic",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200116040143sky anta.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "196",
+      "name": "Sky Cinema Action",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/310318054903action.png",
+      "stream_url": null
+    },
+    {
+      "id": "197",
+      "name": "Sky Cinema Comedy",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/310318054958comedy.png",
+      "stream_url": null
+    },
+    {
+      "id": "198",
+      "name": "Sky Cinema Crime & Thriller",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/310318055056crime.png",
+      "stream_url": null
+    },
+    {
+      "id": "199",
+      "name": "Sky Cinema Drama",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/310318055157drama.png",
+      "stream_url": null
+    },
+    {
+      "id": "200",
+      "name": "Sky Cinema Family",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/310318055225family.png",
+      "stream_url": null
+    },
+    {
+      "id": "253",
+      "name": "Sky Cinema Greats",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/310318060135greats.png",
+      "stream_url": null
+    },
+    {
+      "id": "696",
+      "name": "Sky Cinema Hits",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/310318053832skyc.png",
+      "stream_url": null
+    },
+    {
+      "id": "201",
+      "name": "Sky Cinema Premiere",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/310318055322prem.png",
+      "stream_url": null
+    },
+    {
+      "id": "202",
+      "name": "Sky Cinema Scifi & Horror",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/310318055355scifi.png",
+      "stream_url": null
+    },
+    {
+      "id": "254",
+      "name": "Sky Cinema Select",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/310318055428select.png",
+      "stream_url": null
+    },
+    {
+      "id": "203",
+      "name": "Sky News",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200116041019skynews.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "411",
+      "name": "Sky Sports Arena",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/270717102912arena1.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "205",
+      "name": "Sky Sports Cricket",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717080620skycric.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "209",
+      "name": "Sky Sports F1",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717081443f12.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "410",
+      "name": "Sky Sports Football",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/270717102848foot1.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "207",
+      "name": "Sky Sports Golf",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/041122093920Sky_Sports_Golf.png",
+      "stream_url": null
+    },
+    {
+      "id": "204",
+      "name": "Sky Sports Main Event",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717080757main1.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "308",
+      "name": "Sky Sports Mix",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717081554mix2.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "206",
+      "name": "Sky Sports NFL",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/020321091841nflll.png",
+      "stream_url": null
+    },
+    {
+      "id": "210",
+      "name": "Sky Sports News",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717081653news1.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "208",
+      "name": "Sky Sports Premier League",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200717081219pl2.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "41",
+      "name": "Sky Sports Racing",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/101022031600skr.png",
+      "stream_url": null
+    },
+    {
+      "id": "291",
+      "name": "Sony Movie",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/290616022720sony.png",
+      "stream_url": null
+    },
+    {
+      "id": "292",
+      "name": "TCM",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/290616022825tcm.png",
+      "stream_url": null
+    },
+    {
+      "id": "288",
+      "name": "TLC",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/290616022325tlc.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "785",
+      "name": "UFC Fight Pass",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/310818013311ufff.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "239",
+      "name": "VH1",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/200116043534vh1.png",
+      "stream_url": null
+    },
+    {
+      "id": "170",
+      "name": "Viaplay Sports 1",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/041122093027Viaplay_Sports_1.png",
+      "stream_url": null
+    },
+    {
+      "id": "782",
+      "name": "Viaplay Sports 2",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/041122093121Viaplay_Sports_2.png",
+      "stream_url": null
+    },
+    {
+      "id": "646",
+      "name": "Viceland",
+      "country": "UK",
+      "thumbnail": "images/channel_imgs/250118040532vice.jpg",
+      "stream_url": null
+    }
+  ]
+}

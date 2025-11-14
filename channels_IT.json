@@ -1,0 +1,534 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-14T02:00:30.222302Z",
+    "country": "IT",
+    "total_channels": 75
+  },
+  "channels": [
+    {
+      "id": "813",
+      "name": "Baby TV",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/111018013256baby.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "812",
+      "name": "Boomerang",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/111018013155boome.gif",
+      "stream_url": null
+    },
+    {
+      "id": "438",
+      "name": "Canale 5",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/13121701250455.gif",
+      "stream_url": null
+    },
+    {
+      "id": "439",
+      "name": "Cartoon Network",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/131217012619cnn.png",
+      "stream_url": null
+    },
+    {
+      "id": "810",
+      "name": "Classica",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/111018012907classica.png",
+      "stream_url": null
+    },
+    {
+      "id": "776",
+      "name": "Comedy Central-",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/130818012353comedy.png",
+      "stream_url": null
+    },
+    {
+      "id": "830",
+      "name": "Dazn 1",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/161019085616dazn.png",
+      "stream_url": null
+    },
+    {
+      "id": "819",
+      "name": "Dazn 10",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/031118035735dazn.png",
+      "stream_url": null
+    },
+    {
+      "id": "820",
+      "name": "Dazn 11",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/031118035743dazn.png",
+      "stream_url": null
+    },
+    {
+      "id": "768",
+      "name": "Dazn 2",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/100818031954dazn.png",
+      "stream_url": null
+    },
+    {
+      "id": "769",
+      "name": "Dazn 3",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/100818032007dazn.png",
+      "stream_url": null
+    },
+    {
+      "id": "770",
+      "name": "Dazn 4",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/100818032020dazn.png",
+      "stream_url": null
+    },
+    {
+      "id": "771",
+      "name": "Dazn 5",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/100818032033dazn.png",
+      "stream_url": null
+    },
+    {
+      "id": "815",
+      "name": "Dazn 6",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/031118035634dazn.png",
+      "stream_url": null
+    },
+    {
+      "id": "816",
+      "name": "Dazn 7",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/031118035755dazn.png",
+      "stream_url": null
+    },
+    {
+      "id": "817",
+      "name": "Dazn 8",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/031118035807dazn.png",
+      "stream_url": null
+    },
+    {
+      "id": "818",
+      "name": "Dazn 9",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/031118035815dazn.png",
+      "stream_url": null
+    },
+    {
+      "id": "811",
+      "name": "Dea Kids",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/121118053223db.php",
+      "stream_url": null
+    },
+    {
+      "id": "700",
+      "name": "Discovery",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/020518010950dis.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "731",
+      "name": "Discovery Real Time",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/220518013354realll.png",
+      "stream_url": null
+    },
+    {
+      "id": "737",
+      "name": "Discovery Science",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/220518014439sci.png",
+      "stream_url": null
+    },
+    {
+      "id": "713",
+      "name": "Discovery Travel & Living",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/140518053444diss.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "732",
+      "name": "Dmax",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/220518013431dmax.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "711",
+      "name": "Euro Sport",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/140518053159eur.png",
+      "stream_url": null
+    },
+    {
+      "id": "712",
+      "name": "Euro Sport 2",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/140518053309euro2.png",
+      "stream_url": null
+    },
+    {
+      "id": "442",
+      "name": "History",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/131217013205his.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "739",
+      "name": "Inter Tv",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/250518014057inter.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "443",
+      "name": "Italia 1",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/131217013326it1.png",
+      "stream_url": null
+    },
+    {
+      "id": "466",
+      "name": "La 7",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/201217092735la7.png",
+      "stream_url": null
+    },
+    {
+      "id": "794",
+      "name": "Lazio Style",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/150918123638lazo.png",
+      "stream_url": null
+    },
+    {
+      "id": "797",
+      "name": "MediaSet Focus",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/250918041549Focus_New.png",
+      "stream_url": null
+    },
+    {
+      "id": "718",
+      "name": "Mediaset 2",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/140518054804mediaset.jpg",
+      "stream_url": null
+    },
+    {
+      "id": "749",
+      "name": "Mediaset Extra",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/140618010621extr.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "729",
+      "name": "Milan tv",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/220518013021milan.png",
+      "stream_url": null
+    },
+    {
+      "id": "791",
+      "name": "Nicklodean",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/310818124938nicku.png",
+      "stream_url": null
+    },
+    {
+      "id": "801",
+      "name": "Nove",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/250918041937nove.png",
+      "stream_url": null
+    },
+    {
+      "id": "426",
+      "name": "Rai 1",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/071217024326rai1.png",
+      "stream_url": null
+    },
+    {
+      "id": "427",
+      "name": "Rai 2",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/071217024432rai2.png",
+      "stream_url": null
+    },
+    {
+      "id": "428",
+      "name": "Rai 3",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/071217024513rai3.png",
+      "stream_url": null
+    },
+    {
+      "id": "429",
+      "name": "Rai 4",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/071217024545rai4.png",
+      "stream_url": null
+    },
+    {
+      "id": "430",
+      "name": "Rai 5",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/071217024754rai5.png",
+      "stream_url": null
+    },
+    {
+      "id": "800",
+      "name": "Rai Movie",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/250918041844raaaai.png",
+      "stream_url": null
+    },
+    {
+      "id": "784",
+      "name": "Rai Premium",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/210818123233raiii.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "698",
+      "name": "Rai news 24",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/250418043056ree.png",
+      "stream_url": null
+    },
+    {
+      "id": "465",
+      "name": "Rete 4",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/201217092643retee.png",
+      "stream_url": null
+    },
+    {
+      "id": "710",
+      "name": "Sky Atlantic",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/140518052900atl.png",
+      "stream_url": null
+    },
+    {
+      "id": "582",
+      "name": "Sky Calcio 1",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223031412cal1.png",
+      "stream_url": null
+    },
+    {
+      "id": "583",
+      "name": "Sky Calcio 2",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223031528cal2.png",
+      "stream_url": null
+    },
+    {
+      "id": "706",
+      "name": "Sky Calcio 3",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223031538cal3.png",
+      "stream_url": null
+    },
+    {
+      "id": "707",
+      "name": "Sky Calcio 4",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223031552cal4.png",
+      "stream_url": null
+    },
+    {
+      "id": "708",
+      "name": "Sky Calcio 5",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223031609cal5.png",
+      "stream_url": null
+    },
+    {
+      "id": "709",
+      "name": "Sky Calcio 6",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223031621cal6.png",
+      "stream_url": null
+    },
+    {
+      "id": "876",
+      "name": "Sky Calcio 7",
+      "country": "IT",
+      "thumbnail": "/images/channel_imgs/200223032135cal7.png",
+      "stream_url": null
+    },
+    {
+      "id": "877",
+      "name": "Sky Calcio 8",
+      "country": "IT",
+      "thumbnail": "/images/channel_imgs/200223032149cal8.png",
+      "stream_url": null
+    },
+    {
+      "id": "878",
+      "name": "Sky Calcio 9",
+      "country": "IT",
+      "thumbnail": "/images/channel_imgs/200223032202cal9.png",
+      "stream_url": null
+    },
+    {
+      "id": "590",
+      "name": "Sky Cinema Action",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190223011205Sky_Cinema_Action_-_Logo_2021.svg.png",
+      "stream_url": null
+    },
+    {
+      "id": "589",
+      "name": "Sky Cinema Collection",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190223010724Sky_Cinema_Collection_-_Logo_2021.svg.png",
+      "stream_url": null
+    },
+    {
+      "id": "586",
+      "name": "Sky Cinema Comedy",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190223010812Sky_Cinema_Comedy_-_Logo_2021.svg.png",
+      "stream_url": null
+    },
+    {
+      "id": "587",
+      "name": "Sky Cinema Due",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190223011459Sky_Cinema_Due_-_Logo_2021.svg.png",
+      "stream_url": null
+    },
+    {
+      "id": "588",
+      "name": "Sky Cinema Family",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190223011523Sky_Cinema_Family_-_Logo_2021.svg.png",
+      "stream_url": null
+    },
+    {
+      "id": "591",
+      "name": "Sky Cinema Romance",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190223010955Sky_Cinema_Romance_-_Logo_2021.svg.png",
+      "stream_url": null
+    },
+    {
+      "id": "584",
+      "name": "Sky Cinema UNO",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190223011941Sky_Cinema_Uno_-_Logo_2021.svg.png",
+      "stream_url": null
+    },
+    {
+      "id": "629",
+      "name": "Sky Sport 24",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223035132Sky_Sport_24_-_Logo_2020.svg.png",
+      "stream_url": null
+    },
+    {
+      "id": "579",
+      "name": "Sky Sport Arena",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190718073708arenaa.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "705",
+      "name": "Sky Sport Calcio",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190223125815Sky_Sport_Calcio.png",
+      "stream_url": null
+    },
+    {
+      "id": "581",
+      "name": "Sky Sport F1",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223034533Sky_Sport_F1_2020.png",
+      "stream_url": null
+    },
+    {
+      "id": "580",
+      "name": "Sky Sport Football",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190718075156foot.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "668",
+      "name": "Sky Sport Motogp",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/200223035257Sky_Sport_MotoGP_2020.png",
+      "stream_url": null
+    },
+    {
+      "id": "704",
+      "name": "Sky Sport NBA",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/130818011304nba.png",
+      "stream_url": null
+    },
+    {
+      "id": "578",
+      "name": "Sky Sport Uno",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/190718073552uno.png",
+      "stream_url": null
+    },
+    {
+      "id": "592",
+      "name": "Sky TG24",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/080118035005tg.png",
+      "stream_url": null
+    },
+    {
+      "id": "593",
+      "name": "Sky Uno",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/080118035124uno.png",
+      "stream_url": null
+    },
+    {
+      "id": "792",
+      "name": "TG Com 24",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/310818125154tgcom.jpeg",
+      "stream_url": null
+    },
+    {
+      "id": "809",
+      "name": "TV 2000",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/111018012756tv2000.png",
+      "stream_url": null
+    },
+    {
+      "id": "798",
+      "name": "TV8",
+      "country": "IT",
+      "thumbnail": "images/channel_imgs/250918041645tv8.png",
+      "stream_url": null
+    }
+  ]
+}
