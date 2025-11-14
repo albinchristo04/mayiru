@@ -12,6 +12,7 @@ on:
 jobs:
   fetch-channels:
     runs-on: ubuntu-latest
+    timeout-minutes: 45  # Kill job if it takes more than 45 minutes
     
     steps:
       - name: Checkout repository
@@ -27,22 +28,45 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
       
-      - name: Fetch M3U8 channels
+      - name: Run M3U8 extractor with timeout
+        timeout-minutes: 40
         run: |
-          python scraper.py > updatedv3.json 2> fetch.log
+          # Run the script - it outputs logs to stdout/stderr normally
+          python scraper.py
+        continue-on-error: false
       
-      - name: Display fetch log
+      - name: Check if output file was created
+        run: |
+          if [ ! -f updatedv3.json ]; then
+            echo "❌ Error: updatedv3.json was not created"
+            exit 1
+          fi
+          echo "✅ Output file created successfully"
+          # Show file size and first few lines
+          ls -lh updatedv3.json
+          head -n 20 updatedv3.json
+      
+      - name: Display logs (if any)
         if: always()
-        run: cat fetch.log
+        run: |
+          if [ -f fetch.log ]; then
+            echo "=== Fetch Log ==="
+            cat fetch.log
+          else
+            echo "No separate log file found (logs were output to console)"
+          fi
       
       - name: Upload channels JSON as artifact
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: m3u8-channels-${{ github.run_number }}
           path: updatedv3.json
           retention-days: 30
+          if-no-files-found: warn
       
       - name: Commit and push if changes
+        if: success()
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
@@ -50,10 +74,15 @@ jobs:
           # Check if there are changes
           if [ -n "$(git status --porcelain updatedv3.json)" ]; then
             git add updatedv3.json
-            git commit -m "Update M3U8 channels (1500 limit) - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+            
+            # Get channel count from JSON
+            CHANNEL_COUNT=$(python3 -c "import json; data=json.load(open('updatedv3.json')); print(data.get('total_channels', 0))")
+            
+            git commit -m "Update M3U8 channels: ${CHANNEL_COUNT} channels extracted - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
             git push
+            echo "✅ Changes committed and pushed"
           else
-            echo "No changes to commit"
+            echo "ℹ️ No changes to commit"
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
