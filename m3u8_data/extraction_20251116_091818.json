@@ -1,16 +1,16 @@
 [
   {
     "source_url": "https://streamtpmedia.com/global1.php?stream=tudn_usa",
-    "extracted_at": "2025-11-14T22:58:36.202919",
+    "extracted_at": "2025-11-16T09:18:15.328566",
     "status": "error",
     "error": "Extraction failed: No iframe found on the page"
   },
   {
     "source_url": "https://sportzonline.live/channels/hd/hd9.php",
-    "extracted_at": "2025-11-14T22:58:36.202919",
+    "extracted_at": "2025-11-16T09:18:15.328566",
     "status": "success",
     "data": {
-      "destination_url": "https://cyegvv.6522236688.shop:8443/hls/mhbq0m7am17nhai.m3u8?s=aW66C76s4Pf2U9dNFjsQcA&e=1763182717",
+      "destination_url": "https://yzarygw.7380990745.xyz:8443/hls/mhbq0m7am17nhai.m3u8?s=6xa_k00gN7LIdRP3Afp7TQ&e=1763306298",
       "request_headers": {
         "Referer": "https://dukehorror.net/embed/mhbq0m7am17nhai",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
