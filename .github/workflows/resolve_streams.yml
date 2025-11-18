@@ -1,0 +1,114 @@
+name: Resolve Stream URLs
+
+on:
+  schedule:
+    # Run every 15 minutes
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches:
+      - main
+    paths:
+      - 'stream_resolver.py'
+      - '.github/workflows/resolve_streams.yml'
+
+jobs:
+  resolve-streams:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+    
+    - name: Run stream resolver
+      run: |
+        python stream_resolver.py
+      continue-on-error: true
+    
+    - name: Check if data changed
+      id: check_changes
+      run: |
+        if [ -f resolved_streams.json ]; then
+          if git diff --quiet resolved_streams.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+        else
+          echo "changed=true" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Commit and push if changed
+      if: steps.check_changes.outputs.changed == 'true'
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add resolved_streams.json
+        git commit -m "Update resolved streams - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      if: always()
+      with:
+        name: resolved-streams-${{ github.run_number }}
+        path: resolved_streams.json
+        retention-days: 7
+    
+    - name: Create summary
+      if: always()
+      run: |
+        echo "## Stream Resolution Summary" >> $GITHUB_STEP_SUMMARY
+        echo "**Run Time:** $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        
+        if [ -f resolved_streams.json ]; then
+          echo "✅ Resolution completed" >> $GITHUB_STEP_SUMMARY
+          
+          # Extract stats from JSON
+          TOTAL=$(python -c "import json; data=json.load(open('resolved_streams.json')); print(len(data['streams']))" 2>/dev/null || echo "0")
+          SUCCESS=$(python -c "import json; data=json.load(open('resolved_streams.json')); print(len([s for s in data['streams'] if s['status']=='success']))" 2>/dev/null || echo "0")
+          FAILED=$(python -c "import json; data=json.load(open('resolved_streams.json')); print(len([s for s in data['streams'] if s['status']!='success']))" 2>/dev/null || echo "0")
+          
+          echo "**Statistics:**" >> $GITHUB_STEP_SUMMARY
+          echo "- Total URLs processed: $TOTAL" >> $GITHUB_STEP_SUMMARY
+          echo "- Successfully resolved: $SUCCESS" >> $GITHUB_STEP_SUMMARY
+          echo "- Failed: $FAILED" >> $GITHUB_STEP_SUMMARY
+          
+          # Show resolved streams
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Resolved Streams:**" >> $GITHUB_STEP_SUMMARY
+          python -c "
+import json
+data = json.load(open('resolved_streams.json'))
+for s in data['streams']:
+    if s['status'] == 'success':
+        print(f\"- ✅ {s['input_url']}\")
+        print(f\"  - Stream: \`{s['stream_url'][:100]}...\`\")
+    else:
+        print(f\"- ❌ {s['input_url']}: {s.get('error', 'Unknown error')}\")
+" >> $GITHUB_STEP_SUMMARY || echo "- Unable to parse results" >> $GITHUB_STEP_SUMMARY
+          
+          if [ "${{ steps.check_changes.outputs.changed }}" == "true" ]; then
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "📝 Data has been updated and committed" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "ℹ️ No changes detected" >> $GITHUB_STEP_SUMMARY
+          fi
+        else
+          echo "❌ Resolution failed - no data file generated" >> $GITHUB_STEP_SUMMARY
+        fi
