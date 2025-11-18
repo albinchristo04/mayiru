@@ -1,0 +1,98 @@
+name: Extract Stream Data
+
+on:
+  schedule:
+    # Run every 15 minutes
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches:
+      - main
+    paths:
+      - 'ovo.py'
+      - '.github/workflows/extract_streams.yml'
+
+jobs:
+  extract-streams:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4 lxml
+    
+    - name: Run stream extractor
+      run: |
+        python ovo.py
+    
+    - name: Check if data changed
+      id: check_changes
+      run: |
+        if [ -f stream_data.json ]; then
+          if git diff --quiet stream_data.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+        else
+          echo "changed=true" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Commit and push if changed
+      if: steps.check_changes.outputs.changed == 'true'
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add stream_data.json
+        git commit -m "Update stream data - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: stream-data-${{ github.run_number }}
+        path: stream_data.json
+        retention-days: 7
+    
+    - name: Create summary
+      if: always()
+      run: |
+        echo "## Stream Extraction Summary" >> $GITHUB_STEP_SUMMARY
+        echo "**Run Time:** $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        
+        if [ -f stream_data.json ]; then
+          echo "✅ Extraction successful" >> $GITHUB_STEP_SUMMARY
+          
+          # Extract stats from JSON
+          EVENTS=$(python -c "import json; data=json.load(open('stream_data.json')); print(len(data.get('events', [])))" 2>/dev/null || echo "0")
+          M3U8=$(python -c "import json; data=json.load(open('stream_data.json')); print(len(data.get('playback_info', [])))" 2>/dev/null || echo "0")
+          IFRAMES=$(python -c "import json; data=json.load(open('stream_data.json')); print(len(data.get('main_page', {}).get('iframes', [])))" 2>/dev/null || echo "0")
+          
+          echo "**Statistics:**" >> $GITHUB_STEP_SUMMARY
+          echo "- Events found: $EVENTS" >> $GITHUB_STEP_SUMMARY
+          echo "- M3U8 URLs found: $M3U8" >> $GITHUB_STEP_SUMMARY
+          echo "- Iframes found: $IFRAMES" >> $GITHUB_STEP_SUMMARY
+          
+          if [ "${{ steps.check_changes.outputs.changed }}" == "true" ]; then
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "📝 Data has been updated and committed" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "ℹ️ No changes detected" >> $GITHUB_STEP_SUMMARY
+          fi
+        else
+          echo "❌ Extraction failed - no data file generated" >> $GITHUB_STEP_SUMMARY
+        fi
