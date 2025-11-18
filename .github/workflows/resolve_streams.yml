@@ -91,16 +91,16 @@ jobs:
           # Show resolved streams
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "**Resolved Streams:**" >> $GITHUB_STEP_SUMMARY
-          python -c "
+          python -c '
 import json
-data = json.load(open('resolved_streams.json'))
-for s in data['streams']:
-    if s['status'] == 'success':
-        print(f\"- ✅ {s['input_url']}\")
-        print(f\"  - Stream: \`{s['stream_url'][:100]}...\`\")
+data = json.load(open("resolved_streams.json"))
+for s in data["streams"]:
+    if s["status"] == "success":
+        print(f"- ✅ {s[\"input_url\"]}")
+        print(f"  - Stream: \`{s[\"stream_url\"][:100]}...\`")
     else:
-        print(f\"- ❌ {s['input_url']}: {s.get('error', 'Unknown error')}\")
-" >> $GITHUB_STEP_SUMMARY || echo "- Unable to parse results" >> $GITHUB_STEP_SUMMARY
+        print(f"- ❌ {s[\"input_url\"]}: {s.get(\"error\", \"Unknown error\")}")
+' >> $GITHUB_STEP_SUMMARY || echo "- Unable to parse results" >> $GITHUB_STEP_SUMMARY
           
           if [ "${{ steps.check_changes.outputs.changed }}" == "true" ]; then
             echo "" >> $GITHUB_STEP_SUMMARY
