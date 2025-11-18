@@ -77,14 +77,16 @@ jobs:
           echo "✅ Extraction successful" >> $GITHUB_STEP_SUMMARY
           
           # Extract stats from JSON
-          EVENTS=$(python -c "import json; data=json.load(open('stream_data.json')); print(len(data.get('events', [])))" 2>/dev/null || echo "0")
-          M3U8=$(python -c "import json; data=json.load(open('stream_data.json')); print(len(data.get('playback_info', [])))" 2>/dev/null || echo "0")
-          IFRAMES=$(python -c "import json; data=json.load(open('stream_data.json')); print(len(data.get('main_page', {}).get('iframes', [])))" 2>/dev/null || echo "0")
+          EVENTS=$(python -c "import json; data=json.load(open('stream_data.json')); print(data['statistics']['total_events'])" 2>/dev/null || echo "0")
+          M3U8=$(python -c "import json; data=json.load(open('stream_data.json')); print(data['statistics']['m3u8_urls_found'])" 2>/dev/null || echo "0")
+          IFRAMES=$(python -c "import json; data=json.load(open('stream_data.json')); print(data['statistics']['iframes_found'])" 2>/dev/null || echo "0")
+          PAGES=$(python -c "import json; data=json.load(open('stream_data.json')); print(data['statistics']['stream_pages_analyzed'])" 2>/dev/null || echo "0")
           
           echo "**Statistics:**" >> $GITHUB_STEP_SUMMARY
           echo "- Events found: $EVENTS" >> $GITHUB_STEP_SUMMARY
-          echo "- M3U8 URLs found: $M3U8" >> $GITHUB_STEP_SUMMARY
+          echo "- Stream pages analyzed: $PAGES" >> $GITHUB_STEP_SUMMARY
           echo "- Iframes found: $IFRAMES" >> $GITHUB_STEP_SUMMARY
+          echo "- M3U8 URLs found: $M3U8" >> $GITHUB_STEP_SUMMARY
           
           if [ "${{ steps.check_changes.outputs.changed }}" == "true" ]; then
             echo "" >> $GITHUB_STEP_SUMMARY
