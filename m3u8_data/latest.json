@@ -1,16 +1,16 @@
 [
   {
     "source_url": "https://streamtpmedia.com/global1.php?stream=tudn_usa",
-    "extracted_at": "2025-11-19T14:28:35.311615",
+    "extracted_at": "2025-11-19T14:47:36.846517",
     "status": "error",
     "error": "Extraction failed: Tutti i 3 tentativi falliti per https://streamtpmedia.com/global1.php?stream=tudn_usa: "
   },
   {
     "source_url": "https://sportzonline.live/channels/hd/hd9.php",
-    "extracted_at": "2025-11-19T14:28:35.311615",
+    "extracted_at": "2025-11-19T14:47:36.846517",
     "status": "success",
     "data": {
-      "destination_url": "https://qbkunwt.234276133.fit:8443/hls/mhbq0m7am17nhai.m3u8?s=TB71RocdTNpyeoDJTLPtHA&e=1763584170",
+      "destination_url": "https://ryhmaif.234276133.fit:8443/hls/mhbq0m7am17nhai.m3u8?s=eqq1scpPYsVHS3iUjV_aow&e=1763585311",
       "request_headers": {
         "Referer": "https://dukehorror.net/embed/mhbq0m7am17nhai",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
