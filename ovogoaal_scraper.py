@@ -33,8 +33,25 @@ class OvogoaalScraper:
         soup = BeautifulSoup(html, 'html.parser')
         matches = []
         
-        # Look for match links - they typically follow pattern /match-updates/...
-        links = soup.find_all('a', href=re.compile(r'/match-updates/'))
+        # Look for match links - multiple possible patterns
+        patterns = [
+            r'/match-updates/',
+            r'/live/',
+            r'/stream/',
+            r'/match/',
+            r'/game/'
+        ]
+        
+        links = []
+        for pattern in patterns:
+            found = soup.find_all('a', href=re.compile(pattern))
+            links.extend(found)
+        
+        # Also try finding links in common container classes
+        containers = soup.find_all(['div', 'article', 'section'], class_=re.compile(r'match|game|stream|event', re.I))
+        for container in containers:
+            container_links = container.find_all('a', href=True)
+            links.extend(container_links)
         
         seen_urls = set()
         for link in links:
@@ -165,13 +182,25 @@ def main():
     scraper = OvogoaalScraper()
     
     print("🔍 Starting Ovogoaal.com scraper...\n")
+    
+    # Debug: Save homepage HTML
+    print("Fetching homepage for debugging...")
+    homepage_html = scraper.fetch_page(scraper.base_url)
+    if homepage_html:
+        with open('debug_homepage.html', 'w', encoding='utf-8') as f:
+            f.write(homepage_html)
+        print(f"Debug: Saved homepage HTML ({len(homepage_html)} chars)")
+    
     data = scraper.scrape_all()
     
-    if data:
+    if data and data.get('total_matches', 0) > 0:
         scraper.save_to_json(data)
         print("\n✨ Scraping completed successfully!")
     else:
-        print("\n❌ Scraping failed")
+        print("\n⚠️ No matches found - website structure may have changed")
+        print("Check debug_homepage.html to see the actual page content")
+        # Still save empty data
+        scraper.save_to_json(data if data else {'last_updated': datetime.utcnow().isoformat() + 'Z', 'total_matches': 0, 'matches': []})
 
 if __name__ == "__main__":
     main()
