@@ -33,4 +33,8 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add ovogoaal_events.json
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update Ovogoaal events - $(date -u +'%Y-%m-%d %H:%M:%S UTC')" && git push)
+        git diff --quiet && git diff --staged --quiet || {
+          git commit -m "Update Ovogoaal events - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git pull --rebase origin main
+          git push
+        }
