@@ -1,36 +1,6 @@
 {
-  "last_updated": "2025-11-26T08:17:28.678182Z",
+  "last_updated": "2025-11-26T16:15:23.231836Z",
   "events": {
-    "TUESDAY": [
-      {
-        "time": "00:30",
-        "event": "AtlÃ©tico Mineiro x Flamengo",
-        "streams": [
-          "https://sportzonline.top/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "GrÃªmio x Palmeiras",
-        "streams": [
-          "https://sportzonline.top/channels/bra/br3.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "NBA: Orlando Magic @ Philadelphia 76ers",
-        "streams": [
-          "https://sportzonline.top/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "04:00",
-        "event": "NBA: LA Clippers @ Los Angeles Lakers",
-        "streams": [
-          "https://sportzonline.top/channels/pt/sporttv1.php"
-        ]
-      }
-    ],
     "WEDNESDAY": [
       {
         "time": "10:00",
