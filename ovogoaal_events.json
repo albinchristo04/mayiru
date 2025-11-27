@@ -1,304 +1,87 @@
 {
-  "last_updated": "2025-11-26T16:22:45.079912Z",
-  "total_matches": 9,
+  "last_updated": "2025-11-27T01:17:56.462224Z",
+  "total_matches": 3,
   "matches": [
     {
-      "title": "Paphos vs Monaco",
-      "url": "https://ovogoaal.com/match-updates/paphos-vs-monaco/",
-      "time": "18:45",
-      "category": "champions",
+      "title": "Green Bay vs Detroit",
+      "url": "https://ovogoaal.com/nflblog/green-bay-vs-detroit/",
+      "time": "19:00",
+      "category": "nfl",
       "first_level_iframes": [
-        "https://ballcontrol.click/home/blog1/"
+        "https://ballcontrol.click/nflhome/blog1/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/pogerbacklink1/mux_video_ts/index-1.m3u8",
-        "https://ballcontrol.click/1111.php",
-        "https://storage.googleapis.com/pogerbacklink1/mux_video_ts1/index-1.m3u8"
-      ],
-      "stream_count": 3,
-      "iframe_details": [
-        {
-          "url": "https://ballcontrol.click/home/blog1/",
-          "nested_iframes": [
-            {
-              "url": "https://ballcontrol.click/1111.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/pogerbacklink1/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/pogerbacklink1/mux_video_ts1/index-1.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://storage.googleapis.com/pogerbacklink1/mux_video_ts/index-1.m3u8",
-            "https://ballcontrol.click/1111.php",
-            "https://storage.googleapis.com/pogerbacklink1/mux_video_ts1/index-1.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Kobenhavn vs Kairat",
-      "url": "https://ovogoaal.com/match-updates/kobenhavn-vs-kairat/",
-      "time": "18:45",
-      "category": "champions",
-      "first_level_iframes": [
-        "https://ballcontrol.click/home/blog2/"
-      ],
-      "stream_urls": [
-        "https://storage.googleapis.com/pogerbacklink2/mux_video_ts1/index-1.m3u8",
-        "https://ballcontrol.click/2222.php",
-        "https://storage.googleapis.com/pogerbacklink2/mux_video_ts/index-1.m3u8"
-      ],
-      "stream_count": 3,
-      "iframe_details": [
-        {
-          "url": "https://ballcontrol.click/home/blog2/",
-          "nested_iframes": [
-            {
-              "url": "https://ballcontrol.click/2222.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/pogerbacklink2/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/pogerbacklink2/mux_video_ts/index-1.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://storage.googleapis.com/pogerbacklink2/mux_video_ts1/index-1.m3u8",
-            "https://ballcontrol.click/2222.php",
-            "https://storage.googleapis.com/pogerbacklink2/mux_video_ts/index-1.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Arsenal vs Bayern",
-      "url": "https://ovogoaal.com/match-updates/arsenal-vs-bayern-munchen/",
-      "time": "21:00",
-      "category": "champions",
-      "first_level_iframes": [
-        "https://ballcontrol.click/home/blog1/"
-      ],
-      "stream_urls": [
-        "https://storage.googleapis.com/pogerbacklink1/mux_video_ts/index-1.m3u8",
-        "https://ballcontrol.click/1111.php",
-        "https://storage.googleapis.com/pogerbacklink1/mux_video_ts1/index-1.m3u8"
-      ],
-      "stream_count": 3,
-      "iframe_details": [
-        {
-          "url": "https://ballcontrol.click/home/blog1/",
-          "nested_iframes": [
-            {
-              "url": "https://ballcontrol.click/1111.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/pogerbacklink1/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/pogerbacklink1/mux_video_ts1/index-1.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://storage.googleapis.com/pogerbacklink1/mux_video_ts/index-1.m3u8",
-            "https://ballcontrol.click/1111.php",
-            "https://storage.googleapis.com/pogerbacklink1/mux_video_ts1/index-1.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Liverpool vs PSV",
-      "url": "https://ovogoaal.com/match-updates/liverpool-vs-psv/",
-      "time": "21:00",
-      "category": "champions",
-      "first_level_iframes": [
-        "https://ballcontrol.click/home/blog2/"
-      ],
-      "stream_urls": [
-        "https://storage.googleapis.com/pogerbacklink2/mux_video_ts1/index-1.m3u8",
-        "https://ballcontrol.click/2222.php",
-        "https://storage.googleapis.com/pogerbacklink2/mux_video_ts/index-1.m3u8"
-      ],
-      "stream_count": 3,
-      "iframe_details": [
-        {
-          "url": "https://ballcontrol.click/home/blog2/",
-          "nested_iframes": [
-            {
-              "url": "https://ballcontrol.click/2222.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/pogerbacklink2/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/pogerbacklink2/mux_video_ts/index-1.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://storage.googleapis.com/pogerbacklink2/mux_video_ts1/index-1.m3u8",
-            "https://ballcontrol.click/2222.php",
-            "https://storage.googleapis.com/pogerbacklink2/mux_video_ts/index-1.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "PSG vs Tottenham",
-      "url": "https://ovogoaal.com/match-updates/psg-vs-tottenham-hotspur/",
-      "time": "21:00",
-      "category": "champions",
-      "first_level_iframes": [
-        "https://ballcontrol.click/home/blog3/"
-      ],
-      "stream_urls": [
-        "https://storage.googleapis.com/pogerbacklink3/mux_video_ts1/index-1.m3u8",
-        "https://ballcontrol.click/3333.php",
-        "https://storage.googleapis.com/pogerbacklink3/mux_video_ts/index-1.m3u8"
-      ],
-      "stream_count": 3,
-      "iframe_details": [
-        {
-          "url": "https://ballcontrol.click/home/blog3/",
-          "nested_iframes": [
-            {
-              "url": "https://ballcontrol.click/3333.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/pogerbacklink3/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/pogerbacklink3/mux_video_ts/index-1.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://storage.googleapis.com/pogerbacklink3/mux_video_ts1/index-1.m3u8",
-            "https://ballcontrol.click/3333.php",
-            "https://storage.googleapis.com/pogerbacklink3/mux_video_ts/index-1.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Olympiakos vs Real Madrid",
-      "url": "https://ovogoaal.com/match-updates/olympiakos-vs-real-madrid/",
-      "time": "21:00",
-      "category": "champions",
-      "first_level_iframes": [
-        "https://ballcontrol.click/home/blog4/"
-      ],
-      "stream_urls": [
-        "https://ballcontrol.click/4444.php"
+        "https://ballcontrol.click/master1.php"
       ],
       "stream_count": 1,
       "iframe_details": [
         {
-          "url": "https://ballcontrol.click/home/blog4/",
+          "url": "https://ballcontrol.click/nflhome/blog1/",
           "nested_iframes": [
             {
-              "url": "https://ballcontrol.click/4444.php",
+              "url": "https://ballcontrol.click/master1.php",
               "nested_iframes": [],
               "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://ballcontrol.click/4444.php"
+            "https://ballcontrol.click/master1.php"
           ]
         }
       ]
     },
     {
-      "title": "Atl Madrid vs Inter",
-      "url": "https://ovogoaal.com/match-updates/atletico-madrid-vs-inter/",
-      "time": "21:00",
-      "category": "champions",
+      "title": "Kansas City vs Dallas",
+      "url": "https://ovogoaal.com/nflblog/kansas-city-vs-dallas/",
+      "time": "22:30",
+      "category": "nfl",
       "first_level_iframes": [
-        "https://ballcontrol.click/home/blog5/"
+        "https://ballcontrol.click/nflhome/blog2/"
       ],
       "stream_urls": [
-        "https://ballcontrol.click/5555.php"
+        "https://ballcontrol.click/master2.php"
       ],
       "stream_count": 1,
       "iframe_details": [
         {
-          "url": "https://ballcontrol.click/home/blog5/",
+          "url": "https://ballcontrol.click/nflhome/blog2/",
           "nested_iframes": [
             {
-              "url": "https://ballcontrol.click/5555.php",
+              "url": "https://ballcontrol.click/master2.php",
               "nested_iframes": [],
               "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://ballcontrol.click/5555.php"
+            "https://ballcontrol.click/master2.php"
           ]
         }
       ]
     },
     {
-      "title": "Frankfurt vs Atalanta",
-      "url": "https://ovogoaal.com/match-updates/eintracht-frankfurt-vs-atalanta/",
-      "time": "21:00",
-      "category": "champions",
+      "title": "Cincinnati vs Baltimore",
+      "url": "https://ovogoaal.com/nflblog/cincinnati-vs-baltimore/",
+      "time": "2:20",
+      "category": "nfl",
       "first_level_iframes": [
-        "https://ballcontrol.click/home/blog6/"
+        "https://ballcontrol.click/nflhome/blog1/"
       ],
       "stream_urls": [
-        "https://ballcontrol.click/6666.php",
-        "https://storage.googleapis.com/pogerbacklink5/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/pogerbacklink5/mux_video_ts1/index-1.m3u8"
+        "https://ballcontrol.click/master1.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
-          "url": "https://ballcontrol.click/home/blog6/",
+          "url": "https://ballcontrol.click/nflhome/blog1/",
           "nested_iframes": [
             {
-              "url": "https://ballcontrol.click/6666.php",
+              "url": "https://ballcontrol.click/master1.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/pogerbacklink5/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/pogerbacklink5/mux_video_ts1/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://ballcontrol.click/6666.php",
-            "https://storage.googleapis.com/pogerbacklink5/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/pogerbacklink5/mux_video_ts1/index-1.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Sporting vs Club Brugge",
-      "url": "https://ovogoaal.com/match-updates/sporting-cp-vs-club-brugge/",
-      "time": "21:00",
-      "category": "champions",
-      "first_level_iframes": [
-        "https://ballcontrol.click/home/blog7/"
-      ],
-      "stream_urls": [
-        "https://storage.googleapis.com/pogerbacklink6/mux_video_ts1/index-1.m3u8",
-        "https://ballcontrol.click/7777.php",
-        "https://storage.googleapis.com/pogerbacklink6/mux_video_ts/index-1.m3u8"
-      ],
-      "stream_count": 3,
-      "iframe_details": [
-        {
-          "url": "https://ballcontrol.click/home/blog7/",
-          "nested_iframes": [
-            {
-              "url": "https://ballcontrol.click/7777.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/pogerbacklink6/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/pogerbacklink6/mux_video_ts/index-1.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://storage.googleapis.com/pogerbacklink6/mux_video_ts1/index-1.m3u8",
-            "https://ballcontrol.click/7777.php",
-            "https://storage.googleapis.com/pogerbacklink6/mux_video_ts/index-1.m3u8"
+            "https://ballcontrol.click/master1.php"
           ]
         }
       ]
