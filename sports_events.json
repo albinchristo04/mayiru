@@ -1,162 +1,7 @@
 {
-  "last_updated": "2025-11-26T16:15:23.231836Z",
+  "last_updated": "2025-11-27T00:56:14.254093Z",
   "events": {
     "WEDNESDAY": [
-      {
-        "time": "10:00",
-        "event": "Ulsan x Buriram United",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "13:00",
-        "event": "Arsenal U19 x Bayern U19",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd1.php",
-          "https://sportzonline.top/channels/pt/eleven2.php"
-        ]
-      },
-      {
-        "time": "13:00",
-        "event": "Sporting CP U19 x Club Brugge U19",
-        "streams": [
-          "https://sportzonline.top/channels/pt/eleven1.php"
-        ]
-      },
-      {
-        "time": "13:45",
-        "event": "Istiqlol x Al Nassr",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "13:45",
-        "event": "Andijan x Arkadag",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "15:00",
-        "event": "Olympiakos Piraeus U19 x Real Madrid U19",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd10.php",
-          "https://sportzonline.top/channels/pt/eleven2.php"
-        ]
-      },
-      {
-        "time": "15:00",
-        "event": "Porto U19 x Real Betis U19",
-        "streams": [
-          "https://sportzonline.top/channels/pt/eleven1.php"
-        ]
-      },
-      {
-        "time": "17:45",
-        "event": "KÃ¸benhavn x Kairat",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd11.php",
-          "https://sportzonline.top/channels/pt/eleven2.php",
-          "https://sportzonline.top/channels/bra/br4.php"
-        ]
-      },
-      {
-        "time": "17:45",
-        "event": "Paphos x Monaco",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd5.php",
-          "https://sportzonline.top/channels/hd/hd4.php",
-          "https://sportzonline.top/channels/hd/hd10.php",
-          "https://sportzonline.top/channels/pt/eleven1.php",
-          "https://sportzonline.top/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "Volleyball: Champions League: Levski Sofia x Las Palmas",
-        "streams": [
-          "https://sportzonline.top/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "18:30",
-        "event": "Basketball: Euro League: Red Star Belgrade x Olympiakos",
-        "streams": [
-          "https://sportzonline.top/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Olympiakos Piraeus x Real Madrid",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd11.php",
-          "https://sportzonline.top/channels/hd/hd6.php",
-          "https://sportzonline.top/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "PSG x Tottenham Hotspur",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd5.php",
-          "https://sportzonline.top/channels/hd/hd4.php",
-          "https://sportzonline.top/channels/pt/eleven2.php",
-          "https://sportzonline.top/channels/bra/br4.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Arsenal x Bayern MÃ¼nchen",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd1.php",
-          "https://sportzonline.top/channels/hd/hd3.php",
-          "https://sportzonline.top/channels/pt/eleven1.php",
-          "https://sportzonline.top/channels/bra/br3.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "AtlÃ©tico Madrid x Internazionale",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd9.php",
-          "https://sportzonline.top/channels/hd/hd7.php",
-          "https://sportzonline.top/channels/hd/hd10.php",
-          "https://sportzonline.top/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Sporting CP x Club Brugge",
-        "streams": [
-          "https://sportzonline.top/channels/pt/sporttv5.php",
-          "https://sportzonline.top/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Liverpool x PSV",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd2.php",
-          "https://sportzonline.top/channels/pt/eleven3.php",
-          "https://sportzonline.top/channels/bra/br5.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Eintracht Frankfurt x Atalanta",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "West Bromwich x Birmigham City",
-        "streams": [
-          "https://sportzonline.top/channels/pt/sporttv1.php"
-        ]
-      },
       {
         "time": "22:00",
         "event": "NBA: Detroit Pistons @ Boston Celtics",
@@ -424,6 +269,175 @@
         "event": "Guadalajara x Cruz Azul",
         "streams": [
           "https://sportzonline.top/channels/hd/hd11.php"
+        ]
+      }
+    ],
+    "FRIDAY": [
+      {
+        "time": "13:00",
+        "event": "F1: Qatar F1 GP: Practice 1",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd1.php",
+          "https://sportzonline.top/channels/hd/hd8.php",
+          "https://sportzonline.top/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "14:50",
+        "event": "Al Kholood x Al Khaleej",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd9.php",
+          "https://sportzonline.top/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "F2: Qatar F2: Qualifying",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd1.php",
+          "https://sportzonline.top/channels/hd/hd8.php",
+          "https://sportzonline.top/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "16:50",
+        "event": "F1: Qatar F1 GP: Sprint Qualifying",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd1.php",
+          "https://sportzonline.top/channels/hd/hd8.php",
+          "https://sportzonline.top/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "Kocaelispor x GenÃ§lerbirliÄi",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "17:30",
+        "event": "Al-Ahli x Al Quadisiya",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd9.php",
+          "https://sportzonline.top/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "17:30",
+        "event": "Hannover 96 x Karlsruher SC",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "17:30",
+        "event": "Schalke 04 x Paderborn",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd11.php",
+          "https://sportzonline.top/channels/pt/eleven2.php"
+        ]
+      },
+      {
+        "time": "19:00",
+        "event": "PEC Zwolle x Heerenveen",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd2.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "Borussia M'gladbach x RB Leipzig",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd3.php",
+          "https://sportzonline.top/channels/pt/eleven1.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "Cesena x Modena",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "Sporting GijÃ³n x FC Andorra",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Como x Sassuolo",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd7.php",
+          "https://sportzonline.top/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Metz x Rennes",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd4.php",
+          "https://sportzonline.top/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Linlithgow Rose x Queen's Park",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Getafe x Elche",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd6.php",
+          "https://sportzonline.top/channels/pt/eleven2.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Oxford United x Ipswich Town",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd1.php"
+        ]
+      },
+      {
+        "time": "20:15",
+        "event": "VitÃ³ria GuimarÃ£es x AVS",
+        "streams": [
+          "https://sportzonline.top/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "22:00",
+        "event": "Juventude x Bahia",
+        "streams": [
+          "https://sportzonline.top/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "22:30",
+        "event": "Vasco da Gama x Internacional",
+        "streams": [
+          "https://sportzonline.top/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "Cobresal x Colo-Colo",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "Santos x Sport Recife",
+        "streams": [
+          "https://sportzonline.top/channels/bra/br1.php"
         ]
       }
     ]
