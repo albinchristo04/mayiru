@@ -1,12 +1,11 @@
 {
   "metadata": {
-    "timestamp": "2025-11-26T01:03:11.551342Z",
+    "timestamp": "2025-11-27T01:02:13.889427Z",
     "source": "api",
     "type": "sports_only",
-    "total_channels": 22,
-    "countries_count": 3,
+    "total_channels": 14,
+    "countries_count": 2,
     "countries": [
-      "CA",
       "FR",
       "US"
     ],
@@ -108,64 +107,6 @@
         "stream_url": null
       }
     ],
-    "CA": [
-      {
-        "id": "417",
-        "name": "Sportsnet One",
-        "country": "CA",
-        "thumbnail": "images/channel_imgs/041017012929sn1.jpg",
-        "stream_url": null
-      },
-      {
-        "id": "214",
-        "name": "Sportsnet Ontario",
-        "country": "CA",
-        "thumbnail": "images/channel_imgs/200116042105ont.png",
-        "stream_url": null
-      },
-      {
-        "id": "215",
-        "name": "Sportsnet World",
-        "country": "CA",
-        "thumbnail": "images/channel_imgs/200116042130worl.jpg",
-        "stream_url": null
-      },
-      {
-        "id": "233",
-        "name": "TSN 1",
-        "country": "CA",
-        "thumbnail": "images/channel_imgs/200116043251tsn1.jpg",
-        "stream_url": null
-      },
-      {
-        "id": "234",
-        "name": "TSN 2",
-        "country": "CA",
-        "thumbnail": "images/channel_imgs/200116043314ts2.png",
-        "stream_url": null
-      },
-      {
-        "id": "235",
-        "name": "TSN 3",
-        "country": "CA",
-        "thumbnail": "images/channel_imgs/200116043351ts3.png",
-        "stream_url": null
-      },
-      {
-        "id": "412",
-        "name": "TSN 4",
-        "country": "CA",
-        "thumbnail": "images/channel_imgs/090917013550tsn4.png",
-        "stream_url": null
-      },
-      {
-        "id": "413",
-        "name": "TSN 5",
-        "country": "CA",
-        "thumbnail": "images/channel_imgs/090917013648tsn5.png",
-        "stream_url": null
-      }
-    ],
     "FR": [
       {
         "id": "504",
@@ -262,27 +203,6 @@
       "stream_url": null
     },
     {
-      "id": "417",
-      "name": "Sportsnet One",
-      "country": "CA",
-      "thumbnail": "images/channel_imgs/041017012929sn1.jpg",
-      "stream_url": null
-    },
-    {
-      "id": "214",
-      "name": "Sportsnet Ontario",
-      "country": "CA",
-      "thumbnail": "images/channel_imgs/200116042105ont.png",
-      "stream_url": null
-    },
-    {
-      "id": "215",
-      "name": "Sportsnet World",
-      "country": "CA",
-      "thumbnail": "images/channel_imgs/200116042130worl.jpg",
-      "stream_url": null
-    },
-    {
       "id": "306",
       "name": "Tennis",
       "country": "US",
@@ -294,41 +214,6 @@
       "name": "TF1",
       "country": "FR",
       "thumbnail": "images/channel_imgs/201217102056tf1.jpeg",
-      "stream_url": null
-    },
-    {
-      "id": "233",
-      "name": "TSN 1",
-      "country": "CA",
-      "thumbnail": "images/channel_imgs/200116043251tsn1.jpg",
-      "stream_url": null
-    },
-    {
-      "id": "234",
-      "name": "TSN 2",
-      "country": "CA",
-      "thumbnail": "images/channel_imgs/200116043314ts2.png",
-      "stream_url": null
-    },
-    {
-      "id": "235",
-      "name": "TSN 3",
-      "country": "CA",
-      "thumbnail": "images/channel_imgs/200116043351ts3.png",
-      "stream_url": null
-    },
-    {
-      "id": "412",
-      "name": "TSN 4",
-      "country": "CA",
-      "thumbnail": "images/channel_imgs/090917013550tsn4.png",
-      "stream_url": null
-    },
-    {
-      "id": "413",
-      "name": "TSN 5",
-      "country": "CA",
-      "thumbnail": "images/channel_imgs/090917013648tsn5.png",
       "stream_url": null
     }
   ]
