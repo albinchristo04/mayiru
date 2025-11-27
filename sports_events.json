@@ -1,51 +1,6 @@
 {
-  "last_updated": "2025-11-27T08:18:29.263066Z",
+  "last_updated": "2025-11-27T16:14:50.262851Z",
   "events": {
-    "WEDNESDAY": [
-      {
-        "time": "22:00",
-        "event": "NBA: Detroit Pistons @ Boston Celtics",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd2.php",
-          "https://sportzonline.top/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "23:30",
-        "event": "AtlÃ©tico Bucaramanga x Fortaleza CEIF",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "LanÃºs x Tigre",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd6.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "NBA: Minnesota Timberwolves @ Oklahoma City Thunder",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd2.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "AtlÃ©tico Nacional x Junior",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "03:00",
-        "event": "NBA: Houston Rockets @ Golden State Warriors",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd2.php"
-        ]
-      }
-    ],
     "THURSDAY": [
       {
         "time": "07:45",
