@@ -1,67 +1,11 @@
 {
-  "last_updated": "2025-11-28T08:24:48.798413Z",
-  "total_matches": 3,
+  "last_updated": "2025-11-28T16:21:19.107874Z",
+  "total_matches": 1,
   "matches": [
     {
-      "title": "Green Bay vs Detroit",
-      "url": "https://ovogoaal.com/nflblog/green-bay-vs-detroit/",
-      "time": "19:00",
-      "category": "nfl",
-      "first_level_iframes": [
-        "https://ballcontrol.click/nflhome/blog1/"
-      ],
-      "stream_urls": [
-        "https://ballcontrol.click/master1.php"
-      ],
-      "stream_count": 1,
-      "iframe_details": [
-        {
-          "url": "https://ballcontrol.click/nflhome/blog1/",
-          "nested_iframes": [
-            {
-              "url": "https://ballcontrol.click/master1.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://ballcontrol.click/master1.php"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Kansas City vs Dallas",
-      "url": "https://ovogoaal.com/nflblog/kansas-city-vs-dallas/",
-      "time": "22:30",
-      "category": "nfl",
-      "first_level_iframes": [
-        "https://ballcontrol.click/nflhome/blog2/"
-      ],
-      "stream_urls": [
-        "https://ballcontrol.click/master2.php"
-      ],
-      "stream_count": 1,
-      "iframe_details": [
-        {
-          "url": "https://ballcontrol.click/nflhome/blog2/",
-          "nested_iframes": [
-            {
-              "url": "https://ballcontrol.click/master2.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://ballcontrol.click/master2.php"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Cincinnati vs Baltimore",
-      "url": "https://ovogoaal.com/nflblog/cincinnati-vs-baltimore/",
-      "time": "2:20",
+      "title": "Chicago @ Philadelphia",
+      "url": "https://ovogoaal.com/nflblog/chicago-vs-philadelphia/",
+      "time": "21:00",
       "category": "nfl",
       "first_level_iframes": [
         "https://ballcontrol.click/nflhome/blog1/"
