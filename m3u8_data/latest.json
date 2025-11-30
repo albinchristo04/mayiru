@@ -1,16 +1,16 @@
 [
   {
     "source_url": "https://streamtpmedia.com/global1.php?stream=tudn_usa",
-    "extracted_at": "2025-11-30T19:40:47.356394",
+    "extracted_at": "2025-11-30T19:55:43.635855",
     "status": "error",
     "error": "Extraction failed: No iframe found on the page"
   },
   {
     "source_url": "https://sportzonline.live/channels/hd/hd9.php",
-    "extracted_at": "2025-11-30T19:40:47.356394",
+    "extracted_at": "2025-11-30T19:55:43.635855",
     "status": "success",
     "data": {
-      "destination_url": "https://ryhmaif.234276133.fit:8443/hls/mhbq0m7am17nhai.m3u8?s=pDf3TMRiCjHLkg7lOEFtTg&e=1764553249",
+      "destination_url": "https://hnmmplt.6522236688.shop:8443/hls/mhbq0m7am17nhai.m3u8?s=AvcJzpwy5sM727Bz17ChDQ&e=1764554145",
       "request_headers": {
         "Referer": "https://outfitreferee.net/embed/mhbq0m7am17nhai",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
