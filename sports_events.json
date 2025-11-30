@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-30T01:03:55.601877Z",
+  "last_updated": "2025-11-30T08:14:48.673489Z",
   "events": {
     "SATURDAY": [
       {
@@ -411,6 +411,154 @@
         "event": "NBA: New Orleans Pelicans @ Los Angeles Lakers",
         "streams": [
           "https://sportzonline.top/channels/hd/hd2.php"
+        ]
+      }
+    ],
+    "MONDAY": [
+      {
+        "time": "11:30",
+        "event": "Sepsi x CSMS IaÅi",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "14:00",
+        "event": "Petrolul 52 x Metaloglobus",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "14:00",
+        "event": "PaÃ§os de Ferreira x Felgueiras 1932",
+        "streams": [
+          "https://sportzonline.top/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "FenerbahÃ§e x Galatasaray",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd5.php",
+          "https://sportzonline.top/channels/hd/hd11.php",
+          "https://sportzonline.top/channels/pt/sporttv1.php",
+          "https://sportzonline.top/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "Universitatea Cluj x CSU Craiova",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "Motor Lublin x Legia Warszawa",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "BrÃ¸ndby x Fredericia",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd3.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "Cittadella x Union Brescia",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "Benevento x Salernitana",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "Vis Pesaro x Ascoli",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Bologna x Cremonese",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd7.php",
+          "https://sportzonline.top/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Rayo Vallecano x Valencia",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd2.php",
+          "https://sportzonline.top/channels/hd/hd6.php",
+          "https://sportzonline.top/channels/pt/eleven1.php",
+          "https://sportzonline.top/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Birmingham City x Watford",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd1.php",
+          "https://sportzonline.top/channels/pt/sporttv3.php",
+          "https://sportzonline.top/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Barracas Central x Gimnasia La Plata",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "20:15",
+        "event": "Arouca x Sporting Braga",
+        "streams": [
+          "https://sportzonline.top/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "Racing Club x Tigre",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd9.php",
+          "https://sportzonline.top/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "NBA: Chicago Bulls @ Orlando Magic",
+        "streams": [
+          "https://sportzonline.top/channels/pt/sporttv1.php",
+          "https://sportzonline.top/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "01:00",
+        "event": "NFL: New York Giants @ New England Patriots",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd1.php"
+        ]
+      },
+      {
+        "time": "03:00",
+        "event": "NBA: Phoenix Suns @ Los Angeles Lakers",
+        "streams": [
+          "https://sportzonline.top/channels/hd/hd2.php",
+          "https://sportzonline.top/channels/pt/sporttv1.php",
+          "https://sportzonline.top/channels/bra/br6.php"
         ]
       }
     ]
