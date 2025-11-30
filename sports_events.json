@@ -1,45 +1,6 @@
 {
-  "last_updated": "2025-11-30T08:14:48.673489Z",
+  "last_updated": "2025-11-30T16:13:27.865997Z",
   "events": {
-    "SATURDAY": [
-      {
-        "time": "00:30",
-        "event": "Central CÃ³rdoba SdE x Estudiantes",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd6.php",
-          "https://sportzonline.top/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "NBA: Cicago Bulls @ Indiana Pacers",
-        "streams": [
-          "https://sportzonline.top/channels/bra/br5.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "NBA: New Orleans Pelicans @ Golden State Warriors",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd5.php",
-          "https://sportzonline.top/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "Auckland x Newcastle Jets",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd2.php"
-        ]
-      },
-      {
-        "time": "03:00",
-        "event": "NBA: Dallas Mavericks @ LA Clippers",
-        "streams": [
-          "https://sportzonline.top/channels/bra/br5.php"
-        ]
-      }
-    ],
     "SUNDAY": [
       {
         "time": "10:00",
