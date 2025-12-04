@@ -1,18 +1,18 @@
 [
   {
     "source_url": "https://streamtpmedia.com/global1.php?stream=tudn_usa",
-    "extracted_at": "2025-12-02T11:35:40.918308",
+    "extracted_at": "2025-12-04T06:57:05.795702",
     "status": "error",
     "error": "Extraction failed: No iframe found on the page"
   },
   {
     "source_url": "https://sportzonline.live/channels/hd/hd9.php",
-    "extracted_at": "2025-12-02T11:35:40.918308",
+    "extracted_at": "2025-12-04T06:57:05.795702",
     "status": "success",
     "data": {
-      "destination_url": "https://pjxvijl.5606087801.art:8443/hls/mhbq0m7am17nhai.m3u8?s=nP9au6e3IZew0i6KrAOBUQ&e=1764696942",
+      "destination_url": "https://kciwjj.5606087801.art:8443/hls/mhbq0m7am17nhai.m3u8?s=8kxmcrdi872G-PYCEk3XEw&e=1764853028",
       "request_headers": {
-        "Referer": "https://outfitreferee.net/embed/mhbq0m7am17nhai",
+        "Referer": "https://runginfect.net/embed/mhbq0m7am17nhai",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
       },
       "mediaflow_endpoint": "hls_manifest_proxy"
