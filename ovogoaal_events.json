@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-04T16:26:02.076693Z",
-  "total_matches": 2,
+  "last_updated": "2025-12-05T01:21:17.310280Z",
+  "total_matches": 3,
   "matches": [
     {
       "title": "Man United vs West Ham",
@@ -46,9 +46,9 @@
         "https://ballcontrol.click/home/blog2/"
       ],
       "stream_urls": [
+        "https://ballcontrol.click/2222.php",
         "https://storage.googleapis.com/golizerjgvasad2/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/golizerjgvasad2/mux_video_ts/index-1.m3u8",
-        "https://ballcontrol.click/2222.php"
+        "https://storage.googleapis.com/golizerjgvasad2/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -65,9 +65,37 @@
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/golizerjgvasad2/mux_video_ts1/index-1.m3u8",
             "https://storage.googleapis.com/golizerjgvasad2/mux_video_ts/index-1.m3u8",
+            "https://storage.googleapis.com/golizerjgvasad2/mux_video_ts1/index-1.m3u8",
             "https://ballcontrol.click/2222.php"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dallas @ Detroit",
+      "url": "https://ovogoaal.com/nflblog/dallas-@-detroit/",
+      "time": "02:15",
+      "category": "nfl",
+      "first_level_iframes": [
+        "https://ballcontrol.click/nflhome/blog1/"
+      ],
+      "stream_urls": [
+        "https://ballcontrol.click/master1.php"
+      ],
+      "stream_count": 1,
+      "iframe_details": [
+        {
+          "url": "https://ballcontrol.click/nflhome/blog1/",
+          "nested_iframes": [
+            {
+              "url": "https://ballcontrol.click/master1.php",
+              "nested_iframes": [],
+              "stream_urls": []
+            }
+          ],
+          "stream_urls": [
+            "https://ballcontrol.click/master1.php"
           ]
         }
       ]
