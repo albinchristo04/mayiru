@@ -1,22 +1,6 @@
 {
-  "last_updated": "2025-12-09T08:18:32.487915Z",
+  "last_updated": "2025-12-09T16:17:03.874370Z",
   "events": {
-    "MONDAY": [
-      {
-        "time": "00:00",
-        "event": "NBA: Golden State Warriors @ Chicago Bulls",
-        "streams": [
-          "https://sportzonline.top/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "NFL: Los Angeles Chargers v Philadelphia Eagles",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd1.php"
-        ]
-      }
-    ],
     "TUESDAY": [
       {
         "time": "13:00",
