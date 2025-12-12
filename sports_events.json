@@ -1,38 +1,7 @@
 {
-  "last_updated": "2025-12-12T08:18:33.136141Z",
+  "last_updated": "2025-12-12T16:14:54.193523Z",
   "events": {
-    "THURSDAY": [
-      {
-        "time": "01:00",
-        "event": "NBA: Boston Celtics @ Milwaukee Bucks",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd5.php",
-          "https://sportzonline.top/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "Tigres UANL x Toluca",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd11.php"
-        ]
-      }
-    ],
     "FRIDAY": [
-      {
-        "time": "09:30",
-        "event": "Golf: Asian Tour: Saudi Open - D3",
-        "streams": [
-          "https://sportzonline.top/channels/pt/sporttv4.php"
-        ]
-      },
-      {
-        "time": "10:00",
-        "event": "Golf: DP World Tour - Alfred Dunhill Championship - D2",
-        "streams": [
-          "https://sportzonline.top/channels/pt/sporttv3.php"
-        ]
-      },
       {
         "time": "14:30",
         "event": "Jordan x Iraq",
