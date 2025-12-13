@@ -1,43 +1,7 @@
 {
-  "last_updated": "2025-12-12T16:14:54.193523Z",
+  "last_updated": "2025-12-13T00:56:37.315098Z",
   "events": {
     "FRIDAY": [
-      {
-        "time": "14:30",
-        "event": "Jordan x Iraq",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "17:00",
-        "event": "KasÄ±mpaÅa x GenÃ§lerbirliÄi",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "17:30",
-        "event": "Algeria x United Arab Emirates",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "17:30",
-        "event": "Greuther FÃ¼rth x Hertha BSC",
-        "streams": [
-          "https://sportzonline.top/channels/hd/hd9.php",
-          "https://sportzonline.top/channels/pt/eleven2.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "UD Oliveirense x Chaves",
-        "streams": [
-          "https://sportzonline.top/channels/pt/sporttv5.php"
-        ]
-      },
       {
         "time": "19:30",
         "event": "Union Berlin x RB Leipzig",
