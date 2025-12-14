@@ -1,87 +1,7 @@
 {
-  "last_updated": "2025-12-14T08:15:45.544822Z",
+  "last_updated": "2025-12-14T16:13:41.666844Z",
   "events": {
-    "SATURDAY": [
-      {
-        "time": "00:00",
-        "event": "Racing Club x Estudiantes",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "UFC Fight Night: Prelims",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd1.php",
-          "https://sportsonline.click/channels/bra/br5.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "Boxing: JosÃ© Salas vs Landile Ngxege",
-        "streams": [
-          "https://sportsonline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "03:00",
-        "event": "UFC Fight Night: Brandon Royval v Manel Kape",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd1.php",
-          "https://sportsonline.click/channels/pt/sporttv1.php",
-          "https://sportsonline.click/channels/bra/br5.php"
-        ]
-      }
-    ],
     "SUNDAY": [
-      {
-        "time": "09:30",
-        "event": "Golf: DP World Tour - Alfred Dunhill Championship - D4",
-        "streams": [
-          "https://sportsonline.click/channels/pt/sporttv4.php"
-        ]
-      },
-      {
-        "time": "11:00",
-        "event": "Portimonense x LeixÃµes",
-        "streams": [
-          "https://sportsonline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "11:30",
-        "event": "Milan x Sassuolo",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd1.php",
-          "https://sportsonline.click/channels/hd/hd7.php",
-          "https://sportsonline.click/channels/hd/hd3.php",
-          "https://sportsonline.click/channels/pt/sporttv2.php",
-          "https://sportsonline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "12:00",
-        "event": "Brighton & Hove Albion W x Chelsea FC W",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "12:30",
-        "event": "Schalke 04 x NÃ¼rnberg",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd11.php",
-          "https://sportsonline.click/channels/pt/eleven3.php"
-        ]
-      },
-      {
-        "time": "12:30",
-        "event": "Corinthians W x Palmeiras W",
-        "streams": [
-          "https://sportsonline.click/channels/bra/br1.php"
-        ]
-      },
       {
         "time": "13:00",
         "event": "Sevilla x Real Oviedo",
@@ -171,9 +91,15 @@
       },
       {
         "time": "15:30",
+        "event": "St. Mirren x Celtic (Second Half)",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd2.php"
+        ]
+      },
+      {
+        "time": "15:30",
         "event": "St. Mirren x Celtic",
         "streams": [
-          "https://sportsonline.click/channels/hd/hd2.php",
           "https://sportsonline.click/channels/pt/sporttv4.php"
         ]
       },
