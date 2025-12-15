@@ -1,53 +1,7 @@
 {
-  "last_updated": "2025-12-15T08:20:18.895583Z",
+  "last_updated": "2025-12-15T16:18:47.851425Z",
   "events": {
-    "SUNDAY": [
-      {
-        "time": "23:30",
-        "event": "Fluminense x Vasco da Gama",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd2.php",
-          "https://sportsonline.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "Toluca x Tigres UANL",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd11.php",
-          "https://sportsonline.click/channels/hd/hd5.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "NHL: Seattle Kraken @ Buffalo Sabres",
-        "streams": [
-          "https://sportsonline.click/channels/bra/br3.php"
-        ]
-      },
-      {
-        "time": "01:10",
-        "event": "NFL: Minnesota Vikings @ Dallas Cowboys",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd1.php"
-        ]
-      }
-    ],
     "MONDAY": [
-      {
-        "time": "12:30",
-        "event": "World Darts Championship D5: 2025 D5 S1",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "14:30",
-        "event": "Morocco x UAE",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd10.php"
-        ]
-      },
       {
         "time": "17:00",
         "event": "FenerbahÃ§e x Konyaspor",
