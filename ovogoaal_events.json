@@ -1,42 +1,7 @@
 {
-  "last_updated": "2025-12-16T08:26:57.653926Z",
-  "total_matches": 3,
+  "last_updated": "2025-12-16T16:25:29.328715Z",
+  "total_matches": 2,
   "matches": [
-    {
-      "title": "Miami @ Pittsburgh",
-      "url": "https://ovogoaal.com/nflblog/miami-@-pittsburgh/",
-      "time": "02:15",
-      "category": "nfl",
-      "first_level_iframes": [
-        "https://ballcontrol.click/nflhome/blog1/"
-      ],
-      "stream_urls": [
-        "https://storage.googleapis.com/uhgertynguht1/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/uhgertynguht1/mux_video_ts1/index-1.m3u8",
-        "https://ballcontrol.click/master1.php"
-      ],
-      "stream_count": 3,
-      "iframe_details": [
-        {
-          "url": "https://ballcontrol.click/nflhome/blog1/",
-          "nested_iframes": [
-            {
-              "url": "https://ballcontrol.click/master1.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/uhgertynguht1/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/uhgertynguht1/mux_video_ts1/index-1.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://storage.googleapis.com/uhgertynguht1/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/uhgertynguht1/mux_video_ts1/index-1.m3u8",
-            "https://ballcontrol.click/master1.php"
-          ]
-        }
-      ]
-    },
     {
       "title": "Cardiff City vs Chelsea",
       "url": "https://ovogoaal.com/match-updates/cardiff-city-vs-chelsea/",
@@ -46,9 +11,9 @@
         "https://ballcontrol.click/home/blog1/"
       ],
       "stream_urls": [
+        "https://storage.googleapis.com/uhgertynguht1/mux_video_ts/index-1.m3u8",
         "https://ballcontrol.click/1111.php",
-        "https://storage.googleapis.com/uhgertynguht1/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/uhgertynguht1/mux_video_ts/index-1.m3u8"
+        "https://storage.googleapis.com/uhgertynguht1/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -65,9 +30,9 @@
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/uhgertynguht1/mux_video_ts/index-1.m3u8",
             "https://ballcontrol.click/1111.php",
-            "https://storage.googleapis.com/uhgertynguht1/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/uhgertynguht1/mux_video_ts/index-1.m3u8"
+            "https://storage.googleapis.com/uhgertynguht1/mux_video_ts1/index-1.m3u8"
           ]
         }
       ]
@@ -81,9 +46,9 @@
         "https://ballcontrol.click/home/blog2/"
       ],
       "stream_urls": [
-        "https://ballcontrol.click/2222.php",
+        "https://storage.googleapis.com/bastungireter2/mux_video_ts1/index-1.m3u8",
         "https://storage.googleapis.com/bastungireter2/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/bastungireter2/mux_video_ts1/index-1.m3u8"
+        "https://ballcontrol.click/2222.php"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -94,15 +59,15 @@
               "url": "https://ballcontrol.click/2222.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/bastungireter2/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/bastungireter2/mux_video_ts1/index-1.m3u8"
+                "https://storage.googleapis.com/bastungireter2/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/bastungireter2/mux_video_ts/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
-            "https://ballcontrol.click/2222.php",
+            "https://storage.googleapis.com/bastungireter2/mux_video_ts1/index-1.m3u8",
             "https://storage.googleapis.com/bastungireter2/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/bastungireter2/mux_video_ts1/index-1.m3u8"
+            "https://ballcontrol.click/2222.php"
           ]
         }
       ]
