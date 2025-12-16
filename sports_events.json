@@ -1,36 +1,6 @@
 {
-  "last_updated": "2025-12-16T08:19:14.167103Z",
+  "last_updated": "2025-12-16T16:17:51.191291Z",
   "events": {
-    "MONDAY": [
-      {
-        "time": "00:00",
-        "event": "NBA: Detroit Pistons @ Boston Celtics",
-        "streams": [
-          "https://sportsonline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "00:00",
-        "event": "NHL: Tampa Bay Lightning @ Florida Panthers",
-        "streams": [
-          "https://sportsonline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "NFL: Miami Dolphins @ Pittsburgh Steelers",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "02:30",
-        "event": "NBA: Houston Rockets @ Denver Nuggets",
-        "streams": [
-          "https://sportsonline.click/channels/bra/br6.php"
-        ]
-      }
-    ],
     "TUESDAY": [
       {
         "time": "17:45",
@@ -127,6 +97,174 @@
         "event": "NBA: Memphis Grizzlies @ Minnesota Timberwolves",
         "streams": [
           "https://sportsonline.click/channels/pt/sporttv1.php"
+        ]
+      }
+    ],
+    "WEDNESDAY": [
+      {
+        "time": "14:00",
+        "event": "Kavala x Panathinaikos",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd3.php"
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "Olympiakos Piraeus x Iraklis Saloniki",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd4.php"
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "Basketball Euro Cup: Terk Telekom Ankara x JL Bourg-en-Bresse",
+        "streams": [
+          "https://sportsonline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "PSG x Flamengo",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd5.php",
+          "https://sportsonline.click/channels/hd/hd6.php",
+          "https://sportsonline.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "Cultural Leonesa x Levante",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "17:45",
+        "event": "Excelsior Maassluis x Ajax",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd2.php",
+          "https://sportsonline.click/channels/pt/eleven1.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "Racing Santander x Villarreal",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "Huesca x Osasuna",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "Albacete x Celta de Vigo",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "AtlÃ©tico Baleares x AtlÃ©tico Madrid",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd7.php",
+          "https://sportsonline.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "PAOK x Marko",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd3.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "Manchester City x Brentford",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd1.php",
+          "https://sportsonline.click/channels/pt/sporttv2.php",
+          "https://sportsonline.click/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Deportivo AlavÃ©s x Sevilla",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Talavera CF x Real Madrid",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd6.php",
+          "https://sportsonline.click/channels/pt/sporttv4.php",
+          "https://sportsonline.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Dundee United x Celtic",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd2.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Feyenoord x Heerenveen",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd4.php",
+          "https://sportsonline.click/channels/pt/eleven2.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Wolfsburg W x Chelsea FC W",
+        "streams": [
+          "https://sportsonline.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "20:15",
+        "event": "Newcastle United x Fulham",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd5.php",
+          "https://sportsonline.click/channels/pt/sporttv3.php",
+          "https://sportsonline.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "20:45",
+        "event": "Farense x Benfica",
+        "streams": [
+          "https://sportsonline.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "Corinthians x Vasco da Gama",
+        "streams": [
+          "https://sportsonline.click/channels/bra/br1.php",
+          "https://sportsonline.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "MedellÃ­n x AtlÃ©tico Nacional",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "01:00",
+        "event": "NBA: Memphis Grizzlies @ Minnesota Timberwolves",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd2.php"
         ]
       }
     ]
