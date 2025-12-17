@@ -1,16 +1,16 @@
 [
   {
     "source_url": "https://streamtpmedia.com/global1.php?stream=tudn_usa",
-    "extracted_at": "2025-12-15T20:46:20.198404",
+    "extracted_at": "2025-12-17T18:59:39.335359",
     "status": "error",
     "error": "Extraction failed: No iframe found on the page"
   },
   {
     "source_url": "https://sportzonline.live/channels/hd/hd9.php",
-    "extracted_at": "2025-12-15T20:46:20.198404",
+    "extracted_at": "2025-12-17T18:59:39.335359",
     "status": "success",
     "data": {
-      "destination_url": "https://uwqgqq.5606087801.art:8443/hls/mhbq0m7am17nhai.m3u8?s=3FlU4_0DkMFv09G5kjvhkQ&e=1765853182",
+      "destination_url": "https://fvvxvv.6670391863.store:8443/hls/mhbq0m7am17nhai.m3u8?s=mBlQrL8avNxSbkN3Vj3W9g&e=1766019582",
       "request_headers": {
         "Referer": "https://begslant.net/embed/mhbq0m7am17nhai",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
