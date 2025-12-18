@@ -87,7 +87,7 @@ def save_to_json(data: Dict, filename: str = 'sports_events.json'):
     print(f"Total events: {total_events}")
 
 def main():
-    url = "https://sportsonline.cx/prog.txt"
+    url = "https://sportsonline.st/prog.txt"
     
     print("Fetching sports schedule...")
     content = fetch_sports_data(url)
