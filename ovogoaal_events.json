@@ -1,35 +1,7 @@
 {
-  "last_updated": "2025-12-19T08:26:08.971187Z",
+  "last_updated": "2025-12-19T16:23:12.936579Z",
   "total_matches": 3,
   "matches": [
-    {
-      "title": "Los Angeles @ Seattle",
-      "url": "https://ovogoaal.com/nflblog/los-angeles-@-seattle/",
-      "time": "02:15",
-      "category": "nfl",
-      "first_level_iframes": [
-        "https://ballcontrol.click/nflhome/blog1/"
-      ],
-      "stream_urls": [
-        "https://ballcontrol.click/master1.php"
-      ],
-      "stream_count": 1,
-      "iframe_details": [
-        {
-          "url": "https://ballcontrol.click/nflhome/blog1/",
-          "nested_iframes": [
-            {
-              "url": "https://ballcontrol.click/master1.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://ballcontrol.click/master1.php"
-          ]
-        }
-      ]
-    },
     {
       "title": "Bologna vs Inter",
       "url": "https://ovogoaal.com/match-updates/bologna-vs-inter/",
@@ -40,8 +12,8 @@
       ],
       "stream_urls": [
         "https://ballcontrol.click/1111.php",
-        "https://storage.googleapis.com/uyturytufhew1/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/uyturytufhew1/mux_video_ts1/index-1.m3u8"
+        "https://storage.googleapis.com/uyturytufhew1/mux_video_ts1/index-1.m3u8",
+        "https://storage.googleapis.com/uyturytufhew1/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -58,9 +30,9 @@
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/uyturytufhew1/mux_video_ts/index-1.m3u8",
             "https://ballcontrol.click/1111.php",
-            "https://storage.googleapis.com/uyturytufhew1/mux_video_ts1/index-1.m3u8"
+            "https://storage.googleapis.com/uyturytufhew1/mux_video_ts1/index-1.m3u8",
+            "https://storage.googleapis.com/uyturytufhew1/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
@@ -74,9 +46,9 @@
         "https://ballcontrol.click/home/blog2/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/uyturytufhew2/mux_video_ts/index-1.m3u8",
+        "https://storage.googleapis.com/uyturytufhew2/mux_video_ts1/index-1.m3u8",
         "https://ballcontrol.click/2222.php",
-        "https://storage.googleapis.com/uyturytufhew2/mux_video_ts1/index-1.m3u8"
+        "https://storage.googleapis.com/uyturytufhew2/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -87,15 +59,43 @@
               "url": "https://ballcontrol.click/2222.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/uyturytufhew2/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/uyturytufhew2/mux_video_ts1/index-1.m3u8"
+                "https://storage.googleapis.com/uyturytufhew2/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/uyturytufhew2/mux_video_ts/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/uyturytufhew2/mux_video_ts/index-1.m3u8",
+            "https://storage.googleapis.com/uyturytufhew2/mux_video_ts1/index-1.m3u8",
             "https://ballcontrol.click/2222.php",
-            "https://storage.googleapis.com/uyturytufhew2/mux_video_ts1/index-1.m3u8"
+            "https://storage.googleapis.com/uyturytufhew2/mux_video_ts/index-1.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Jake Paul vs. Anthony Joshua",
+      "url": "https://ovogoaal.com/match-updates/paul-@-joshua/",
+      "time": "00:00",
+      "category": "boxing",
+      "first_level_iframes": [
+        "https://ballcontrol.click/box/stream1/"
+      ],
+      "stream_urls": [
+        "https://ballcontrol.click/box.php"
+      ],
+      "stream_count": 1,
+      "iframe_details": [
+        {
+          "url": "https://ballcontrol.click/box/stream1/",
+          "nested_iframes": [
+            {
+              "url": "https://ballcontrol.click/box.php",
+              "nested_iframes": [],
+              "stream_urls": []
+            }
+          ],
+          "stream_urls": [
+            "https://ballcontrol.click/box.php"
           ]
         }
       ]
