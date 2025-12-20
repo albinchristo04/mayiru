@@ -1,22 +1,6 @@
 {
-  "last_updated": "2025-12-20T00:56:41.157569Z",
+  "last_updated": "2025-12-20T08:15:41.047312Z",
   "events": {
-    "FRIDAY": [
-      {
-        "time": "01:00",
-        "event": "Boxing: Jake Paul vs Anthony Joshua (Estimated Ringwalkâ 04:00)",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd2.php"
-        ]
-      },
-      {
-        "time": "04:00",
-        "event": "Boxing: Jake Paul vs Anthony Joshua (Estimated Ringwalkâ)",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd2.php"
-        ]
-      }
-    ],
     "SATURDAY": [
       {
         "time": "06:00",
