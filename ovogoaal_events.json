@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-22T01:26:29.025500Z",
+  "last_updated": "2025-12-22T08:27:15.316649Z",
   "total_matches": 2,
   "matches": [
     {
@@ -11,8 +11,8 @@
         "https://ballcontrol.click/nflhome/redzone/"
       ],
       "stream_urls": [
-        "https://ballcontrol.click/master14.php",
         "https://storage.googleapis.com/unvfdertyfc4/mux_video_ts1/index-1.m3u8",
+        "https://ballcontrol.click/master14.php",
         "https://storage.googleapis.com/unvfdertyfc4/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
@@ -30,8 +30,8 @@
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/unvfdertyfc4/mux_video_ts/index-1.m3u8",
             "https://storage.googleapis.com/unvfdertyfc4/mux_video_ts1/index-1.m3u8",
+            "https://storage.googleapis.com/unvfdertyfc4/mux_video_ts/index-1.m3u8",
             "https://ballcontrol.click/master14.php"
           ]
         }
