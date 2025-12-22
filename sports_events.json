@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-22T08:19:13.960213Z",
+  "last_updated": "2025-12-22T16:15:25.322147Z",
   "events": {
     "MONDAY": [
       {
@@ -411,6 +411,62 @@
           "https://sportsonline.click/channels/hd/hd10.php",
           "https://sportsonline.click/channels/pt/sporttv1.php",
           "https://sportsonline.click/channels/bra/br3.php"
+        ]
+      }
+    ],
+    "THURSDAY": [
+      {
+        "time": "17:00",
+        "event": "NBA: Cleveland Cavaliers @ New York Knicks",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd2.php",
+          "https://sportsonline.click/channels/hd/hd1.php",
+          "https://sportsonline.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "NBA: San Antonio Spurs @ Oklahoma City Thunder",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd1.php",
+          "https://sportsonline.click/channels/hd/hd2.php",
+          "https://sportsonline.click/channels/pt/sporttv1.php",
+          "https://sportsonline.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "22:00",
+        "event": "NBA: Dallas Mavericks @ Golden State Warriors",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd1.php",
+          "https://sportsonline.click/channels/hd/hd2.php",
+          "https://sportsonline.click/channels/pt/sporttv1.php",
+          "https://sportsonline.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "01:00",
+        "event": "NBA: Houston Rockets @ Los Angeles Lakers",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd2.php",
+          "https://sportsonline.click/channels/pt/sporttv1.php",
+          "https://sportsonline.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "01:15",
+        "event": "NFL: Denver Broncos @ Kansas City Chiefs",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd1.php",
+          "https://sportsonline.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "03:30",
+        "event": "NBA: Minnesota Timberwolves @ Denver Nuggets",
+        "streams": [
+          "https://sportsonline.click/channels/hd/hd2.php",
+          "https://sportsonline.click/channels/bra/br4.php"
         ]
       }
     ]
