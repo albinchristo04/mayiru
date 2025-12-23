@@ -1,46 +1,7 @@
 {
-  "last_updated": "2025-12-23T08:18:52.365229Z",
+  "last_updated": "2025-12-23T16:15:49.399915Z",
   "events": {
-    "MONDAY": [
-      {
-        "time": "00:30",
-        "event": "NBA: Indiana Pacers @ Boston Celtics",
-        "streams": [
-          "https://sportsonline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "NFL: San Francisco 49ers @ Indianapolis Colts",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd1.php"
-        ]
-      }
-    ],
     "TUESDAY": [
-      {
-        "time": "08:15",
-        "event": "Melbourne City x Macarthur",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd5.php"
-        ]
-      },
-      {
-        "time": "12:00",
-        "event": "Kocaelispor x BB Erzurumspor",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "12:30",
-        "event": "Congo DR x Benin",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd11.php",
-          "https://sportsonline.click/channels/hd/hd10.php",
-          "https://sportsonline.click/channels/pt/sporttv1.php"
-        ]
-      },
       {
         "time": "14:30",
         "event": "Konyaspor x Antalyaspor",
