@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-26T01:23:40.816165Z",
+  "last_updated": "2025-12-26T08:24:40.920486Z",
   "total_matches": 6,
   "matches": [
     {
@@ -96,8 +96,8 @@
       ],
       "stream_urls": [
         "https://storage.googleapis.com/poiuuyrtrfa1/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/poiuuyrtrfa1/mux_video_ts1/index-1.m3u8",
-        "https://ballcontrol.click/1111.php"
+        "https://ballcontrol.click/1111.php",
+        "https://storage.googleapis.com/poiuuyrtrfa1/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -115,8 +115,8 @@
           ],
           "stream_urls": [
             "https://storage.googleapis.com/poiuuyrtrfa1/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/poiuuyrtrfa1/mux_video_ts1/index-1.m3u8",
-            "https://ballcontrol.click/1111.php"
+            "https://ballcontrol.click/1111.php",
+            "https://storage.googleapis.com/poiuuyrtrfa1/mux_video_ts1/index-1.m3u8"
           ]
         }
       ]
