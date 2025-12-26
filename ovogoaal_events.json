@@ -1,91 +1,7 @@
 {
-  "last_updated": "2025-12-26T08:24:40.920486Z",
-  "total_matches": 6,
+  "last_updated": "2025-12-26T16:20:50.824113Z",
+  "total_matches": 3,
   "matches": [
-    {
-      "title": "Dallas @ Washington",
-      "url": "https://ovogoaal.com/nflblog/dallas-@-washington/",
-      "time": "19:00",
-      "category": "nfl",
-      "first_level_iframes": [
-        "https://ballcontrol.click/nflhome/blog1/"
-      ],
-      "stream_urls": [
-        "https://ballcontrol.click/master1.php"
-      ],
-      "stream_count": 1,
-      "iframe_details": [
-        {
-          "url": "https://ballcontrol.click/nflhome/blog1/",
-          "nested_iframes": [
-            {
-              "url": "https://ballcontrol.click/master1.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://ballcontrol.click/master1.php"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Detroit @ Minnesota",
-      "url": "https://ovogoaal.com/nflblog/detroit-@-minnesota/",
-      "time": "22:30",
-      "category": "nfl",
-      "first_level_iframes": [
-        "https://ballcontrol.click/nflhome/blog2/"
-      ],
-      "stream_urls": [
-        "https://ballcontrol.click/master2.php"
-      ],
-      "stream_count": 1,
-      "iframe_details": [
-        {
-          "url": "https://ballcontrol.click/nflhome/blog2/",
-          "nested_iframes": [
-            {
-              "url": "https://ballcontrol.click/master2.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://ballcontrol.click/master2.php"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Denver @ Kansas City",
-      "url": "https://ovogoaal.com/nflblog/denver-@-kansas-city/",
-      "time": "02:15",
-      "category": "nfl",
-      "first_level_iframes": [
-        "https://ballcontrol.click/nflhome/blog1/"
-      ],
-      "stream_urls": [
-        "https://ballcontrol.click/master1.php"
-      ],
-      "stream_count": 1,
-      "iframe_details": [
-        {
-          "url": "https://ballcontrol.click/nflhome/blog1/",
-          "nested_iframes": [
-            {
-              "url": "https://ballcontrol.click/master1.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://ballcontrol.click/master1.php"
-          ]
-        }
-      ]
-    },
     {
       "title": "Man United vs Newcastle",
       "url": "https://ovogoaal.com/match-updates/manchester-united-vs-newcastle-united/",
@@ -96,8 +12,8 @@
       ],
       "stream_urls": [
         "https://storage.googleapis.com/poiuuyrtrfa1/mux_video_ts/index-1.m3u8",
-        "https://ballcontrol.click/1111.php",
-        "https://storage.googleapis.com/poiuuyrtrfa1/mux_video_ts1/index-1.m3u8"
+        "https://storage.googleapis.com/poiuuyrtrfa1/mux_video_ts1/index-1.m3u8",
+        "https://ballcontrol.click/1111.php"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -115,8 +31,8 @@
           ],
           "stream_urls": [
             "https://storage.googleapis.com/poiuuyrtrfa1/mux_video_ts/index-1.m3u8",
-            "https://ballcontrol.click/1111.php",
-            "https://storage.googleapis.com/poiuuyrtrfa1/mux_video_ts1/index-1.m3u8"
+            "https://storage.googleapis.com/poiuuyrtrfa1/mux_video_ts1/index-1.m3u8",
+            "https://ballcontrol.click/1111.php"
           ]
         }
       ]
