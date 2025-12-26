@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-12-26T08:17:43.795866Z",
+  "last_updated": "2025-12-26T16:14:22.609034Z",
   "events": {
-    "THURSDAY": [
-      {
-        "time": "22:00",
-        "event": "NBA: Dallas Mavericks @ Golden State Warriors",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd1.php",
-          "https://sportsonline.click/channels/hd/hd2.php",
-          "https://sportsonline.click/channels/pt/sporttv1.php",
-          "https://sportsonline.click/channels/bra/br4.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "NBA: Houston Rockets @ Los Angeles Lakers",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd2.php",
-          "https://sportsonline.click/channels/pt/sporttv1.php",
-          "https://sportsonline.click/channels/bra/br4.php"
-        ]
-      },
-      {
-        "time": "01:15",
-        "event": "NFL: Denver Broncos @ Kansas City Chiefs",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd1.php",
-          "https://sportsonline.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "03:30",
-        "event": "NBA: Minnesota Timberwolves @ Denver Nuggets",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd2.php",
-          "https://sportsonline.click/channels/bra/br4.php"
-        ]
-      }
-    ],
     "FRIDAY": [
-      {
-        "time": "08:35",
-        "event": "Newcastle Jets x Macarthur",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd2.php"
-        ]
-      },
       {
         "time": "12:30",
         "event": "Birmingham City x Derby County",
