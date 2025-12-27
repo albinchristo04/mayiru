@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-27T08:23:33.742769Z",
+  "last_updated": "2025-12-27T16:21:43.592414Z",
   "total_matches": 10,
   "matches": [
     {
@@ -11,9 +11,11 @@
         "https://ballcontrol.click/home/blog1/"
       ],
       "stream_urls": [
+        "https://storage.googleapis.com/unixerwtingf1/mux_video_ts1/index-1.m3u8",
+        "https://storage.googleapis.com/unixerwtingf1/mux_video_ts/index-1.m3u8",
         "https://ballcontrol.click/1111.php"
       ],
-      "stream_count": 1,
+      "stream_count": 3,
       "iframe_details": [
         {
           "url": "https://ballcontrol.click/home/blog1/",
@@ -21,10 +23,15 @@
             {
               "url": "https://ballcontrol.click/1111.php",
               "nested_iframes": [],
-              "stream_urls": []
+              "stream_urls": [
+                "https://storage.googleapis.com/unixerwtingf1/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/unixerwtingf1/mux_video_ts/index-1.m3u8"
+              ]
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/unixerwtingf1/mux_video_ts1/index-1.m3u8",
+            "https://storage.googleapis.com/unixerwtingf1/mux_video_ts/index-1.m3u8",
             "https://ballcontrol.click/1111.php"
           ]
         }
@@ -39,9 +46,11 @@
         "https://ballcontrol.click/home/blog1/"
       ],
       "stream_urls": [
+        "https://storage.googleapis.com/unixerwtingf1/mux_video_ts1/index-1.m3u8",
+        "https://storage.googleapis.com/unixerwtingf1/mux_video_ts/index-1.m3u8",
         "https://ballcontrol.click/1111.php"
       ],
-      "stream_count": 1,
+      "stream_count": 3,
       "iframe_details": [
         {
           "url": "https://ballcontrol.click/home/blog1/",
@@ -49,10 +58,15 @@
             {
               "url": "https://ballcontrol.click/1111.php",
               "nested_iframes": [],
-              "stream_urls": []
+              "stream_urls": [
+                "https://storage.googleapis.com/unixerwtingf1/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/unixerwtingf1/mux_video_ts/index-1.m3u8"
+              ]
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/unixerwtingf1/mux_video_ts1/index-1.m3u8",
+            "https://storage.googleapis.com/unixerwtingf1/mux_video_ts/index-1.m3u8",
             "https://ballcontrol.click/1111.php"
           ]
         }
@@ -67,9 +81,11 @@
         "https://ballcontrol.click/home/blog2/"
       ],
       "stream_urls": [
-        "https://ballcontrol.click/2222.php"
+        "https://ballcontrol.click/2222.php",
+        "https://storage.googleapis.com/unixerwtingf2/mux_video_ts/index-1.m3u8",
+        "https://storage.googleapis.com/unixerwtingf2/mux_video_ts1/index-1.m3u8"
       ],
-      "stream_count": 1,
+      "stream_count": 3,
       "iframe_details": [
         {
           "url": "https://ballcontrol.click/home/blog2/",
@@ -77,11 +93,16 @@
             {
               "url": "https://ballcontrol.click/2222.php",
               "nested_iframes": [],
-              "stream_urls": []
+              "stream_urls": [
+                "https://storage.googleapis.com/unixerwtingf2/mux_video_ts/index-1.m3u8",
+                "https://storage.googleapis.com/unixerwtingf2/mux_video_ts1/index-1.m3u8"
+              ]
             }
           ],
           "stream_urls": [
-            "https://ballcontrol.click/2222.php"
+            "https://ballcontrol.click/2222.php",
+            "https://storage.googleapis.com/unixerwtingf2/mux_video_ts/index-1.m3u8",
+            "https://storage.googleapis.com/unixerwtingf2/mux_video_ts1/index-1.m3u8"
           ]
         }
       ]
@@ -95,9 +116,11 @@
         "https://ballcontrol.click/home/blog3/"
       ],
       "stream_urls": [
+        "https://storage.googleapis.com/unixerwtingf3/mux_video_ts/index-1.m3u8",
+        "https://storage.googleapis.com/unixerwtingf3/mux_video_ts1/index-1.m3u8",
         "https://ballcontrol.click/3333.php"
       ],
-      "stream_count": 1,
+      "stream_count": 3,
       "iframe_details": [
         {
           "url": "https://ballcontrol.click/home/blog3/",
@@ -105,10 +128,15 @@
             {
               "url": "https://ballcontrol.click/3333.php",
               "nested_iframes": [],
-              "stream_urls": []
+              "stream_urls": [
+                "https://storage.googleapis.com/unixerwtingf3/mux_video_ts/index-1.m3u8",
+                "https://storage.googleapis.com/unixerwtingf3/mux_video_ts1/index-1.m3u8"
+              ]
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/unixerwtingf3/mux_video_ts/index-1.m3u8",
+            "https://storage.googleapis.com/unixerwtingf3/mux_video_ts1/index-1.m3u8",
             "https://ballcontrol.click/3333.php"
           ]
         }
@@ -123,11 +151,9 @@
         "https://ballcontrol.click/home/blog4/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/unvfdertyfc5/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/unvfdertyfc5/mux_video_ts/index-1.m3u8",
         "https://ballcontrol.click/4444.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://ballcontrol.click/home/blog4/",
@@ -135,16 +161,11 @@
             {
               "url": "https://ballcontrol.click/4444.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/unvfdertyfc5/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/unvfdertyfc5/mux_video_ts1/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/unvfdertyfc5/mux_video_ts/index-1.m3u8",
-            "https://ballcontrol.click/4444.php",
-            "https://storage.googleapis.com/unvfdertyfc5/mux_video_ts1/index-1.m3u8"
+            "https://ballcontrol.click/4444.php"
           ]
         }
       ]
@@ -158,13 +179,9 @@
         "https://ballcontrol.click/home/blog5/"
       ],
       "stream_urls": [
-        "https://1a-1791.com/live/hr6yv36f/slot-29/ir2z-0wec/chunklist.m3u8",
-        "https://1a-1791.com/live/hr6yv36f/slot-29/ir2z-0wec_1080p/chunklist.m3u8",
-        "https://1a-1791.com/live/hr6yv36f/slot-29/ir2z-0wec_720p/chunklist.m3u8",
-        "https://ballcontrol.click/5555.php",
-        "https://1a-1791.com/live/hr6yv36f/slot-29/ir2z-0wec_360p/chunklist.m3u8"
+        "https://ballcontrol.click/5555.php"
       ],
-      "stream_count": 5,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://ballcontrol.click/home/blog5/",
@@ -172,20 +189,11 @@
             {
               "url": "https://ballcontrol.click/5555.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://1a-1791.com/live/hr6yv36f/slot-29/ir2z-0wec/chunklist.m3u8",
-                "https://1a-1791.com/live/hr6yv36f/slot-29/ir2z-0wec_360p/chunklist.m3u8",
-                "https://1a-1791.com/live/hr6yv36f/slot-29/ir2z-0wec_1080p/chunklist.m3u8",
-                "https://1a-1791.com/live/hr6yv36f/slot-29/ir2z-0wec_720p/chunklist.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://1a-1791.com/live/hr6yv36f/slot-29/ir2z-0wec/chunklist.m3u8",
-            "https://1a-1791.com/live/hr6yv36f/slot-29/ir2z-0wec_1080p/chunklist.m3u8",
-            "https://1a-1791.com/live/hr6yv36f/slot-29/ir2z-0wec_720p/chunklist.m3u8",
-            "https://ballcontrol.click/5555.php",
-            "https://1a-1791.com/live/hr6yv36f/slot-29/ir2z-0wec_360p/chunklist.m3u8"
+            "https://ballcontrol.click/5555.php"
           ]
         }
       ]
@@ -199,9 +207,11 @@
         "https://ballcontrol.click/home/blog1/"
       ],
       "stream_urls": [
+        "https://storage.googleapis.com/unixerwtingf1/mux_video_ts1/index-1.m3u8",
+        "https://storage.googleapis.com/unixerwtingf1/mux_video_ts/index-1.m3u8",
         "https://ballcontrol.click/1111.php"
       ],
-      "stream_count": 1,
+      "stream_count": 3,
       "iframe_details": [
         {
           "url": "https://ballcontrol.click/home/blog1/",
@@ -209,10 +219,15 @@
             {
               "url": "https://ballcontrol.click/1111.php",
               "nested_iframes": [],
-              "stream_urls": []
+              "stream_urls": [
+                "https://storage.googleapis.com/unixerwtingf1/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/unixerwtingf1/mux_video_ts/index-1.m3u8"
+              ]
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/unixerwtingf1/mux_video_ts1/index-1.m3u8",
+            "https://storage.googleapis.com/unixerwtingf1/mux_video_ts/index-1.m3u8",
             "https://ballcontrol.click/1111.php"
           ]
         }
@@ -228,9 +243,11 @@
         "https://www.youtube.com/live_chat?is_popout=1&v=ptWiH0icKz4&embed_domain=ovogoaal.com&dark_theme=1"
       ],
       "stream_urls": [
+        "https://storage.googleapis.com/unixerwtingf1/mux_video_ts1/index-1.m3u8",
+        "https://storage.googleapis.com/unixerwtingf1/mux_video_ts/index-1.m3u8",
         "https://ballcontrol.click/1111.php"
       ],
-      "stream_count": 1,
+      "stream_count": 3,
       "iframe_details": [
         {
           "url": "https://ballcontrol.click/home/blog1/",
@@ -238,10 +255,15 @@
             {
               "url": "https://ballcontrol.click/1111.php",
               "nested_iframes": [],
-              "stream_urls": []
+              "stream_urls": [
+                "https://storage.googleapis.com/unixerwtingf1/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/unixerwtingf1/mux_video_ts/index-1.m3u8"
+              ]
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/unixerwtingf1/mux_video_ts1/index-1.m3u8",
+            "https://storage.googleapis.com/unixerwtingf1/mux_video_ts/index-1.m3u8",
             "https://ballcontrol.click/1111.php"
           ]
         },
