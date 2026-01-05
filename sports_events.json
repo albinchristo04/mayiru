@@ -1,37 +1,7 @@
 {
-  "last_updated": "2026-01-05T08:20:46.804257Z",
+  "last_updated": "2026-01-05T16:18:03.148738Z",
   "events": {
-    "SUNDAY": [
-      {
-        "time": "01:10",
-        "event": "NFL: Baltimore Ravens @ Pittsburgh Steelers",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "02:30",
-        "event": "NBA: Memphis Grizzlies @ Los Angeles Lakers",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd2.php"
-        ]
-      }
-    ],
     "MONDAY": [
-      {
-        "time": "08:00",
-        "event": "Macarthur x Auckland",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd5.php"
-        ]
-      },
-      {
-        "time": "13:00",
-        "event": "Stuttgart x Luzern",
-        "streams": [
-          "https://sportsonline.click/channels/hd/hd3.php"
-        ]
-      },
       {
         "time": "16:00",
         "event": "Egypt x Benin",
