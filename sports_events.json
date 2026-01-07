@@ -1,23 +1,6 @@
 {
-  "last_updated": "2026-01-07T08:19:14.940133Z",
+  "last_updated": "2026-01-07T16:18:59.321220Z",
   "events": {
-    "TUESDAY": [
-      {
-        "time": "23:30",
-        "event": "Tennis: United Cup",
-        "streams": [
-          "https://sportsonline.cv/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "NBA: Los Angeles Lakers @ New Orleans Pelicans",
-        "streams": [
-          "https://sportsonline.cv/channels/hd/hd2.php",
-          "https://sportsonline.cv/channels/pt/sporttv1.php"
-        ]
-      }
-    ],
     "WEDNESDAY": [
       {
         "time": "15:00",
@@ -164,6 +147,90 @@
         "event": "NBA: Los Angeles Lakers @ San Antonio Spurs",
         "streams": [
           "https://sportsonline.cv/channels/hd/hd2.php"
+        ]
+      }
+    ],
+    "THURSDAY": [
+      {
+        "time": "14:55",
+        "event": "Al Hilal x Al Hazm",
+        "streams": [
+          "https://sportsonline.cv/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "17:30",
+        "event": "Cremonese x Cagliari",
+        "streams": [
+          "https://sportsonline.cv/channels/hd/hd7.php",
+          "https://sportsonline.cv/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "17:30",
+        "event": "Al Nassr x Al Quadisiya",
+        "streams": [
+          "https://sportsonline.cv/channels/hd/hd5.php",
+          "https://sportsonline.cv/channels/pt/sporttv4.php",
+          "https://sportsonline.cv/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "PSG x Olympique Marseille",
+        "streams": [
+          "https://sportsonline.cv/channels/hd/hd11.php",
+          "https://sportsonline.cv/channels/hd/hd4.php",
+          "https://sportsonline.cv/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "19:00",
+        "event": "AtlÃ©tico Madrid x Real Madrid",
+        "streams": [
+          "https://sportsonline.cv/channels/hd/hd2.php",
+          "https://sportsonline.cv/channels/hd/hd6.php",
+          "https://sportsonline.cv/channels/pt/sporttv1.php",
+          "https://sportsonline.cv/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Milan x Genoa",
+        "streams": [
+          "https://sportsonline.cv/channels/hd/hd7.php",
+          "https://sportsonline.cv/channels/pt/sporttv3.php",
+          "https://sportsonline.cv/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Arsenal x Liverpool",
+        "streams": [
+          "https://sportsonline.cv/channels/hd/hd1.php",
+          "https://sportsonline.cv/channels/pt/eleven1.php",
+          "https://sportsonline.cv/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "Sport x Defensa y Justicia",
+        "streams": [
+          "https://sportsonline.cv/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "01:00",
+        "event": "NBA: Miami Heat @ Chicago Bulls",
+        "streams": [
+          "https://sportsonline.cv/channels/hd/hd2.php"
+        ]
+      },
+      {
+        "time": "01:00",
+        "event": "NBA: Cleveland Cavaliers @ Minnesota Timberwolves",
+        "streams": [
+          "https://sportsonline.cv/channels/pt/sporttv1.php"
         ]
       }
     ]
