@@ -1,68 +1,7 @@
 {
-  "last_updated": "2026-01-08T16:18:13.137403Z",
+  "last_updated": "2026-01-09T01:02:26.549211Z",
   "events": {
     "THURSDAY": [
-      {
-        "time": "14:55",
-        "event": "Al Hilal x Al Hazm",
-        "streams": [
-          "https://sportsonline.cv/channels/hd/hd5.php"
-        ]
-      },
-      {
-        "time": "17:30",
-        "event": "Cremonese x Cagliari",
-        "streams": [
-          "https://sportsonline.cv/channels/hd/hd7.php",
-          "https://sportsonline.cv/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "17:30",
-        "event": "Al Nassr x Al Quadisiya",
-        "streams": [
-          "https://sportsonline.cv/channels/hd/hd5.php",
-          "https://sportsonline.cv/channels/pt/sporttv4.php",
-          "https://sportsonline.cv/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "PSG x Olympique Marseille",
-        "streams": [
-          "https://sportsonline.cv/channels/hd/hd11.php",
-          "https://sportsonline.cv/channels/hd/hd4.php",
-          "https://sportsonline.cv/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "AtlÃ©tico Madrid x Real Madrid",
-        "streams": [
-          "https://sportsonline.cv/channels/hd/hd2.php",
-          "https://sportsonline.cv/channels/hd/hd6.php",
-          "https://sportsonline.cv/channels/pt/sporttv1.php",
-          "https://sportsonline.cv/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "19:45",
-        "event": "Milan x Genoa",
-        "streams": [
-          "https://sportsonline.cv/channels/hd/hd7.php",
-          "https://sportsonline.cv/channels/pt/sporttv3.php",
-          "https://sportsonline.cv/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Arsenal x Liverpool",
-        "streams": [
-          "https://sportsonline.cv/channels/hd/hd1.php",
-          "https://sportsonline.cv/channels/pt/eleven1.php",
-          "https://sportsonline.cv/channels/bra/br3.php"
-        ]
-      },
       {
         "time": "23:00",
         "event": "Sport x Defensa y Justicia",
