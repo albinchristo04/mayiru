@@ -1,77 +1,7 @@
 {
-  "last_updated": "2026-01-11T08:23:50.916938Z",
-  "total_matches": 11,
+  "last_updated": "2026-01-11T16:21:29.968206Z",
+  "total_matches": 9,
   "matches": [
-    {
-      "title": "Los Angeles @ Carolina",
-      "url": "https://ovogoaal.com/nflblog/los-angeles-@-carolina/",
-      "time": "22:30",
-      "category": "nfl",
-      "first_level_iframes": [
-        "https://hotnewsnation.com/nflhome/blog1/"
-      ],
-      "stream_urls": [
-        "https://hotnewsnation.com/master1.php",
-        "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8"
-      ],
-      "stream_count": 3,
-      "iframe_details": [
-        {
-          "url": "https://hotnewsnation.com/nflhome/blog1/",
-          "nested_iframes": [
-            {
-              "url": "https://hotnewsnation.com/master1.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://hotnewsnation.com/master1.php",
-            "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Green Bay @ Chicago",
-      "url": "https://ovogoaal.com/nflblog/green-bay-@-chicago/",
-      "time": "02:00",
-      "category": "nfl",
-      "first_level_iframes": [
-        "https://hotnewsnation.com/nflhome/blog1/"
-      ],
-      "stream_urls": [
-        "https://hotnewsnation.com/master1.php",
-        "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8"
-      ],
-      "stream_count": 3,
-      "iframe_details": [
-        {
-          "url": "https://hotnewsnation.com/nflhome/blog1/",
-          "nested_iframes": [
-            {
-              "url": "https://hotnewsnation.com/master1.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://hotnewsnation.com/master1.php",
-            "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8"
-          ]
-        }
-      ]
-    },
     {
       "title": "Portsmouth vs Arsenal",
       "url": "https://ovogoaal.com/match-updates/portsmouth-vs-arsenal/",
@@ -81,9 +11,9 @@
         "https://hotnewsnation.com/home/blog1/"
       ],
       "stream_urls": [
+        "https://storage.googleapis.com/hunghrtyyufncs1/mux_video_ts1/index-1.m3u8",
         "https://hotnewsnation.com/1111.php",
-        "https://storage.googleapis.com/utytryetrbfcas1/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/utytryetrbfcas1/mux_video_ts1/index-1.m3u8"
+        "https://storage.googleapis.com/hunghrtyyufncs1/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -94,15 +24,15 @@
               "url": "https://hotnewsnation.com/1111.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/utytryetrbfcas1/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/utytryetrbfcas1/mux_video_ts1/index-1.m3u8"
+                "https://storage.googleapis.com/hunghrtyyufncs1/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/hunghrtyyufncs1/mux_video_ts/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/hunghrtyyufncs1/mux_video_ts1/index-1.m3u8",
             "https://hotnewsnation.com/1111.php",
-            "https://storage.googleapis.com/utytryetrbfcas1/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/utytryetrbfcas1/mux_video_ts1/index-1.m3u8"
+            "https://storage.googleapis.com/hunghrtyyufncs1/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
@@ -116,9 +46,9 @@
         "https://hotnewsnation.com/home/blog1/"
       ],
       "stream_urls": [
+        "https://storage.googleapis.com/hunghrtyyufncs1/mux_video_ts1/index-1.m3u8",
         "https://hotnewsnation.com/1111.php",
-        "https://storage.googleapis.com/utytryetrbfcas1/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/utytryetrbfcas1/mux_video_ts1/index-1.m3u8"
+        "https://storage.googleapis.com/hunghrtyyufncs1/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -129,15 +59,15 @@
               "url": "https://hotnewsnation.com/1111.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/utytryetrbfcas1/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/utytryetrbfcas1/mux_video_ts1/index-1.m3u8"
+                "https://storage.googleapis.com/hunghrtyyufncs1/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/hunghrtyyufncs1/mux_video_ts/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/hunghrtyyufncs1/mux_video_ts1/index-1.m3u8",
             "https://hotnewsnation.com/1111.php",
-            "https://storage.googleapis.com/utytryetrbfcas1/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/utytryetrbfcas1/mux_video_ts1/index-1.m3u8"
+            "https://storage.googleapis.com/hunghrtyyufncs1/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
@@ -151,9 +81,9 @@
         "https://hotnewsnation.com/home/blog2/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/utytryetrbfcas2/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/utytryetrbfcas2/mux_video_ts1/index-1.m3u8",
-        "https://hotnewsnation.com/2222.php"
+        "https://hotnewsnation.com/2222.php",
+        "https://storage.googleapis.com/hunghrtyyufncs2/mux_video_ts1/index-1.m3u8",
+        "https://storage.googleapis.com/hunghrtyyufncs2/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -164,15 +94,15 @@
               "url": "https://hotnewsnation.com/2222.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/utytryetrbfcas2/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/utytryetrbfcas2/mux_video_ts1/index-1.m3u8"
+                "https://storage.googleapis.com/hunghrtyyufncs2/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/hunghrtyyufncs2/mux_video_ts/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/utytryetrbfcas2/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/utytryetrbfcas2/mux_video_ts1/index-1.m3u8",
-            "https://hotnewsnation.com/2222.php"
+            "https://hotnewsnation.com/2222.php",
+            "https://storage.googleapis.com/hunghrtyyufncs2/mux_video_ts1/index-1.m3u8",
+            "https://storage.googleapis.com/hunghrtyyufncs2/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
@@ -186,11 +116,9 @@
         "https://hotnewsnation.com/home/blog3/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/utytryetrbfcas3/mux_video_ts1/index-1.m3u8",
-        "https://hotnewsnation.com/3333.php",
-        "https://storage.googleapis.com/utytryetrbfcas3/mux_video_ts/index-1.m3u8"
+        "https://hotnewsnation.com/3333.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://hotnewsnation.com/home/blog3/",
@@ -198,16 +126,11 @@
             {
               "url": "https://hotnewsnation.com/3333.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/utytryetrbfcas3/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/utytryetrbfcas3/mux_video_ts/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/utytryetrbfcas3/mux_video_ts1/index-1.m3u8",
-            "https://hotnewsnation.com/3333.php",
-            "https://storage.googleapis.com/utytryetrbfcas3/mux_video_ts/index-1.m3u8"
+            "https://hotnewsnation.com/3333.php"
           ]
         }
       ]
@@ -221,11 +144,9 @@
         "https://hotnewsnation.com/home/blog3/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/utytryetrbfcas3/mux_video_ts1/index-1.m3u8",
-        "https://hotnewsnation.com/3333.php",
-        "https://storage.googleapis.com/utytryetrbfcas3/mux_video_ts/index-1.m3u8"
+        "https://hotnewsnation.com/3333.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://hotnewsnation.com/home/blog3/",
@@ -233,16 +154,11 @@
             {
               "url": "https://hotnewsnation.com/3333.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/utytryetrbfcas3/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/utytryetrbfcas3/mux_video_ts/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/utytryetrbfcas3/mux_video_ts1/index-1.m3u8",
-            "https://hotnewsnation.com/3333.php",
-            "https://storage.googleapis.com/utytryetrbfcas3/mux_video_ts/index-1.m3u8"
+            "https://hotnewsnation.com/3333.php"
           ]
         }
       ]
@@ -256,11 +172,9 @@
         "https://hotnewsnation.com/home/blog3/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/utytryetrbfcas3/mux_video_ts1/index-1.m3u8",
-        "https://hotnewsnation.com/3333.php",
-        "https://storage.googleapis.com/utytryetrbfcas3/mux_video_ts/index-1.m3u8"
+        "https://hotnewsnation.com/3333.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://hotnewsnation.com/home/blog3/",
@@ -268,16 +182,11 @@
             {
               "url": "https://hotnewsnation.com/3333.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/utytryetrbfcas3/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/utytryetrbfcas3/mux_video_ts/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/utytryetrbfcas3/mux_video_ts1/index-1.m3u8",
-            "https://hotnewsnation.com/3333.php",
-            "https://storage.googleapis.com/utytryetrbfcas3/mux_video_ts/index-1.m3u8"
+            "https://hotnewsnation.com/3333.php"
           ]
         }
       ]
@@ -291,11 +200,9 @@
         "https://hotnewsnation.com/nflhome/blog1/"
       ],
       "stream_urls": [
-        "https://hotnewsnation.com/master1.php",
-        "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8"
+        "https://hotnewsnation.com/master1.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://hotnewsnation.com/nflhome/blog1/",
@@ -303,16 +210,11 @@
             {
               "url": "https://hotnewsnation.com/master1.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://hotnewsnation.com/master1.php",
-            "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8"
+            "https://hotnewsnation.com/master1.php"
           ]
         }
       ]
@@ -326,7 +228,7 @@
         "https://hotnewsnation.com/nflhome/blog2/"
       ],
       "stream_urls": [
-        "https://ballcontrol.click/master2.php"
+        "https://hotnewsnation.com/master1.php"
       ],
       "stream_count": 1,
       "iframe_details": [
@@ -334,13 +236,13 @@
           "url": "https://hotnewsnation.com/nflhome/blog2/",
           "nested_iframes": [
             {
-              "url": "https://ballcontrol.click/master2.php",
+              "url": "https://hotnewsnation.com/master1.php",
               "nested_iframes": [],
               "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://ballcontrol.click/master2.php"
+            "https://hotnewsnation.com/master1.php"
           ]
         }
       ]
@@ -354,11 +256,9 @@
         "https://hotnewsnation.com/nflhome/blog1/"
       ],
       "stream_urls": [
-        "https://hotnewsnation.com/master1.php",
-        "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8"
+        "https://hotnewsnation.com/master1.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://hotnewsnation.com/nflhome/blog1/",
@@ -366,16 +266,11 @@
             {
               "url": "https://hotnewsnation.com/master1.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://hotnewsnation.com/master1.php",
-            "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8"
+            "https://hotnewsnation.com/master1.php"
           ]
         }
       ]
