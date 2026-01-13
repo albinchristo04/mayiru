@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-13T08:27:36.781694Z",
+  "last_updated": "2026-01-13T16:28:40.968947Z",
   "total_matches": 5,
   "matches": [
     {
@@ -36,24 +36,24 @@
       "time": "21:00",
       "category": "premier",
       "first_level_iframes": [
-        "https://hotnewsnation.com/home/blog1/"
+        "https://matchify.zip/home/blog1/"
       ],
       "stream_urls": [
-        "https://hotnewsnation.com/1111.php"
+        "https://ballcontrol.click/1111.php"
       ],
       "stream_count": 1,
       "iframe_details": [
         {
-          "url": "https://hotnewsnation.com/home/blog1/",
+          "url": "https://matchify.zip/home/blog1/",
           "nested_iframes": [
             {
-              "url": "https://hotnewsnation.com/1111.php",
+              "url": "https://ballcontrol.click/1111.php",
               "nested_iframes": [],
               "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://hotnewsnation.com/1111.php"
+            "https://ballcontrol.click/1111.php"
           ]
         }
       ]
@@ -64,24 +64,24 @@
       "time": "20:30",
       "category": "bundesliga",
       "first_level_iframes": [
-        "https://hotnewsnation.com/home/blog2/"
+        "https://matchify.zip/home/blog2/"
       ],
       "stream_urls": [
-        "https://hotnewsnation.com/2222.php"
+        "https://ballcontrol.click/2222.php"
       ],
       "stream_count": 1,
       "iframe_details": [
         {
-          "url": "https://hotnewsnation.com/home/blog2/",
+          "url": "https://matchify.zip/home/blog2/",
           "nested_iframes": [
             {
-              "url": "https://hotnewsnation.com/2222.php",
+              "url": "https://ballcontrol.click/2222.php",
               "nested_iframes": [],
               "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://hotnewsnation.com/2222.php"
+            "https://ballcontrol.click/2222.php"
           ]
         }
       ]
@@ -92,24 +92,24 @@
       "time": "21:00",
       "category": "laliga",
       "first_level_iframes": [
-        "https://hotnewsnation.com/home/blog3/"
+        "https://matchify.zip/home/blog3/"
       ],
       "stream_urls": [
-        "https://hotnewsnation.com/3333.php"
+        "https://ballcontrol.click/3333.php"
       ],
       "stream_count": 1,
       "iframe_details": [
         {
-          "url": "https://hotnewsnation.com/home/blog3/",
+          "url": "https://matchify.zip/home/blog3/",
           "nested_iframes": [
             {
-              "url": "https://hotnewsnation.com/3333.php",
+              "url": "https://ballcontrol.click/3333.php",
               "nested_iframes": [],
               "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://hotnewsnation.com/3333.php"
+            "https://ballcontrol.click/3333.php"
           ]
         }
       ]
@@ -120,24 +120,24 @@
       "time": "21:00",
       "category": "seriea",
       "first_level_iframes": [
-        "https://hotnewsnation.com/home/blog4/"
+        "https://matchify.zip/home/blog4/"
       ],
       "stream_urls": [
-        "https://hotnewsnation.com/4444.php"
+        "https://ballcontrol.click/4444.php"
       ],
       "stream_count": 1,
       "iframe_details": [
         {
-          "url": "https://hotnewsnation.com/home/blog4/",
+          "url": "https://matchify.zip/home/blog4/",
           "nested_iframes": [
             {
-              "url": "https://hotnewsnation.com/4444.php",
+              "url": "https://ballcontrol.click/4444.php",
               "nested_iframes": [],
               "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://hotnewsnation.com/4444.php"
+            "https://ballcontrol.click/4444.php"
           ]
         }
       ]
