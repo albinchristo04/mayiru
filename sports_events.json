@@ -1,31 +1,7 @@
 {
-  "last_updated": "2026-01-13T16:20:11.691038Z",
+  "last_updated": "2026-01-14T01:04:00.382003Z",
   "events": {
     "TUESDAY": [
-      {
-        "time": "17:30",
-        "event": "Stuttgart x Eintracht Frankfurt",
-        "streams": [
-          "https://sportsonline.cv/channels/hd/hd3.php",
-          "https://sportsonline.cv/channels/pt/eleven1.php"
-        ]
-      },
-      {
-        "time": "17:30",
-        "event": "Damac x Al Ittihad",
-        "streams": [
-          "https://sportsonline.cv/channels/hd/hd5.php",
-          "https://sportsonline.cv/channels/pt/sporttv1.php",
-          "https://sportsonline.cv/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "17:45",
-        "event": "De Treffers x NEC",
-        "streams": [
-          "https://sportsonline.cv/channels/hd/hd11.php"
-        ]
-      },
       {
         "time": "19:30",
         "event": "Borussia Dortmund x Werder Bremen",
@@ -413,6 +389,164 @@
         "event": "Toluca x Santos Laguna",
         "streams": [
           "https://sportsonline.cv/channels/hd/hd11.php"
+        ]
+      }
+    ],
+    "THURSDAY": [
+      {
+        "time": "07:30",
+        "event": "Tennis: ATP World Tour 250: Auckland",
+        "streams": [
+          "https://sportsonline.cv/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "07:30",
+        "event": "Golf: DP World Tour - Dubai Invitational D1",
+        "streams": [
+          "https://sportsonline.cv/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "10:00",
+        "event": "BB Erzurumspor x Rizespor",
+        "streams": [
+          "https://sportsonline.cv/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "12:30",
+        "event": "EyÃ¼pspor x IÄdÄ±r FK",
+        "streams": [
+          "https://sportsonline.cv/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "14:00",
+        "event": "Salzburg x Crvena Zvezda",
+        "streams": [
+          "https://sportsonline.cv/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "15:00",
+        "event": "Bodrumspor x Konyaspor",
+        "streams": [
+          "https://sportsonline.cv/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "17:30",
+        "event": "BeÅiktaÅ x KeÃ§iÃ¶rengÃ¼cÃ¼",
+        "streams": [
+          "https://sportsonline.cv/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "17:30",
+        "event": "Verona x Bologna",
+        "streams": [
+          "https://sportsonline.cv/channels/hd/hd7.php",
+          "https://sportsonline.cv/channels/pt/sporttv1.php",
+          "https://sportsonline.cv/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "Augsburg x Union Berlin",
+        "streams": [
+          "https://sportsonline.cv/channels/hd/hd3.php",
+          "https://sportsonline.cv/channels/pt/eleven1.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "Anderlecht x Gent",
+        "streams": [
+          "https://sportsonline.cv/channels/hd/hd4.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Como x Milan",
+        "streams": [
+          "https://sportsonline.cv/channels/hd/hd5.php",
+          "https://sportsonline.cv/channels/hd/hd7.php",
+          "https://sportsonline.cv/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Racing Santander x Barcelona",
+        "streams": [
+          "https://sportsonline.cv/channels/hd/hd2.php",
+          "https://sportsonline.cv/channels/hd/hd6.php",
+          "https://sportsonline.cv/channels/pt/sporttv3.php",
+          "https://sportsonline.cv/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Burgos x Valencia",
+        "streams": [
+          "https://sportsonline.cv/channels/hd/hd9.php",
+          "https://sportsonline.cv/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Sampaio CorrÃªa RJ x Nova IguaÃ§u",
+        "streams": [
+          "https://sportsonline.cv/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "20:15",
+        "event": "Vizela x PaÃ§os de Ferreira",
+        "streams": [
+          "https://sportsonline.cv/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "22:00",
+        "event": "Monsoon x Internacional",
+        "streams": [
+          "https://sportsonline.cv/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "22:30",
+        "event": "RB Bragantino x Corinthians",
+        "streams": [
+          "https://sportsonline.cv/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "Tennis: ATP World Tour 250: Auckland",
+        "streams": [
+          "https://sportsonline.cv/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "Vasco da Gama x MaricÃ¡",
+        "streams": [
+          "https://sportsonline.cv/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "00:45",
+        "event": "SÃ£o Paulo x SÃ£o Bernardo",
+        "streams": [
+          "https://sportsonline.cv/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "03:30",
+        "event": "NBA: Charlotte Hornets @ Los Angeles Lakers",
+        "streams": [
+          "https://sportsonline.cv/channels/hd/hd2.php"
         ]
       }
     ]
