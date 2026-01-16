@@ -1,16 +1,16 @@
 [
   {
     "source_url": "https://streamtpmedia.com/global1.php?stream=tudn_usa",
-    "extracted_at": "2026-01-14T19:26:57.474410",
+    "extracted_at": "2026-01-16T20:29:33.656648",
     "status": "error",
     "error": "Extraction failed: No iframe found on the page"
   },
   {
     "source_url": "https://sportzonline.live/channels/hd/hd9.php",
-    "extracted_at": "2026-01-14T19:26:57.474410",
+    "extracted_at": "2026-01-16T20:29:33.656648",
     "status": "success",
     "data": {
-      "destination_url": "https://pjxvijl.5606087801.art:8443/hls/mhbq0m7am17nhai.m3u8?s=giEnjMtxmAi3P00e-fupGA&e=1768440419",
+      "destination_url": "https://yzarygw.7380990745.xyz:8443/hls/mhbq0m7am17nhai.m3u8?s=lGqvJw1xy7PHtbMInoLO8Q&e=1768616976",
       "request_headers": {
         "Referer": "https://notoriousleash.net/embed/mhbq0m7am17nhai",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
