@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-01-16T08:18:19.088141Z",
+  "last_updated": "2026-01-16T16:17:38.049796Z",
   "events": {
-    "THURSDAY": [
-      {
-        "time": "00:00",
-        "event": "Tennis: ATP World Tour 250: Auckland",
-        "streams": [
-          "https://sportsonline.cv/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "Vasco da Gama x MaricÃ¡",
-        "streams": [
-          "https://sportsonline.cv/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "00:45",
-        "event": "SÃ£o Paulo x SÃ£o Bernardo",
-        "streams": [
-          "https://sportsonline.cv/channels/bra/br3.php"
-        ]
-      },
-      {
-        "time": "03:30",
-        "event": "NBA: Charlotte Hornets @ Los Angeles Lakers",
-        "streams": [
-          "https://sportsonline.cv/channels/hd/hd2.php"
-        ]
-      }
-    ],
     "FRIDAY": [
-      {
-        "time": "07:30",
-        "event": "Golf: DP World Tour - Dubai Invitational D2",
-        "streams": [
-          "https://sportsonline.cv/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "10:45",
-        "event": "Perth Glory x Brisbane Roar",
-        "streams": [
-          "https://sportsonline.cv/channels/hd/hd5.php"
-        ]
-      },
       {
         "time": "17:30",
         "event": "Al Ittihad x Al Ittifaq",
