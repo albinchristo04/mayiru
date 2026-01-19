@@ -1,57 +1,6 @@
 {
-  "last_updated": "2026-01-19T08:21:13.086692Z",
+  "last_updated": "2026-01-19T16:18:17.651368Z",
   "events": {
-    "SUNDAY": [
-      {
-        "time": "23:30",
-        "event": "Guarani x Santos",
-        "streams": [
-          "https://sportsonline.cv/channels/bra/br3.php"
-        ]
-      },
-      {
-        "time": "23:30",
-        "event": "Sampaio CorrÃªa x Botafogo",
-        "streams": [
-          "https://sportsonline.cv/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "23:30",
-        "event": "NFL: Los Angeles Rams @ Chicago Bears",
-        "streams": [
-          "https://sportsonline.cv/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "00:00",
-        "event": "NBA: New Orleans Pelicans @ Houston Rockets",
-        "streams": [
-          "https://sportsonline.cv/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "00:15",
-        "event": "LanÃºs x Sarmiento de La Banda",
-        "streams": [
-          "https://sportsonline.cv/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "Pachuca x AmÃ©rica",
-        "streams": [
-          "https://sportsonline.cv/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "02:30",
-        "event": "NBA: Toronto Raptors @ Los Angeles Lakers",
-        "streams": [
-          "https://sportsonline.cv/channels/hd/hd2.php"
-        ]
-      }
-    ],
     "MONDAY": [
       {
         "time": "14:00",
