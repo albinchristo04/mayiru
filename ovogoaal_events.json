@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-18T16:21:26.164307Z",
-  "total_matches": 8,
+  "last_updated": "2026-01-19T01:40:15.201163Z",
+  "total_matches": 4,
   "matches": [
     {
       "title": "Houston @ New England",
@@ -39,7 +39,7 @@
         "https://matchify.zip/nflhome/blog2/"
       ],
       "stream_urls": [
-        "https://ballcontrol.click/master2.php"
+        "https://matchify.zip/master1.php"
       ],
       "stream_count": 1,
       "iframe_details": [
@@ -47,123 +47,13 @@
           "url": "https://matchify.zip/nflhome/blog2/",
           "nested_iframes": [
             {
-              "url": "https://ballcontrol.click/master2.php",
+              "url": "https://matchify.zip/master1.php",
               "nested_iframes": [],
               "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://ballcontrol.click/master2.php"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Wolves vs Newcastle",
-      "url": "https://ovogoaal.com/match-updates/wolves-vs-newcastle/",
-      "time": "15:00",
-      "category": "premier",
-      "first_level_iframes": [
-        "https://matchify.zip/home/blog1/"
-      ],
-      "stream_urls": [
-        "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_4.m3u8",
-        "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_3.m3u8",
-        "https://matchify.zip/1111.php",
-        "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_2.m3u8",
-        "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_1.m3u8"
-      ],
-      "stream_count": 5,
-      "iframe_details": [
-        {
-          "url": "https://matchify.zip/home/blog1/",
-          "nested_iframes": [
-            {
-              "url": "https://matchify.zip/1111.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_1.m3u8",
-                "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_4.m3u8",
-                "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_2.m3u8",
-                "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_3.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_4.m3u8",
-            "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_3.m3u8",
-            "https://matchify.zip/1111.php",
-            "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_2.m3u8",
-            "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_1.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Aston Villa vs Everton",
-      "url": "https://ovogoaal.com/match-updates/aston-villa-vs-everton/",
-      "time": "17:30",
-      "category": "premier",
-      "first_level_iframes": [
-        "https://matchify.zip/home/blog1/"
-      ],
-      "stream_urls": [
-        "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_4.m3u8",
-        "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_3.m3u8",
-        "https://matchify.zip/1111.php",
-        "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_2.m3u8",
-        "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_1.m3u8"
-      ],
-      "stream_count": 5,
-      "iframe_details": [
-        {
-          "url": "https://matchify.zip/home/blog1/",
-          "nested_iframes": [
-            {
-              "url": "https://matchify.zip/1111.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_1.m3u8",
-                "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_4.m3u8",
-                "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_2.m3u8",
-                "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_3.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_4.m3u8",
-            "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_3.m3u8",
-            "https://matchify.zip/1111.php",
-            "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_2.m3u8",
-            "https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_1.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Atl Madrid vs Dep Alaves",
-      "url": "https://ovogoaal.com/match-updates/atl-madrid-vs-dep-alaves/",
-      "time": "16:15",
-      "category": "laliga",
-      "first_level_iframes": [
-        "https://matchify.zip/home/blog2/"
-      ],
-      "stream_urls": [
-        "https://matchify.zip/2222.php"
-      ],
-      "stream_count": 1,
-      "iframe_details": [
-        {
-          "url": "https://matchify.zip/home/blog2/",
-          "nested_iframes": [
-            {
-              "url": "https://matchify.zip/2222.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://matchify.zip/2222.php"
+            "https://matchify.zip/master1.php"
           ]
         }
       ]
@@ -192,34 +82,6 @@
           ],
           "stream_urls": [
             "https://matchify.zip/2222.php"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Torino vs Roma",
-      "url": "https://ovogoaal.com/match-updates/torino-vs-roma/",
-      "time": "18:00",
-      "category": "seriea",
-      "first_level_iframes": [
-        "https://matchify.zip/home/blog3/"
-      ],
-      "stream_urls": [
-        "https://matchify.zip/3333.php"
-      ],
-      "stream_count": 1,
-      "iframe_details": [
-        {
-          "url": "https://matchify.zip/home/blog3/",
-          "nested_iframes": [
-            {
-              "url": "https://matchify.zip/3333.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://matchify.zip/3333.php"
           ]
         }
       ]
