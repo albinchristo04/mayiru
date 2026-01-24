@@ -1,57 +1,6 @@
 {
-  "last_updated": "2026-01-24T01:00:26.226188Z",
+  "last_updated": "2026-01-24T08:16:40.490579Z",
   "events": {
-    "FRIDAY": [
-      {
-        "time": "01:15",
-        "event": "Talleres CÃ³rdoba x Newell's Old Boys",
-        "streams": [
-          "https://sportsonline.cv/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "01:05",
-        "event": "Talleres x Newell's Old Boys",
-        "streams": [
-          "https://sportsonline.cv/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "01:15",
-        "event": "Independiente Rivadavia x AtlÃ©tico TucumÃ¡n",
-        "streams": [
-          "https://sportsonline.cv/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "Deportes Tolima x Alianza",
-        "streams": [
-          "https://sportsonline.cv/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "One Fight 39: AAOFC One Championship",
-        "streams": [
-          "https://sportsonline.cv/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "Boxing: Zuffa Boxing 1 - Las Vegas",
-        "streams": [
-          "https://sportsonline.cv/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "NHL: Colorado Avalanche @ Philadelphia Flyers",
-        "streams": [
-          "https://sportsonline.cv/channels/pt/sporttv4.php"
-        ]
-      }
-    ],
     "SATURDAY": [
       {
         "time": "07:30",
