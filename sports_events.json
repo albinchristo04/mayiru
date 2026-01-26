@@ -1,64 +1,7 @@
 {
-  "last_updated": "2026-01-25T16:15:06.158160Z",
+  "last_updated": "2026-01-26T01:07:33.619686Z",
   "events": {
     "SUNDAY": [
-      {
-        "time": "15:00",
-        "event": "Hearts x Celtic",
-        "streams": [
-          "https://v1.sportsonline.cv/channels/hd/hd11.php",
-          "https://v1.sportsonline.cv/channels/pt/sporttv4.php"
-        ]
-      },
-      {
-        "time": "15:15",
-        "event": "Barcelona x Real Oviedo",
-        "streams": [
-          "https://v1.sportsonline.cv/channels/hd/hd2.php",
-          "https://v1.sportsonline.cv/channels/hd/hd6.php",
-          "https://v1.sportsonline.cv/channels/pt/eleven2.php",
-          "https://v1.sportsonline.cv/channels/bra/br5.php"
-        ]
-      },
-      {
-        "time": "15:30",
-        "event": "Nacional x Rio Ave",
-        "streams": [
-          "https://v1.sportsonline.cv/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "16:00",
-        "event": "Stade Malien Bamako x Petro de Luanda",
-        "streams": [
-          "https://v1.sportsonline.cv/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "16:15",
-        "event": "Metz x Olympique Lyonnais",
-        "streams": [
-          "https://v1.sportsonline.cv/channels/hd/hd4.php",
-          "https://v1.sportsonline.cv/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "16:30",
-        "event": "Arsenal x Manchester United",
-        "streams": [
-          "https://v1.sportsonline.cv/channels/hd/hd1.php",
-          "https://v1.sportsonline.cv/channels/hd/hd5.php",
-          "https://v1.sportsonline.cv/channels/pt/eleven1.php",
-          "https://v1.sportsonline.cv/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "16:30",
-        "event": "Freiburg x KÃ¶ln",
-        "streams": [
-          "https://v1.sportsonline.cv/channels/hd/hd3.php"
-        ]
-      },
       {
         "time": "17:00",
         "event": "Juventus x Napoli",
