@@ -1,16 +1,16 @@
 [
   {
     "source_url": "https://streamtpmedia.com/global1.php?stream=tudn_usa",
-    "extracted_at": "2026-01-25T07:28:40.211667",
+    "extracted_at": "2026-01-27T08:45:41.999129",
     "status": "error",
     "error": "Extraction failed: No iframe found on the page"
   },
   {
     "source_url": "https://sportzonline.live/channels/hd/hd9.php",
-    "extracted_at": "2026-01-25T07:28:40.211667",
+    "extracted_at": "2026-01-27T08:45:41.999129",
     "status": "success",
     "data": {
-      "destination_url": "https://fvvxvv.6670391863.store:8443/hls/mhbq0m7am17nhai.m3u8?s=_nhSmgDkop8410I902fofQ&e=1769347721",
+      "destination_url": "https://sqkofy.7380990745.xyz:8443/hls/mhbq0m7am17nhai.m3u8?s=tP20pD4ZRL4HMR7MrnT_yg&e=1769525144",
       "request_headers": {
         "Referer": "https://dairytissue.rest/embed/mhbq0m7am17nhai",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
