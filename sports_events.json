@@ -1,58 +1,6 @@
 {
-  "last_updated": "2026-01-27T08:20:26.640448Z",
+  "last_updated": "2026-01-27T16:19:25.273199Z",
   "events": {
-    "MONDAY": [
-      {
-        "time": "22:30",
-        "event": "Futsal: Argentina x Uruguay",
-        "streams": [
-          "https://v1.sportsonline.cv/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "23:00",
-        "event": "Portuguesa x Guarani",
-        "streams": [
-          "https://v1.sportsonline.cv/channels/bra/br3.php"
-        ]
-      },
-      {
-        "time": "00:00",
-        "event": "NBA: Orlando Magic @ Cleveland Cavaliers",
-        "streams": [
-          "https://v1.sportsonline.cv/channels/hd/hd1.php",
-          "https://v1.sportsonline.cv/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "Nova IguaÃ§u x Volta Redonda",
-        "streams": [
-          "https://v1.sportsonline.cv/channels/bra/br4.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "NBA: Portland Trail Blazers @ Boston Celtics",
-        "streams": [
-          "https://v1.sportsonline.cv/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "NBA: Los Angeles Lakers @ Chicago Bulls",
-        "streams": [
-          "https://v1.sportsonline.cv/channels/hd/hd2.php"
-        ]
-      },
-      {
-        "time": "02:30",
-        "event": "NBA: Minnesota Timberwolves @ Golden State Warriors",
-        "streams": [
-          "https://v1.sportsonline.cv/channels/bra/br6.php"
-        ]
-      }
-    ],
     "TUESDAY": [
       {
         "time": "16:30",
