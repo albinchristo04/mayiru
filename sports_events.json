@@ -1,38 +1,7 @@
 {
-  "last_updated": "2026-01-30T16:27:23.072412Z",
+  "last_updated": "2026-01-31T01:08:26.820392Z",
   "events": {
     "FRIDAY": [
-      {
-        "time": "08:30",
-        "event": "Golf: DP World Tour - Bahrain Championship - D2",
-        "streams": [
-          "https://www1.sportsonline.cv/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "17:30",
-        "event": "Al Kholood x Al Nassr",
-        "streams": [
-          "https://www1.sportsonline.cv/channels/hd/hd11.php",
-          "https://www1.sportsonline.cv/channels/pt/sporttv1.php",
-          "https://www1.sportsonline.cv/channels/bra/br4.php"
-        ]
-      },
-      {
-        "time": "17:30",
-        "event": "NÃ¼rnberg x PreuÃen MÃ¼nster",
-        "streams": [
-          "https://www1.sportsonline.cv/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "17:30",
-        "event": "Magdeburg x Hannover 96",
-        "streams": [
-          "https://www1.sportsonline.cv/channels/hd/hd9.php",
-          "https://www1.sportsonline.cv/channels/pt/eleven2.php"
-        ]
-      },
       {
         "time": "19:00",
         "event": "NAC Breda x Twente",
