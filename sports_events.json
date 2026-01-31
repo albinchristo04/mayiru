@@ -1,75 +1,7 @@
 {
-  "last_updated": "2026-01-31T08:18:34.978870Z",
+  "last_updated": "2026-01-31T16:16:39.068687Z",
   "events": {
     "SATURDAY": [
-      {
-        "time": "08:30",
-        "event": "Golf: DP World Tour - Bahrain Championship - D3",
-        "streams": [
-          "https://www2.sportsonline.cv/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "11:00",
-        "event": "Felgueiras 1932 x Chaves",
-        "streams": [
-          "https://www2.sportsonline.cv/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "12:00",
-        "event": "Eintracht Braunschweig x Karlsruher SC",
-        "streams": [
-          "https://www2.sportsonline.cv/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "12:00",
-        "event": "Bochum x Schalke 04",
-        "streams": [
-          "https://www2.sportsonline.cv/channels/hd/hd9.php",
-          "https://www2.sportsonline.cv/channels/pt/eleven1.php"
-        ]
-      },
-      {
-        "time": "12:30",
-        "event": "Stoke City x Southampton",
-        "streams": [
-          "https://www2.sportsonline.cv/channels/hd/hd5.php",
-          "https://www2.sportsonline.cv/channels/pt/sporttv2.php",
-          "https://www2.sportsonline.cv/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "13:00",
-        "event": "Real Oviedo x Girona",
-        "streams": [
-          "https://www2.sportsonline.cv/channels/hd/hd6.php",
-          "https://www2.sportsonline.cv/channels/pt/eleven2.php",
-          "https://www2.sportsonline.cv/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "13:00",
-        "event": "Troyes x Le Mans",
-        "streams": [
-          "https://www2.sportsonline.cv/channels/hd/hd4.php"
-        ]
-      },
-      {
-        "time": "13:00",
-        "event": "Young Africans x Al Ahly",
-        "streams": [
-          "https://www2.sportsonline.cv/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "Pisa x Sassuolo",
-        "streams": [
-          "https://www2.sportsonline.cv/channels/hd/hd7.php"
-        ]
-      },
       {
         "time": "14:30",
         "event": "Eintracht Frankfurt x Bayer Leverkusen",
