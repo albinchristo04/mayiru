@@ -1,60 +1,6 @@
 {
-  "last_updated": "2026-02-04T08:30:04.259906Z",
+  "last_updated": "2026-02-04T16:35:10.498188Z",
   "events": {
-    "TUESDAY": [
-      {
-        "time": "00:00",
-        "event": "Forge x Tigres UANL",
-        "streams": [
-          "https://www2.sportzonline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "00:15",
-        "event": "Independiente Rivadavia x Sarmiento",
-        "streams": [
-          "https://www2.sportzonline.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "The Strongest x Deportivo TÃ¡chira",
-        "streams": [
-          "https://www2.sportzonline.click/channels/hd/hd5.php",
-          "https://www2.sportzonline.click/channels/hd/hd9.php",
-          "https://www2.sportzonline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "NBA: Los Angeles Lakers @ Brooklyn Nets",
-        "streams": [
-          "https://www2.sportzonline.click/channels/hd/hd2.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "NBA: Boston Celtics @ Dallas Mavericks",
-        "streams": [
-          "https://www2.sportzonline.click/channels/hd/hd1.php",
-          "https://www2.sportzonline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "Olimpia x AmÃ©rica",
-        "streams": [
-          "https://www2.sportzonline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "04:00",
-        "event": "San Diego x Pumas UNAM",
-        "streams": [
-          "https://www2.sportzonline.click/channels/hd/hd11.php"
-        ]
-      }
-    ],
     "WEDNESDAY": [
       {
         "time": "15:00",
