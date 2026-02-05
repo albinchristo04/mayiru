@@ -1,21 +1,19 @@
 {
-  "last_updated": "2026-02-05T08:38:46.485997Z",
-  "total_matches": 2,
+  "last_updated": "2026-02-05T16:42:58.060458Z",
+  "total_matches": 1,
   "matches": [
     {
-      "title": "Man City vs Newcastle",
-      "url": "https://ovogoal.plus/match-updates/manchester-city-vs-newcastle/",
+      "title": "Atalanta vs Juventus",
+      "url": "https://ovogoal.plus/match-updates/atalanta-vs-juventus/",
       "time": "21:00",
-      "category": "premier",
+      "category": "seriea",
       "first_level_iframes": [
         "https://gametimes.plus/home/blog1/"
       ],
       "stream_urls": [
-        "https://gametimes.plus/1111.php",
-        "https://storage.googleapis.com/golsingertung1/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/golsingertung1/mux_video_ts/index-1.m3u8"
+        "https://gametimes.plus/1111.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://gametimes.plus/home/blog1/",
@@ -23,51 +21,11 @@
             {
               "url": "https://gametimes.plus/1111.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/golsingertung1/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/golsingertung1/mux_video_ts1/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://gametimes.plus/1111.php",
-            "https://storage.googleapis.com/golsingertung1/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/golsingertung1/mux_video_ts/index-1.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Inter vs Torino",
-      "url": "https://ovogoal.plus/match-updates/inter-vs-torino/",
-      "time": "20:45",
-      "category": "seriea",
-      "first_level_iframes": [
-        "https://gametimes.plus/home/blog2/"
-      ],
-      "stream_urls": [
-        "https://storage.googleapis.com/golsingertung2/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/golsingertung2/mux_video_ts/index-1.m3u8",
-        "https://gametimes.plus/2222.php"
-      ],
-      "stream_count": 3,
-      "iframe_details": [
-        {
-          "url": "https://gametimes.plus/home/blog2/",
-          "nested_iframes": [
-            {
-              "url": "https://gametimes.plus/2222.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/golsingertung2/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/golsingertung2/mux_video_ts/index-1.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://storage.googleapis.com/golsingertung2/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/golsingertung2/mux_video_ts/index-1.m3u8",
-            "https://gametimes.plus/2222.php"
+            "https://gametimes.plus/1111.php"
           ]
         }
       ]
