@@ -1,52 +1,6 @@
 {
-  "last_updated": "2026-02-05T01:11:35.201805Z",
+  "last_updated": "2026-02-05T08:31:57.012743Z",
   "events": {
-    "WEDNESDAY": [
-      {
-        "time": "00:30",
-        "event": "2 de Mayo x Alianza Lima",
-        "streams": [
-          "https://www2.sportzonline.click/channels/hd/hd5.php",
-          "https://www2.sportzonline.click/channels/hd/hd9.php",
-          "https://www2.sportzonline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "Palmeiras x VitÃ³ria",
-        "streams": [
-          "https://www2.sportzonline.click/channels/bra/br5.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "GrÃªmio x Botafogo",
-        "streams": [
-          "https://www2.sportzonline.click/channels/bra/br4.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "XelajÃº x Monterrey",
-        "streams": [
-          "https://www2.sportzonline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "02:30",
-        "event": "NBA: Oklahoma City Thunder @ San Antonio Spurs",
-        "streams": [
-          "https://www2.sportzonline.click/channels/hd/hd2.php"
-        ]
-      },
-      {
-        "time": "03:00",
-        "event": "Vancouver FC x Cruz Azul",
-        "streams": [
-          "https://www2.sportzonline.click/channels/hd/hd11.php"
-        ]
-      }
-    ],
     "THURSDAY": [
       {
         "time": "09:00",
