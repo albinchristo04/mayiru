@@ -1,57 +1,6 @@
 {
-  "last_updated": "2026-02-06T08:31:17.084065Z",
+  "last_updated": "2026-02-06T16:33:37.868344Z",
   "events": {
-    "THURSDAY": [
-      {
-        "time": "00:15",
-        "event": "Barracas Central x Temperley",
-        "streams": [
-          "https://www2.sportzonline.click/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "Juventud x Universidad CatÃ³lica",
-        "streams": [
-          "https://www2.sportzonline.click/channels/hd/hd5.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "Boxing: Albert RamÃ­rez x Lerrone Richards",
-        "streams": [
-          "https://www2.sportzonline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "NHL: Florida Panthers @ Tampa Bay Lightning",
-        "streams": [
-          "https://www2.sportzonline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "Cruzeiro x Coritiba",
-        "streams": [
-          "https://www2.sportzonline.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "Millonarios x Deportivo Pereira",
-        "streams": [
-          "https://www2.sportzonline.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "03:00",
-        "event": "NBA: Philadeplhia 76ers @ Los Angeles Lakers",
-        "streams": [
-          "https://www2.sportzonline.click/channels/hd/hd2.php"
-        ]
-      }
-    ],
     "FRIDAY": [
       {
         "time": "09:00",
