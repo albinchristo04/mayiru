@@ -1,30 +1,6 @@
 {
-  "last_updated": "2026-02-10T08:40:25.837718Z",
+  "last_updated": "2026-02-10T16:54:32.432795Z",
   "events": {
-    "MONDAY": [
-      {
-        "time": "00:30",
-        "event": "Estudiantes RÃ­o Cuarto x Independiente Rivadavia",
-        "streams": [
-          "https://ww2.sportzonline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "NBA: Milwaukee Bucks @ Orlando Magic",
-        "streams": [
-          "https://ww2.sportzonline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "03:00",
-        "event": "NBA: Oklahoma City Thunder @ Los Angeles Lakers",
-        "streams": [
-          "https://ww2.sportzonline.click/channels/hd/hd2.php",
-          "https://ww2.sportzonline.click/channels/pt/sporttv1.php"
-        ]
-      }
-    ],
     "TUESDAY": [
       {
         "time": "12:00",
