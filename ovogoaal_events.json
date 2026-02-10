@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T08:52:22.121603Z",
+  "last_updated": "2026-02-10T17:00:18.365178Z",
   "total_matches": 4,
   "matches": [
     {
@@ -11,11 +11,11 @@
         "https://gametimes.plus/home/blog1/"
       ],
       "stream_urls": [
+        "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq/chunklist_DVR.m3u8",
+        "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq_720p/chunklist_DVR.m3u8",
         "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq_360p/chunklist_DVR.m3u8",
         "https://gametimes.plus/1111.php",
-        "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq/chunklist_DVR.m3u8",
-        "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq_1080p/chunklist_DVR.m3u8",
-        "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq_720p/chunklist_DVR.m3u8"
+        "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq_1080p/chunklist_DVR.m3u8"
       ],
       "stream_count": 5,
       "iframe_details": [
@@ -34,11 +34,11 @@
             }
           ],
           "stream_urls": [
+            "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq/chunklist_DVR.m3u8",
+            "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq_720p/chunklist_DVR.m3u8",
             "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq_360p/chunklist_DVR.m3u8",
             "https://gametimes.plus/1111.php",
-            "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq/chunklist_DVR.m3u8",
-            "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq_1080p/chunklist_DVR.m3u8",
-            "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq_720p/chunklist_DVR.m3u8"
+            "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq_1080p/chunklist_DVR.m3u8"
           ]
         }
       ]
@@ -80,9 +80,9 @@
         "https://gametimes.plus/home/blog3/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/unsertoungfg2/mux_video_ts/index-1.m3u8",
         "https://storage.googleapis.com/unsertoungfg2/mux_video_ts1/index-1.m3u8",
-        "https://gametimes.plus/3333.php"
+        "https://gametimes.plus/3333.php",
+        "https://storage.googleapis.com/unsertoungfg2/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -93,15 +93,15 @@
               "url": "https://gametimes.plus/3333.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/unsertoungfg2/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/unsertoungfg2/mux_video_ts1/index-1.m3u8"
+                "https://storage.googleapis.com/unsertoungfg2/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/unsertoungfg2/mux_video_ts/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
             "https://storage.googleapis.com/unsertoungfg2/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/unsertoungfg2/mux_video_ts1/index-1.m3u8",
-            "https://gametimes.plus/3333.php"
+            "https://gametimes.plus/3333.php",
+            "https://storage.googleapis.com/unsertoungfg2/mux_video_ts1/index-1.m3u8"
           ]
         }
       ]
