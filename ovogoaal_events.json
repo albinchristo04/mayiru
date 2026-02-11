@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T17:00:18.365178Z",
+  "last_updated": "2026-02-11T02:04:59.406745Z",
   "total_matches": 4,
   "matches": [
     {
@@ -11,13 +11,11 @@
         "https://gametimes.plus/home/blog1/"
       ],
       "stream_urls": [
-        "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq/chunklist_DVR.m3u8",
-        "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq_720p/chunklist_DVR.m3u8",
-        "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq_360p/chunklist_DVR.m3u8",
-        "https://gametimes.plus/1111.php",
-        "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq_1080p/chunklist_DVR.m3u8"
+        "https://storage.googleapis.com/gamstrongove1/mux_video_ts1/index-1.m3u8",
+        "https://storage.googleapis.com/gamstrongove1/mux_video_ts/index-1.m3u8",
+        "https://gametimes.plus/1111.php"
       ],
-      "stream_count": 5,
+      "stream_count": 3,
       "iframe_details": [
         {
           "url": "https://gametimes.plus/home/blog1/",
@@ -26,19 +24,15 @@
               "url": "https://gametimes.plus/1111.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq_360p/chunklist_DVR.m3u8",
-                "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq_1080p/chunklist_DVR.m3u8",
-                "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq/chunklist_DVR.m3u8",
-                "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq_720p/chunklist_DVR.m3u8"
+                "https://storage.googleapis.com/gamstrongove1/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/gamstrongove1/mux_video_ts/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
-            "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq/chunklist_DVR.m3u8",
-            "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq_720p/chunklist_DVR.m3u8",
-            "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq_360p/chunklist_DVR.m3u8",
-            "https://gametimes.plus/1111.php",
-            "https://1a-1791.com/live/3fms19g4/slot-67/gp8j-6rpq_1080p/chunklist_DVR.m3u8"
+            "https://storage.googleapis.com/gamstrongove1/mux_video_ts1/index-1.m3u8",
+            "https://storage.googleapis.com/gamstrongove1/mux_video_ts/index-1.m3u8",
+            "https://gametimes.plus/1111.php"
           ]
         }
       ]
@@ -52,9 +46,11 @@
         "https://gametimes.plus/home/blog2/"
       ],
       "stream_urls": [
-        "https://gametimes.plus/2222.php"
+        "https://storage.googleapis.com/gamstrongove2/mux_video_ts1/index-1.m3u8",
+        "https://gametimes.plus/2222.php",
+        "https://storage.googleapis.com/gamstrongove2/mux_video_ts/index-1.m3u8"
       ],
-      "stream_count": 1,
+      "stream_count": 3,
       "iframe_details": [
         {
           "url": "https://gametimes.plus/home/blog2/",
@@ -62,11 +58,16 @@
             {
               "url": "https://gametimes.plus/2222.php",
               "nested_iframes": [],
-              "stream_urls": []
+              "stream_urls": [
+                "https://storage.googleapis.com/gamstrongove2/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/gamstrongove2/mux_video_ts/index-1.m3u8"
+              ]
             }
           ],
           "stream_urls": [
-            "https://gametimes.plus/2222.php"
+            "https://storage.googleapis.com/gamstrongove2/mux_video_ts1/index-1.m3u8",
+            "https://gametimes.plus/2222.php",
+            "https://storage.googleapis.com/gamstrongove2/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
@@ -80,11 +81,9 @@
         "https://gametimes.plus/home/blog3/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/unsertoungfg2/mux_video_ts1/index-1.m3u8",
-        "https://gametimes.plus/3333.php",
-        "https://storage.googleapis.com/unsertoungfg2/mux_video_ts/index-1.m3u8"
+        "https://gametimes.plus/3333.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://gametimes.plus/home/blog3/",
@@ -92,16 +91,11 @@
             {
               "url": "https://gametimes.plus/3333.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/unsertoungfg2/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/unsertoungfg2/mux_video_ts/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/unsertoungfg2/mux_video_ts/index-1.m3u8",
-            "https://gametimes.plus/3333.php",
-            "https://storage.googleapis.com/unsertoungfg2/mux_video_ts1/index-1.m3u8"
+            "https://gametimes.plus/3333.php"
           ]
         }
       ]
@@ -115,9 +109,11 @@
         "https://gametimes.plus/home/blog4/"
       ],
       "stream_urls": [
-        "https://gametimes.plus/4444.php"
+        "https://storage.googleapis.com/gamstrongove3/mux_video_ts/index-1.m3u8",
+        "https://gametimes.plus/4444.php",
+        "https://storage.googleapis.com/gamstrongove3/mux_video_ts1/index-1.m3u8"
       ],
-      "stream_count": 1,
+      "stream_count": 3,
       "iframe_details": [
         {
           "url": "https://gametimes.plus/home/blog4/",
@@ -125,11 +121,16 @@
             {
               "url": "https://gametimes.plus/4444.php",
               "nested_iframes": [],
-              "stream_urls": []
+              "stream_urls": [
+                "https://storage.googleapis.com/gamstrongove3/mux_video_ts/index-1.m3u8",
+                "https://storage.googleapis.com/gamstrongove3/mux_video_ts1/index-1.m3u8"
+              ]
             }
           ],
           "stream_urls": [
-            "https://gametimes.plus/4444.php"
+            "https://storage.googleapis.com/gamstrongove3/mux_video_ts/index-1.m3u8",
+            "https://gametimes.plus/4444.php",
+            "https://storage.googleapis.com/gamstrongove3/mux_video_ts1/index-1.m3u8"
           ]
         }
       ]
