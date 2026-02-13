@@ -1,21 +1,7 @@
 {
-  "last_updated": "2026-02-13T08:32:45.169845Z",
+  "last_updated": "2026-02-13T16:34:06.532395Z",
   "events": {
     "FRIDAY": [
-      {
-        "time": "10:45",
-        "event": "Perth Glory x Newcastle Jets",
-        "streams": [
-          "https://ww2.sportzonline.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "12:00",
-        "event": "Tennis - ATP World Tour: Rotterdam 500",
-        "streams": [
-          "https://ww2.sportzonline.click/channels/pt/sporttv3.php"
-        ]
-      },
       {
         "time": "15:25",
         "event": "Al Hilal x Al Ittifaq",
