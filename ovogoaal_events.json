@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T08:41:23.676443Z",
+  "last_updated": "2026-02-17T16:54:06.997274Z",
   "total_matches": 4,
   "matches": [
     {
@@ -11,11 +11,9 @@
         "https://gametimes.plus/home/blog1/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/unifhefnceadf2/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/unifhefnceadf2/mux_video_ts/index-1.m3u8",
         "https://gametimes.plus/1111.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://gametimes.plus/home/blog1/",
@@ -23,15 +21,10 @@
             {
               "url": "https://gametimes.plus/1111.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/unifhefnceadf2/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/unifhefnceadf2/mux_video_ts/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/unifhefnceadf2/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/unifhefnceadf2/mux_video_ts/index-1.m3u8",
             "https://gametimes.plus/1111.php"
           ]
         }
@@ -46,11 +39,9 @@
         "https://gametimes.plus/home/blog1/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/unifhefnceadf2/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/unifhefnceadf2/mux_video_ts/index-1.m3u8",
         "https://gametimes.plus/1111.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://gametimes.plus/home/blog1/",
@@ -58,15 +49,10 @@
             {
               "url": "https://gametimes.plus/1111.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/unifhefnceadf2/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/unifhefnceadf2/mux_video_ts/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/unifhefnceadf2/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/unifhefnceadf2/mux_video_ts/index-1.m3u8",
             "https://gametimes.plus/1111.php"
           ]
         }
