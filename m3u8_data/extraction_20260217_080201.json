@@ -1,13 +1,13 @@
 [
   {
     "source_url": "https://streamtpmedia.com/global1.php?stream=tudn_usa",
-    "extracted_at": "2026-02-14T09:30:06.975770",
+    "extracted_at": "2026-02-17T08:01:53.567211",
     "status": "error",
     "error": "Extraction failed: No iframe found on the page"
   },
   {
     "source_url": "https://sportzonline.live/channels/hd/hd9.php",
-    "extracted_at": "2026-02-14T09:30:06.975770",
+    "extracted_at": "2026-02-17T08:01:53.567211",
     "status": "error",
     "error": "Extraction failed: Tutti i 3 tentativi falliti per https://dairytissue.rest/embed/mhbq0m7am17nhai: Cannot connect to host dairytissue.rest:443 ssl:default [Name or service not known]"
   }
