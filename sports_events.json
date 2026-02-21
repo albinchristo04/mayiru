@@ -1,35 +1,7 @@
 {
-  "last_updated": "2026-02-21T08:19:53.966193Z",
+  "last_updated": "2026-02-21T16:17:50.887387Z",
   "events": {
     "SATURDAY": [
-      {
-        "time": "04:00",
-        "event": "Wellington Phoenix x Auckland",
-        "streams": [
-          "https://www1.sprtsonline.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "06:00",
-        "event": "Sydney FC x Brisbane Roar",
-        "streams": [
-          "https://www1.sprtsonline.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "08:35",
-        "event": "Melbourne City x Melbourne Victory",
-        "streams": [
-          "https://www1.sprtsonline.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "11:00",
-        "event": "Torreense x Benfica B",
-        "streams": [
-          "https://www1.sprtsonline.click/channels/pt/sporttv1.php"
-        ]
-      },
       {
         "time": "12:00",
         "event": "Darmstadt 98 x Fortuna DÃ¼sseldorf",
@@ -214,7 +186,7 @@
       },
       {
         "time": "18:00",
-        "event": "UD Oliveirense x UniÃ£o de Leiria",
+        "event": "Moreirense x Sporting CP",
         "streams": [
           "https://www1.sprtsonline.click/channels/pt/sporttv1.php"
         ]
