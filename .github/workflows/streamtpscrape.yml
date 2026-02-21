@@ -1,0 +1,57 @@
+name: StreamTP Scraper
+
+on:
+  # ── Run manually from GitHub UI ──────────────────────────────────────────
+  workflow_dispatch:
+    inputs:
+      page_url:
+        description: 'StreamTP page URL to scrape'
+        required: true
+        type: string
+
+  # ── Or on a schedule (e.g. every 6 hours) ────────────────────────────────
+  schedule:
+    - cron: '0 */6 * * *'   # remove/edit this if you don't want scheduled runs
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Check out the repo so the runner has index.js
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Set up Node.js (no extra packages needed — only built-ins used)
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # 3. Run the scraper
+      #    Priority: manual input URL → secret fallback URL
+      - name: Run scraper
+        env:
+          STREAMTP_URL: ${{ github.event.inputs.page_url || secrets.STREAMTP_URL }}
+          OUTPUT_FILE: output.json
+        run: node index.js
+
+      # 4. Upload output.json as a downloadable artifact
+      - name: Upload result artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: scrape-result-${{ github.run_id }}
+          path: output.json
+          retention-days: 30
+
+      # 5. (Optional) Commit output.json back to the repo
+      #    Comment this entire step out if you don't want auto-commits.
+      - name: Commit output.json to repo
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output.json
+          git diff --cached --quiet || git commit -m "chore: update output.json [skip ci]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
