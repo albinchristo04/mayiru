@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24T08:42:43.168847Z",
+  "last_updated": "2026-02-24T17:03:18.924492Z",
   "total_matches": 4,
   "matches": [
     {
@@ -8,31 +8,24 @@
       "time": "18:45",
       "category": "champions",
       "first_level_iframes": [
-        "https://gametimes.plus/home/blog1/"
+        "https://areagame.net/home/blog1/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/fangazett/mux_video_ts1/index-1.m3u8",
-        "https://gametimes.plus/1111.php",
-        "https://storage.googleapis.com/fangazett/mux_video_ts/index-1.m3u8"
+        "https://areagame.net/1111.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
-          "url": "https://gametimes.plus/home/blog1/",
+          "url": "https://areagame.net/home/blog1/",
           "nested_iframes": [
             {
-              "url": "https://gametimes.plus/1111.php",
+              "url": "https://areagame.net/1111.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/fangazett/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/fangazett/mux_video_ts/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/fangazett/mux_video_ts1/index-1.m3u8",
-            "https://gametimes.plus/1111.php",
-            "https://storage.googleapis.com/fangazett/mux_video_ts/index-1.m3u8"
+            "https://areagame.net/1111.php"
           ]
         }
       ]
@@ -43,31 +36,24 @@
       "time": "21:00",
       "category": "champions",
       "first_level_iframes": [
-        "https://gametimes.plus/home/blog1/"
+        "https://areagame.net/home/blog1/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/fangazett/mux_video_ts1/index-1.m3u8",
-        "https://gametimes.plus/1111.php",
-        "https://storage.googleapis.com/fangazett/mux_video_ts/index-1.m3u8"
+        "https://areagame.net/1111.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
-          "url": "https://gametimes.plus/home/blog1/",
+          "url": "https://areagame.net/home/blog1/",
           "nested_iframes": [
             {
-              "url": "https://gametimes.plus/1111.php",
+              "url": "https://areagame.net/1111.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/fangazett/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/fangazett/mux_video_ts/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/fangazett/mux_video_ts1/index-1.m3u8",
-            "https://gametimes.plus/1111.php",
-            "https://storage.googleapis.com/fangazett/mux_video_ts/index-1.m3u8"
+            "https://areagame.net/1111.php"
           ]
         }
       ]
@@ -78,20 +64,20 @@
       "time": "21:00",
       "category": "champions",
       "first_level_iframes": [
-        "https://gametimes.plus/home/blog2/"
+        "https://areagame.net/home/blog2/"
       ],
       "stream_urls": [
         "https://storage.googleapis.com/ovretungeropen2/mux_video_ts1/index-1.m3u8",
         "https://storage.googleapis.com/ovretungeropen2/mux_video_ts/index-1.m3u8",
-        "https://gametimes.plus/2222.php"
+        "https://areagame.net/2222.php"
       ],
       "stream_count": 3,
       "iframe_details": [
         {
-          "url": "https://gametimes.plus/home/blog2/",
+          "url": "https://areagame.net/home/blog2/",
           "nested_iframes": [
             {
-              "url": "https://gametimes.plus/2222.php",
+              "url": "https://areagame.net/2222.php",
               "nested_iframes": [],
               "stream_urls": [
                 "https://storage.googleapis.com/ovretungeropen2/mux_video_ts1/index-1.m3u8",
@@ -102,7 +88,7 @@
           "stream_urls": [
             "https://storage.googleapis.com/ovretungeropen2/mux_video_ts1/index-1.m3u8",
             "https://storage.googleapis.com/ovretungeropen2/mux_video_ts/index-1.m3u8",
-            "https://gametimes.plus/2222.php"
+            "https://areagame.net/2222.php"
           ]
         }
       ]
@@ -113,24 +99,24 @@
       "time": "21:00",
       "category": "champions",
       "first_level_iframes": [
-        "https://gametimes.plus/home/blog3/"
+        "https://areagame.net/home/blog3/"
       ],
       "stream_urls": [
-        "https://gametimes.plus/3333.php"
+        "https://areagame.net/3333.php"
       ],
       "stream_count": 1,
       "iframe_details": [
         {
-          "url": "https://gametimes.plus/home/blog3/",
+          "url": "https://areagame.net/home/blog3/",
           "nested_iframes": [
             {
-              "url": "https://gametimes.plus/3333.php",
+              "url": "https://areagame.net/3333.php",
               "nested_iframes": [],
               "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://gametimes.plus/3333.php"
+            "https://areagame.net/3333.php"
           ]
         }
       ]
