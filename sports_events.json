@@ -1,189 +1,7 @@
 {
-  "last_updated": "2026-03-01T16:16:58.610865Z",
+  "last_updated": "2026-03-02T01:14:20.877826Z",
   "events": {
     "SUNDAY": [
-      {
-        "time": "16:15",
-        "event": "Lille x Nantes",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/hd/hd4.php",
-          "https://www2.sprtsonline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "16:30",
-        "event": "Arsenal x Chelsea",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/hd/hd1.php",
-          "https://www2.sprtsonline.click/channels/hd/hd2.php",
-          "https://www2.sprtsonline.click/channels/pt/eleven1.php",
-          "https://www2.sprtsonline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "16:30",
-        "event": "Eintracht Frankfurt x Freiburg",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/hd/hd3.php"
-        ]
-      },
-      {
-        "time": "17:00",
-        "event": "Torino x Lazio",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/hd/hd8.php",
-          "https://www2.sprtsonline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "17:00",
-        "event": "Antalyaspor x FenerbahÃ§e",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/hd/hd5.php",
-          "https://www2.sprtsonline.click/channels/pt/sporttv5.php"
-        ]
-      },
-      {
-        "time": "17:00",
-        "event": "PAOK x Asteras Tripolis",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "17:30",
-        "event": "Real Betis x Sevilla",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/hd/hd6.php",
-          "https://www2.sprtsonline.click/channels/pt/eleven2.ph"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "Casa Pia x Moreirense",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "18:30",
-        "event": "Hamburger SV x RB Leipzig",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/hd/hd3.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Deportivo Pasto x CÃºcuta Deportivo",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Canada W x Colombia W",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/hd/hd1.php",
-          "https://www2.sprtsonline.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "19:45",
-        "event": "Roma x Juventus",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/hd/hd2.php",
-          "https://www2.sprtsonline.click/channels/hd/hd7.php",
-          "https://www2.sprtsonline.click/channels/pt/sporttv2.php",
-          "https://www2.sprtsonline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "19:45",
-        "event": "Olympique Marseille x Olympique Lyonnais",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/hd/hd5.php",
-          "https://www2.sprtsonline.click/channels/hd/hd4.php",
-          "https://www2.sprtsonline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Girona x Celta de Vigo",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/hd/hd6.php",
-          "https://www2.sprtsonline.click/channels/pt/eleven1.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Newell's Old Boys x Rosario Central",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "GrÃªmio x Internacional",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/bra/br3.php"
-        ]
-      },
-      {
-        "time": "20:30",
-        "event": "Rio Ave x FamalicÃ£o",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "21:00",
-        "event": "Fluminense x Vasco da Gama",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "21:00",
-        "event": "AmÃ©rica Mineiro x AtlÃ©tico Mineiro",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/bra/br5.php"
-        ]
-      },
-      {
-        "time": "21:00",
-        "event": "Colo-Colo x Universidad Chile",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "21:00",
-        "event": "Rionegro Ãguilas x Inter BogotÃ¡",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "22:00",
-        "event": "USA W x Argentina W",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "22:15",
-        "event": "Instituto x UniÃ³n Santa Fe",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "22:15",
-        "event": "Argentinos Juniors x Barracas Central",
-        "streams": [
-          "https://www2.sprtsonline.click/channels/hd/hd10.php"
-        ]
-      },
       {
         "time": "23:10",
         "event": "Deportivo Cali x Fortaleza CEIF",
@@ -610,6 +428,206 @@
         "event": "NBA: New Orleans Pelicans @ Los Angeles Lakers",
         "streams": [
           "https://www2.sprtsonline.click/channels/hd/hd2.php"
+        ]
+      }
+    ],
+    "WEDNESDAY": [
+      {
+        "time": "08:00",
+        "event": "Macarthur x Central Coast Mariners",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd1.php"
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "Panathinaikos x OFI",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "Rayo Vallecano x Real Oviedo",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd6.php",
+          "https://www2.sprtsonline.click/channels/pt/eleven1.php"
+        ]
+      },
+      {
+        "time": "18:15",
+        "event": "Al Wasl x Al Nassr",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd10.php",
+          "https://www2.sprtsonline.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "Manchester City x Nottingham Forest",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd2.php",
+          "https://www2.sprtsonline.click/channels/pt/eleven2.php",
+          "https://www2.sprtsonline.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "Fulham x West Ham United",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "Brighton & Hove Albion x Arsenal",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd5.php",
+          "https://www2.sprtsonline.click/channels/pt/eleven3.php",
+          "https://www2.sprtsonline.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "Aston Villa x Chelsea",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd11.php",
+          "https://www2.sprtsonline.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "Hamburger SV x Bayer Leverkusen",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd3.php",
+          "https://www2.sprtsonline.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "Lorient x Nice",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd8.php",
+          "https://www2.sprtsonline.click/channels/pt/sporttv5.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Lazio x Atalanta",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd7.php",
+          "https://www2.sprtsonline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Real Sociedad x Athletic Club",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd6.php",
+          "https://www2.sprtsonline.click/channels/pt/sporttv1.php",
+          "https://www2.sprtsonline.click/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Olympique Marseille x Toulouse",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd4.php",
+          "https://www2.sprtsonline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Aberdeen x Celtic",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd10.php",
+          "https://www2.sprtsonline.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "20:15",
+        "event": "Newcastle United x Manchester United",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd1.php",
+          "https://www2.sprtsonline.click/channels/pt/eleven1.php",
+          "https://www2.sprtsonline.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "22:00",
+        "event": "Carabobo x Sporting Cristal",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd5.php",
+          "https://www2.sprtsonline.click/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "LanÃºs x Boca Juniors",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd8.php",
+          "https://www2.sprtsonline.click/channels/pt/sporttv1.php",
+          "https://www2.sprtsonline.click/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "NBA: Oklahoma City Thunder @ New York Knicks",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd2.php",
+          "https://www2.sprtsonline.click/channels/pt/sporttv2.php",
+          "https://www2.sprtsonline.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "AmÃ©rica Mineiro x Tirol",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "AtlÃ©tico Nacional x Millonarios",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd5.php",
+          "https://www2.sprtsonline.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "01:00",
+        "event": "Fortaleza CEIF x Jaguares de CÃ³rdoba",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "01:00",
+        "event": "Monterrey x QuerÃ©taro",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "02:00",
+        "event": "Deportivo Cuenca x Libertad",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "02:30",
+        "event": "NBA: Atlanta Hawks @ Milwaukee Bucks",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd2.php",
+          "https://www2.sprtsonline.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "03:00",
+        "event": "AmÃ©rica x JuÃ¡rez",
+        "streams": [
+          "https://www2.sprtsonline.click/channels/hd/hd9.php"
         ]
       }
     ]
