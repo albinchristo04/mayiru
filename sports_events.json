@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T01:09:48.906202Z",
+  "last_updated": "2026-03-07T08:19:23.109766Z",
   "events": {
     "FRIDAY": [
       {
@@ -784,6 +784,163 @@
         "event": "Tijuana x Santos Laguna",
         "streams": [
           "https://ww3.sprtsonline.click/channels/hd/hd10.php"
+        ]
+      }
+    ],
+    "MONDAY": [
+      {
+        "time": "05:15",
+        "event": "Cricket: Test: Australia v India - Women's Test Match Cricket",
+        "streams": [
+          "https://ww3.sprtsonline.click/channels/hd/hd2.php"
+        ]
+      },
+      {
+        "time": "13:00",
+        "event": "EyÃ¼pspor x Kocaelispor",
+        "streams": [
+          "https://ww3.sprtsonline.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "13:30",
+        "event": "Montana x Ludogorets",
+        "streams": [
+          "https://ww3.sprtsonline.click/channels/hd/hd3.php"
+        ]
+      },
+      {
+        "time": "14:15",
+        "event": "Cycling: Paris-Nice - Stage 2 - Men",
+        "streams": [
+          "https://ww3.sprtsonline.click/channels/hd/hd2.php"
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "Panaitolikos x Kifisia",
+        "streams": [
+          "https://ww3.sprtsonline.click/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "Levski Sofia x Lokomotiv Plovdiv",
+        "streams": [
+          "https://ww3.sprtsonline.click/channels/hd/hd3.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "Baseball: GB v Brazil - Great Britain vs Brazil",
+        "streams": [
+          "https://ww3.sprtsonline.click/channels/hd/hd2.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "Kayserispor x Trabzonspor",
+        "streams": [
+          "https://ww3.sprtsonline.click/channels/hd/hd9.php",
+          "https://ww3.sprtsonline.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "CFR Cluj x Dinamo BucureÅti",
+        "streams": [
+          "https://ww3.sprtsonline.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "WisÅa PÅock x Arka Gdynia",
+        "streams": [
+          "https://ww3.sprtsonline.click/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "West Ham United x Brentford",
+        "streams": [
+          "https://ww3.sprtsonline.click/channels/hd/hd1.php",
+          "https://ww3.sprtsonline.click/channels/pt/sporttv3.php",
+          "https://ww3.sprtsonline.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "AlmerÃ­a x Cultural Leonesa",
+        "streams": [
+          "https://ww3.sprtsonline.click/channels/hd/hd10.php",
+          "https://ww3.sprtsonline.click/channels/pt/eleven2.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Lazio x Sassuolo",
+        "streams": [
+          "https://ww3.sprtsonline.click/channels/hd/hd7.php",
+          "https://ww3.sprtsonline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Dunkerque x Reims",
+        "streams": [
+          "https://ww3.sprtsonline.click/channels/hd/hd4.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Espanyol x Real Oviedo",
+        "streams": [
+          "https://ww3.sprtsonline.click/channels/hd/hd6.php",
+          "https://ww3.sprtsonline.click/channels/pt/eleven1.php"
+        ]
+      },
+      {
+        "time": "20:15",
+        "event": "Tondela x Rio Ave",
+        "streams": [
+          "https://ww3.sprtsonline.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "Universidad Chile x Univ. ConcepciÃ³n",
+        "streams": [
+          "https://ww3.sprtsonline.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "23:20",
+        "event": "Millonarios x CÃºcuta Deportivo",
+        "streams": [
+          "https://ww3.sprtsonline.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "23:30",
+        "event": "NBA: Denver Nuggets @ Oklahoma City Thunder",
+        "streams": [
+          "https://ww3.sprtsonline.click/channels/bra/br6.php",
+          "https://ww3.sprtsonline.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "01:30",
+        "event": "Deportivo Pasto x AmÃ©rica de Cali",
+        "streams": [
+          "https://ww3.sprtsonline.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "02:00",
+        "event": "NBA: New York Knicks @ LA Clippers",
+        "streams": [
+          "https://ww3.sprtsonline.click/channels/pt/sporttv1.php",
+          "https://ww3.sprtsonline.click/channels/bra/br6.php"
         ]
       }
     ]
