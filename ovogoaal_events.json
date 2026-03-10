@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T01:47:52.706594Z",
+  "last_updated": "2026-03-10T08:37:43.616198Z",
   "total_matches": 4,
   "matches": [
     {
@@ -67,7 +67,7 @@
         "https://24start.net/homes/blog2/"
       ],
       "stream_urls": [
-        "https://areagame.net/s2.php"
+        "https://24start.net/s2.php"
       ],
       "stream_count": 1,
       "iframe_details": [
@@ -75,13 +75,13 @@
           "url": "https://24start.net/homes/blog2/",
           "nested_iframes": [
             {
-              "url": "https://areagame.net/s2.php",
+              "url": "https://24start.net/s2.php",
               "nested_iframes": [],
               "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://areagame.net/s2.php"
+            "https://24start.net/s2.php"
           ]
         }
       ]
@@ -95,28 +95,21 @@
         "https://24start.net/homes/blog3/"
       ],
       "stream_urls": [
-        "https://areagame.net/3333.php",
-        "https://storage.googleapis.com/uncertynghfn4/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/uncertynghfn4/mux_video_ts1/index-1.m3u8"
+        "https://24start.net/s3.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://24start.net/homes/blog3/",
           "nested_iframes": [
             {
-              "url": "https://areagame.net/3333.php",
+              "url": "https://24start.net/s3.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/uncertynghfn4/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/uncertynghfn4/mux_video_ts1/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://areagame.net/3333.php",
-            "https://storage.googleapis.com/uncertynghfn4/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/uncertynghfn4/mux_video_ts1/index-1.m3u8"
+            "https://24start.net/s3.php"
           ]
         }
       ]
