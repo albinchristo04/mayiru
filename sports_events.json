@@ -1,45 +1,6 @@
 {
-  "last_updated": "2026-03-10T01:09:49.635242Z",
+  "last_updated": "2026-03-10T08:30:24.371291Z",
   "events": {
-    "MONDAY": [
-      {
-        "time": "23:00",
-        "event": "Universidad Chile x Univ. ConcepciÃ³n",
-        "streams": [
-          "https://www3.sportsnline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "23:20",
-        "event": "Millonarios x CÃºcuta Deportivo",
-        "streams": [
-          "https://www3.sportsnline.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "23:30",
-        "event": "NBA: Denver Nuggets @ Oklahoma City Thunder",
-        "streams": [
-          "https://www3.sportsnline.click/channels/bra/br6.php",
-          "https://www3.sportsnline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "Deportivo Pasto x AmÃ©rica de Cali",
-        "streams": [
-          "https://www3.sportsnline.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "NBA: New York Knicks @ LA Clippers",
-        "streams": [
-          "https://www3.sportsnline.click/channels/pt/sporttv1.php",
-          "https://www3.sportsnline.click/channels/bra/br6.php"
-        ]
-      }
-    ],
     "TUESDAY": [
       {
         "time": "10:00",
