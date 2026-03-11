@@ -1,54 +1,6 @@
 {
-  "last_updated": "2026-03-11T08:29:54.944754Z",
+  "last_updated": "2026-03-11T16:40:33.207405Z",
   "events": {
-    "TUESDAY": [
-      {
-        "time": "00:30",
-        "event": "Botafogo x Barcelona",
-        "streams": [
-          "https://www3.sportsnline.click/channels/hd/hd2.php",
-          "https://www3.sportsnline.click/channels/pt/sporttv2.php",
-          "https://www3.sportsnline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "Mirassol x Santos",
-        "streams": [
-          "https://www3.sportsnline.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "Monterrey x Cruz Azul",
-        "streams": [
-          "https://www3.sportsnline.click/channels/hd/hd11.php",
-          "https://www3.sportsnline.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "Sarmiento x Racing",
-        "streams": [
-          "https://www3.sportsnline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "Junior x AtlÃ©tico Nacional",
-        "streams": [
-          "https://www3.sportsnline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "03:00",
-        "event": "Los Angeles FC x Alajuelense",
-        "streams": [
-          "https://www3.sportsnline.click/channels/hd/hd11.php",
-          "https://www3.sportsnline.click/channels/hd/hd10.php"
-        ]
-      }
-    ],
     "WEDNESDAY": [
       {
         "time": "10:00",
