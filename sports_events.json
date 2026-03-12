@@ -1,62 +1,6 @@
 {
-  "last_updated": "2026-03-12T08:32:07.076685Z",
+  "last_updated": "2026-03-12T16:50:31.850399Z",
   "events": {
-    "WEDNESDAY": [
-      {
-        "time": "23:30",
-        "event": "Nashville SC x Inter Miami",
-        "streams": [
-          "https://www3.sportsnline.click/channels/hd/hd5.php",
-          "https://www3.sportsnline.click/channels/hd/hd9.php",
-          "https://www3.sportsnline.click/channels/pt/sporttv4.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "Deportes Tolima x O'Higgins",
-        "streams": [
-          "https://www3.sportsnline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "Flamengo x Cruzeiro",
-        "streams": [
-          "https://www3.sportsnline.click/channels/bra/br4.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "Corinthians x Coritiba",
-        "streams": [
-          "https://www3.sportsnline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "LA Galaxy x Mount Pleasant Academy",
-        "streams": [
-          "https://www3.sportsnline.click/channels/hd/hd5.php",
-          "https://www3.sportsnline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "NBA: Houston Rockets @ Denver Nuggets",
-        "streams": [
-          "https://www3.sportsnline.click/channels/hd/hd2.php",
-          "https://www3.sportsnline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "03:30",
-        "event": "San Diego x Toluca",
-        "streams": [
-          "https://www3.sportsnline.click/channels/hd/hd5.php",
-          "https://www3.sportsnline.click/channels/hd/hd9.php"
-        ]
-      }
-    ],
     "THURSDAY": [
       {
         "time": "17:45",
