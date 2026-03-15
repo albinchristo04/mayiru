@@ -1,46 +1,7 @@
 {
-  "last_updated": "2026-03-15T08:26:32.124507Z",
+  "last_updated": "2026-03-15T16:20:36.320062Z",
   "events": {
     "SUNDAY": [
-      {
-        "time": "07:00",
-        "event": "Formula 1: Chinese F1 Grand Prix",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd2.php",
-          "https://www4.sportsnline.click/channels/hd/hd7.php"
-        ]
-      },
-      {
-        "time": "11:00",
-        "event": "Vizela x Lusitania FC Lourosa",
-        "streams": [
-          "https://www4.sportsnline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "11:30",
-        "event": "Verona x Genoa",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd7.php",
-          "https://www4.sportsnline.click/channels/hd/hd3.php",
-          "https://www4.sportsnline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "12:00",
-        "event": "St. Mirren x Rangers",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd1.php",
-          "https://www4.sportsnline.click/channels/pt/sporttv5.php"
-        ]
-      },
-      {
-        "time": "12:30",
-        "event": "Schalke 04 x Hannover 96",
-        "streams": [
-          "https://www4.sportsnline.click/channels/pt/eleven3.php"
-        ]
-      },
       {
         "time": "13:00",
         "event": "Mallorca x Espanyol",
