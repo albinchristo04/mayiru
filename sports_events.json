@@ -1,309 +1,7 @@
 {
-  "last_updated": "2026-03-15T16:20:36.320062Z",
+  "last_updated": "2026-03-16T01:23:57.002376Z",
   "events": {
     "SUNDAY": [
-      {
-        "time": "13:00",
-        "event": "Mallorca x Espanyol",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd2.php",
-          "https://www4.sportsnline.click/channels/hd/hd6.php",
-          "https://www4.sportsnline.click/channels/pt/eleven2.php"
-        ]
-      },
-      {
-        "time": "13:30",
-        "event": "Feyenoord x Excelsior",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "Manchester United x Aston Villa",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd1.php",
-          "https://www4.sportsnline.click/channels/pt/eleven1.php",
-          "https://www4.sportsnline.click/channels/bra/br5.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "Nottingham Forest x Fulham",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd5.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "Crystal Palace x Leeds United",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd11.php",
-          "https://www4.sportsnline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "Dundee x Dundee United",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "Strasbourg x Paris",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd4.php",
-          "https://www4.sportsnline.click/channels/pt/sporttv4.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "Sassuolo x Bologna",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd7.php",
-          "https://www4.sportsnline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "Pisa x Cagliari",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "14:30",
-        "event": "Werder Bremen x Mainz 05",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd3.php",
-          "https://www4.sportsnline.click/channels/pt/eleven3.php"
-        ]
-      },
-      {
-        "time": "15:15",
-        "event": "Barcelona x Sevilla",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd2.php",
-          "https://www4.sportsnline.click/channels/hd/hd6.php",
-          "https://www4.sportsnline.click/channels/pt/eleven2.php",
-          "https://www4.sportsnline.click/channels/bra/br3.php"
-        ]
-      },
-      {
-        "time": "15:30",
-        "event": "Nacional x Estoril",
-        "streams": [
-          "https://www4.sportsnline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "15:30",
-        "event": "AVS x Santa Clara",
-        "streams": [
-          "https://www4.sportsnline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "16:00",
-        "event": "PAOK x Levadiakos",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "16:15",
-        "event": "Le Havre x Olympique Lyonnais",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd4.php"
-        ]
-      },
-      {
-        "time": "16:30",
-        "event": "Liverpool x Tottenham Hotspur",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd1.php",
-          "https://www4.sportsnline.click/channels/pt/eleven1.php",
-          "https://www4.sportsnline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "16:30",
-        "event": "Freiburg x Union Berlin",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd3.php",
-          "https://www4.sportsnline.click/channels/pt/eleven3.php"
-        ]
-      },
-      {
-        "time": "17:00",
-        "event": "Como x Roma",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd5.php",
-          "https://www4.sportsnline.click/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "17:00",
-        "event": "GenÃ§lerbirliÄi x BeÅiktaÅ",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "17:00",
-        "event": "NBA: Minnesota Timberwolves @ Oklahoma City Thunder",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd2.php"
-        ]
-      },
-      {
-        "time": "17:30",
-        "event": "Real Betis x Celta de Vigo",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd6.php",
-          "https://www4.sportsnline.click/channels/pt/eleven2.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "Rio Ave x Estrela",
-        "streams": [
-          "https://www4.sportsnline.click/channels/pt/sporttv4.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "Feirense x Penafiel",
-        "streams": [
-          "https://www4.sportsnline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "18:30",
-        "event": "Stuttgart x RB Leipzig",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd3.php",
-          "https://www4.sportsnline.click/channels/pt/eleven3.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Panathinaikos x Panaitolikos",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Santos x Corinthians",
-        "streams": [
-          "https://www4.sportsnline.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Fluminense x Athletico-PR",
-        "streams": [
-          "https://www4.sportsnline.click/channels/bra/br5.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Internacional x Bahia",
-        "streams": [
-          "https://www4.sportsnline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "19:45",
-        "event": "Rennes x Lille",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd4.php",
-          "https://www4.sportsnline.click/channels/pt/sporttv5.php"
-        ]
-      },
-      {
-        "time": "19:45",
-        "event": "Lazio x Milan",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd5.php",
-          "https://www4.sportsnline.click/channels/hd/hd7.php",
-          "https://www4.sportsnline.click/channels/pt/sporttv3.php",
-          "https://www4.sportsnline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Real Sociedad x Osasuna",
-        "streams": [
-          "https://www4.sportsnline.click/channels/pt/eleven1.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Sporting GijÃ³n x CD Castellon",
-        "streams": [
-          "https://www4.sportsnline.click/channels/pt/eleven2.php"
-        ]
-      },
-      {
-        "time": "20:30",
-        "event": "Porto x Moreirense",
-        "streams": [
-          "https://www4.sportsnline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "21:00",
-        "event": "ES Tunis x Al Ahly",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "21:00",
-        "event": "Tennis - ATP World Tour 1000: Indian Wells",
-        "streams": [
-          "https://www4.sportsnline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "21:30",
-        "event": "Palmeiras x Mirassol",
-        "streams": [
-          "https://www4.sportsnline.click/channels/bra/br3.php"
-        ]
-      },
-      {
-        "time": "21:30",
-        "event": "Coritiba x Remo",
-        "streams": [
-          "https://www4.sportsnline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "22:00",
-        "event": "Olympic Safi x Wydad Casablanca",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "22:45",
-        "event": "River Plate x Sarmiento",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd9.php",
-          "https://www4.sportsnline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "23:20",
-        "event": "Jaguares de CÃ³rdoba x MedellÃ­n",
-        "streams": [
-          "https://www4.sportsnline.click/channels/hd/hd11.php"
-        ]
-      },
       {
         "time": "23:30",
         "event": "Ãublense x La Serena",
@@ -488,6 +186,202 @@
         "event": "NBA: Los Angeles Lakers @ Houston Rockets",
         "streams": [
           "https://www4.sportsnline.click/channels/hd/hd2.php"
+        ]
+      }
+    ],
+    "TUESDAY": [
+      {
+        "time": "08:00",
+        "event": "Sydney FC x Melbourne City",
+        "streams": [
+          "https://www4.sportsnline.click/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "13:00",
+        "event": "AtlÃ©tico Madrid x Club Brugge",
+        "streams": [
+          "https://www4.sportsnline.click/channels/pt/eleven1.php"
+        ]
+      },
+      {
+        "time": "15:00",
+        "event": "Villarreal U19 x PSG U19",
+        "streams": [
+          "https://www4.sportsnline.click/channels/hd/hd3.php",
+          "https://www4.sportsnline.click/channels/hd/hd4.php",
+          "https://www4.sportsnline.click/channels/hd/hd10.php",
+          "https://www4.sportsnline.click/channels/pt/eleven2.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "FenerbahÃ§e x Gaziantep FK",
+        "streams": [
+          "https://www4.sportsnline.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "17:45",
+        "event": "Sporting CP x BodÃ¸ / Glimt",
+        "streams": [
+          "https://www4.sportsnline.click/channels/hd/hd5.php",
+          "https://www4.sportsnline.click/channels/pt/sporttv5.php",
+          "https://www4.sportsnline.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Arsenal x Bayer Leverkusen",
+        "streams": [
+          "https://www4.sportsnline.click/channels/hd/hd1.php",
+          "https://www4.sportsnline.click/channels/hd/hd3.php",
+          "https://www4.sportsnline.click/channels/pt/eleven3.php",
+          "https://www4.sportsnline.click/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Chelsea x PSG",
+        "streams": [
+          "https://www4.sportsnline.click/channels/hd/hd2.php",
+          "https://www4.sportsnline.click/channels/hd/hd4.php",
+          "https://www4.sportsnline.click/channels/hd/hd8.php",
+          "https://www4.sportsnline.click/channels/hd/hd10.php",
+          "https://www4.sportsnline.click/channels/hd/hd11.php",
+          "https://www4.sportsnline.click/channels/pt/eleven2.php",
+          "https://www4.sportsnline.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Manchester City x Real Madrid",
+        "streams": [
+          "https://www4.sportsnline.click/channels/hd/hd5.php",
+          "https://www4.sportsnline.click/channels/hd/hd6.php",
+          "https://www4.sportsnline.click/channels/hd/hd7.php",
+          "https://www4.sportsnline.click/channels/hd/hd9.php",
+          "https://www4.sportsnline.click/channels/pt/eleven1.php",
+          "https://www4.sportsnline.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Barnsley x Wigan Athletic",
+        "streams": [
+          "https://www4.sportsnline.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "21:00",
+        "event": "Premier Padel: Cancun P2",
+        "streams": [
+          "https://www4.sportsnline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "22:00",
+        "event": "LanÃºs x Newell's Old Boys",
+        "streams": [
+          "https://www4.sportsnline.click/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "22:00",
+        "event": "Nova IguaÃ§u x Fortaleza",
+        "streams": [
+          "https://www4.sportsnline.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "22:30",
+        "event": "SÃ£o Bernardo x CearÃ¡",
+        "streams": [
+          "https://www4.sportsnline.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "NBA: Oklahoma City Thunder @ Orlando Magic",
+        "streams": [
+          "https://www4.sportsnline.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "23:20",
+        "event": "AtlÃ©tico Bucaramanga x Once Caldas",
+        "streams": [
+          "https://www4.sportsnline.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "NBA: Cleveland Cavaliers @ Milwaukee Bucks",
+        "streams": [
+          "https://www4.sportsnline.click/channels/hd/hd2.php"
+        ]
+      },
+      {
+        "time": "00:15",
+        "event": "Gimnasia Mendoza x Estudiantes",
+        "streams": [
+          "https://www4.sportsnline.click/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "00:15",
+        "event": "Central CÃ³rdoba SdE x Deportivo Riestra",
+        "streams": [
+          "https://www4.sportsnline.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "Londrina x OperÃ¡rio PR",
+        "streams": [
+          "https://www4.sportsnline.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "Sport Recife x Athletic Club",
+        "streams": [
+          "https://www4.sportsnline.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "Portuguesa x Paysandu",
+        "streams": [
+          "https://www4.sportsnline.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "01:00",
+        "event": "Alajuelense x Los Angeles FC",
+        "streams": [
+          "https://www4.sportsnline.click/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "01:30",
+        "event": "Millonarios x AtlÃ©tico Nacional",
+        "streams": [
+          "https://www4.sportsnline.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "02:00",
+        "event": "NBA: Philadelphia 76ers @ Denver Nuggets",
+        "streams": [
+          "https://www4.sportsnline.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "03:00",
+        "event": "Cruz Azul x Monterrey",
+        "streams": [
+          "https://www4.sportsnline.click/channels/hd/hd5.php"
         ]
       }
     ]
