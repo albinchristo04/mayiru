@@ -1,126 +1,6 @@
 {
-  "last_updated": "2026-03-25T16:53:54.945803Z",
+  "last_updated": "2026-03-26T01:23:18.450439Z",
   "events": {
-    "WEDNESDAY": [
-      {
-        "time": "11:00",
-        "event": "Kazakhstan x Namibia",
-        "streams": [
-          "https://w2.sportzsonline.click/channels/hd/hd2.php"
-        ]
-      },
-      {
-        "time": "13:55",
-        "event": "Futsal: Italy x Portugal",
-        "streams": [
-          "https://w2.sportzsonline.click/channels/pt/sporttv5.php"
-        ]
-      },
-      {
-        "time": "16:00",
-        "event": "Tennis - ATP World Tour 1000: Miami Open",
-        "streams": [
-          "https://w2.sportzsonline.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "16:00",
-        "event": "Poland U19 x Portugal U19",
-        "streams": [
-          "https://w2.sportzsonline.click/channels/pt/sporttv5.php"
-        ]
-      },
-      {
-        "time": "17:00",
-        "event": "Germany U19 x Sweden U19",
-        "streams": [
-          "https://w2.sportzsonline.click/channels/hd/hd3.php"
-        ]
-      },
-      {
-        "time": "17:45",
-        "event": "Real Madrid W x Barcelona W",
-        "streams": [
-          "https://w2.sportzsonline.click/channels/hd/hd5.php",
-          "https://w2.sportzsonline.click/channels/hd/hd6.php",
-          "https://w2.sportzsonline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Tennis - ATP World Tour 1000: Miami Open",
-        "streams": [
-          "https://w2.sportzsonline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Manchester United W x Bayern W",
-        "streams": [
-          "https://w2.sportzsonline.click/channels/hd/hd5.php",
-          "https://w2.sportzsonline.click/channels/hd/hd6.php",
-          "https://w2.sportzsonline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "21:00",
-        "event": "Basketball: Galitos x Sporting CP",
-        "streams": [
-          "https://w2.sportzsonline.click/channels/pt/eleven1.php"
-        ]
-      },
-      {
-        "time": "22:00",
-        "event": "Deportivo Riestra x San Lorenzo",
-        "streams": [
-          "https://w2.sportzsonline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "23:00",
-        "event": "NBA: Atlanta Hawks @ Detroit Pistons",
-        "streams": [
-          "https://w2.sportzsonline.click/channels/hd/hd2.php",
-          "https://w2.sportzsonline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "23:00",
-        "event": "NBA: Los Angeles Lakers @ Indiana Pacers",
-        "streams": [
-          "https://w2.sportzsonline.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "23:30",
-        "event": "NBA: Oklahoma City Thunder @ Boston Celtics",
-        "streams": [
-          "https://w2.sportzsonline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "23:30",
-        "event": "NHL: Buffalo @ Boston",
-        "streams": [
-          "https://w2.sportzsonline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "NBA: Houston Rockets @ Minnesota Timberwolves",
-        "streams": [
-          "https://w2.sportzsonline.click/channels/hd/hd2.php",
-          "https://w2.sportzsonline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "San Diego Wave W x Portland Thorns W",
-        "streams": [
-          "https://w2.sportzsonline.click/channels/hd/hd5.php"
-        ]
-      }
-    ],
     "THURSDAY": [
       {
         "time": "07:30",
@@ -327,6 +207,230 @@
         "event": "Chile x Cape Verde Islands",
         "streams": [
           "https://w2.sportzsonline.click/channels/hd/hd10.php"
+        ]
+      }
+    ],
+    "FRIDAY": [
+      {
+        "time": "05:45",
+        "event": "Formula 1: Japanese Grand Prix: Practice 2",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd1.php",
+          "https://w2.sportzsonline.click/channels/hd/hd7.php"
+        ]
+      },
+      {
+        "time": "07:30",
+        "event": "DP World Tour: Hero Indian Open - D2",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "10:00",
+        "event": "Venezuela x Trinidad and Tobago",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "13:00",
+        "event": "Jordan x Costa Rica",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "13:00",
+        "event": "Indonesia x St. Kitts and Nevis",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "14:00",
+        "event": "MotoGP: Americas FP1 - Grand Prix of the Americas - Free Practice 1",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd1.php",
+          "https://w2.sportzsonline.click/channels/pt/sporttv3.php",
+          "https://w2.sportzsonline.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "Estonia x Kenya",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "Austria x Ghana",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd3.php",
+          "https://w2.sportzsonline.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "Montenegro x Andorra",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "17:30",
+        "event": "Saudi Arabia x Egypt",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "17:30",
+        "event": "Basketball - Euro League: FenerbahÃ§e x Zalgiris Kaunas",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "CÃ³rdoba x MirandÃ©s",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/pt/eleven1.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "MotoGP: Americas Practice - Grand Prix of the Americas - Practice",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd1.php",
+          "https://w2.sportzsonline.click/channels/pt/sporttv4.php",
+          "https://w2.sportzsonline.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "19:00",
+        "event": "Greece x Paraguay",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd10.php",
+          "https://w2.sportzsonline.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "Algeria x Guatemala",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Switzerland x Germany",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd5.php",
+          "https://w2.sportzsonline.click/channels/hd/hd3.php",
+          "https://w2.sportzsonline.click/channels/pt/sporttv2.php",
+          "https://w2.sportzsonline.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "England x Uruguay",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd2.php",
+          "https://w2.sportzsonline.click/channels/hd/hd9.php",
+          "https://w2.sportzsonline.click/channels/pt/sporttv1.php",
+          "https://w2.sportzsonline.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Netherlands x Norway",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd4.php",
+          "https://w2.sportzsonline.click/channels/pt/sporttv5.php",
+          "https://w2.sportzsonline.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Spain x Serbia",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd6.php",
+          "https://w2.sportzsonline.click/channels/pt/sporttv3.php",
+          "https://w2.sportzsonline.click/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Independiente x Atenas",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/pt/sporttv5.php"
+        ]
+      },
+      {
+        "time": "20:15",
+        "event": "Morocco x Ecuador",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "Tennis - ATP World Tour 1000: Miami",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "23:15",
+        "event": "Argentina x Mauritania",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "23:30",
+        "event": "NBA: Miami Heat @ Cleveland Cavaliers",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd2.php"
+        ]
+      },
+      {
+        "time": "23:30",
+        "event": "NBA: Atlanta Hawks @ Boston Celtics",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "01:10",
+        "event": "AtlÃ©tico Bucaramanga x Santa Fe",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "01:15",
+        "event": "Belgrano x AtlÃ©tico Rafaela",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "02:00",
+        "event": "NBA: Dallas Mavericks @ Portland Trail Blazers",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd2.php"
+        ]
+      },
+      {
+        "time": "02:15",
+        "event": "Formula 1: Japanese Grand Prix: Practice 3",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd1.php",
+          "https://w2.sportzsonline.click/channels/hd/hd7.php",
+          "https://w2.sportzsonline.click/channels/bra/br5.php"
         ]
       }
     ]
