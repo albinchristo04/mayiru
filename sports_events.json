@@ -1,22 +1,7 @@
 {
-  "last_updated": "2026-03-26T08:43:15.884318Z",
+  "last_updated": "2026-03-26T16:52:43.452324Z",
   "events": {
     "THURSDAY": [
-      {
-        "time": "07:30",
-        "event": "DP World Tour: Hero Indian Open - D1",
-        "streams": [
-          "https://w2.sportzsonline.click/channels/hd/hd1.php",
-          "https://w2.sportzsonline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "10:30",
-        "event": "Afghanistan x Myanmar",
-        "streams": [
-          "https://w2.sportzsonline.click/channels/hd/hd10.php"
-        ]
-      },
       {
         "time": "12:00",
         "event": "Vietnam x Bangladesh",
