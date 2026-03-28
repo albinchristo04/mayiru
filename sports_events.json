@@ -1,22 +1,7 @@
 {
-  "last_updated": "2026-03-28T08:28:09.228599Z",
+  "last_updated": "2026-03-28T16:22:15.085146Z",
   "events": {
     "SATURDAY": [
-      {
-        "time": "05:00",
-        "event": "Formula 1: Japanese F1 GP: Qualifying",
-        "streams": [
-          "https://w2.sportzsonline.click/channels/hd/hd1.php",
-          "https://w2.sportzsonline.click/channels/hd/hd7.php"
-        ]
-      },
-      {
-        "time": "07:30",
-        "event": "DP World Tour: Hero Indian Open - D3",
-        "streams": [
-          "https://w2.sportzsonline.click/channels/pt/sporttv2.php"
-        ]
-      },
       {
         "time": "12:30",
         "event": "Harrogate Town x Notts County",
