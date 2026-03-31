@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T08:46:32.669677Z",
+  "last_updated": "2026-03-31T16:48:51.284362Z",
   "events": {
     "TUESDAY": [
       {
@@ -228,6 +228,166 @@
         "streams": [
           "https://w2.sportzsonline.click/channels/hd/hd2.php",
           "https://w2.sportzsonline.click/channels/hd/hd11.php"
+        ]
+      }
+    ],
+    "WEDNESDAY": [
+      {
+        "time": "11:00",
+        "event": "Tennis - ATP World Tour 250: Marrakech",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "17:45",
+        "event": "Bayern W x Manchester United W",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd5.php",
+          "https://w2.sportzsonline.click/channels/hd/hd6.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Chelsea FC W x Arsenal W",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd5.php",
+          "https://w2.sportzsonline.click/channels/hd/hd6.php",
+          "https://w2.sportzsonline.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Tennis - ATP World Tour 250: Houston",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "22:00",
+        "event": "Colo-Colo x Huachipato",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "22:00",
+        "event": "AmÃ©rica Mineiro x Botafogo SP",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "22:10",
+        "event": "Alianza x Deportivo Pasto",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "23:30",
+        "event": "Internacional x SÃ£o Paulo",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "23:30",
+        "event": "Botafogo x Mirassol",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "LanÃºs x Platense",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "Bahia x Athletico-PR",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "Cruzeiro x VitÃ³ria",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "Coritiba x Vasco da Gama",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "Santa Fe x Llaneros",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "NBA: Boston Celtics @ Miami Heat",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd2.php",
+          "https://w2.sportzsonline.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "01:00",
+        "event": "Colorado Springs x Spokane Velocity",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "01:00",
+        "event": "Ponte Preta x CearÃ¡",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "01:30",
+        "event": "Fluminense x Corinthians",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "01:30",
+        "event": "NHl: Colorado @ Vancouver",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "02:00",
+        "event": "Tennis - ATP World Tour 250: Houston",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "02:30",
+        "event": "AtlÃ©tico Nacional x CÃºcuta Deportivo",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "03:00",
+        "event": "NBA: San Antonio Spurs @ Golden State Warriors",
+        "streams": [
+          "https://w2.sportzsonline.click/channels/hd/hd2.php"
         ]
       }
     ]
