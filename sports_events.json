@@ -1,63 +1,7 @@
 {
-  "last_updated": "2026-04-07T16:45:37.974256Z",
+  "last_updated": "2026-04-08T01:25:54.659378Z",
   "events": {
     "TUESDAY": [
-      {
-        "time": "10:00",
-        "event": "Melbourne City x Central Coast Mariners",
-        "streams": [
-          "https://ww1.sportszonline.click/channels/hd/hd2.php"
-        ]
-      },
-      {
-        "time": "10:00",
-        "event": "Tennis - ATP World Tour 1000: Monte Carlo",
-        "streams": [
-          "https://ww1.sportszonline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "12:30",
-        "event": "BandÄ±rmaspor x SarÄ±yer",
-        "streams": [
-          "https://ww1.sportszonline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "13:50",
-        "event": "Thailand x China",
-        "streams": [
-          "https://ww1.sportszonline.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "15:00",
-        "event": "Manisa BBSK x Pendikspor",
-        "streams": [
-          "https://ww1.sportszonline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "Vizela x Benfica B",
-        "streams": [
-          "https://ww1.sportszonline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "Ãorum Belediyespor x Bodrumspor",
-        "streams": [
-          "https://ww1.sportszonline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "19:30",
-        "event": "Basketball - Euroleague: Barcelona x Panathinaikos",
-        "streams": [
-          "https://ww1.sportszonline.click/channels/pt/sporttv3.php"
-        ]
-      },
       {
         "time": "20:00",
         "event": "Sporting CP x Arsenal",
