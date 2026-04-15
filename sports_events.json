@@ -1,63 +1,7 @@
 {
-  "last_updated": "2026-04-14T16:55:34.165351Z",
+  "last_updated": "2026-04-15T01:43:45.282160Z",
   "events": {
     "TUESDAY": [
-      {
-        "time": "10:00",
-        "event": "Tennis - ATP World Tour 500: Barcelona",
-        "streams": [
-          "https://v3.sportssonline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "15:45",
-        "event": "Tractor Sazi x Shabab Al Ahli",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Al Qadsiah x Al Shabab",
-        "streams": [
-          "https://v3.sportssonline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "England W x Spain W",
-        "streams": [
-          "https://v3.sportssonline.click/channels/pt/sporttv4.php",
-          "https://v3.sportssonline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "AtlÃ©tico Madrid x Barcelona",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd1.php",
-          "https://v3.sportssonline.click/channels/hd/hd5.php",
-          "https://v3.sportssonline.click/channels/hd/hd6.php",
-          "https://v3.sportssonline.click/channels/hd/hd7.php",
-          "https://v3.sportssonline.click/channels/hd/hd10.php",
-          "https://v3.sportssonline.click/channels/pt/eleven1.php",
-          "https://v3.sportssonline.click/channels/bra/br3.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Liverpool x PSG",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd2.php",
-          "https://v3.sportssonline.click/channels/hd/hd3.php",
-          "https://v3.sportssonline.click/channels/hd/hd4.php",
-          "https://v3.sportssonline.click/channels/hd/hd9.php",
-          "https://v3.sportssonline.click/channels/hd/hd8.php",
-          "https://v3.sportssonline.click/channels/hd/hd11.php",
-          "https://v3.sportssonline.click/channels/pt/sporttv5.php",
-          "https://v3.sportssonline.click/channels/bra/br4.php"
-        ]
-      },
       {
         "time": "23:00",
         "event": "Cerro PorteÃ±o x Junior",
