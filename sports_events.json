@@ -1,36 +1,7 @@
 {
-  "last_updated": "2026-04-24T16:44:31.434261Z",
+  "last_updated": "2026-04-25T01:26:56.675660Z",
   "events": {
     "FRIDAY": [
-      {
-        "time": "17:30",
-        "event": "Fortuna DÃ¼sseldorf x Dynamo Dresden",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd3.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "Ä°stanbul BaÅakÅehir x KasÄ±mpaÅa",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Al Nassr x Al Ittifaq",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd8.php",
-          "https://v3.sportssonline.click/channels/bra/br3.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Tennis - ATP World Tour 1000: Madrid",
-        "streams": [
-          "https://v3.sportssonline.click/channels/pt/sporttv4.php"
-        ]
-      },
       {
         "time": "19:30",
         "event": "RB Leipzig x Union Berlin",
