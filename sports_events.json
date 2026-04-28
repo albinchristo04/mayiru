@@ -1,21 +1,7 @@
 {
-  "last_updated": "2026-04-28T10:06:13.783056Z",
+  "last_updated": "2026-04-28T17:29:44.634645Z",
   "events": {
     "TUESDAY": [
-      {
-        "time": "10:00",
-        "event": "Tennis - ATP World Tour 1000: Madrid",
-        "streams": [
-          "https://v3.sportssonline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "15:00",
-        "event": "Petrojet x Ismaily",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd8.php"
-        ]
-      },
       {
         "time": "18:00",
         "event": "Al Mokawloon x Ghazl El Mehalla",
