@@ -1,43 +1,6 @@
 {
-  "last_updated": "2026-05-04T01:58:02.975948Z",
+  "last_updated": "2026-05-04T10:05:32.189888Z",
   "events": {
-    "SUNDAY": [
-      {
-        "time": "00:00",
-        "event": "AmÃ©rica x Pumas UNAM",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "Mirassol x Corinthians",
-        "streams": [
-          "https://v3.sportssonline.click/channels/bra/br5.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "NBA: Toronto Raptors @ Cleveland Cavaliers",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd2.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "Deportes ConcepciÃ³n x Everton",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "02:15",
-        "event": "Toluca x Pachuca",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd9.php"
-        ]
-      }
-    ],
     "MONDAY": [
       {
         "time": "15:00",
