@@ -1,112 +1,7 @@
 {
-  "last_updated": "2026-05-07T17:41:23.533060Z",
+  "last_updated": "2026-05-08T02:06:24.949001Z",
   "events": {
     "THURSDAY": [
-      {
-        "time": "14:30",
-        "event": "Cycling: Vuelta a Espana - Stage 5",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "15:00",
-        "event": "ARWRC: Portugal Rally - Special 1",
-        "streams": [
-          "https://v3.sportssonline.click/channels/pt/sporttv4.php"
-        ]
-      },
-      {
-        "time": "16:05",
-        "event": "ARWRC: Portugal Rally - Special 2",
-        "streams": [
-          "https://v3.sportssonline.click/channels/pt/sporttv4.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "ARWRC: Portugal Rally - Special 3",
-        "streams": [
-          "https://v3.sportssonline.click/channels/pt/sporttv4.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Al Shabab x Al Nassr",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd10.php",
-          "https://v3.sportssonline.click/channels/pt/sporttv1.php",
-          "https://v3.sportssonline.click/channels/bra/br5.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Aston Villa x Nottingham Forest",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd1.php",
-          "https://v3.sportssonline.click/channels/hd/hd7.php",
-          "https://v3.sportssonline.click/channels/hd/hd9.php",
-          "https://v3.sportssonline.click/channels/pt/eleven1.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Freiburg x Sporting Braga",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd5.php",
-          "https://v3.sportssonline.click/channels/hd/hd3.php",
-          "https://v3.sportssonline.click/channels/pt/sporttv5.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Crystal Palace x Shakhtar Donetsk",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd2.php",
-          "https://v3.sportssonline.click/channels/pt/eleven2.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Strasbourg x Rayo Vallecano",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd11.php",
-          "https://v3.sportssonline.click/channels/hd/hd6.php",
-          "https://v3.sportssonline.click/channels/hd/hd4.php",
-          "https://v3.sportssonline.click/channels/pt/eleven3.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Basketball - Champions League: Unicaja x AEL BC",
-        "streams": [
-          "https://v3.sportssonline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "23:00",
-        "event": "Mirassol x LDU Quito",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd9.php",
-          "https://v3.sportssonline.click/channels/hd/hd11.php",
-          "https://v3.sportssonline.click/channels/bra/br4.php"
-        ]
-      },
-      {
-        "time": "23:00",
-        "event": "O'Higgins x SÃ£o Paulo",
-        "streams": [
-          "https://v3.sportssonline.click/channels/pt/sporttv1.php",
-          "https://v3.sportssonline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "00:00",
-        "event": "MLB: Rays @ Red Sox",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd1.php"
-        ]
-      },
       {
         "time": "01:00",
         "event": "NHL: Philadelphia Flyers @ Carolina Hurricanes",
@@ -338,6 +233,510 @@
         "event": "Boxing: Gabriel Valenzuela v Rogelio Jimenez",
         "streams": [
           "https://v3.sportssonline.click/channels/bra/br6.php"
+        ]
+      }
+    ],
+    "SATURDAY": [
+      {
+        "time": "07:00",
+        "event": "WRC: Vodafone Rally Portugal - Special 11",
+        "streams": [
+          "https://v3.sportssonline.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "07:30",
+        "event": "Moto2/3: France FP2",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd2.php",
+          "https://v3.sportssonline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "08:00",
+        "event": "WRC: Vodafone Rally Portugal - Special 12",
+        "streams": [
+          "https://v3.sportssonline.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "09:00",
+        "event": "WRC: Vodafone Rally Portugal - Special 12 & 13",
+        "streams": [
+          "https://v3.sportssonline.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "09:00",
+        "event": "MotoGP: France Qualifying",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd2.php",
+          "https://v3.sportssonline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "10:00",
+        "event": "Tennis - ATP World Tour 1000: Rome",
+        "streams": [
+          "https://v3.sportssonline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "11:00",
+        "event": "WRC: Vodafone Rally Portugal - Special 14",
+        "streams": [
+          "https://v3.sportssonline.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "11:45",
+        "event": "Moto2/3: France Qualifying",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd2.php",
+          "https://v3.sportssonline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "12:00",
+        "event": "Holstein Kiel x Magdeburg",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "12:00",
+        "event": "Bochum x Hannover 96",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd9.php",
+          "https://v3.sportssonline.click/channels/pt/eleven3.php"
+        ]
+      },
+      {
+        "time": "12:30",
+        "event": "Liverpool x Chelsea",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd1.php",
+          "https://v3.sportssonline.click/channels/hd/hd8.php",
+          "https://v3.sportssonline.click/channels/pt/eleven1.php",
+          "https://v3.sportssonline.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "12:30",
+        "event": "Middlesbrough x Southampton",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd5.php",
+          "https://v3.sportssonline.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "13:00",
+        "event": "Elche x Deportivo AlavÃ©s",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd6.php",
+          "https://v3.sportssonline.click/channels/pt/eleven2.php"
+        ]
+      },
+      {
+        "time": "13:45",
+        "event": "MotoGP: France Sprint",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd2.php",
+          "https://v3.sportssonline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "14:00",
+        "event": "Cagliari x Udinese",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd7.php",
+          "https://v3.sportssonline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "14:00",
+        "event": "WRC: Vodafone Rally Portugal - Special 15",
+        "streams": [
+          "https://v3.sportssonline.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "14:30",
+        "event": "Stuttgart x Bayer Leverkusen",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd3.php"
+        ]
+      },
+      {
+        "time": "14:30",
+        "event": "Augsburg x Borussia M'gladbach",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "14:30",
+        "event": "RB Leipzig x St. Pauli",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd4.php"
+        ]
+      },
+      {
+        "time": "14:30",
+        "event": "Hoffenheim x Werder Bremen",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "15:00",
+        "event": "Sunderland x Manchester United",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd1.php",
+          "https://v3.sportssonline.click/channels/hd/hd8.php",
+          "https://v3.sportssonline.click/channels/pt/eleven1.php",
+          "https://v3.sportssonline.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "15:00",
+        "event": "Brighton & Hove Albion x Wolverhampton Wanderers",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd2.php"
+        ]
+      },
+      {
+        "time": "15:00",
+        "event": "Fulham x AFC Bournemouth",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd11.php",
+          "https://v3.sportssonline.click/channels/pt/eleven3.php"
+        ]
+      },
+      {
+        "time": "15:00",
+        "event": "Fulham x AFC Bournemout",
+        "streams": [
+          "https://v3.sportssonline.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "15:00",
+        "event": "Stevenage x Stockport County",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "15:00",
+        "event": "WRC: Vodafone Rally Portugal - Special 16",
+        "streams": [
+          "https://v3.sportssonline.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "15:15",
+        "event": "Sevilla x Espanyol",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd6.php",
+          "https://v3.sportssonline.click/channels/pt/eleven2.php"
+        ]
+      },
+      {
+        "time": "15:30",
+        "event": "Penafiel x MarÃ­timo",
+        "streams": [
+          "https://v3.sportssonline.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "15:30",
+        "event": "Felgueiras 1932 x Portimonense",
+        "streams": [
+          "https://v3.sportssonline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "WRC: Vodafone Rally Portugal - Special 16 & 17",
+        "streams": [
+          "https://v3.sportssonline.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "Lazio x Internazionale",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd7.php",
+          "https://v3.sportssonline.click/channels/pt/sporttv2.php",
+          "https://v3.sportssonline.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "17:15",
+        "event": "Gallagher Premiership Rugby: Bristol Bears v Saracens",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd2.php"
+        ]
+      },
+      {
+        "time": "17:30",
+        "event": "Manchester City x Brentford",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd1.php",
+          "https://v3.sportssonline.click/channels/hd/hd8.php",
+          "https://v3.sportssonline.click/channels/pt/eleven1.php",
+          "https://v3.sportssonline.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "17:30",
+        "event": "Wolfsburg x Bayern MÃ¼nchen",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd5.php",
+          "https://v3.sportssonline.click/channels/hd/hd3.php",
+          "https://v3.sportssonline.click/channels/pt/eleven3.php"
+        ]
+      },
+      {
+        "time": "17:30",
+        "event": "AtlÃ©tico Madrid x Celta de Vigo",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd6.php",
+          "https://v3.sportssonline.click/channels/pt/eleven2.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "Galatasaray x Antalyaspor",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd11.php",
+          "https://v3.sportssonline.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "BeÅiktaÅ x Trabzonspor",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "Toronto FC x Inter Miami",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "WRC: Vodafone Rally Portugal - Special 18",
+        "streams": [
+          "https://v3.sportssonline.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "Sail: Apex Group Bermuda Sail GP - D1",
+        "streams": [
+          "https://v3.sportssonline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "19:00",
+        "event": "WRC: Vodafone Rally Portugal - Special 19",
+        "streams": [
+          "https://v3.sportssonline.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "NÃ¼rnberg x Schalke 04",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd3.php",
+          "https://v3.sportssonline.click/channels/pt/eleven2.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Lecce x Juventus",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd5.php",
+          "https://v3.sportssonline.click/channels/hd/hd7.php",
+          "https://v3.sportssonline.click/channels/pt/sporttv2.php",
+          "https://v3.sportssonline.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Real Sociedad x Real Betis",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd6.php",
+          "https://v3.sportssonline.click/channels/pt/eleven1.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Motherwell x Hearts",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd1.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "USM Alger x Zamalek",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Coritiba x Internacional",
+        "streams": [
+          "https://v3.sportssonline.click/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "20:30",
+        "event": "Lusitania FC Lourosa x Torreense",
+        "streams": [
+          "https://v3.sportssonline.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "20:30",
+        "event": "Vizela x UniÃ£o de Leiria",
+        "streams": [
+          "https://v3.sportssonline.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "21:00",
+        "event": "MLB: Rays @ Red Sox",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd2.php"
+        ]
+      },
+      {
+        "time": "21:30",
+        "event": "Indycar Series: IMS Road Course",
+        "streams": [
+          "https://v3.sportssonline.click/channels/pt/sporttv5.php"
+        ]
+      },
+      {
+        "time": "22:00",
+        "event": "Inter BogotÃ¡ x AtlÃ©tico Nacional",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "22:00",
+        "event": "Padel: Premier Padel: Asuncion P2 2026",
+        "streams": [
+          "https://v3.sportssonline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "22:00",
+        "event": "Fluminense x VitÃ³ria",
+        "streams": [
+          "https://v3.sportssonline.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "CearÃ¡ x AtlÃ©tico Goianiense",
+        "streams": [
+          "https://v3.sportssonline.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "Boca Juniors x HuracÃ¡n",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd11.php",
+          "https://v3.sportssonline.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "UFC 328: Prelims",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd2.php",
+          "https://v3.sportssonline.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "00:10",
+        "event": "Deportes Tolima x Deportivo Pasto",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "01:00",
+        "event": "Bahia x Cruzeiro",
+        "streams": [
+          "https://v3.sportssonline.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "01:30",
+        "event": "Argentinos Juniors x LanÃºs",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "01:30",
+        "event": "NBA: Oklahoma City Thunder @ Los Angeles Lakers",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd1.php"
+        ]
+      },
+      {
+        "time": "02:07",
+        "event": "Guadalajara x Tigres UANL",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "02:00",
+        "event": "UFC 328: Khamzat Chimaev vs Sean Strickland",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd2.php",
+          "https://v3.sportssonline.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "02:15",
+        "event": "Nashville SC x DC United",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "02:20",
+        "event": "AmÃ©rica de Cali x Santa Fe",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "03:30",
+        "event": "SJ Earthquakes x Vancouver Whitecaps",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "04:15",
+        "event": "Cruz Azul x Atlas",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd1.php"
         ]
       }
     ]
