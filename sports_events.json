@@ -1,55 +1,6 @@
 {
-  "last_updated": "2026-05-08T02:06:24.949001Z",
+  "last_updated": "2026-05-08T09:05:38.947178Z",
   "events": {
-    "THURSDAY": [
-      {
-        "time": "01:00",
-        "event": "NHL: Philadelphia Flyers @ Carolina Hurricanes",
-        "streams": [
-          "https://v3.sportssonline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "Carabobo x River Plate",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd9.php",
-          "https://v3.sportssonline.click/channels/hd/hd11.php",
-          "https://v3.sportssonline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "MedellÃ­n x Flamengo",
-        "streams": [
-          "https://v3.sportssonline.click/channels/pt/sporttv1.php",
-          "https://v3.sportssonline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "Blooming x RB Bragantino",
-        "streams": [
-          "https://v3.sportssonline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "02:30",
-        "event": "NBA: Los Angeles Lakers @ Oklahoma City Thunder",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd2.php"
-        ]
-      },
-      {
-        "time": "03:00",
-        "event": "Junior x Cerro PorteÃ±o",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd9.php",
-          "https://v3.sportssonline.click/channels/hd/hd11.php",
-          "https://v3.sportssonline.click/channels/bra/br3.php"
-        ]
-      }
-    ],
     "FRIDAY": [
       {
         "time": "08:00",
