@@ -1,51 +1,6 @@
 {
-  "last_updated": "2026-05-10T01:59:43.253074Z",
+  "last_updated": "2026-05-10T09:22:10.446806Z",
   "events": {
-    "SATURDAY": [
-      {
-        "time": "02:07",
-        "event": "Guadalajara x Tigres UANL",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "UFC 328: Khamzat Chimaev vs Sean Strickland",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd2.php",
-          "https://v3.sportssonline.click/channels/bra/br4.php"
-        ]
-      },
-      {
-        "time": "02:15",
-        "event": "Nashville SC x DC United",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd5.php"
-        ]
-      },
-      {
-        "time": "02:20",
-        "event": "AmÃ©rica de Cali x Santa Fe",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "03:30",
-        "event": "SJ Earthquakes x Vancouver Whitecaps",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "04:15",
-        "event": "Cruz Azul x Atlas",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd1.php"
-        ]
-      }
-    ],
     "SUNDAY": [
       {
         "time": "08:00",
