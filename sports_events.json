@@ -1,135 +1,7 @@
 {
-  "last_updated": "2026-05-11T17:48:52.872004Z",
+  "last_updated": "2026-05-12T02:05:23.707490Z",
   "events": {
     "MONDAY": [
-      {
-        "time": "10:00",
-        "event": "ATP World Tour 1000: Rome",
-        "streams": [
-          "https://v3.sportssonline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "11:00",
-        "event": "Akron x Rostov",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "13:15",
-        "event": "Olimpiyets x CSKA Moskva",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "15:30",
-        "event": "Spartak Moskva x Rubin Kazan'",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "Dinamo Moskva x Krasnodar",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Al Taawon x Al-Ahli",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd5.php"
-        ]
-      },
-      {
-        "time": "19:30",
-        "event": "Huesca x Real Sociedad B",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd11.php",
-          "https://v3.sportssonline.click/channels/pt/eleven3.php"
-        ]
-      },
-      {
-        "time": "19:45",
-        "event": "Napoli x Bologna",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd7.php",
-          "https://v3.sportssonline.click/channels/pt/sporttv5.php",
-          "https://v3.sportssonline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Tottenham Hotspur x Leeds United",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd1.php",
-          "https://v3.sportssonline.click/channels/pt/eleven1.php",
-          "https://v3.sportssonline.click/channels/bra/br3.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Rayo Vallecano x Girona",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd2.php",
-          "https://v3.sportssonline.click/channels/hd/hd6.php",
-          "https://v3.sportssonline.click/channels/pt/eleven2.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Millwall x Hull City",
-        "streams": [
-          "https://v3.sportssonline.click/channels/hd/hd10.php",
-          "https://v3.sportssonline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "20:15",
-        "event": "Benfica x Sporting Braga",
-        "streams": [
-          "https://v3.sportssonline.click/channels/pt/btv.php",
-          "https://v3.sportssonline.click/channels/bra/br4.php"
-        ]
-      },
-      {
-        "time": "20:15",
-        "event": "Rio Ave x Sporting CP",
-        "streams": [
-          "https://v3.sportssonline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "20:15",
-        "event": "Estrela x FamalicÃ£o",
-        "streams": [
-          "https://v3.sportssonline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "20:15",
-        "event": "VitÃ³ria GuimarÃ£es x Casa Pia",
-        "streams": [
-          "https://v3.sportssonline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "20:15",
-        "event": "Tondela x Moreirense",
-        "streams": [
-          "https://v3.sportssonline.click/channels/pt/sporttv4.php"
-        ]
-      },
-      {
-        "time": "23:00",
-        "event": "Flamengo W x FerroviÃ¡ria W",
-        "streams": [
-          "https://v3.sportssonline.click/channels/bra/br1.php"
-        ]
-      },
       {
         "time": "01:00",
         "event": "Corinthians W x SÃ£o Paulo W",
@@ -246,6 +118,229 @@
         "event": "Fluminense x OperÃ¡rio PR",
         "streams": [
           "https://v3.sportssonline.click/channels/bra/br4.php"
+        ]
+      }
+    ],
+    "WEDNESDAY": [
+      {
+        "time": "14:00",
+        "event": "ATP World Tour 1000: Rome",
+        "streams": [
+          "https://v3.sportssonline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "Espanyol x Athletic Club",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd11.php",
+          "https://v3.sportssonline.click/channels/pt/eleven2.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "Villarreal x Sevilla",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd6.php",
+          "https://v3.sportssonline.click/channels/pt/eleven3.php",
+          "https://v3.sportssonline.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "Brest x Strasbourg",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd5.php",
+          "https://v3.sportssonline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "18:30",
+        "event": "GenÃ§lerbirliÄi x Trabzonspor",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd3.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "ATP World Tour 1000: Rome",
+        "streams": [
+          "https://v3.sportssonline.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Manchester City x Crystal Palace",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd1.php",
+          "https://v3.sportssonline.click/channels/pt/eleven1.php",
+          "https://v3.sportssonline.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Lazio x Internazionale",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd9.php",
+          "https://v3.sportssonline.click/channels/hd/hd7.php",
+          "https://v3.sportssonline.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Motherwell x Celtic",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Hearts x Falkirk",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd11.php",
+          "https://v3.sportssonline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Lens x PSG",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd5.php",
+          "https://v3.sportssonline.click/channels/hd/hd4.php",
+          "https://v3.sportssonline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Basketball - Euro League: Valencia x Panathinaikos",
+        "streams": [
+          "https://v3.sportssonline.click/channels/pt/sporttv5.php"
+        ]
+      },
+      {
+        "time": "20:30",
+        "event": "Deportivo AlavÃ©s x Barcelona",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd2.php",
+          "https://v3.sportssonline.click/channels/hd/hd6.php",
+          "https://v3.sportssonline.click/channels/pt/eleven2.php",
+          "https://v3.sportssonline.click/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "20:30",
+        "event": "Getafe x Mallorca",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd10.php",
+          "https://v3.sportssonline.click/channels/pt/eleven3.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "Belgrano x UniÃ³n Santa Fe",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "Rosario Central x Racing Club",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd8.php",
+          "https://v3.sportssonline.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "Juventude x SÃ£o Paulo",
+        "streams": [
+          "https://v3.sportssonline.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "Vasco da Gama x Paysandu",
+        "streams": [
+          "https://v3.sportssonline.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "23:30",
+        "event": "Coritiba x Santos",
+        "streams": [
+          "https://v3.sportssonline.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "00:15",
+        "event": "Charlotte x New York City",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "Cincinnati x Inter Miami",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "CF MontrÃ©al x Portland Timbers",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "Mirassol x RB Bragantino",
+        "streams": [
+          "https://v3.sportssonline.click/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "01:30",
+        "event": "River Plate x Gimnasia La Plata",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd9.php",
+          "https://v3.sportssonline.click/channels/pt/sporttv1.php",
+          "https://v3.sportssonline.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "01:30",
+        "event": "Remo x Bahia",
+        "streams": [
+          "https://v3.sportssonline.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "01:30",
+        "event": "CearÃ¡ x AtlÃ©tico Mineiro",
+        "streams": [
+          "https://v3.sportssonline.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "01:30",
+        "event": "Jacuipense x Palmeiras",
+        "streams": [
+          "https://v3.sportssonline.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "02:30",
+        "event": "San Diego x Austin",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "03:00",
+        "event": "Cruz Azul x Guadalajara",
+        "streams": [
+          "https://v3.sportssonline.click/channels/hd/hd6.php"
         ]
       }
     ]
