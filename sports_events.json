@@ -1,32 +1,7 @@
 {
-  "last_updated": "2026-05-15T10:12:19.108413Z",
+  "last_updated": "2026-05-15T17:21:19.823227Z",
   "events": {
     "FRIDAY": [
-      {
-        "time": "08:00",
-        "event": "MotoGP: Catalunya FP1",
-        "streams": [
-          "https://v4.sportssonline.click/channels/hd/hd2.php",
-          "https://v4.sportssonline.click/channels/pt/sporttv4.php",
-          "https://v4.sportssonline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "10:35",
-        "event": "Adelaide United x Auckland",
-        "streams": [
-          "https://v4.sportssonline.click/channels/hd/hd5.php"
-        ]
-      },
-      {
-        "time": "12:15",
-        "event": "MotoGP: Catalunya Practice",
-        "streams": [
-          "https://v4.sportssonline.click/channels/hd/hd2.php",
-          "https://v4.sportssonline.click/channels/pt/sporttv4.php",
-          "https://v4.sportssonline.click/channels/bra/br6.php"
-        ]
-      },
       {
         "time": "14:30",
         "event": "ATP World Tour 1000: Rome",
