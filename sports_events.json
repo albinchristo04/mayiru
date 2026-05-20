@@ -1,28 +1,7 @@
 {
-  "last_updated": "2026-05-20T10:41:30.297381Z",
+  "last_updated": "2026-05-20T18:09:06.324056Z",
   "events": {
     "WEDNESDAY": [
-      {
-        "time": "11:00",
-        "event": "Tennis - ATP World Tour 500: Hamburg",
-        "streams": [
-          "https://v4.sportssonline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "16:30",
-        "event": "Beach Soccer: Portugal x Czech Republic",
-        "streams": [
-          "https://v4.sportssonline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "Torreense x Casa Pia",
-        "streams": [
-          "https://v4.sportssonline.click/channels/pt/sporttv1.php"
-        ]
-      },
       {
         "time": "19:00",
         "event": "Al Nassr x Damac",
