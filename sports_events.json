@@ -1,54 +1,7 @@
 {
-  "last_updated": "2026-05-19T17:57:02.616525Z",
+  "last_updated": "2026-05-20T02:27:31.637979Z",
   "events": {
     "TUESDAY": [
-      {
-        "time": "11:00",
-        "event": "Tennis - ATP World Tour 500: Hamburg",
-        "streams": [
-          "https://v4.sportssonline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Monza x Juve Stabia",
-        "streams": [
-          "https://v4.sportssonline.click/channels/hd/hd7.php"
-        ]
-      },
-      {
-        "time": "19:30",
-        "event": "AFC Bournemouth x Manchester City",
-        "streams": [
-          "https://v4.sportssonline.click/channels/hd/hd1.php",
-          "https://v4.sportssonline.click/channels/hd/hd2.php",
-          "https://v4.sportssonline.click/channels/pt/eleven1.php",
-          "https://v4.sportssonline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "19:30",
-        "event": "Rouen x Laval",
-        "streams": [
-          "https://v4.sportssonline.click/channels/hd/hd4.php"
-        ]
-      },
-      {
-        "time": "20:15",
-        "event": "Chelsea x Tottenham Hotspur",
-        "streams": [
-          "https://v4.sportssonline.click/channels/hd/hd5.php",
-          "https://v4.sportssonline.click/channels/hd/hd11.php",
-          "https://v4.sportssonline.click/channels/pt/eleven2.php"
-        ]
-      },
-      {
-        "time": "22:00",
-        "event": "Corinthians U20 x Palmeiras U20",
-        "streams": [
-          "https://v4.sportssonline.click/channels/bra/br1.php"
-        ]
-      },
       {
         "time": "23:00",
         "event": "Rosario Central x UCV",
