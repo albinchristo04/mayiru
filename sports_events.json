@@ -1,45 +1,6 @@
 {
-  "last_updated": "2026-05-26T02:13:30.954644Z",
+  "last_updated": "2026-05-26T18:16:37.545575Z",
   "events": {
-    "MONDAY": [
-      {
-        "time": "23:00",
-        "event": "Botafogo-SP x Athletic",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "00:00",
-        "event": "Coritiba x Bahia",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "CopiapÃ³ x UniÃ³n EspaÃ±ola",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "NBA: New York Knicks @ Cleveland Cavaliers",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd2.php",
-          "https://ww2.sporttsonline.click/channels/pt/sporttv1.php",
-          "https://ww2.sporttsonline.click/channels/bra/br4.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "NHL: Montreal Canadiens @ Carolina Hurricanes",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/pt/sporttv2.php"
-        ]
-      }
-    ],
     "TUESDAY": [
       {
         "time": "09:30",
