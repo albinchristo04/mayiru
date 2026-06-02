@@ -1,33 +1,6 @@
 {
-  "last_updated": "2026-06-01T20:10:01.099871Z",
+  "last_updated": "2026-06-02T02:41:44.105638Z",
   "events": {
-    "MONDAY": [
-      {
-        "time": "23:00",
-        "event": "Ponte Preta x Botafogo-SP",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "00:00",
-        "event": "Colombia x Costa Rica",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd2.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd6.php",
-          "https://ww2.sporttsonline.click/channels/pt/sporttv1.php",
-          "https://ww2.sporttsonline.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "Canada x Uzbekistan",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd1.php",
-          "https://ww2.sporttsonline.click/channels/pt/sporttv2.php"
-        ]
-      }
-    ],
     "TUESDAY": [
       {
         "time": "14:00",
