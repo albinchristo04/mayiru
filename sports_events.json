@@ -1,60 +1,7 @@
 {
-  "last_updated": "2026-06-04T18:08:12.883282Z",
+  "last_updated": "2026-06-05T02:31:52.691571Z",
   "events": {
     "THURSDAY": [
-      {
-        "time": "12:00",
-        "event": "Golf: DP World Tour - KLM Open D1",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "13:00",
-        "event": "Slovenia x Cyprus",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "15:00",
-        "event": "Hockey: Benfica x OC Barcelos",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/pt/eleven1.php"
-        ]
-      },
-      {
-        "time": "17:00",
-        "event": "Northern Ireland x Guinea",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd2.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "Andorra x Liechtenstein",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd10.php",
-          "https://ww2.sporttsonline.click/channels/bra/br3.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "Sweden x Greece",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd3.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd9.php",
-          "https://ww2.sporttsonline.click/channels/pt/sporttv1.php",
-          "https://ww2.sporttsonline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Italy U17 x Spain U17",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd11.php"
-        ]
-      },
       {
         "time": "20:00",
         "event": "Spain x Iraq",
