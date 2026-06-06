@@ -1,41 +1,7 @@
 {
-  "last_updated": "2026-06-06T09:54:00.983037Z",
+  "last_updated": "2026-06-06T16:59:20.772334Z",
   "events": {
-    "FRIDAY": [
-      {
-        "time": "01:00",
-        "event": "Haiti x Peru",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd6.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "NBA: New York Knicks @ San Antonio Spurs",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd2.php"
-        ]
-      }
-    ],
     "SATURDAY": [
-      {
-        "time": "07:30",
-        "event": "Moto2/3: Hungary FP2",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd2.php",
-          "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
-          "https://ww2.sporttsonline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "09:00",
-        "event": "MotoGP: Hungary Qualifying",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd2.php",
-          "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
-          "https://ww2.sporttsonline.click/channels/bra/br6.php"
-        ]
-      },
       {
         "time": "11:15",
         "event": "Formula 1: Monaco Grand Prix: Practice 3",
