@@ -1,59 +1,6 @@
 {
-  "last_updated": "2026-06-07T02:37:26.879736Z",
+  "last_updated": "2026-06-07T10:21:35.686070Z",
   "events": {
-    "SATURDAY": [
-      {
-        "time": "23:00",
-        "event": "Brazil x Egypt",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd5.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd6.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd8.php",
-          "https://ww2.sporttsonline.click/channels/pt/sporttv1.php",
-          "https://ww2.sporttsonline.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "23:00",
-        "event": "Venezuela x Turkey",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd9.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd11.php",
-          "https://ww2.sporttsonline.click/channels/pt/sporttv2.php",
-          "https://ww2.sporttsonline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "23:00",
-        "event": "UFC Fight Night: Prelims",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd2.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "Argentina x Honduras",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd10.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd6.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "UFC Fight Night: Belal Muhammad vs Gabriel Bonfim",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd2.php",
-          "https://ww2.sporttsonline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "NHL: Vegas Golden Knights x Carolina Hurricanes",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/pt/sporttv2.php"
-        ]
-      }
-    ],
     "SUNDAY": [
       {
         "time": "09:00",
