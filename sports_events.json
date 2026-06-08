@@ -1,44 +1,7 @@
 {
-  "last_updated": "2026-06-08T12:21:15.231857Z",
+  "last_updated": "2026-06-08T18:18:38.313660Z",
   "events": {
     "MONDAY": [
-      {
-        "time": "10:00",
-        "event": "Tennis: ATP World Tour 250 - 's-Hertogenbosch",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "10:00",
-        "event": "Tennis: ATP World Tour 250 - Stuttgart",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "CÃ´te d'Ivoire U20 x Canada U20",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd9.php",
-          "https://ww2.sporttsonline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "17:15",
-        "event": "Italy U21 x Albania U21",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "17:30",
-        "event": "Venezuela U20 x Portugal U20",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd9.php",
-          "https://ww2.sporttsonline.click/channels/pt/sporttv1.php"
-        ]
-      },
       {
         "time": "19:45",
         "event": "Netherlands x Uzbekistan",
