@@ -1,27 +1,6 @@
 {
-  "last_updated": "2026-06-12T09:20:18.041308Z",
+  "last_updated": "2026-06-12T16:56:21.969112Z",
   "events": {
-    "THURSDAY": [
-      {
-        "time": "03:00",
-        "event": "Korea Republic x Czech Republic",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd1.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd2.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd5.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd3.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd4.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd6.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd7.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd8.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd9.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd10.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd11.php",
-          "https://ww2.sporttsonline.click/channels/pt/sporttv5.php",
-          "https://ww2.sporttsonline.click/channels/bra/br3.php"
-        ]
-      }
-    ],
     "FRIDAY": [
       {
         "time": "09:20",
