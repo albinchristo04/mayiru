@@ -1,28 +1,7 @@
 {
-  "last_updated": "2026-06-15T10:03:46.019453Z",
+  "last_updated": "2026-06-15T17:37:20.066717Z",
   "events": {
     "MONDAY": [
-      {
-        "time": "10:30",
-        "event": "Tennis - ATP World Tour 500: Halle 2026",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "11:30",
-        "event": "Tennis - ATP World Tour 500: London 2026",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "13:30",
-        "event": "Surf: WSL - El Salvador Pro",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/pt/sporttv4.php"
-        ]
-      },
       {
         "time": "17:00",
         "event": "Spain x Cape Verde Islands",
