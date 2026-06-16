@@ -1,47 +1,6 @@
 {
-  "last_updated": "2026-06-16T09:44:40.993319Z",
+  "last_updated": "2026-06-16T17:40:04.306091Z",
   "events": {
-    "MONDAY": [
-      {
-        "time": "23:00",
-        "event": "Saudi Arabia x Uruguay",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd1.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd2.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd5.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd3.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd4.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd6.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd7.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd8.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd9.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd10.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd11.php",
-          "https://ww2.sporttsonline.click/channels/pt/sporttv5.php",
-          "https://ww2.sporttsonline.click/channels/bra/br4.php",
-          "https://ww2.sporttsonline.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "Iran x New Zealand",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd1.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd2.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd5.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd3.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd4.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd6.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd7.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd8.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd9.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd11.php",
-          "https://ww2.sporttsonline.click/channels/pt/sporttv5.php",
-          "https://ww2.sporttsonline.click/channels/bra/br2.php",
-          "https://ww2.sporttsonline.click/channels/bra/br3.php"
-        ]
-      }
-    ],
     "TUESDAY": [
       {
         "time": "10:30",
