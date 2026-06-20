@@ -1,88 +1,7 @@
 {
-  "last_updated": "2026-06-20T09:00:50.704235Z",
+  "last_updated": "2026-06-20T16:28:44.674016Z",
   "events": {
-    "FRIDAY": [
-      {
-        "time": "04:00",
-        "event": "Turkey x Paraguay",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd1.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd2.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd5.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd3.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd4.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd6.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd7.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd8.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd9.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd10.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd11.php",
-          "https://ww2.sporttsonline.click/channels/pt/sporttv5.php",
-          "https://ww2.sporttsonline.click/channels/bra/br4.php",
-          "https://ww2.sporttsonline.click/channels/bra/br1.php",
-          "https://ww2.sporttsonline.click/channels/bra/br2.php",
-          "https://ww2.sporttsonline.click/channels/bra/br2.php"
-        ]
-      }
-    ],
     "SATURDAY": [
-      {
-        "time": "07:30",
-        "event": "Moto2/3: Czechia FP2",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd5.php",
-          "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
-          "https://ww2.sporttsonline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "09:00",
-        "event": "MotoGP: Czechia Qualifying",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd5.php",
-          "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
-          "https://ww2.sporttsonline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "10:00",
-        "event": "Judo: Ulaanbaatar - D2",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "10:30",
-        "event": "Tennis - ATP World Tour 500: Halle 2026",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "11:45",
-        "event": "Moto2/3: Czechia Qualifying",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd5.php",
-          "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
-          "https://ww2.sporttsonline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "13:00",
-        "event": "Tennis - ATP World Tour 500: London 2026",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "13:45",
-        "event": "MotoGP: Czechia Sprint Race",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd5.php",
-          "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
-          "https://ww2.sporttsonline.click/channels/bra/br6.php"
-        ]
-      },
       {
         "time": "18:00",
         "event": "Netherlands x Sweden",
@@ -337,6 +256,114 @@
           "https://ww2.sporttsonline.click/channels/bra/br1.php",
           "https://ww2.sporttsonline.click/channels/bra/br4.php",
           "https://ww2.sporttsonline.click/channels/bra/br2.php"
+        ]
+      }
+    ],
+    "MONDAY": [
+      {
+        "time": "11:00",
+        "event": "Tennis: ATP World Tour 250 - Eastbourne",
+        "streams": [
+          "https://ww2.sporttsonline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "11:30",
+        "event": "Tennis: ATP World Tour 250 - Mallorca",
+        "streams": [
+          "https://ww2.sporttsonline.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "Argentina x Austria",
+        "streams": [
+          "https://ww2.sporttsonline.click/channels/hd/hd1.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd2.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd5.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd3.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd4.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd6.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd7.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd8.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd9.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd10.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd11.php",
+          "https://ww2.sporttsonline.click/channels/pt/sporttv5.php",
+          "https://ww2.sporttsonline.click/channels/bra/br1.php",
+          "https://ww2.sporttsonline.click/channels/bra/br2.php",
+          "https://ww2.sporttsonline.click/channels/bra/br2.php",
+          "https://ww2.sporttsonline.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "22:00",
+        "event": "France x Iraq",
+        "streams": [
+          "https://ww2.sporttsonline.click/channels/hd/hd1.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd2.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd5.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd3.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd4.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd6.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd7.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd8.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd9.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd10.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd11.php",
+          "https://ww2.sporttsonline.click/channels/pt/sporttv5.php",
+          "https://ww2.sporttsonline.click/channels/bra/br2.php",
+          "https://ww2.sporttsonline.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "Ponte Preta x Novorizontino",
+        "streams": [
+          "https://ww2.sporttsonline.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "01:00",
+        "event": "Norway x Senegal",
+        "streams": [
+          "https://ww2.sporttsonline.click/channels/hd/hd1.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd2.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd5.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd3.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd4.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd6.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd7.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd8.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd9.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd11.php",
+          "https://ww2.sporttsonline.click/channels/pt/sporttv5.php",
+          "https://ww2.sporttsonline.click/channels/bra/br1.php",
+          "https://ww2.sporttsonline.click/channels/bra/br2.php",
+          "https://ww2.sporttsonline.click/channels/bra/br2.php",
+          "https://ww2.sporttsonline.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "04:00",
+        "event": "Jordan x Algeria",
+        "streams": [
+          "https://ww2.sporttsonline.click/channels/hd/hd1.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd2.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd5.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd3.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd4.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd6.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd7.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd8.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd9.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd10.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd11.php",
+          "https://ww2.sporttsonline.click/channels/pt/sporttv5.php",
+          "https://ww2.sporttsonline.click/channels/bra/br1.php",
+          "https://ww2.sporttsonline.click/channels/bra/br2.php",
+          "https://ww2.sporttsonline.click/channels/bra/br2.php",
+          "https://ww2.sporttsonline.click/channels/bra/br1.php"
         ]
       }
     ]
