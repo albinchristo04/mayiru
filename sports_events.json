@@ -1,29 +1,6 @@
 {
-  "last_updated": "2026-06-22T09:57:34.724573Z",
+  "last_updated": "2026-06-22T17:30:27.372278Z",
   "events": {
-    "SUNDAY": [
-      {
-        "time": "02:00",
-        "event": "New Zealand x Egypt",
-        "streams": [
-          "https://ww2.sporttsonline.click/channels/hd/hd2.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd1.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd5.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd3.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd4.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd6.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd7.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd8.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd9.php",
-          "https://ww2.sporttsonline.click/channels/hd/hd11.php",
-          "https://ww2.sporttsonline.click/channels/pt/sporttv5.php",
-          "https://ww2.sporttsonline.click/channels/bra/br2.php",
-          "https://ww2.sporttsonline.click/channels/bra/br1.php",
-          "https://ww2.sporttsonline.click/channels/bra/br4.php",
-          "https://ww2.sporttsonline.click/channels/bra/br2.php"
-        ]
-      }
-    ],
     "MONDAY": [
       {
         "time": "11:00",
@@ -129,6 +106,205 @@
           "https://ww2.sporttsonline.click/channels/bra/br2.php",
           "https://ww2.sporttsonline.click/channels/bra/br2.php",
           "https://ww2.sporttsonline.click/channels/bra/br1.php"
+        ]
+      }
+    ],
+    "TUESDAY": [
+      {
+        "time": "11:00",
+        "event": "Tennis: ATP World Tour 250 - Eastbourne",
+        "streams": [
+          "https://ww2.sporttsonline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "11:30",
+        "event": "Tennis: ATP World Tour 250 - Mallorca",
+        "streams": [
+          "https://ww2.sporttsonline.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "Portugal x Uzbekistan",
+        "streams": [
+          "https://ww2.sporttsonline.click/channels/hd/hd1.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd2.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd3.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd4.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd5.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd6.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd7.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd8.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd9.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd10.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd11.php",
+          "https://ww2.sporttsonline.click/channels/pt/sporttv5.php",
+          "https://ww2.sporttsonline.click/channels/bra/br2.php",
+          "https://ww2.sporttsonline.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "21:00",
+        "event": "England x Ghana",
+        "streams": [
+          "https://ww2.sporttsonline.click/channels/hd/hd1.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd2.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd3.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd4.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd5.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd6.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd7.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd8.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd9.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd10.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd11.php",
+          "https://ww2.sporttsonline.click/channels/pt/sporttv5.php",
+          "https://ww2.sporttsonline.click/channels/bra/br1.php",
+          "https://ww2.sporttsonline.click/channels/bra/br2.php",
+          "https://ww2.sporttsonline.click/channels/bra/br3.php",
+          "https://ww2.sporttsonline.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "Panama x Croatia",
+        "streams": [
+          "https://ww2.sporttsonline.click/channels/hd/hd1.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd2.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd3.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd4.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd5.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd6.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd7.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd8.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd9.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd10.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd11.php",
+          "https://ww2.sporttsonline.click/channels/pt/sporttv5.php",
+          "https://ww2.sporttsonline.click/channels/bra/br2.php",
+          "https://ww2.sporttsonline.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "03:00",
+        "event": "Colombia x Congo DR",
+        "streams": [
+          "https://ww2.sporttsonline.click/channels/hd/hd1.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd2.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd3.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd4.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd5.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd6.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd7.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd8.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd9.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd11.php",
+          "https://ww2.sporttsonline.click/channels/pt/sporttv5.php",
+          "https://ww2.sporttsonline.click/channels/bra/br1.php",
+          "https://ww2.sporttsonline.click/channels/bra/br2.php",
+          "https://ww2.sporttsonline.click/channels/bra/br3.php",
+          "https://ww2.sporttsonline.click/channels/bra/br4.php"
+        ]
+      }
+    ],
+    "WEDNESDAY": [
+      {
+        "time": "11:00",
+        "event": "Tennis: ATP World Tour 250 - Eastbourne",
+        "streams": [
+          "https://ww2.sporttsonline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "11:30",
+        "event": "Tennis: ATP World Tour 250 - Mallorca",
+        "streams": [
+          "https://ww2.sporttsonline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Switzerland x Canada",
+        "streams": [
+          "https://ww2.sporttsonline.click/channels/hd/hd1.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd2.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd3.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd4.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd6.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd7.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd10.php",
+          "https://ww2.sporttsonline.click/channels/pt/sporttv5.php",
+          "https://ww2.sporttsonline.click/channels/bra/br4.php",
+          "https://ww2.sporttsonline.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Bosnia and Herzegovina x Qatar",
+        "streams": [
+          "https://ww2.sporttsonline.click/channels/hd/hd1.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd8.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd9.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd11.php",
+          "https://ww2.sporttsonline.click/channels/pt/sporttv1.php",
+          "https://ww2.sporttsonline.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "Scotland x Brazil",
+        "streams": [
+          "https://ww2.sporttsonline.click/channels/hd/hd1.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd2.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd3.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd6.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd7.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd9.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd11.php",
+          "https://ww2.sporttsonline.click/channels/pt/sporttv1.php",
+          "https://ww2.sporttsonline.click/channels/bra/br4.php",
+          "https://ww2.sporttsonline.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "Morocco x Haiti",
+        "streams": [
+          "https://ww2.sporttsonline.click/channels/hd/hd1.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd4.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd8.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd10.php",
+          "https://ww2.sporttsonline.click/channels/pt/sporttv5.php",
+          "https://ww2.sporttsonline.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "02:00",
+        "event": "Czech Republic x Mexico",
+        "streams": [
+          "https://ww2.sporttsonline.click/channels/hd/hd1.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd2.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd3.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd4.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd6.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd7.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd11.php",
+          "https://ww2.sporttsonline.click/channels/pt/sporttv5.php",
+          "https://ww2.sporttsonline.click/channels/bra/br4.php",
+          "https://ww2.sporttsonline.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "02:00",
+        "event": "South Africa x Korea Republic",
+        "streams": [
+          "https://ww2.sporttsonline.click/channels/hd/hd1.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd8.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd9.php",
+          "https://ww2.sporttsonline.click/channels/hd/hd10.php",
+          "https://ww2.sporttsonline.click/channels/pt/sporttv1.php",
+          "https://ww2.sporttsonline.click/channels/bra/br2.php"
         ]
       }
     ]
