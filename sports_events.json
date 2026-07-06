@@ -1,83 +1,6 @@
 {
-  "last_updated": "2026-07-06T11:55:00.741398Z",
+  "last_updated": "2026-07-06T18:04:10.382524Z",
   "events": {
-    "SUNDAY": [
-      {
-        "time": "11:00",
-        "event": "Tennis: Wimbledon",
-        "streams": [
-          "https://w4.sportsonlline.click/channels/pt/sporttv2.php",
-          "https://w4.sportsonlline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "12:00",
-        "event": "Golf: DP World Tour - BMW International Open - D4",
-        "streams": [
-          "https://w4.sportsonlline.click/channels/pt/sporttv4.php"
-        ]
-      },
-      {
-        "time": "15:00",
-        "event": "Formula 1: British F1 Grand Prix",
-        "streams": [
-          "https://w4.sportsonlline.click/channels/hd/hd2.php",
-          "https://w4.sportsonlline.click/channels/hd/hd7.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "Supra du Quebec x Forg",
-        "streams": [
-          "https://w4.sportsonlline.click/channels/hd/hd5.php"
-        ]
-      },
-      {
-        "time": "21:00",
-        "event": "Brazil x Norway",
-        "streams": [
-          "https://w4.sportsonlline.click/channels/hd/hd1.php",
-          "https://w4.sportsonlline.click/channels/hd/hd5.php",
-          "https://w4.sportsonlline.click/channels/hd/hd3.php",
-          "https://w4.sportsonlline.click/channels/hd/hd4.php",
-          "https://w4.sportsonlline.click/channels/hd/hd6.php",
-          "https://w4.sportsonlline.click/channels/hd/hd7.php",
-          "https://w4.sportsonlline.click/channels/hd/hd8.php",
-          "https://w4.sportsonlline.click/channels/hd/hd9.php",
-          "https://w4.sportsonlline.click/channels/hd/hd10.php",
-          "https://w4.sportsonlline.click/channels/hd/hd11.php",
-          "https://w4.sportsonlline.click/channels/pt/sporttv5.php",
-          "https://w4.sportsonlline.click/channels/bra/br1.php",
-          "https://w4.sportsonlline.click/channels/bra/br4.php",
-          "https://w4.sportsonlline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "NÃ¡utico x Juventude",
-        "streams": [
-          "https://w4.sportsonlline.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "Mexico x England",
-        "streams": [
-          "https://w4.sportsonlline.click/channels/hd/hd1.php",
-          "https://w4.sportsonlline.click/channels/hd/hd5.php",
-          "https://w4.sportsonlline.click/channels/hd/hd3.php",
-          "https://w4.sportsonlline.click/channels/hd/hd4.php",
-          "https://w4.sportsonlline.click/channels/hd/hd6.php",
-          "https://w4.sportsonlline.click/channels/hd/hd7.php",
-          "https://w4.sportsonlline.click/channels/hd/hd8.php",
-          "https://w4.sportsonlline.click/channels/hd/hd9.php",
-          "https://w4.sportsonlline.click/channels/hd/hd10.php",
-          "https://w4.sportsonlline.click/channels/hd/hd11.php",
-          "https://w4.sportsonlline.click/channels/pt/sporttv5.php",
-          "https://w4.sportsonlline.click/channels/bra/br2.php"
-        ]
-      }
-    ],
     "MONDAY": [
       {
         "time": "11:00",
@@ -124,6 +47,111 @@
           "https://w4.sportsonlline.click/channels/hd/hd11.php",
           "https://w4.sportsonlline.click/channels/pt/sporttv5.php",
           "https://w4.sportsonlline.click/channels/bra/br2.php"
+        ]
+      }
+    ],
+    "TUESDAY": [
+      {
+        "time": "11:00",
+        "event": "Tennis: Wimbledon",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/pt/sporttv2.php",
+          "https://w4.sportsonlline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "Argentina x Egypt",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd1.php",
+          "https://w4.sportsonlline.click/channels/hd/hd2.php",
+          "https://w4.sportsonlline.click/channels/hd/hd5.php",
+          "https://w4.sportsonlline.click/channels/hd/hd3.php",
+          "https://w4.sportsonlline.click/channels/hd/hd4.php",
+          "https://w4.sportsonlline.click/channels/hd/hd6.php",
+          "https://w4.sportsonlline.click/channels/hd/hd7.php",
+          "https://w4.sportsonlline.click/channels/hd/hd8.php",
+          "https://w4.sportsonlline.click/channels/hd/hd9.php",
+          "https://w4.sportsonlline.click/channels/hd/hd10.php",
+          "https://w4.sportsonlline.click/channels/hd/hd11.php",
+          "https://w4.sportsonlline.click/channels/pt/sporttv5.php",
+          "https://w4.sportsonlline.click/channels/bra/br1.php",
+          "https://w4.sportsonlline.click/channels/bra/br2.php",
+          "https://w4.sportsonlline.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "21:00",
+        "event": "Switzerland x Colombia",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd5.php",
+          "https://w4.sportsonlline.click/channels/hd/hd2.php",
+          "https://w4.sportsonlline.click/channels/hd/hd1.php",
+          "https://w4.sportsonlline.click/channels/hd/hd3.php",
+          "https://w4.sportsonlline.click/channels/hd/hd4.php",
+          "https://w4.sportsonlline.click/channels/hd/hd6.php",
+          "https://w4.sportsonlline.click/channels/hd/hd7.php",
+          "https://w4.sportsonlline.click/channels/hd/hd8.php",
+          "https://w4.sportsonlline.click/channels/hd/hd9.php",
+          "https://w4.sportsonlline.click/channels/hd/hd10.php",
+          "https://w4.sportsonlline.click/channels/hd/hd11.php",
+          "https://w4.sportsonlline.click/channels/pt/sporttv5.php",
+          "https://w4.sportsonlline.click/channels/bra/br1.php",
+          "https://w4.sportsonlline.click/channels/bra/br2.php",
+          "https://w4.sportsonlline.click/channels/bra/br4.php"
+        ]
+      }
+    ],
+    "WEDNESDAY": [
+      {
+        "time": "11:00",
+        "event": "Tennis: Wimbledon",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/pt/sporttv2.php",
+          "https://w4.sportsonlline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "Kairat x Sutjeska",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "16:30",
+        "event": "Spain U19 x Croatia U19",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd6.php",
+          "https://w4.sportsonlline.click/channels/hd/hd3.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "RakÃ³w CzÄstochowa x Olympiakos",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "ML Rogachev x CSU Craiova",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "19:00",
+        "event": "Ukraine U19 x Germany U19",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd3.php"
+        ]
+      },
+      {
+        "time": "20:30",
+        "event": "Lausanne Sport x Flamengo",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/bra/br1.php"
         ]
       }
     ]
