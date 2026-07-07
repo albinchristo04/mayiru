@@ -1,55 +1,6 @@
 {
-  "last_updated": "2026-07-07T10:45:21.226932Z",
+  "last_updated": "2026-07-07T17:51:15.502076Z",
   "events": {
-    "MONDAY": [
-      {
-        "time": "11:00",
-        "event": "Tennis: Wimbledon",
-        "streams": [
-          "https://w4.sportsonlline.click/channels/pt/sporttv2.php",
-          "https://w4.sportsonlline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Portugal x Spain",
-        "streams": [
-          "https://w4.sportsonlline.click/channels/hd/hd1.php",
-          "https://w4.sportsonlline.click/channels/hd/hd2.php",
-          "https://w4.sportsonlline.click/channels/hd/hd5.php",
-          "https://w4.sportsonlline.click/channels/hd/hd4.php",
-          "https://w4.sportsonlline.click/channels/hd/hd3.php",
-          "https://w4.sportsonlline.click/channels/hd/hd6.php",
-          "https://w4.sportsonlline.click/channels/hd/hd7.php",
-          "https://w4.sportsonlline.click/channels/hd/hd8.php",
-          "https://w4.sportsonlline.click/channels/hd/hd9.php",
-          "https://w4.sportsonlline.click/channels/hd/hd10.php",
-          "https://w4.sportsonlline.click/channels/hd/hd11.php",
-          "https://w4.sportsonlline.click/channels/pt/sporttv5.php",
-          "https://w4.sportsonlline.click/channels/pt/sporttv1.php",
-          "https://w4.sportsonlline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "USA x Belgium",
-        "streams": [
-          "https://w4.sportsonlline.click/channels/hd/hd1.php",
-          "https://w4.sportsonlline.click/channels/hd/hd2.php",
-          "https://w4.sportsonlline.click/channels/hd/hd5.php",
-          "https://w4.sportsonlline.click/channels/hd/hd3.php",
-          "https://w4.sportsonlline.click/channels/hd/hd4.php",
-          "https://w4.sportsonlline.click/channels/hd/hd6.php",
-          "https://w4.sportsonlline.click/channels/hd/hd7.php",
-          "https://w4.sportsonlline.click/channels/hd/hd8.php",
-          "https://w4.sportsonlline.click/channels/hd/hd9.php",
-          "https://w4.sportsonlline.click/channels/hd/hd10.php",
-          "https://w4.sportsonlline.click/channels/hd/hd11.php",
-          "https://w4.sportsonlline.click/channels/pt/sporttv5.php",
-          "https://w4.sportsonlline.click/channels/bra/br2.php"
-        ]
-      }
-    ],
     "TUESDAY": [
       {
         "time": "11:00",
