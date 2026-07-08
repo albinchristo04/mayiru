@@ -1,58 +1,6 @@
 {
-  "last_updated": "2026-07-08T10:07:02.960270Z",
+  "last_updated": "2026-07-08T17:19:05.040554Z",
   "events": {
-    "TUESDAY": [
-      {
-        "time": "11:00",
-        "event": "Tennis: Wimbledon",
-        "streams": [
-          "https://w4.sportsonlline.click/channels/pt/sporttv2.php",
-          "https://w4.sportsonlline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "17:00",
-        "event": "Argentina x Egypt",
-        "streams": [
-          "https://w4.sportsonlline.click/channels/hd/hd1.php",
-          "https://w4.sportsonlline.click/channels/hd/hd2.php",
-          "https://w4.sportsonlline.click/channels/hd/hd5.php",
-          "https://w4.sportsonlline.click/channels/hd/hd3.php",
-          "https://w4.sportsonlline.click/channels/hd/hd4.php",
-          "https://w4.sportsonlline.click/channels/hd/hd6.php",
-          "https://w4.sportsonlline.click/channels/hd/hd7.php",
-          "https://w4.sportsonlline.click/channels/hd/hd8.php",
-          "https://w4.sportsonlline.click/channels/hd/hd9.php",
-          "https://w4.sportsonlline.click/channels/hd/hd10.php",
-          "https://w4.sportsonlline.click/channels/hd/hd11.php",
-          "https://w4.sportsonlline.click/channels/pt/sporttv5.php",
-          "https://w4.sportsonlline.click/channels/bra/br1.php",
-          "https://w4.sportsonlline.click/channels/bra/br2.php",
-          "https://w4.sportsonlline.click/channels/bra/br4.php"
-        ]
-      },
-      {
-        "time": "21:00",
-        "event": "Switzerland x Colombia",
-        "streams": [
-          "https://w4.sportsonlline.click/channels/hd/hd5.php",
-          "https://w4.sportsonlline.click/channels/hd/hd2.php",
-          "https://w4.sportsonlline.click/channels/hd/hd1.php",
-          "https://w4.sportsonlline.click/channels/hd/hd3.php",
-          "https://w4.sportsonlline.click/channels/hd/hd4.php",
-          "https://w4.sportsonlline.click/channels/hd/hd6.php",
-          "https://w4.sportsonlline.click/channels/hd/hd7.php",
-          "https://w4.sportsonlline.click/channels/hd/hd8.php",
-          "https://w4.sportsonlline.click/channels/hd/hd9.php",
-          "https://w4.sportsonlline.click/channels/hd/hd10.php",
-          "https://w4.sportsonlline.click/channels/hd/hd11.php",
-          "https://w4.sportsonlline.click/channels/pt/sporttv5.php",
-          "https://w4.sportsonlline.click/channels/bra/br1.php",
-          "https://w4.sportsonlline.click/channels/bra/br2.php",
-          "https://w4.sportsonlline.click/channels/bra/br4.php"
-        ]
-      }
-    ],
     "WEDNESDAY": [
       {
         "time": "11:00",
@@ -103,6 +51,126 @@
         "event": "Lausanne Sport x Flamengo",
         "streams": [
           "https://w4.sportsonlline.click/channels/bra/br1.php"
+        ]
+      }
+    ],
+    "THURSDAY": [
+      {
+        "time": "11:00",
+        "event": "Tennis: Wimbledon",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "11:00",
+        "event": "Golf: Evian Championship - D1",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "13:00",
+        "event": "Golf: DP World Tour- Scottish Open - D1",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "Dynamo Kyiv x Universitatea Cluj",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "21:00",
+        "event": "France x Morocco",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd1.php",
+          "https://w4.sportsonlline.click/channels/hd/hd2.php",
+          "https://w4.sportsonlline.click/channels/hd/hd5.php",
+          "https://w4.sportsonlline.click/channels/hd/hd3.php",
+          "https://w4.sportsonlline.click/channels/hd/hd4.php",
+          "https://w4.sportsonlline.click/channels/hd/hd6.php",
+          "https://w4.sportsonlline.click/channels/hd/hd7.php",
+          "https://w4.sportsonlline.click/channels/hd/hd8.php",
+          "https://w4.sportsonlline.click/channels/hd/hd9.php",
+          "https://w4.sportsonlline.click/channels/hd/hd10.php",
+          "https://w4.sportsonlline.click/channels/hd/hd11.php",
+          "https://w4.sportsonlline.click/channels/pt/sporttv5.php",
+          "https://w4.sportsonlline.click/channels/bra/br1.php",
+          "https://w4.sportsonlline.click/channels/bra/br2.php",
+          "https://w4.sportsonlline.click/channels/bra/br4.php"
+        ]
+      }
+    ],
+    "FRIDAY": [
+      {
+        "time": "08:15",
+        "event": "MotoGP: Germany FP1",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd5.php",
+          "https://w4.sportsonlline.click/channels/pt/sporttv1.php",
+          "https://w4.sportsonlline.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "11:00",
+        "event": "Tennis: Wimbledon",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "11:00",
+        "event": "Golf: Evian Championship - D3",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "12:15",
+        "event": "MotoGP: Germany Practice",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd5.php",
+          "https://w4.sportsonlline.click/channels/pt/sporttv1.php",
+          "https://w4.sportsonlline.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "13:00",
+        "event": "Golf: DP World Tour- Scottish Open - D2",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Spain x Belgium",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd1.php",
+          "https://w4.sportsonlline.click/channels/hd/hd2.php",
+          "https://w4.sportsonlline.click/channels/hd/hd5.php",
+          "https://w4.sportsonlline.click/channels/hd/hd3.php",
+          "https://w4.sportsonlline.click/channels/hd/hd4.php",
+          "https://w4.sportsonlline.click/channels/hd/hd6.php",
+          "https://w4.sportsonlline.click/channels/hd/hd7.php",
+          "https://w4.sportsonlline.click/channels/hd/hd8.php",
+          "https://w4.sportsonlline.click/channels/hd/hd9.php",
+          "https://w4.sportsonlline.click/channels/hd/hd10.php",
+          "https://w4.sportsonlline.click/channels/hd/hd11.php",
+          "https://w4.sportsonlline.click/channels/pt/sporttv5.php",
+          "https://w4.sportsonlline.click/channels/bra/br1.php",
+          "https://w4.sportsonlline.click/channels/bra/br2.php",
+          "https://w4.sportsonlline.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "03:00",
+        "event": "Power Slap 21: Las Vegas",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/pt/sporttv1.php"
         ]
       }
     ]
