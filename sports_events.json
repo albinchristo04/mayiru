@@ -1,59 +1,6 @@
 {
-  "last_updated": "2026-07-09T10:45:02.739438Z",
+  "last_updated": "2026-07-09T17:47:05.664178Z",
   "events": {
-    "WEDNESDAY": [
-      {
-        "time": "11:00",
-        "event": "Tennis: Wimbledon",
-        "streams": [
-          "https://w4.sportsonlline.click/channels/pt/sporttv2.php",
-          "https://w4.sportsonlline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "16:00",
-        "event": "Kairat x Sutjeska",
-        "streams": [
-          "https://w4.sportsonlline.click/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "16:30",
-        "event": "Spain U19 x Croatia U19",
-        "streams": [
-          "https://w4.sportsonlline.click/channels/hd/hd6.php",
-          "https://w4.sportsonlline.click/channels/hd/hd3.php"
-        ]
-      },
-      {
-        "time": "17:00",
-        "event": "RakÃ³w CzÄstochowa x Olympiakos",
-        "streams": [
-          "https://w4.sportsonlline.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "ML Rogachev x CSU Craiova",
-        "streams": [
-          "https://w4.sportsonlline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Ukraine U19 x Germany U19",
-        "streams": [
-          "https://w4.sportsonlline.click/channels/hd/hd3.php"
-        ]
-      },
-      {
-        "time": "20:30",
-        "event": "Lausanne Sport x Flamengo",
-        "streams": [
-          "https://w4.sportsonlline.click/channels/bra/br1.php"
-        ]
-      }
-    ],
     "THURSDAY": [
       {
         "time": "11:00",
@@ -171,6 +118,172 @@
         "event": "Power Slap 21: Las Vegas",
         "streams": [
           "https://w4.sportsonlline.click/channels/pt/sporttv1.php"
+        ]
+      }
+    ],
+    "SATURDAY": [
+      {
+        "time": "06:00",
+        "event": "Rugby: New Zealand x Italy",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "08:30",
+        "event": "Rugby: Australia x France",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "09:00",
+        "event": "MotoGP: Germany Qualifying",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd5.php",
+          "https://w4.sportsonlline.click/channels/pt/sporttv4.php",
+          "https://w4.sportsonlline.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "09:00",
+        "event": "Golf: Evian Championship - D3",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "10:00",
+        "event": "WisÅa PÅock x BanÃ­k Ostrava",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "11:00",
+        "event": "Rugby: Japan x Ireland",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "11:45",
+        "event": "Moto2/3: Germany Qualifying",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd5.php",
+          "https://w4.sportsonlline.click/channels/pt/sporttv4.php",
+          "https://w4.sportsonlline.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "13:00",
+        "event": "Olympiakos Piraeus x OH Leuven",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "13:45",
+        "event": "MotoGP: Germany Sprint",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd5.php",
+          "https://w4.sportsonlline.click/channels/pt/sporttv4.php",
+          "https://w4.sportsonlline.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "14:00",
+        "event": "WisÅa KrakÃ³w x Wrexham",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "14:00",
+        "event": "Rugby: Fiji x England",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "15:00",
+        "event": "Golf: DP World Tour- Scottish Open - D3",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "16:30",
+        "event": "Rugby: South Africa x Scotland",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "Benfica x Flamengo",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/pt/eleven3.php",
+          "https://w4.sportsonlline.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Rugby: Argentina x Wales",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "22:00",
+        "event": "Norway x England",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd1.php",
+          "https://w4.sportsonlline.click/channels/hd/hd2.php",
+          "https://w4.sportsonlline.click/channels/hd/hd3.php",
+          "https://w4.sportsonlline.click/channels/hd/hd4.php",
+          "https://w4.sportsonlline.click/channels/hd/hd6.php",
+          "https://w4.sportsonlline.click/channels/hd/hd7.php",
+          "https://w4.sportsonlline.click/channels/hd/hd8.php",
+          "https://w4.sportsonlline.click/channels/hd/hd9.php",
+          "https://w4.sportsonlline.click/channels/hd/hd11.php",
+          "https://w4.sportsonlline.click/channels/pt/sporttv5.php",
+          "https://w4.sportsonlline.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "UFC 329: Prelims",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd5.php",
+          "https://w4.sportsonlline.click/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "02:00",
+        "event": "Argentina X Switzerland",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd2.php",
+          "https://w4.sportsonlline.click/channels/hd/hd1.php",
+          "https://w4.sportsonlline.click/channels/hd/hd3.php",
+          "https://w4.sportsonlline.click/channels/hd/hd4.php",
+          "https://w4.sportsonlline.click/channels/hd/hd6.php",
+          "https://w4.sportsonlline.click/channels/hd/hd7.php",
+          "https://w4.sportsonlline.click/channels/hd/hd8.php",
+          "https://w4.sportsonlline.click/channels/hd/hd9.php",
+          "https://w4.sportsonlline.click/channels/hd/hd10.php",
+          "https://w4.sportsonlline.click/channels/pt/sporttv5.php",
+          "https://w4.sportsonlline.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "02:00",
+        "event": "UFC 329: Conor McGregor vs Max Holloway",
+        "streams": [
+          "https://w4.sportsonlline.click/channels/hd/hd5.php",
+          "https://w4.sportsonlline.click/channels/hd/hd11.php",
+          "https://w4.sportsonlline.click/channels/pt/sporttv1.php",
+          "https://w4.sportsonlline.click/channels/bra/br5.php"
         ]
       }
     ]
