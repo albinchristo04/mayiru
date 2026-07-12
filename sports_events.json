@@ -1,207 +1,7 @@
 {
-  "last_updated": "2026-07-12T09:42:32.434124Z",
+  "last_updated": "2026-07-12T16:46:28.433420Z",
   "events": {
-    "SATURDAY": [
-      {
-        "time": "06:00",
-        "event": "Rugby: New Zealand x Italy",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "08:30",
-        "event": "Rugby: Australia x France",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "09:00",
-        "event": "MotoGP: Germany Qualifying",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd5.php",
-          "https://v4.sportsonlinne.click/channels/pt/sporttv4.php",
-          "https://v4.sportsonlinne.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "09:00",
-        "event": "Golf: Evian Championship - D3",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "10:00",
-        "event": "WisÅa PÅock x BanÃ­k Ostrava",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "11:00",
-        "event": "Rugby: Japan x Ireland",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "11:45",
-        "event": "Moto2/3: Germany Qualifying",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd5.php",
-          "https://v4.sportsonlinne.click/channels/pt/sporttv4.php",
-          "https://v4.sportsonlinne.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "13:00",
-        "event": "Olympiakos Piraeus x OH Leuven",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "13:45",
-        "event": "MotoGP: Germany Sprint",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd5.php",
-          "https://v4.sportsonlinne.click/channels/pt/sporttv4.php",
-          "https://v4.sportsonlinne.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "WisÅa KrakÃ³w x Wrexham",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "Rugby: Fiji x England",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "15:00",
-        "event": "Golf: DP World Tour- Scottish Open - D3",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "16:30",
-        "event": "Rugby: South Africa x Scotland",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "19:30",
-        "event": "Benfica x Flamengo",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/eleven3.php",
-          "https://v4.sportsonlinne.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Rugby: Argentina x Wales",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "22:00",
-        "event": "Norway x England",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd1.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd2.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd3.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd4.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd6.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd7.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd8.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd9.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd11.php",
-          "https://v4.sportsonlinne.click/channels/pt/sporttv5.php",
-          "https://v4.sportsonlinne.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "00:00",
-        "event": "UFC 329: Prelims",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd5.php",
-          "https://v4.sportsonlinne.click/channels/bra/br5.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "Argentina X Switzerland",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd2.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd1.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd3.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd4.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd6.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd7.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd8.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd9.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd10.php",
-          "https://v4.sportsonlinne.click/channels/pt/sporttv5.php",
-          "https://v4.sportsonlinne.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "UFC 329: Conor McGregor vs Max Holloway",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd5.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd11.php",
-          "https://v4.sportsonlinne.click/channels/pt/sporttv1.php",
-          "https://v4.sportsonlinne.click/channels/bra/br5.php"
-        ]
-      }
-    ],
     "SUNDAY": [
-      {
-        "time": "09:00",
-        "event": "Moto3: Grand Prix of Germany",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd5.php",
-          "https://v4.sportsonlinne.click/channels/pt/sporttv4.php",
-          "https://v4.sportsonlinne.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "11:00",
-        "event": "Moto2: Grand Prix of Germany",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd5.php",
-          "https://v4.sportsonlinne.click/channels/pt/sporttv4.php",
-          "https://v4.sportsonlinne.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "12:15",
-        "event": "MotoGP: Grand Prix of Germany",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd5.php",
-          "https://v4.sportsonlinne.click/channels/pt/sporttv4.php",
-          "https://v4.sportsonlinne.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "14:30",
-        "event": "Golf: DP World Tour- Scottish Open - D4",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv3.php"
-        ]
-      },
       {
         "time": "15:30",
         "event": "Tennis: Wimbledon Men's Final",
@@ -257,6 +57,127 @@
         "event": "CRB x GoiÃ¡s",
         "streams": [
           "https://v4.sportsonlinne.click/channels/bra/br3.php"
+        ]
+      }
+    ],
+    "MONDAY": [
+      {
+        "time": "09:30",
+        "event": "Tennis - ATP World Tour 250: Gstaad 2026",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "10:30",
+        "event": "Cricket: Women's Test Day 4: England v India",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd1.php"
+        ]
+      },
+      {
+        "time": "12:30",
+        "event": "Tennis - ATP World Tour 250: Bastad 2026",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "15:00",
+        "event": "Rugby: France U20 x New Zealand U20",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "17:30",
+        "event": "Rugby: South Africa U20 x England U20",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "WNBA: Sparks @ Dream",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd1.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "CearÃ¡ x Athletic Club",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "02:00",
+        "event": "WNBA: Mercury @ Lynx",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd1.php"
+        ]
+      }
+    ],
+    "TUESDAY": [
+      {
+        "time": "09:30",
+        "event": "Tennis - ATP World Tour 250: Gstaad 2026",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "10:00",
+        "event": "Tennis - ATP World Tour 250: Bastad 2026",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "10:00",
+        "event": "Cricket: 1st ODI: England v India",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd1.php"
+        ]
+      },
+      {
+        "time": "15:00",
+        "event": "Tennis - ATP World Tour 250: UMAG 2026",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "17:30",
+        "event": "Sporting CP x Celtic",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/eleven3.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "GyÅri ETO x VÃ­kingur ReykjavÃ­k",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "France x Spain",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd1.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd2.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd5.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd3.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd4.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd6.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd7.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd8.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd9.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd10.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd11.php",
+          "https://v4.sportsonlinne.click/channels/pt/sporttv5.php",
+          "https://v4.sportsonlinne.click/channels/bra/br2.php"
         ]
       }
     ]
