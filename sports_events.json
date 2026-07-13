@@ -1,15 +1,6 @@
 {
-  "last_updated": "2026-07-13T10:49:33.440784Z",
+  "last_updated": "2026-07-13T17:47:44.754133Z",
   "events": {
-    "SUNDAY": [
-      {
-        "time": "23:00",
-        "event": "CRB x GoiÃ¡s",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/bra/br3.php"
-        ]
-      }
-    ],
     "MONDAY": [
       {
         "time": "09:30",
