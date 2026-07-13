@@ -1,57 +1,7 @@
 {
-  "last_updated": "2026-07-12T16:46:28.433420Z",
+  "last_updated": "2026-07-13T01:51:05.594819Z",
   "events": {
     "SUNDAY": [
-      {
-        "time": "15:30",
-        "event": "Tennis: Wimbledon Men's Final",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd5.php"
-        ]
-      },
-      {
-        "time": "16:00",
-        "event": "Tennis: Wimbledon Men's Final",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "18:30",
-        "event": "CSU Craiova x Universitatea Cluj",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Pumas UNAM x AmÃ©rica de Cali",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "SÃ£o Bernardo FC x CuiabÃ¡",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/bra/br4.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Fluminense x Bahia",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "20:15",
-        "event": "Independiente Rivadavia x Tigre",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd8.php",
-          "https://v4.sportsonlinne.click/channels/pt/sporttv1.php"
-        ]
-      },
       {
         "time": "23:00",
         "event": "CRB x GoiÃ¡s",
