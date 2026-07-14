@@ -1,86 +1,7 @@
 {
-  "last_updated": "2026-07-14T09:46:30.670594Z",
+  "last_updated": "2026-07-14T17:02:45.871027Z",
   "events": {
-    "MONDAY": [
-      {
-        "time": "09:30",
-        "event": "Tennis - ATP World Tour 250: Gstaad 2026",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "10:30",
-        "event": "Cricket: Women's Test Day 4: England v India",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "12:30",
-        "event": "Tennis - ATP World Tour 250: Bastad 2026",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "15:00",
-        "event": "Rugby: France U20 x New Zealand U20",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv4.php"
-        ]
-      },
-      {
-        "time": "17:30",
-        "event": "Rugby: South Africa U20 x England U20",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv4.php"
-        ]
-      },
-      {
-        "time": "00:00",
-        "event": "WNBA: Sparks @ Dream",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "CearÃ¡ x Athletic Club",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/bra/br3.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "WNBA: Mercury @ Lynx",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd1.php"
-        ]
-      }
-    ],
     "TUESDAY": [
-      {
-        "time": "09:30",
-        "event": "Tennis - ATP World Tour 250: Gstaad 2026",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "10:00",
-        "event": "Tennis - ATP World Tour 250: Bastad 2026",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "10:00",
-        "event": "Cricket: 1st ODI: England v India",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd1.php"
-        ]
-      },
       {
         "time": "15:00",
         "event": "Tennis - ATP World Tour 250: UMAG 2026",
@@ -119,6 +40,127 @@
           "https://v4.sportsonlinne.click/channels/hd/hd11.php",
           "https://v4.sportsonlinne.click/channels/pt/sporttv5.php",
           "https://v4.sportsonlinne.click/channels/bra/br2.php"
+        ]
+      }
+    ],
+    "WEDNESDAY": [
+      {
+        "time": "09:30",
+        "event": "Tennis - ATP World Tour 250: Gstaad 2026",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "10:00",
+        "event": "Tennis - ATP World Tour 250: Bastad 2026",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "12:30",
+        "event": "Cycling: Tour de France - Stage 11",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "15:00",
+        "event": "Tennis - ATP World Tour 250: UMAG 2026",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "15:00",
+        "event": "Padel: Premier Padel - Malaga P1",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "15:15",
+        "event": "Volleyball: Ukraine x Iran",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "Vitesse x AEK Athens",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "18:30",
+        "event": "CSU Craiova x ML Rogachev",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "18:45",
+        "event": "Volleyball: Serbia x Turkey",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "England x Argentina",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd1.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd2.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd5.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd3.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd4.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd6.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd7.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd8.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd9.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd10.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd11.php",
+          "https://v4.sportsonlinne.click/channels/pt/sporttv1.php",
+          "https://v4.sportsonlinne.click/channels/pt/sporttv5.php",
+          "https://v4.sportsonlinne.click/channels/bra/br1.php",
+          "https://v4.sportsonlinne.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "21:40",
+        "event": "Volleyball: France x Brazil",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "NBA Summer League: Phoenix Suns @ Detroit Pistons",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "01:00",
+        "event": "NBA Summer League: Boston Celtics @ Sacramento Kings",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd2.php"
+        ]
+      },
+      {
+        "time": "01:45",
+        "event": "Volleyball: USA x China",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "03:30",
+        "event": "NBA Summer League: Washington Wizards @ LA Clippers",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd5.php"
         ]
       }
     ]
