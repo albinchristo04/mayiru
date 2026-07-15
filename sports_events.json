@@ -1,48 +1,6 @@
 {
-  "last_updated": "2026-07-14T17:02:45.871027Z",
+  "last_updated": "2026-07-15T01:24:41.985797Z",
   "events": {
-    "TUESDAY": [
-      {
-        "time": "15:00",
-        "event": "Tennis - ATP World Tour 250: UMAG 2026",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv4.php"
-        ]
-      },
-      {
-        "time": "17:30",
-        "event": "Sporting CP x Celtic",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/eleven3.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "GyÅri ETO x VÃ­kingur ReykjavÃ­k",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "France x Spain",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd1.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd2.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd5.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd3.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd4.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd6.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd7.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd8.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd9.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd10.php",
-          "https://v4.sportsonlinne.click/channels/hd/hd11.php",
-          "https://v4.sportsonlinne.click/channels/pt/sporttv5.php",
-          "https://v4.sportsonlinne.click/channels/bra/br2.php"
-        ]
-      }
-    ],
     "WEDNESDAY": [
       {
         "time": "09:30",
@@ -161,6 +119,164 @@
         "event": "NBA Summer League: Washington Wizards @ LA Clippers",
         "streams": [
           "https://v4.sportsonlinne.click/channels/hd/hd5.php"
+        ]
+      }
+    ],
+    "THURSDAY": [
+      {
+        "time": "06:30",
+        "event": "Golf: The Open Championship - D1",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd1.php",
+          "https://v4.sportsonlinne.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "09:30",
+        "event": "Tennis - ATP World Tour 250: Gstaad 2026",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "10:00",
+        "event": "Tennis - ATP World Tour 250: Bastad 2026",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "Astana x Dinamo City",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd4.php"
+        ]
+      },
+      {
+        "time": "17:30",
+        "event": "Hapoel Be'er Sheva x Maccabi Tel Aviv",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "Omonia Nicosia x Panaitolikos",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "Lech PoznaÅ x GÃ³rnik Zabrze",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "18:30",
+        "event": "Universitatea Cluj x Dynamo Kyiv",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "18:30",
+        "event": "Derry City x CSKA Sofia",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "19:00",
+        "event": "Å kendija 79 x Europa",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd4.php"
+        ]
+      },
+      {
+        "time": "19:00",
+        "event": "Aluminij x Sheriff",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd2.php"
+        ]
+      },
+      {
+        "time": "19:15",
+        "event": "FerencvÃ¡ros x Vojvodina",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd3.php"
+        ]
+      },
+      {
+        "time": "22:45",
+        "event": "Racing Club x Defensa y Justicia",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd6.php"
+        ]
+      },
+      {
+        "time": "23:30",
+        "event": "VitÃ³ria x Vasco da Gama",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "23:30",
+        "event": "Botafogo x Santos",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "Forge x Pacific FC",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "CRB x NÃ¡utico",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "NBA Summer League: Golden State Warriors @ New York Knicks",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd1.php"
+        ]
+      },
+      {
+        "time": "01:45",
+        "event": "Sarmiento x Boca Juniors",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd6.php",
+          "https://v4.sportsonlinne.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "02:00",
+        "event": "NBA Summer League: Toronto Raptors @ Miami Heat",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd1.php"
+        ]
+      },
+      {
+        "time": "02:00",
+        "event": "Necaxa x Atlante",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "04:00",
+        "event": "Tijuana x Tigres UANL",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd10.php"
         ]
       }
     ]
