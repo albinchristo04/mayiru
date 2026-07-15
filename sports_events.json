@@ -1,49 +1,7 @@
 {
-  "last_updated": "2026-07-15T09:50:39.561469Z",
+  "last_updated": "2026-07-15T17:05:11.850431Z",
   "events": {
     "WEDNESDAY": [
-      {
-        "time": "09:30",
-        "event": "Tennis - ATP World Tour 250: Gstaad 2026",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "10:00",
-        "event": "Tennis - ATP World Tour 250: Bastad 2026",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "12:30",
-        "event": "Cycling: Tour de France - Stage 11",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd5.php"
-        ]
-      },
-      {
-        "time": "15:00",
-        "event": "Tennis - ATP World Tour 250: UMAG 2026",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "15:00",
-        "event": "Padel: Premier Padel - Malaga P1",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv4.php"
-        ]
-      },
-      {
-        "time": "15:15",
-        "event": "Volleyball: Ukraine x Iran",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/bra/br3.php"
-        ]
-      },
       {
         "time": "18:00",
         "event": "Vitesse x AEK Athens",
