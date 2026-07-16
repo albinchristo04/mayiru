@@ -1,14 +1,14 @@
 [
   {
     "source_url": "https://streamtpmedia.com/global1.php?stream=tudn_usa",
-    "extracted_at": "2026-07-09T18:29:41.094467",
+    "extracted_at": "2026-07-16T17:36:54.799822",
     "status": "error",
     "error": "Extraction failed: Tutti i 3 tentativi falliti per https://streamtpmedia.com/global1.php?stream=tudn_usa: Cannot connect to host streamtpmedia.com:443 ssl:default [Name or service not known]"
   },
   {
     "source_url": "https://sportzonline.live/channels/hd/hd9.php",
-    "extracted_at": "2026-07-09T18:29:41.094467",
+    "extracted_at": "2026-07-16T17:36:54.799822",
     "status": "error",
-    "error": "Extraction failed: No packed blocks or direct m3u8 URL found"
+    "error": "Extraction failed: Tutti i 3 tentativi falliti per https://8a801996c8e239d185972872b368f5f4.dynsatisfied.net/e/7i33b4nz1ybiz: 403, message='Forbidden', url='https://8a801996c8e239d185972872b368f5f4.dynsatisfied.net/e/7i33b4nz1ybiz'"
   }
 ]
