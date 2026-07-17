@@ -1,164 +1,6 @@
 {
-  "last_updated": "2026-07-16T17:03:00.771032Z",
+  "last_updated": "2026-07-17T01:48:24.416118Z",
   "events": {
-    "THURSDAY": [
-      {
-        "time": "06:30",
-        "event": "Golf: The Open Championship - D1",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd1.php",
-          "https://v4.sportsonlinne.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "09:30",
-        "event": "Tennis - ATP World Tour 250: Gstaad 2026",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "10:00",
-        "event": "Tennis - ATP World Tour 250: Bastad 2026",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/pt/sporttv4.php"
-        ]
-      },
-      {
-        "time": "16:00",
-        "event": "Astana x Dinamo City",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd4.php"
-        ]
-      },
-      {
-        "time": "17:30",
-        "event": "Hapoel Be'er Sheva x Maccabi Tel Aviv",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "Omonia Nicosia x Panaitolikos",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "Lech PoznaÅ x GÃ³rnik Zabrze",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "18:30",
-        "event": "Universitatea Cluj x Dynamo Kyiv",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "18:30",
-        "event": "Derry City x CSKA Sofia",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd5.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Å kendija 79 x Europa",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd4.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Aluminij x Sheriff",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd2.php"
-        ]
-      },
-      {
-        "time": "19:15",
-        "event": "FerencvÃ¡ros x Vojvodina",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd3.php"
-        ]
-      },
-      {
-        "time": "22:45",
-        "event": "Racing Club x Defensa y Justicia",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd6.php"
-        ]
-      },
-      {
-        "time": "23:30",
-        "event": "VitÃ³ria x Vasco da Gama",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "23:30",
-        "event": "Botafogo x Santos",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/bra/br5.php"
-        ]
-      },
-      {
-        "time": "00:00",
-        "event": "Forge x Pacific FC",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd5.php"
-        ]
-      },
-      {
-        "time": "00:00",
-        "event": "CRB x NÃ¡utico",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/bra/br4.php"
-        ]
-      },
-      {
-        "time": "00:00",
-        "event": "NBA Summer League: Golden State Warriors @ New York Knicks",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "01:45",
-        "event": "Sarmiento x Boca Juniors",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd6.php",
-          "https://v4.sportsonlinne.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "NBA Summer League: Toronto Raptors @ Miami Heat",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "Necaxa x Atlante",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "04:00",
-        "event": "Tijuana x Tigres UANL",
-        "streams": [
-          "https://v4.sportsonlinne.click/channels/hd/hd10.php"
-        ]
-      }
-    ],
     "FRIDAY": [
       {
         "time": "06:30",
@@ -343,6 +185,250 @@
         "event": "NBA Summer League: Minnesota Timberwolves @ LA Clippers",
         "streams": [
           "https://v4.sportsonlinne.click/channels/hd/hd5.php"
+        ]
+      }
+    ],
+    "SATURDAY": [
+      {
+        "time": "08:00",
+        "event": "Rugby: New Zealand x Ireland",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "09:30",
+        "event": "Rugby: Japan x France",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "10:00",
+        "event": "Golf: The Open Championship - D3",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "11:00",
+        "event": "Rugby: Australia x Italy",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "11:15",
+        "event": "Belgian F1 GP: Practice 3",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd2.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "12:00",
+        "event": "Twente x Gent",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "13:00",
+        "event": "Groningen x AEK Athens",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "14:00",
+        "event": "Palmeiras W x SÃ£o Paulo W",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "14:00",
+        "event": "Rugby: Fiji x Scotland",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "14:15",
+        "event": "Belgian F1 GP: Qualifying",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd2.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "14:30",
+        "event": "Basel x Juventus",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd7.php"
+        ]
+      },
+      {
+        "time": "14:30",
+        "event": "Ajax x Olympiakos Piraeus",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd11.php",
+          "https://v4.sportsonlinne.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "14:30",
+        "event": "Sportfreunde Lotte x Real Betis",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "Manchester United x Wrexham",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd2.php"
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "Rot-WeiÃ Oberhausen x Borussia Dortmund",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd3.php",
+          "https://v4.sportsonlinne.click/channels/pt/sporttv5.php"
+        ]
+      },
+      {
+        "time": "16:30",
+        "event": "Rugby: South Africa x Wales",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "Aberdeen x Queen's Park",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "17:30",
+        "event": "Zenit x Spartak Moskva",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "19:00",
+        "event": "Dundee United x Arbroath",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "19:00",
+        "event": "Olot x Espanyol",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "Sporting Braga x Celta de Vigo",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Rugby: Argentina x England",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "CriciÃºma x Vila Nova",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Boxing: Harlem Eubank vs David Papot",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "22:00",
+        "event": "France x England",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd1.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd5.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd3.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd4.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd6.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd7.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd8.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd9.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd10.php",
+          "https://v4.sportsonlinne.click/channels/hd/hd11.php",
+          "https://v4.sportsonlinne.click/channels/pt/sporttv1.php",
+          "https://v4.sportsonlinne.click/channels/pt/sporttv5.php",
+          "https://v4.sportsonlinne.click/channels/bra/br1.php",
+          "https://v4.sportsonlinne.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "22:00",
+        "event": "AtlÃ©tico-GO x Athletic",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "UFC Fight Night: Prelims",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd2.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "Millonarios x Colo-Colo",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "01:00",
+        "event": "UFC Fight Night: Dricus du Plessis vs Kamaru Usman",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd2.php",
+          "https://v4.sportsonlinne.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "02:00",
+        "event": "Boxing: Bryan Flores x Jonathan Navarro",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "02:05",
+        "event": "Monterrey x Santos Laguna",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "04:10",
+        "event": "QuerÃ©taro x AmÃ©rica",
+        "streams": [
+          "https://v4.sportsonlinne.click/channels/hd/hd10.php"
         ]
       }
     ]
