@@ -1,39 +1,6 @@
 {
-  "last_updated": "2026-07-22T10:14:34.218884Z",
+  "last_updated": "2026-07-22T17:06:55.535112Z",
   "events": {
-    "TUESDAY": [
-      {
-        "time": "01:30",
-        "event": "UCV x Santos",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd2.php",
-          "https://w1.sportsonlinee.click/channels/hd/hd6.php",
-          "https://w1.sportsonlinee.click/channels/pt/sporttv1.php",
-          "https://w1.sportsonlinee.click/channels/bra/br4.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "Vasco W x SÃ£o Paulo W",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "Cruz Azul x Puebla",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "04:00",
-        "event": "Toluca x Pumas UNAM",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd11.php"
-        ]
-      }
-    ],
     "WEDNESDAY": [
       {
         "time": "10:00",
