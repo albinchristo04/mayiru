@@ -1,29 +1,6 @@
 {
-  "last_updated": "2026-08-01T01:54:46.466750Z",
+  "last_updated": "2026-08-01T09:49:07.527889Z",
   "events": {
-    "FRIDAY": [
-      {
-        "time": "01:00",
-        "event": "Univ. ConcepciÃ³n x Audax Italiano",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "Puebla x Guadalajara",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "Fortaleza CEIF x Deportivo Pereira",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd9.php"
-        ]
-      }
-    ],
     "SATURDAY": [
       {
         "time": "10:00",
