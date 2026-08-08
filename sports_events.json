@@ -1,165 +1,6 @@
 {
-  "last_updated": "2026-08-08T00:54:26.769499Z",
+  "last_updated": "2026-08-08T08:27:54.483441Z",
   "events": {
-    "FRIDAY": [
-      {
-        "time": "10:00",
-        "event": "MotoGP: Great Britain FP1",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd5.php",
-          "https://w1.sportsonlinee.click/channels/pt/sporttv4.php",
-          "https://w1.sportsonlinee.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "13:00",
-        "event": "Bayern MÃ¼nchen x Aston Villa",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd9.php",
-          "https://w1.sportsonlinee.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "13:00",
-        "event": "Monza x Calcio Padova",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd7.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "Singapore x Indonesia",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "14:15",
-        "event": "MotoGP Great Britain Practice",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd5.php",
-          "https://w1.sportsonlinee.click/channels/pt/sporttv4.php",
-          "https://w1.sportsonlinee.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "17:30",
-        "event": "Tennis: ATP World Tour 1000: Montreal 2026",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "Ceuta x MÃ¡laga",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd6.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Cambuur x Excelsior",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd4.php"
-        ]
-      },
-      {
-        "time": "19:30",
-        "event": "WisÅa KrakÃ³w x WisÅa PÅock",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd5.php"
-        ]
-      },
-      {
-        "time": "19:30",
-        "event": "Partick Thistle x Livingston",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "19:30",
-        "event": "Bochum x Hertha BSC",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd3.php"
-        ]
-      },
-      {
-        "time": "19:45",
-        "event": "Wolverhampton Wanderers x Port Vale",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd2.php",
-          "https://w1.sportsonlinee.click/channels/pt/sporttv3.php",
-          "https://w1.sportsonlinee.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Middlesbrough x Wrexham",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd1.php",
-          "https://w1.sportsonlinee.click/channels/pt/sporttv4.php",
-          "https://w1.sportsonlinee.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "20:15",
-        "event": "Estoril x FamalicÃ£o",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "23:30",
-        "event": "OperÃ¡rio-PR x SÃ£o Bernardo FC",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "00:00",
-        "event": "Forge x Vancouver FC",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "00:00",
-        "event": "Tennis: ATP World Tour 1000: Montreal 2026",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "Cincinnati x Pumas UNAM",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd5.php",
-          "https://w1.sportsonlinee.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "Botafogo W x Fluminense W",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "Universidad CatÃ³lica x Cobresal",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "03:30",
-        "event": "Vancouver Whitecaps x JuÃ¡rez",
-        "streams": [
-          "https://w1.sportsonlinee.click/channels/hd/hd5.php"
-        ]
-      }
-    ],
     "SATURDAY": [
       {
         "time": "11:00",
@@ -465,6 +306,280 @@
       {
         "time": "04:10",
         "event": "Toluca x Los Angeles FC",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/hd/hd5.php"
+        ]
+      }
+    ],
+    "SUNDAY": [
+      {
+        "time": "10:00",
+        "event": "Moto2: GP of Great Britain",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/hd/hd4.php",
+          "https://w1.sportsonlinee.click/channels/pt/sporttv4.php",
+          "https://w1.sportsonlinee.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "11:00",
+        "event": "Farense x Torreense",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "11:15",
+        "event": "Sparta Rotterdam x Feyenoord",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/hd/hd8.php",
+          "https://w1.sportsonlinee.click/channels/pt/eleven1.php"
+        ]
+      },
+      {
+        "time": "12:00",
+        "event": "Manchester City x AtlÃ©tico Madrid",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/hd/hd6.php",
+          "https://w1.sportsonlinee.click/channels/pt/sporttv2.php",
+          "https://w1.sportsonlinee.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "12:15",
+        "event": "MotoGP: GP of Great Britain",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/hd/hd4.php",
+          "https://w1.sportsonlinee.click/channels/pt/sporttv4.php",
+          "https://w1.sportsonlinee.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "12:30",
+        "event": "St. Pauli x Greuther FÃ¼rth",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/pt/eleven2.php"
+        ]
+      },
+      {
+        "time": "12:30",
+        "event": "NÃ¼rnberg x Dynamo Dresden",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/pt/eleven3.php"
+        ]
+      },
+      {
+        "time": "13:00",
+        "event": "Vejle x HillerÃ¸d",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "13:00",
+        "event": "Chelsea x Johor Tigers",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "13:30",
+        "event": "PEC Zwolle x Ajax",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "13:30",
+        "event": "Kilmarnock x Celtic",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/hd/hd1.php"
+        ]
+      },
+      {
+        "time": "14:00",
+        "event": "Arsenal x Borussia Dortmund",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/hd/hd3.php",
+          "https://w1.sportsonlinee.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "14:15",
+        "event": "Moto3: GP of Great Britain",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/hd/hd4.php",
+          "https://w1.sportsonlinee.click/channels/pt/sporttv4.php",
+          "https://w1.sportsonlinee.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "14:30",
+        "event": "Liverpool x Monaco",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/hd/hd2.php",
+          "https://w1.sportsonlinee.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "15:00",
+        "event": "Cruzeiro x Mirassol",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "15:30",
+        "event": "AVS x Sporting CP B",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "15:30",
+        "event": "Feirense x Felgueiras",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "15:45",
+        "event": "Heerenveen x Twente",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "Rangers x Hibernian",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "Mansfield Town x Sheffield United",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/hd/hd1.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "Horsens x BrÃ¸ndby",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "Porto x Alverca",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/pt/sporttv1.php",
+          "https://w1.sportsonlinee.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "Tennis: ATP World Tour 1000: Montreal 2026",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "19:00",
+        "event": "San Lorenzo x HuracÃ¡n",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Frosinone x Lazio",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/hd/hd7.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Novorizontino x Juventude",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Palmeiras x Internacional",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Bahia x Vasco da Gama",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "20:30",
+        "event": "Gil Vicente x Rio Ave",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "20:30",
+        "event": "Benfica x Academico Viseu",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/pt/btv.php"
+        ]
+      },
+      {
+        "time": "21:45",
+        "event": "Defensa y Justicia x Newell's Old Boys",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "22:30",
+        "event": "Santos x Athletico-PR",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "22:30",
+        "event": "RB Bragantino x Corinthians",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "Tennis: ATP World Tour 1000: Montreal 2026",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "23:30",
+        "event": "Flamengo x VitÃ³ria",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "00:15",
+        "event": "Argentinos Juniors x Racing Club",
+        "streams": [
+          "https://w1.sportsonlinee.click/channels/hd/hd11.php",
+          "https://w1.sportsonlinee.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "Cruz Azul x New York City",
         "streams": [
           "https://w1.sportsonlinee.click/channels/hd/hd5.php"
         ]
