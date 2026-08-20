@@ -1,60 +1,6 @@
 {
-  "last_updated": "2026-08-20T08:25:23.068995Z",
+  "last_updated": "2026-08-20T16:21:50.909273Z",
   "events": {
-    "WEDNESDAY": [
-      {
-        "time": "01:00",
-        "event": "Sporting KC x St. Louis City",
-        "streams": [
-          "https://w2.sportsonlinee.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "Botafogo-SP x CriciÃºma",
-        "streams": [
-          "https://w2.sportsonlinee.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "Santa Fe x River Plate",
-        "streams": [
-          "https://w2.sportsonlinee.click/channels/bra/br2.php",
-          "https://w2.sportsonlinee.click/channels/hd/hd5.php",
-          "https://w2.sportsonlinee.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "Universidad CatÃ³lica x Estudiantes",
-        "streams": [
-          "https://w2.sportsonlinee.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "Flamengo x Cruzeiro",
-        "streams": [
-          "https://w2.sportsonlinee.click/channels/pt/sporttv1.php",
-          "https://w2.sportsonlinee.click/channels/bra/br4.php"
-        ]
-      },
-      {
-        "time": "03:30",
-        "event": "LA Galaxy x SJ Earthquakes",
-        "streams": [
-          "https://w2.sportsonlinee.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "03:30",
-        "event": "Vancouver Whitecaps x Houston Dynamo",
-        "streams": [
-          "https://w2.sportsonlinee.click/channels/hd/hd10.php"
-        ]
-      }
-    ],
     "THURSDAY": [
       {
         "time": "12:30",
