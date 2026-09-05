@@ -1,29 +1,6 @@
 {
-  "last_updated": "2026-09-05T02:02:06.279352Z",
+  "last_updated": "2026-09-05T11:28:50.081632Z",
   "events": {
-    "FRIDAY": [
-      {
-        "time": "23:30",
-        "event": "CriciÃºma x CuiabÃ¡",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "Palmeiras W x Bahia W",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/bra/br3.php"
-        ]
-      },
-      {
-        "time": "04:00",
-        "event": "JuÃ¡rez x Pachuca",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd5.php"
-        ]
-      }
-    ],
     "SATURDAY": [
       {
         "time": "11:00",
