@@ -1,349 +1,149 @@
 {
-  "last_updated": "2026-09-13T18:24:59.268286Z",
+  "last_updated": "2026-09-14T02:24:48.151267Z",
   "events": {
-    "SUNDAY": [
-      {
-        "time": "09:00",
-        "event": "Moto3: GP of San Marino",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd5.php",
-          "https://w6.sportsonliine.click/channels/pt/sporttv4.php",
-          "https://w6.sportsonliine.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "11:00",
-        "event": "Moto2: GP of San Marino",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd5.php",
-          "https://w6.sportsonliine.click/channels/pt/sporttv4.php",
-          "https://w6.sportsonliine.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "11:00",
-        "event": "AVS x Farense",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "12:00",
-        "event": "Rangers x Celtic",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd10.php",
-          "https://w6.sportsonliine.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "12:00",
-        "event": "Manchester United W x Chelsea FC W",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "12:00",
-        "event": "Sheffield United x Wolverhampton Wanderers",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd9.php",
-          "https://w6.sportsonliine.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "12:15",
-        "event": "MotoGP: GP of San Marino",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd5.php",
-          "https://w6.sportsonliine.click/channels/pt/sporttv4.php",
-          "https://w6.sportsonliine.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "13:00",
-        "event": "Celta de Vigo x MÃ¡laga",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd6.php",
-          "https://w6.sportsonliine.click/channels/pt/eleven2.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "Coventry City x Brighton & Hove Albion",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd1.php",
-          "https://w6.sportsonliine.click/channels/pt/eleven1.php",
-          "https://w6.sportsonliine.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "Lecce x Monza",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd11.php",
-          "https://w6.sportsonliine.click/channels/hd/hd7.php",
-          "https://w6.sportsonliine.click/channels/pt/sporttv5.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "Lille x Troyes",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd4.php",
-          "https://w6.sportsonliine.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "Spanish F1 Grand Prix",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd2.php",
-          "https://w6.sportsonliine.click/channels/hd/hd8.php",
-          "https://w6.sportsonliine.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "14:30",
-        "event": "RB Leipzig x Hamburger SV",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd3.php",
-          "https://w6.sportsonliine.click/channels/pt/eleven3.php"
-        ]
-      },
-      {
-        "time": "15:15",
-        "event": "Levante x Barcelona",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd10.php",
-          "https://w6.sportsonliine.click/channels/hd/hd6.php",
-          "https://w6.sportsonliine.click/channels/pt/eleven2.php",
-          "https://w6.sportsonliine.click/channels/bra/br3.php"
-        ]
-      },
-      {
-        "time": "15:30",
-        "event": "Amarante x UniÃ£o de Leiria",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "16:15",
-        "event": "Le Mans x Lens",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd4.php",
-          "https://w6.sportsonliine.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "16:30",
-        "event": "Manchester United x Manchester City",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd1.php",
-          "https://w6.sportsonliine.click/channels/hd/hd2.php",
-          "https://w6.sportsonliine.click/channels/pt/eleven1.php",
-          "https://w6.sportsonliine.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "16:30",
-        "event": "Elversberg x Bayern MÃ¼nchen",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd9.php",
-          "https://w6.sportsonliine.click/channels/hd/hd3.php",
-          "https://w6.sportsonliine.click/channels/pt/eleven3.php"
-        ]
-      },
+    "MONDAY": [
       {
         "time": "17:00",
-        "event": "Napoli x Bologna",
+        "event": "Al Shamal x Al Ittihad",
         "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd11.php",
-          "https://w6.sportsonliine.click/channels/hd/hd8.php",
-          "https://w6.sportsonliine.click/channels/pt/sporttv5.php"
+          "https://w6.sportsonliine.click/channels/hd/hd10.php"
         ]
       },
       {
         "time": "17:30",
-        "event": "Getafe x Deportivo La CoruÃ±a",
+        "event": "Como x Parma",
         "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd10.php",
+          "https://w6.sportsonliine.click/channels/hd/hd8.php",
+          "https://w6.sportsonliine.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "17:30",
+        "event": "Torino x Roma",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd7.php",
+          "https://w6.sportsonliine.click/channels/pt/sporttv1.php",
+          "https://w6.sportsonliine.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "Gaziantep FK x FenerbahÃ§e",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd3.php",
+          "https://w6.sportsonliine.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "18:45",
+        "event": "Rio Ave x Estrela",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "19:15",
+        "event": "Esteghlal x Al Sadd",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "19:15",
+        "event": "Al-Ahli x Pakhtakor",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Internazionale x Udinese",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd5.php",
+          "https://w6.sportsonliine.click/channels/hd/hd7.php",
+          "https://w6.sportsonliine.click/channels/pt/sporttv3.php",
+          "https://w6.sportsonliine.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Red Star x Metz",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd4.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Leeds United x Newcastle United",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd1.php",
+          "https://w6.sportsonliine.click/channels/pt/eleven1.php",
+          "https://w6.sportsonliine.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Villarreal x Real Betis",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd2.php",
           "https://w6.sportsonliine.click/channels/hd/hd6.php",
           "https://w6.sportsonliine.click/channels/pt/eleven2.php"
         ]
       },
       {
-        "time": "18:00",
-        "event": "Arouca x Santa Clara",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "Benfica x Gil Vicente",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/pt/btv.php"
-        ]
-      },
-      {
-        "time": "18:30",
-        "event": "Aston Villa W x Manchester City W",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "18:45",
-        "event": "Tigre x Rosario Central",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "PSV x Sparta Rotterdam",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/pt/eleven3.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Tennis: US Open Men's Final",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd2.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Surf: WSL - Lexus Trestles Pro",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/pt/sporttv5.php"
-        ]
-      },
-      {
-        "time": "19:30",
-        "event": "Panathinaikos x Panaitolikos",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd5.php"
-        ]
-      },
-      {
-        "time": "19:45",
-        "event": "Sassuolo x Juventus",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd11.php",
-          "https://w6.sportsonliine.click/channels/hd/hd7.php",
-          "https://w6.sportsonliine.click/channels/pt/sporttv4.php",
-          "https://w6.sportsonliine.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "19:45",
-        "event": "Brest x PSG",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd4.php",
-          "https://w6.sportsonliine.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Real Sociedad x AtlÃ©tico Madrid",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd10.php",
-          "https://w6.sportsonliine.click/channels/hd/hd6.php",
-          "https://w6.sportsonliine.click/channels/pt/eleven1.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Trento x Union Brescia",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Mirassol x VitÃ³ria",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/bra/br5.php"
-        ]
-      },
-      {
-        "time": "20:30",
-        "event": "FamalicÃ£o x Sporting CP",
+        "time": "20:45",
+        "event": "Sporting Braga x Estoril",
         "streams": [
           "https://w6.sportsonliine.click/channels/pt/sporttv1.php"
         ]
       },
       {
-        "time": "21:00",
-        "event": "Argentinos Juniors x Gimnasia La Plata",
+        "time": "23:00",
+        "event": "Deportivo Riestra x LanÃºs",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "Banfield x Barracas Central",
         "streams": [
           "https://w6.sportsonliine.click/channels/hd/hd9.php"
         ]
       },
       {
-        "time": "21:30",
-        "event": "Flamengo x Corinthians",
+        "time": "23:30",
+        "event": "Botafogo SP x GoiÃ¡s",
         "streams": [
-          "https://w6.sportsonliine.click/channels/bra/br4.php"
+          "https://w6.sportsonliine.click/channels/bra/br6.php"
         ]
       },
       {
-        "time": "22:00",
-        "event": "NFL: Commanders @ Eagles",
+        "time": "00:00",
+        "event": "Bahia x Remo",
         "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd2.php"
+          "https://w6.sportsonliine.click/channels/bra/br1.php"
         ]
       },
       {
-        "time": "22:05",
-        "event": "AtlÃ©tico Nacional x Rionegro Ãguilas",
+        "time": "01:15",
+        "event": "Instituto x Estudiantes RÃ­o Cuarto",
         "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "23:15",
-        "event": "Independiente x San Lorenzo",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "00:10",
-        "event": "Once Caldas x Deportivo Cali",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "01:10",
-        "event": "NFL: Cowboys @ Giants",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd2.php"
+          "https://w6.sportsonliine.click/channels/hd/hd9.php"
         ]
       },
       {
         "time": "01:30",
-        "event": "HuracÃ¡n x Racing Club",
+        "event": "AvaÃ­ x Vila Nova",
         "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd9.php"
+          "https://w6.sportsonliine.click/channels/bra/br6.php"
         ]
       },
       {
-        "time": "02:15",
-        "event": "CÃºcuta Deportivo x Millonarios",
+        "time": "02:00",
+        "event": "AmÃ©rica de Cali x Deportivo Pasto",
         "streams": [
           "https://w6.sportsonliine.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "04:15",
-        "event": "Cruz Azul x AmÃ©rica",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd10.php"
         ]
       }
     ]
