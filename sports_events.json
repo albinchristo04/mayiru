@@ -1,64 +1,6 @@
 {
-  "last_updated": "2026-09-15T02:29:43.888024Z",
+  "last_updated": "2026-09-15T12:59:10.021234Z",
   "events": {
-    "MONDAY": [
-      {
-        "time": "20:45",
-        "event": "Sporting Braga x Estoril",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "23:00",
-        "event": "Deportivo Riestra x LanÃºs",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "23:00",
-        "event": "Banfield x Barracas Central",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "23:30",
-        "event": "Botafogo SP x GoiÃ¡s",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "00:00",
-        "event": "Bahia x Remo",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "01:15",
-        "event": "Instituto x Estudiantes RÃ­o Cuarto",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "AvaÃ­ x Vila Nova",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "AmÃ©rica de Cali x Deportivo Pasto",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd11.php"
-        ]
-      }
-    ],
     "TUESDAY": [
       {
         "time": "17:00",
