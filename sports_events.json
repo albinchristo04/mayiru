@@ -1,103 +1,77 @@
 {
-  "last_updated": "2026-09-21T20:11:33.510621Z",
+  "last_updated": "2026-09-22T02:27:26.468056Z",
   "events": {
-    "MONDAY": [
+    "TUESDAY": [
       {
-        "time": "16:00",
-        "event": "OÅ£elul x Corvinul Hunedoara",
+        "time": "17:45",
+        "event": "Bayern W x Manchester City W",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd1.php",
+          "https://w6.sportsonliine.click/channels/hd/hd6.php"
+        ]
+      },
+      {
+        "time": "17:45",
+        "event": "Inter Milano W x HÃ¤cken Damer W",
         "streams": [
           "https://w6.sportsonliine.click/channels/hd/hd5.php"
         ]
       },
       {
-        "time": "17:00",
-        "event": "Werder Bremen W x Stuttgart W",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd4.php"
-        ]
-      },
-      {
-        "time": "17:30",
-        "event": "Montana x Hebar 1918",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "HB KÃ¸ge x Hobro",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd3.php"
-        ]
-      },
-      {
-        "time": "18:30",
-        "event": "Aldosivi x AtlÃ©tico TucumÃ¡n",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "Petrolul 52 x Csikszereda",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd5.php"
-        ]
-      },
-      {
-        "time": "19:30",
-        "event": "Nuova Monterosi x Livorno",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd7.php"
-        ]
-      },
-      {
-        "time": "19:30",
-        "event": "Spezia x Vis Pesaro",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "19:30",
-        "event": "Pianese x Sambenedettese",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "19:30",
-        "event": "Treviso x Desenzano Calvina",
+        "time": "19:45",
+        "event": "East Kilbride x Celtic II",
         "streams": [
           "https://w6.sportsonliine.click/channels/hd/hd2.php"
         ]
       },
       {
-        "time": "23:00",
-        "event": "Barracas Central x Independiente Rivadavia",
+        "time": "20:00",
+        "event": "Arsenal W x KÃ¸ge Kvinder W",
         "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd10.php"
+          "https://w6.sportsonliine.click/channels/hd/hd1.php",
+          "https://w6.sportsonliine.click/channels/hd/hd6.php"
         ]
       },
       {
-        "time": "23:30",
-        "event": "CriciÃºma x OperÃ¡rio PR",
+        "time": "20:00",
+        "event": "Real Madrid W x PSG W",
         "streams": [
-          "https://w6.sportsonliine.click/channels/bra/br2.php"
+          "https://w6.sportsonliine.click/channels/hd/hd5.php"
         ]
       },
       {
-        "time": "01:15",
-        "event": "LanÃºs x Estudiantes",
+        "time": "22:00",
+        "event": "Ind. Yumbo x Internacional Palmira",
         "streams": [
           "https://w6.sportsonliine.click/channels/hd/hd11.php"
         ]
       },
       {
-        "time": "01:30",
-        "event": "Corinthians W x Bahia W",
+        "time": "22:00",
+        "event": "Puerto Montt x Ãublense",
         "streams": [
-          "https://w6.sportsonliine.click/channels/bra/br1.php"
+          "https://w6.sportsonliine.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "MedellÃ­n x Jaguares de CÃ³rdoba",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "Cobreloa x Coquimbo Unido",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "02:00",
+        "event": "Santa Fe x Deportivo Cali",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd11.php"
         ]
       }
     ]
