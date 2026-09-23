@@ -1,77 +1,273 @@
 {
-  "last_updated": "2026-09-23T02:27:03.247805Z",
+  "last_updated": "2026-09-23T13:07:12.046279Z",
   "events": {
     "TUESDAY": [
       {
-        "time": "17:45",
-        "event": "Bayern W x Manchester City W",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd1.php",
-          "https://w6.sportsonliine.click/channels/hd/hd6.php"
-        ]
-      },
-      {
-        "time": "17:45",
-        "event": "Inter Milano W x HÃ¤cken Damer W",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd5.php"
-        ]
-      },
-      {
-        "time": "19:45",
-        "event": "East Kilbride x Celtic II",
+        "time": "14:00",
+        "event": "Italy U20 x Spain U20",
         "streams": [
           "https://w6.sportsonliine.click/channels/hd/hd2.php"
         ]
       },
       {
-        "time": "20:00",
-        "event": "Arsenal W x KÃ¸ge Kvinder W",
+        "time": "17:00",
+        "event": "Azerbaijan x Tajikistan",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "Gibraltar x Sao Tome e Principe",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/pt/sporttv1.php",
+          "https://w6.sportsonliine.click/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "17:30",
+        "event": "Korea DPR U20 x Colombia U20",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd2.php"
+        ]
+      },
+      {
+        "time": "17:45",
+        "event": "Servette ChÃªnois W x OL Lyonnes W",
         "streams": [
           "https://w6.sportsonliine.click/channels/hd/hd1.php",
+          "https://w6.sportsonliine.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "17:45",
+        "event": "OH Leuven W x Roma W",
+        "streams": [
           "https://w6.sportsonliine.click/channels/hd/hd6.php"
         ]
       },
       {
+        "time": "19:00",
+        "event": "Saudi Arabia x Kuwait",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
         "time": "20:00",
-        "event": "Real Madrid W x PSG W",
+        "event": "Barcelona W x Paris FC W",
         "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd5.php"
+          "https://w6.sportsonliine.click/channels/hd/hd6.php",
+          "https://w6.sportsonliine.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Chelsea FC W x Austria Wien W",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd1.php"
+        ]
+      },
+      {
+        "time": "21:00",
+        "event": "Bahamas x Saint Martin",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd2.php"
         ]
       },
       {
         "time": "22:00",
-        "event": "Ind. Yumbo x Internacional Palmira",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "22:00",
-        "event": "Puerto Montt x Ãublense",
+        "event": "CuricÃ³ Unido x Deportes ConcepciÃ³n",
         "streams": [
           "https://w6.sportsonliine.click/channels/hd/hd10.php"
         ]
       },
       {
         "time": "00:00",
-        "event": "MedellÃ­n x Jaguares de CÃ³rdoba",
+        "event": "Aruba x Antigua and Barbuda",
         "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd11.php"
+          "https://w6.sportsonliine.click/channels/hd/hd2.php"
         ]
       },
       {
         "time": "00:30",
-        "event": "Cobreloa x Coquimbo Unido",
+        "event": "Deportes Iquique x Antofagasta",
         "streams": [
           "https://w6.sportsonliine.click/channels/hd/hd10.php"
         ]
       },
       {
-        "time": "02:00",
-        "event": "Santa Fe x Deportivo Cali",
+        "time": "01:30",
+        "event": "AmÃ©rica de Cali x Rionegro Ãguilas",
         "streams": [
           "https://w6.sportsonliine.click/channels/hd/hd11.php"
+        ]
+      }
+    ],
+    "THURSDAY": [
+      {
+        "time": "08:00",
+        "event": "Tennis: ATP World Tour 250: Chengdu",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "09:00",
+        "event": "Azerbaijan F1 GP: Practice 1",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd5.php",
+          "https://w6.sportsonliine.click/channels/hd/hd7.php",
+          "https://w6.sportsonliine.click/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "10:55",
+        "event": "Azerbaijan F2: Qualifying",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd5.php",
+          "https://w6.sportsonliine.click/channels/hd/hd7.php",
+          "https://w6.sportsonliine.click/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "12:00",
+        "event": "Korea Republic x Ecuador",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd6.php"
+        ]
+      },
+      {
+        "time": "14:00",
+        "event": "Namibia x Congo",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd10.php",
+          "https://w6.sportsonliine.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "Congo DR x Equatorial Guinea",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "Mauritania x Central African Republic",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "Andorra x Malta",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd8.php",
+          "https://w6.sportsonliine.click/channels/pt/sporttv2.php",
+          "https://w6.sportsonliine.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Austria x Israel",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd11.php",
+          "https://w6.sportsonliine.click/channels/hd/hd10.php",
+          "https://w6.sportsonliine.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Netherlands x Germany",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd3.php",
+          "https://w6.sportsonliine.click/channels/hd/hd4.php",
+          "https://w6.sportsonliine.click/channels/pt/sporttv2.php",
+          "https://w6.sportsonliine.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Liechtenstein x Lithuania",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Kosovo x Ireland Republic",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Norway x Denmark",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd2.php",
+          "https://w6.sportsonliine.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Portugal x Wales",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd1.php",
+          "https://w6.sportsonliine.click/channels/pt/sporttv1.php",
+          "https://w6.sportsonliine.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Serbia x Greece",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd7.php",
+          "https://w6.sportsonliine.click/channels/pt/sporttv4.php",
+          "https://w6.sportsonliine.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "CÃ´te d'Ivoire x Ghana",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd10.php",
+          "https://w6.sportsonliine.click/channels/pt/sporttv5.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Cameroon x Comoros",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "01:00",
+        "event": "Dominican Republic x Nicaragua",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd2.php"
+        ]
+      },
+      {
+        "time": "01:00",
+        "event": "BJJ 11: Musumeci vs Mitchell",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "01:30",
+        "event": "AtlÃ©tico Nacional x Millonarios",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "03:00",
+        "event": "Costa Rica x CuraÃ§ao",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd2.php"
         ]
       }
     ]
