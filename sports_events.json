@@ -1,62 +1,7 @@
 {
-  "last_updated": "2026-09-24T02:15:43.261836Z",
+  "last_updated": "2026-09-24T13:01:15.498903Z",
   "events": {
-    "TUESDAY": [
-      {
-        "time": "00:00",
-        "event": "Aruba x Antigua and Barbuda",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd2.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "Deportes Iquique x Antofagasta",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "AmÃ©rica de Cali x Rionegro Ãguilas",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd11.php"
-        ]
-      }
-    ],
     "THURSDAY": [
-      {
-        "time": "08:00",
-        "event": "Tennis: ATP World Tour 250: Chengdu",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "09:00",
-        "event": "Azerbaijan F1 GP: Practice 1",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd5.php",
-          "https://w6.sportsonliine.click/channels/hd/hd7.php",
-          "https://w6.sportsonliine.click/channels/bra/br5.php"
-        ]
-      },
-      {
-        "time": "10:55",
-        "event": "Azerbaijan F2: Qualifying",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd5.php",
-          "https://w6.sportsonliine.click/channels/hd/hd7.php",
-          "https://w6.sportsonliine.click/channels/bra/br5.php"
-        ]
-      },
-      {
-        "time": "12:00",
-        "event": "Korea Republic x Ecuador",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd6.php"
-        ]
-      },
       {
         "time": "14:00",
         "event": "Namibia x Congo",
