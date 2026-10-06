@@ -1,51 +1,6 @@
 {
-  "last_updated": "2026-10-06T03:52:52.683440Z",
+  "last_updated": "2026-10-06T14:35:40.065556Z",
   "events": {
-    "MONDAY": [
-      {
-        "time": "23:00",
-        "event": "Martinique x El Salvador",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "23:00",
-        "event": "Estudiantes x Gimnasia Mendoza",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd10.php",
-          "https://w6.sportsonliine.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "Guatemala x Suriname",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "MedellÃ­n x Santa Fe",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "01:15",
-        "event": "Banfield x Rosario Central",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "03:00",
-        "event": "Honduras x Jamaica",
-        "streams": [
-          "https://w6.sportsonliine.click/channels/hd/hd1.php"
-        ]
-      }
-    ],
     "TUESDAY": [
       {
         "time": "10:00",
@@ -209,6 +164,113 @@
         "event": "Mexico x Chile",
         "streams": [
           "https://w6.sportsonliine.click/channels/hd/hd9.php"
+        ]
+      }
+    ],
+    "WEDNESDAY": [
+      {
+        "time": "11:00",
+        "event": "Tennis: ATP World Tour 1000: Shangai",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "12:00",
+        "event": "Zonguldak KÃ¶mÃ¼rspor x DÃ¼zcespor",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "15:00",
+        "event": "Malatya YS x Gelecek Siirt",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "Inter Toronto x Supra du Quebec",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd1.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "EskiÅehirspor x Aksehirspor",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "Basketball: Euro Cup - Manresa x ULM",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "23:30",
+        "event": "Remo x GrÃªmio",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "23:30",
+        "event": "Internacional x Corinthians",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "23:30",
+        "event": "RB Bragantino x Mirassol",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "VitÃ³ria x Chapecoense",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "Forge x Pacific FC",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd1.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "NHL: Washington Capitals x Pittsburgh Penguins",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "Botafogo x Vasco da Gama",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "01:30",
+        "event": "Cruzeiro x SÃ£o Paulo",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "02:20",
+        "event": "AtlÃ©tico Nacional x Deportes Tolima",
+        "streams": [
+          "https://w6.sportsonliine.click/channels/hd/hd10.php"
         ]
       }
     ]
