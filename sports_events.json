@@ -1,36 +1,6 @@
 {
-  "last_updated": "2026-10-12T03:19:34.045597Z",
+  "last_updated": "2026-10-12T17:08:01.172084Z",
   "events": {
-    "SUNDAY": [
-      {
-        "time": "00:10",
-        "event": "Pachuca x Necaxa",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "01:10",
-        "event": "NFL: Ravens @ Falcons",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "Talleres CÃ³rdoba x Independiente",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "02:15",
-        "event": "Pumas UNAM x Cruz Azul",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd9.php"
-        ]
-      }
-    ],
     "MONDAY": [
       {
         "time": "11:00",
