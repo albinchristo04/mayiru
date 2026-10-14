@@ -1,37 +1,6 @@
 {
-  "last_updated": "2026-10-14T02:43:50.560814Z",
+  "last_updated": "2026-10-14T13:10:17.803261Z",
   "events": {
-    "TUESDAY": [
-      {
-        "time": "00:30",
-        "event": "AtlÃ©tico Bucaramanga x Rionegro Ãguilas",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "Brazil W x Argentina W",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "Boca Juniors x Vasco da Gama",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd5.php",
-          "https://ww1.sportsonnline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "02:30",
-        "event": "Millonarios x Once Caldas",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd10.php"
-        ]
-      }
-    ],
     "WEDNESDAY": [
       {
         "time": "11:00",
