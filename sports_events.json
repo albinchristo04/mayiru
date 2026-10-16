@@ -1,24 +1,6 @@
 {
-  "last_updated": "2026-10-16T12:51:04.412073Z",
+  "last_updated": "2026-10-16T19:07:37.854903Z",
   "events": {
-    "THURSDAY": [
-      {
-        "time": "01:00",
-        "event": "UniversitÃ¡rio W x Palmeiras W",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "Estudiantes x Flamengo",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd5.php",
-          "https://ww1.sportsonnline.click/channels/pt/sporttv1.php",
-          "https://ww1.sportsonnline.click/channels/bra/br2.php"
-        ]
-      }
-    ],
     "FRIDAY": [
       {
         "time": "07:30",
