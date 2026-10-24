@@ -1,40 +1,6 @@
 {
-  "last_updated": "2026-10-24T02:32:43.142382Z",
+  "last_updated": "2026-10-24T12:20:27.655905Z",
   "events": {
-    "FRIDAY": [
-      {
-        "time": "02:10",
-        "event": "Junior x Rionegro Ãguilas",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "02:45",
-        "event": "Moto2/3: Australia Qualifying",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd2.php",
-          "https://ww1.sportsonnline.click/channels/pt/sporttv4.php",
-          "https://ww1.sportsonnline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "04:00",
-        "event": "Atlante x AtlÃ©tico San Luis",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "04:45",
-        "event": "MotoGP: Australia Sprint Race",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd2.php",
-          "https://ww1.sportsonnline.click/channels/pt/sporttv4.php",
-          "https://ww1.sportsonnline.click/channels/bra/br6.php"
-        ]
-      }
-    ],
     "SATURDAY": [
       {
         "time": "05:00",
@@ -584,7 +550,8 @@
         "streams": [
           "https://ww1.sportsonnline.click/channels/hd/hd3.php",
           "https://ww1.sportsonnline.click/channels/hd/hd7.php",
-          "https://ww1.sportsonnline.click/channels/pt/sporttv2.php"
+          "https://ww1.sportsonnline.click/channels/pt/sporttv2.php",
+          "https://ww1.sportsonnline.click/channels/bra/br2.php"
         ]
       },
       {
@@ -608,7 +575,8 @@
         "time": "13:30",
         "event": "PSV x Feyenoord",
         "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd9.php"
+          "https://ww1.sportsonnline.click/channels/hd/hd9.php",
+          "https://ww1.sportsonnline.click/channels/bra/br3.php"
         ]
       },
       {
@@ -616,7 +584,8 @@
         "event": "Manchester United x AFC Bournemouth",
         "streams": [
           "https://ww1.sportsonnline.click/channels/hd/hd1.php",
-          "https://ww1.sportsonnline.click/channels/pt/eleven1.php"
+          "https://ww1.sportsonnline.click/channels/pt/eleven1.php",
+          "https://ww1.sportsonnline.click/channels/bra/br5.php"
         ]
       },
       {
@@ -624,7 +593,8 @@
         "event": "Liverpool x Brighton & Hove Albion",
         "streams": [
           "https://ww1.sportsonnline.click/channels/hd/hd5.php",
-          "https://ww1.sportsonnline.click/channels/pt/eleven2.php"
+          "https://ww1.sportsonnline.click/channels/pt/eleven2.php",
+          "https://ww1.sportsonnline.click/channels/bra/br2.php"
         ]
       },
       {
@@ -645,7 +615,8 @@
         "time": "14:00",
         "event": "Atalanta x Frosinone",
         "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd7.php"
+          "https://ww1.sportsonnline.click/channels/hd/hd7.php",
+          "https://ww1.sportsonnline.click/channels/bra/br4.php"
         ]
       },
       {
@@ -674,7 +645,8 @@
         "time": "14:30",
         "event": "Hoffenheim x Bayer Leverkusen",
         "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd3.php"
+          "https://ww1.sportsonnline.click/channels/hd/hd3.php",
+          "https://ww1.sportsonnline.click/channels/bra/br1.php"
         ]
       },
       {
@@ -726,7 +698,8 @@
         "event": "Sunderland x Leeds United",
         "streams": [
           "https://ww1.sportsonnline.click/channels/hd/hd1.php",
-          "https://ww1.sportsonnline.click/channels/pt/eleven2.php"
+          "https://ww1.sportsonnline.click/channels/pt/eleven2.php",
+          "https://ww1.sportsonnline.click/channels/bra/br2.php"
         ]
       },
       {
@@ -780,7 +753,8 @@
         "event": "Udinese x Milan",
         "streams": [
           "https://ww1.sportsonnline.click/channels/hd/hd7.php",
-          "https://ww1.sportsonnline.click/channels/pt/sporttv3.php"
+          "https://ww1.sportsonnline.click/channels/pt/sporttv3.php",
+          "https://ww1.sportsonnline.click/channels/bra/br2.php"
         ]
       },
       {
@@ -799,7 +773,8 @@
           "https://ww1.sportsonnline.click/channels/hd/hd1.php",
           "https://ww1.sportsonnline.click/channels/hd/hd2.php",
           "https://ww1.sportsonnline.click/channels/hd/hd6.php",
-          "https://ww1.sportsonnline.click/channels/pt/eleven1.php"
+          "https://ww1.sportsonnline.click/channels/pt/eleven1.php",
+          "https://ww1.sportsonnline.click/channels/bra/br5.php"
         ]
       },
       {
@@ -842,7 +817,8 @@
         "time": "22:15",
         "event": "River Plate x Racing Club",
         "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd9.php"
+          "https://ww1.sportsonnline.click/channels/hd/hd9.php",
+          "https://ww1.sportsonnline.click/channels/bra/br2.php"
         ]
       },
       {
