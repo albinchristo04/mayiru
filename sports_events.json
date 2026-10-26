@@ -1,64 +1,6 @@
 {
-  "last_updated": "2026-10-26T02:19:56.259735Z",
+  "last_updated": "2026-10-26T14:40:26.325269Z",
   "events": {
-    "SUNDAY": [
-      {
-        "time": "23:00",
-        "event": "Atlas x Puebla",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "23:00",
-        "event": "Deportivo Garcilaso x Los Chankas",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "23:00",
-        "event": "NBA: Detroit Pistons @ Philadelphia 76ers",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "00:10",
-        "event": "NFL: Chiefs @ Seahawks",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "Barracas Central x Estudiantes RÃ­o Cuarto",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "Central CÃ³rdoba SdE x VÃ©lez Sarsfield",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "01:05",
-        "event": "AmÃ©rica x Pachuca",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "03:10",
-        "event": "Tijuana x Santos Laguna",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd8.php"
-        ]
-      }
-    ],
     "MONDAY": [
       {
         "time": "12:30",
