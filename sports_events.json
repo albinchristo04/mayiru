@@ -1,50 +1,6 @@
 {
-  "last_updated": "2026-10-27T02:55:53.186592Z",
+  "last_updated": "2026-10-27T13:45:18.026258Z",
   "events": {
-    "MONDAY": [
-      {
-        "time": "22:00",
-        "event": "UniÃ³n Santa Fe x Estudiantes",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "22:30",
-        "event": "Coritiba x GrÃªmio",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/bra/br3.php"
-        ]
-      },
-      {
-        "time": "23:00",
-        "event": "Flamengo x AtlÃ©tico Mineiro",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "23:30",
-        "event": "NBA: Chicago Bulls @ Boston Celtics",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "00:00",
-        "event": "NFL: Cowboys @ Eagles",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "00:15",
-        "event": "Instituto x Deportivo Riestra",
-        "streams": [
-          "https://ww1.sportsonnline.click/channels/hd/hd11.php"
-        ]
-      }
-    ],
     "TUESDAY": [
       {
         "time": "11:00",
