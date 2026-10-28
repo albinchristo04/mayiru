@@ -1,13 +1,13 @@
 [
   {
     "source_url": "https://streamtpmedia.com/global1.php?stream=tudn_usa",
-    "extracted_at": "2026-10-27T23:10:06.983478",
+    "extracted_at": "2026-10-28T02:13:46.125448",
     "status": "error",
     "error": "Extraction failed: No iframe found on the page"
   },
   {
     "source_url": "https://sportzonline.live/channels/hd/hd9.php",
-    "extracted_at": "2026-10-27T23:10:06.983478",
+    "extracted_at": "2026-10-28T02:13:46.125448",
     "status": "error",
     "error": "Extraction failed: Tutti i 3 tentativi falliti per https://sportzonline.live/channels/hd/hd9.php: Cannot connect to host sportzonline.live:443 ssl:default [Name or service not known]"
   }
