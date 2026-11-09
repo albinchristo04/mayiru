@@ -1,421 +1,133 @@
 {
-  "last_updated": "2026-11-08T20:01:38.533758Z",
+  "last_updated": "2026-11-09T03:42:07.406126Z",
   "events": {
-    "SUNDAY": [
+    "MONDAY": [
       {
-        "time": "07:00",
-        "event": "Golf: DP World Tour - Abu Dhabi HSBC Championship - D4",
+        "time": "12:00",
+        "event": "Tennis: ATP World Tour 250: Stockholm",
         "streams": [
+          "https://sportsoonline.click/channels/hd/hd5.php",
           "https://sportsoonline.click/channels/pt/sporttv3.php"
         ]
       },
       {
-        "time": "11:00",
-        "event": "Feirense x Lusitania FC Lourosa",
-        "streams": [
-          "https://sportsoonline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "11:15",
-        "event": "Heerenveen x Feyenoord",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd10.php",
-          "https://sportsoonline.click/channels/pt/eleven1.php"
-        ]
-      },
-      {
-        "time": "11:30",
-        "event": "Napoli x Lazio",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd7.php",
-          "https://sportsoonline.click/channels/hd/hd3.php",
-          "https://sportsoonline.click/channels/pt/sporttv2.php",
-          "https://sportsoonline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "12:00",
-        "event": "Moto3: Grand Prix of Qatar",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd5.php",
-          "https://sportsoonline.click/channels/pt/sporttv4.php",
-          "https://sportsoonline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "13:00",
-        "event": "Elche x Real Betis",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd6.php",
-          "https://sportsoonline.click/channels/pt/eleven3.php"
-        ]
-      },
-      {
-        "time": "13:00",
-        "event": "Ãorum Belediyespor x FenerbahÃ§e",
-        "streams": [
-          "https://sportsoonline.click/channels/pt/sporttv3.php",
-          "https://sportsoonline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "13:00",
-        "event": "Mamelodi Sundowns x USM Alger",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "13:30",
-        "event": "Twente x Ajax",
+        "time": "12:30",
+        "event": "ASU Poli TimiÅoara x AFCM ReÅiÅ£a",
         "streams": [
           "https://sportsoonline.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "Crystal Palace x Liverpool",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd1.php",
-          "https://sportsoonline.click/channels/pt/eleven1.php",
-          "https://sportsoonline.click/channels/bra/br3.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "Sunderland x Chelsea",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd2.php",
-          "https://sportsoonline.click/channels/pt/eleven2.php",
-          "https://sportsoonline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "Ipswich Town x AFC Bournemouth",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "Genoa x Milan",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd7.php",
-          "https://sportsoonline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "Rennes x Lille",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd4.php"
-        ]
-      },
-      {
-        "time": "14:00",
-        "event": "Moto2: Grand Prix of Qatar",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd5.php",
-          "https://sportsoonline.click/channels/pt/sporttv4.php",
-          "https://sportsoonline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "14:30",
-        "event": "KÃ¶ln x Bayer Leverkusen",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd3.php"
         ]
       },
       {
         "time": "15:00",
-        "event": "Rugby: England x Australia",
-        "streams": [
-          "https://sportsoonline.click/channels/pt/sporttv5.php"
-        ]
-      },
-      {
-        "time": "15:15",
-        "event": "Real Sociedad x Rayo Vallecano",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd6.php",
-          "https://sportsoonline.click/channels/pt/eleven3.php"
-        ]
-      },
-      {
-        "time": "15:15",
-        "event": "MotoGP: Grand Prix of Qatar",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd5.php",
-          "https://sportsoonline.click/channels/pt/sporttv4.php",
-          "https://sportsoonline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "15:30",
-        "event": "Estoril x MarÃ­timo",
-        "streams": [
-          "https://sportsoonline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "15:30",
-        "event": "Santa Clara x Gil Vicente",
-        "streams": [
-          "https://sportsoonline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "15:30",
-        "event": "Alanyaspor x Trabzonspor",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "15:45",
-        "event": "Cambuur x PSV",
+        "event": "CS Dinamo BucureÈti x CSM RÃ¢mnicu VÃ¢lcea",
         "streams": [
           "https://sportsoonline.click/channels/hd/hd10.php"
         ]
       },
       {
-        "time": "16:15",
-        "event": "Le Mans x Monaco",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd4.php"
-        ]
-      },
-      {
-        "time": "16:30",
-        "event": "Manchester United x Aston Villa",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd1.php",
-          "https://sportsoonline.click/channels/hd/hd2.php",
-          "https://sportsoonline.click/channels/pt/eleven1.php",
-          "https://sportsoonline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "16:30",
-        "event": "Freiburg x Union Berlin",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd3.php",
-          "https://sportsoonline.click/channels/bra/br1.php"
-        ]
-      },
-      {
         "time": "17:00",
-        "event": "Internazionale x Como",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd7.php"
-        ]
-      },
-      {
-        "time": "17:00",
-        "event": "Sao Paulo F1 Grand Prix",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd5.php",
-          "https://sportsoonline.click/channels/hd/hd8.php",
-          "https://sportsoonline.click/channels/bra/br5.php"
-        ]
-      },
-      {
-        "time": "17:15",
-        "event": "Oldham City x Sheffield Wednesday",
-        "streams": [
-          "https://sportsoonline.click/channels/pt/sporttv5.php"
-        ]
-      },
-      {
-        "time": "17:30",
-        "event": "Villarreal x Getafe",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd11.php",
-          "https://sportsoonline.click/channels/pt/eleven2.php"
-        ]
-      },
-      {
-        "time": "17:30",
-        "event": "Celta de Vigo x Levante",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd6.php",
-          "https://sportsoonline.click/channels/pt/eleven3.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "VitÃ³ria GuimarÃ£es x Porto",
-        "streams": [
-          "https://sportsoonline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "18:00",
-        "event": "BeÅiktaÅ x GenÃ§lerbirliÄi",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "18:30",
-        "event": "Hoffenheim x Schalke 04",
+        "event": "KÃ¶ln W x RB Leipzig W",
         "streams": [
           "https://sportsoonline.click/channels/hd/hd3.php"
         ]
       },
       {
-        "time": "19:00",
-        "event": "Olympiakos Piraeus x PAOK",
+        "time": "18:00",
+        "event": "BotoÅani x OÅ£elul",
         "streams": [
           "https://sportsoonline.click/channels/hd/hd10.php"
         ]
       },
       {
-        "time": "19:00",
-        "event": "Athletic Club x AtlÃ©tico Goianiense",
-        "streams": [
-          "https://sportsoonline.click/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "19:00",
-        "event": "NFL: Broncos @ Panthers",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "19:45",
-        "event": "Fiorentina x Juventus",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd7.php",
-          "https://sportsoonline.click/channels/pt/sporttv4.php"
-        ]
-      },
-      {
-        "time": "19:45",
-        "event": "Lens x Olympique Marseille",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd4.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "AtlÃ©tico Madrid x Barcelona",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd2.php",
-          "https://sportsoonline.click/channels/hd/hd6.php",
-          "https://sportsoonline.click/channels/pt/eleven1.php",
-          "https://sportsoonline.click/channels/bra/br3.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Vasco da Gama x Palmeiras",
-        "streams": [
-          "https://sportsoonline.click/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "20:30",
-        "event": "Sport Boys x UTC Cajamarca",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "20:30",
-        "event": "Estrela x Benfica",
-        "streams": [
-          "https://sportsoonline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "20:30",
-        "event": "Rio Ave x Sporting Braga",
-        "streams": [
-          "https://sportsoonline.click/channels/pt/sporttv3.php"
-        ]
-      },
-      {
-        "time": "21:05",
-        "event": "Jaguares de CÃ³rdoba x AtlÃ©tico Bucaramanga",
+        "time": "18:00",
+        "event": "Hvidovre x Aarhus Fremad",
         "streams": [
           "https://sportsoonline.click/channels/hd/hd11.php"
         ]
       },
       {
-        "time": "21:15",
-        "event": "NFL: Packers @ Patriots",
+        "time": "19:30",
+        "event": "Plymouth Parkway x Berkhamsted",
         "streams": [
-          "https://sportsoonline.click/channels/hd/hd1.php"
+          "https://sportsoonline.click/channels/hd/hd2.php"
         ]
       },
       {
-        "time": "22:30",
-        "event": "Central CÃ³rdoba SdE x LanÃºs",
+        "time": "19:30",
+        "event": "Sabadell x Real Sociedad B",
         "streams": [
-          "https://sportsoonline.click/channels/hd/hd10.php"
+          "https://sportsoonline.click/channels/hd/hd6.php",
+          "https://sportsoonline.click/channels/pt/eleven1.php"
         ]
       },
       {
-        "time": "23:00",
-        "event": "Deportivo Garcilaso x Comerciantes Unidos",
+        "time": "20:00",
+        "event": "Sportivo San Lorenzo x Rubio ÃÃº",
         "streams": [
           "https://sportsoonline.click/channels/hd/hd9.php"
         ]
       },
       {
-        "time": "23:00",
-        "event": "NBA: Los Angeles Lakers @ Detroit Pistons",
+        "time": "20:15",
+        "event": "Torreense x UniÃ£o de Leiria",
         "streams": [
-          "https://sportsoonline.click/channels/hd/hd5.php",
           "https://sportsoonline.click/channels/pt/sporttv1.php"
         ]
       },
       {
-        "time": "23:10",
-        "event": "Deportes Tolima x Millonarios",
+        "time": "22:30",
+        "event": "Sportivo LuqueÃ±o x 2 de Mayo",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "Junior x CÃºcuta Deportivo",
         "streams": [
           "https://sportsoonline.click/channels/hd/hd11.php"
         ]
       },
       {
         "time": "00:00",
-        "event": "QuerÃ©taro x Puebla",
+        "event": "NBA: Washington Wizards @ Detroit Pistons",
         "streams": [
-          "https://sportsoonline.click/channels/hd/hd8.php"
+          "https://sportsoonline.click/channels/bra/br6.php"
         ]
       },
       {
-        "time": "01:10",
-        "event": "NFL: Buccaneers @ Bears",
+        "time": "01:00",
+        "event": "NFL: Bills @ Vikings",
         "streams": [
           "https://sportsoonline.click/channels/hd/hd1.php"
         ]
       },
       {
-        "time": "01:15",
-        "event": "Alianza x Llaneros",
+        "time": "01:00",
+        "event": "NHL: Edmonton Oilers @ New York Rangers",
         "streams": [
-          "https://sportsoonline.click/channels/hd/hd11.php"
+          "https://sportsoonline.click/channels/pt/sporttv2.php"
         ]
       },
       {
         "time": "01:30",
-        "event": "Universitario x Deportivo Moquegua",
+        "event": "NBA: Denver Nuggets @ Houston Rockets",
         "streams": [
-          "https://sportsoonline.click/channels/hd/hd9.php"
+          "https://sportsoonline.click/channels/pt/sporttv1.php"
         ]
       },
       {
-        "time": "02:10",
-        "event": "LeÃ³n x Guadalajara",
+        "time": "01:45",
+        "event": "Cricket: 3rd ODI: New Zealand v India",
         "streams": [
-          "https://sportsoonline.click/channels/hd/hd8.php"
+          "https://sportsoonline.click/channels/hd/hd2.php"
+        ]
+      },
+      {
+        "time": "03:00",
+        "event": "NBA: New Orleans Pelicans @ Golden State Warriors",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd5.php"
         ]
       }
     ]
