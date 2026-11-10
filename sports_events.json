@@ -1,133 +1,63 @@
 {
-  "last_updated": "2026-11-10T15:56:16.871351Z",
+  "last_updated": "2026-11-10T21:35:55.645620Z",
   "events": {
-    "MONDAY": [
-      {
-        "time": "00:00",
-        "event": "Junior x CÃºcuta Deportivo",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "00:00",
-        "event": "NBA: Washington Wizards @ Detroit Pistons",
-        "streams": [
-          "https://sportsoonline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "NFL: Bills @ Vikings",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "NHL: Edmonton Oilers @ New York Rangers",
-        "streams": [
-          "https://sportsoonline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "NBA: Denver Nuggets @ Houston Rockets",
-        "streams": [
-          "https://sportsoonline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "01:45",
-        "event": "Cricket: 3rd ODI: New Zealand v India",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd2.php"
-        ]
-      },
-      {
-        "time": "03:00",
-        "event": "NBA: New Orleans Pelicans @ Golden State Warriors",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd5.php"
-        ]
-      }
-    ],
     "TUESDAY": [
       {
         "time": "12:00",
         "event": "Tennis: ATP World Tour 250: Stockholm",
         "streams": [
-          "https://sportsoonline.click/channels/hd/hd5.php",
           "https://sportsoonline.click/channels/pt/sporttv3.php"
         ]
       },
       {
-        "time": "15:00",
-        "event": "Al Mokawloon x WE",
+        "time": "16:00",
+        "event": "Brunei U17 x Bahrain U17",
         "streams": [
-          "https://sportsoonline.click/channels/hd/hd3.php"
+          "https://sportsoonline.click/channels/hd/hd9.php"
         ]
       },
       {
         "time": "17:45",
-        "event": "Real Madrid W x Paris FC W",
+        "event": "OH Leuven W x KÃ¸ge Kvinder W",
         "streams": [
           "https://sportsoonline.click/channels/hd/hd10.php",
-          "https://sportsoonline.click/channels/hd/hd9.php",
           "https://sportsoonline.click/channels/bra/br6.php"
         ]
       },
       {
         "time": "18:00",
-        "event": "Midtjylland x Odense Q",
+        "event": "Independiente Reserves x LanÃºs Reserses",
         "streams": [
           "https://sportsoonline.click/channels/hd/hd4.php"
         ]
       },
       {
         "time": "18:00",
-        "event": "Anaitasuna FT x Deportivo AlavÃ©s",
+        "event": "Torreense W x Sparta Praha W",
         "streams": [
-          "https://sportsoonline.click/channels/hd/hd6.php"
+          "https://sportsoonline.click/channels/pt/sporttv1.php"
         ]
       },
       {
-        "time": "18:30",
-        "event": "Basketball: Eurocup - JL Bourg en Bresse x Buducnost Podgorica",
+        "time": "19:30",
+        "event": "Tennis: WTA Finals: Day 4 Singles",
         "streams": [
-          "https://sportsoonline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Tavernes x Valencia",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd6.php",
-          "https://sportsoonline.click/channels/bra/br3.php"
+          "https://sportsoonline.click/channels/hd/hd1.php"
         ]
       },
       {
         "time": "20:00",
-        "event": "PSG W x Bayern W",
+        "event": "Juventus W x OL Lyonnes W",
         "streams": [
-          "https://sportsoonline.click/channels/hd/hd10.php",
-          "https://sportsoonline.click/channels/hd/hd9.php",
+          "https://sportsoonline.click/channels/hd/hd8.php",
           "https://sportsoonline.click/channels/bra/br2.php"
         ]
       },
       {
         "time": "20:00",
-        "event": "Roma W x Servette ChÃªnois W",
+        "event": "SL Benfica W x Austria Wien W",
         "streams": [
-          "https://sportsoonline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Internazionale W x Manchester City W",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd8.php",
-          "https://sportsoonline.click/channels/bra/br6.php"
+          "https://sportsoonline.click/channels/hd/hd5.php"
         ]
       },
       {
@@ -139,14 +69,22 @@
       },
       {
         "time": "00:00",
-        "event": "NHL: Minnesota Wild @ Montreal Canadiens",
+        "event": "Tennis: WTA Finals: Day 4 Doubles",
         "streams": [
-          "https://sportsoonline.click/channels/pt/sporttv2.php"
+          "https://sportsoonline.click/channels/hd/hd1.php"
         ]
       },
       {
-        "time": "01:00",
-        "event": "NBA: Boston Celtics @ Philadelphia 76ers",
+        "time": "00:00",
+        "event": "NBA: New York Knicks @ Cleveland Cavaliers",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd2.php",
+          "https://sportsoonline.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "NBA: Boston Celtics @ Toronto Raptors",
         "streams": [
           "https://sportsoonline.click/channels/pt/sporttv1.php"
         ]
@@ -159,8 +97,16 @@
         ]
       },
       {
-        "time": "04:00",
-        "event": "NBA: Oklahoam City Thunder @ Portland Trail Blazers",
+        "time": "02:30",
+        "event": "NBA: Golden State Warriors @ Houston Rockets",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd2.php",
+          "https://sportsoonline.click/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "03:00",
+        "event": "NBA: Oklahoma City Thunder @ Portland Trail Blazers",
         "streams": [
           "https://sportsoonline.click/channels/pt/sporttv1.php"
         ]
