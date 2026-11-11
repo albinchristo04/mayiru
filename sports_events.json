@@ -1,43 +1,6 @@
 {
-  "last_updated": "2026-11-11T15:41:55.148874Z",
+  "last_updated": "2026-11-11T22:21:57.810613Z",
   "events": {
-    "TUESDAY": [
-      {
-        "time": "23:30",
-        "event": "Inter BogotÃ¡ x AmÃ©rica de Cali",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "00:00",
-        "event": "NHL: Minnesota Wild @ Montreal Canadiens",
-        "streams": [
-          "https://sportsoonline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "NBA: Boston Celtics @ Philadelphia 76ers",
-        "streams": [
-          "https://sportsoonline.click/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "01:30",
-        "event": "Once Caldas x AtlÃ©tico Nacional",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "04:00",
-        "event": "NBA: Oklahoam City Thunder @ Portland Trail Blazers",
-        "streams": [
-          "https://sportsoonline.click/channels/pt/sporttv1.php"
-        ]
-      }
-    ],
     "WEDNESDAY": [
       {
         "time": "12:00",
