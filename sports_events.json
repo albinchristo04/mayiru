@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T04:55:19.467819Z",
+  "last_updated": "2026-11-12T16:26:31.627441Z",
   "events": {
     "THURSDAY": [
       {
@@ -186,6 +186,231 @@
         "event": "NBA: Dallas Mavericks @ Washington Wizards",
         "streams": [
           "https://sportsoonline.click/channels/hd/hd2.php"
+        ]
+      }
+    ],
+    "FRIDAY": [
+      {
+        "time": "07:00",
+        "event": "Golf - DP World Tour Championship: D2",
+        "streams": [
+          "https://sportsoonline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "13:00",
+        "event": "Zambia x Burundi",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "13:00",
+        "event": "Comoros x Congo",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd4.php"
+        ]
+      },
+      {
+        "time": "13:00",
+        "event": "Mozambique x Ethiopia",
+        "streams": [
+          "https://sportsoonline.click/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "13:00",
+        "event": "Tennis: ATP World Tour 250: Stockholm",
+        "streams": [
+          "https://sportsoonline.click/channels/pt/sporttv4.php"
+        ]
+      },
+      {
+        "time": "13:30",
+        "event": "One Fight Championship",
+        "streams": [
+          "https://sportsoonline.click/channels/pt/sporttv5.php"
+        ]
+      },
+      {
+        "time": "14:30",
+        "event": "Saudi Arabia x Korea Republic",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "Cape Verde Islands x Liberia",
+        "streams": [
+          "https://sportsoonline.click/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "Gabon x Lesotho",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "Nigeria x Tanzania",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd10.php",
+          "https://sportsoonline.click/channels/hd/hd4.php"
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "South Africa x Kenya",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "Moldova x Kazakhstan",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd11.php",
+          "https://sportsoonline.click/channels/pt/sporttv1.php",
+          "https://sportsoonline.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "Estonia x Bulgaria",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "17:30",
+        "event": "France U21 x Italy U21",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd7.php"
+        ]
+      },
+      {
+        "time": "18:00",
+        "event": "Spain U21 x Japan U21",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd6.php"
+        ]
+      },
+      {
+        "time": "19:00",
+        "event": "Egypt x Malawi",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Serbia x Germany",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd2.php",
+          "https://sportsoonline.click/channels/hd/hd3.php",
+          "https://sportsoonline.click/channels/pt/sporttv1.php",
+          "https://sportsoonline.click/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Bulgaria x Iceland",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Netherlands x Greece",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd1.php",
+          "https://sportsoonline.click/channels/hd/hd4.php",
+          "https://sportsoonline.click/channels/pt/sporttv2.php",
+          "https://sportsoonline.click/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Slovenia x Switzerland",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd9.php",
+          "https://sportsoonline.click/channels/pt/sporttv4.php",
+          "https://sportsoonline.click/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Scotland x North Macedonia",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd5.php",
+          "https://sportsoonline.click/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Salamanca UDS x Celta de Vigo",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd6.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Morocco x Niger",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Rugby: France x South Africa",
+        "streams": [
+          "https://sportsoonline.click/channels/pt/sporttv5.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "Saint Martin x El Salvador",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "Argentina x Uruguay",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd6.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "Colombia x Chile",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "Ecuador x Costa Rica",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "01:00",
+        "event": "Peru x Bolivia",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "02:00",
+        "event": "Guatemala x Canada",
+        "streams": [
+          "https://sportsoonline.click/channels/hd/hd5.php",
+          "https://sportsoonline.click/channels/pt/sporttv1.php"
         ]
       }
     ]
