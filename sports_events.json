@@ -1,32 +1,6 @@
 {
-  "last_updated": "2026-11-15T03:52:29.334446Z",
+  "last_updated": "2026-11-15T15:05:39.441800Z",
   "events": {
-    "SATURDAY": [
-      {
-        "time": "01:00",
-        "event": "Jamaica x Mexico",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd10.php",
-          "https://sportsoonline.click/channels/pt/sporttv4.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "NBA: Detroit Pistons @ Miami Heat",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd5.php",
-          "https://sportsoonline.click/channels/pt/sporttv2.php"
-        ]
-      },
-      {
-        "time": "02:00",
-        "event": "UFC 334: Gane vs Hokit",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd2.php",
-          "https://sportsoonline.click/channels/pt/sporttv1.php"
-        ]
-      }
-    ],
     "SUNDAY": [
       {
         "time": "07:00",
