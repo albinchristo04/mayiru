@@ -1,59 +1,6 @@
 {
-  "last_updated": "2026-11-21T04:49:09.419675Z",
+  "last_updated": "2026-11-21T15:47:00.029648Z",
   "events": {
-    "FRIDAY": [
-      {
-        "time": "23:00",
-        "event": "VÃ©lez Sarsfield x Belgrano",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "23:35",
-        "event": "AtlÃ©tico Bucaramanga x AmÃ©rica de Cali",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "00:15",
-        "event": "Las Vegas F1 GP: Practice 3",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd1.php",
-          "https://sportsoonline.click/channels/hd/hd7.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "Puebla x AtlÃ©tico San Luis",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "03:00",
-        "event": "JuÃ¡rez x Atlas",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd8.php"
-        ]
-      },
-      {
-        "time": "03:00",
-        "event": "Tijuana x Atlante",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd10.php"
-        ]
-      },
-      {
-        "time": "03:00",
-        "event": "Las Vegas F1 GP: Qualifying",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd1.php",
-          "https://sportsoonline.click/channels/hd/hd7.php"
-        ]
-      }
-    ],
     "SATURDAY": [
       {
         "time": "04:00",
