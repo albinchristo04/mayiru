@@ -1,59 +1,7 @@
 {
-  "last_updated": "2026-11-23T04:46:25.336758Z",
+  "last_updated": "2026-11-23T19:39:05.452422Z",
   "events": {
     "MONDAY": [
-      {
-        "time": "07:00",
-        "event": "Cricket: 2nd Test Day 1: South Africa v Bangladesh",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "12:30",
-        "event": "Spain U17 x Fiji U17",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd11.php",
-          "https://sportsoonline.click/channels/hd/hd6.php"
-        ]
-      },
-      {
-        "time": "12:30",
-        "event": "Tajikistan U17 x Croatia U17",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd5.php"
-        ]
-      },
-      {
-        "time": "13:45",
-        "event": "Neftchi x Al Hilal",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd3.php",
-          "https://sportsoonline.click/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "14:30",
-        "event": "Italy U17 x CÃ´te d'Ivoire U17",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd11.php",
-          "https://sportsoonline.click/channels/hd/hd7.php"
-        ]
-      },
-      {
-        "time": "15:00",
-        "event": "Morocco U17 x China PR U17",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "15:00",
-        "event": "Steaua BucureÅti x Chindia TÃ¢rgoviÅte",
-        "streams": [
-          "https://sportsoonline.click/channels/hd/hd10.php"
-        ]
-      },
       {
         "time": "16:00",
         "event": "Al Shamal x Al-Ahli",
