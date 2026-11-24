@@ -1,58 +1,6 @@
 {
-  "last_updated": "2026-11-24T07:37:35.751317Z",
+  "last_updated": "2026-11-24T19:12:22.121113Z",
   "events": {
-    "MONDAY": [
-      {
-        "time": "00:00",
-        "event": "Santos x GrÃªmio",
-        "streams": [
-          "https://sporrtsonline.top/channels/bra/br1.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "NBA: Oklahoma City Thunder @ Indiana Pacers",
-        "streams": [
-          "https://sporrtsonline.top/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "00:30",
-        "event": "NBA: Brooklyn Nets @ Minnesota Timberwolves",
-        "streams": [
-          "https://sporrtsonline.top/channels/hd/hd2.php",
-          "https://sporrtsonline.top/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "St. Louis City x Los Angeles FC",
-        "streams": [
-          "https://sporrtsonline.top/channels/hd/hd9.php"
-        ]
-      },
-      {
-        "time": "01:00",
-        "event": "NFL: Bengals @ Commanders",
-        "streams": [
-          "https://sporrtsonline.top/channels/hd/hd1.php"
-        ]
-      },
-      {
-        "time": "03:00",
-        "event": "NBA: Sacramento Kings @ San Antonio Spurs",
-        "streams": [
-          "https://sporrtsonline.top/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "03:00",
-        "event": "NBA: Utah Jazz @ Los Angeles Lakers",
-        "streams": [
-          "https://sporrtsonline.top/channels/hd/hd5.php"
-        ]
-      }
-    ],
     "TUESDAY": [
       {
         "time": "12:30",
@@ -248,6 +196,187 @@
         "event": "NBA Cup: Dalals Mavericks @ Denver Nuggets",
         "streams": [
           "https://sporrtsonline.top/channels/hd/hd5.php"
+        ]
+      }
+    ],
+    "WEDNESDAY": [
+      {
+        "time": "13:00",
+        "event": "Sporting CP U19 x Manchester United U19",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd2.php",
+          "https://sporrtsonline.top/channels/hd/hd6.php",
+          "https://sporrtsonline.top/channels/pt/eleven1.php"
+        ]
+      },
+      {
+        "time": "13:30",
+        "event": "Audace Cerignola x Internazionale B",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "14:00",
+        "event": "Club Brugge U19 x Liverpool U19",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "15:00",
+        "event": "AtlÃ©tico Madrid U19 x Viking U19",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd6.php"
+        ]
+      },
+      {
+        "time": "17:45",
+        "event": "Slavia Praha x Villarreal",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd11.php",
+          "https://sporrtsonline.top/channels/hd/hd10.php",
+          "https://sporrtsonline.top/channels/pt/eleven2.php",
+          "https://sporrtsonline.top/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "17:45",
+        "event": "Sabah x Barcelona",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd5.php",
+          "https://sporrtsonline.top/channels/hd/hd6.php",
+          "https://sporrtsonline.top/channels/hd/hd3.php",
+          "https://sporrtsonline.top/channels/pt/eleven1.php",
+          "https://sporrtsonline.top/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "PSG x Roma",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd5.php",
+          "https://sporrtsonline.top/channels/hd/hd4.php",
+          "https://sporrtsonline.top/channels/hd/hd7.php",
+          "https://sporrtsonline.top/channels/pt/eleven1.php",
+          "https://sporrtsonline.top/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Club Brugge x Liverpool",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd2.php",
+          "https://sporrtsonline.top/channels/pt/eleven2.php",
+          "https://sporrtsonline.top/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Sporting CP x Manchester United",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd1.php",
+          "https://sporrtsonline.top/channels/pt/sporttv5.php",
+          "https://sporrtsonline.top/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Shakhtar Donetsk x FenerbahÃ§e",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Lille x Bayern MÃ¼nchen",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd9.php",
+          "https://sporrtsonline.top/channels/hd/hd3.php",
+          "https://sporrtsonline.top/channels/pt/eleven3.php",
+          "https://sporrtsonline.top/channels/bra/br5.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Internazionale x Stuttgart",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd8.php",
+          "https://sporrtsonline.top/channels/bra/br4.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "AtlÃ©tico Madrid x Viking",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd10.php",
+          "https://sporrtsonline.top/channels/hd/hd6.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Stoke City x Milwall",
+        "streams": [
+          "https://sporrtsonline.top/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "22:00",
+        "event": "NBA: Miami Heat @ Philadelphia 76ers",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd5.php",
+          "https://sporrtsonline.top/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "AtlÃ©tico Mineiro x Corinthians",
+        "streams": [
+          "https://sporrtsonline.top/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "23:20",
+        "event": "Santa Fe x Once Caldas",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "00:00",
+        "event": "Boca Juniors x Independiente Rivadavia",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd10.php",
+          "https://sporrtsonline.top/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "00:30",
+        "event": "NBA: Minnesota Timberwolves @ Oklahoma City Thunder",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "01:30",
+        "event": "AtlÃ©tico Nacional x MedellÃ­n",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "02:30",
+        "event": "Golf: BMW Australian PGA Championship - D1",
+        "streams": [
+          "https://sporrtsonline.top/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "03:00",
+        "event": "NBA: San Antonio Spurs @ Portland Trail Blazers",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd5.php",
+          "https://sporrtsonline.top/channels/pt/sporttv1.php"
         ]
       }
     ]
