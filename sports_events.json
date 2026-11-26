@@ -1,105 +1,7 @@
 {
-  "last_updated": "2026-11-25T18:17:00.915860Z",
+  "last_updated": "2026-11-26T05:58:33.221106Z",
   "events": {
     "WEDNESDAY": [
-      {
-        "time": "17:45",
-        "event": "Slavia Praha x Villarreal",
-        "streams": [
-          "https://sporrtsonline.top/channels/hd/hd11.php",
-          "https://sporrtsonline.top/channels/hd/hd10.php",
-          "https://sporrtsonline.top/channels/pt/eleven2.php",
-          "https://sporrtsonline.top/channels/bra/br5.php"
-        ]
-      },
-      {
-        "time": "17:45",
-        "event": "Sabah x Barcelona",
-        "streams": [
-          "https://sporrtsonline.top/channels/hd/hd5.php",
-          "https://sporrtsonline.top/channels/hd/hd6.php",
-          "https://sporrtsonline.top/channels/hd/hd3.php",
-          "https://sporrtsonline.top/channels/pt/eleven1.php",
-          "https://sporrtsonline.top/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "PSG x Roma",
-        "streams": [
-          "https://sporrtsonline.top/channels/hd/hd5.php",
-          "https://sporrtsonline.top/channels/hd/hd4.php",
-          "https://sporrtsonline.top/channels/hd/hd7.php",
-          "https://sporrtsonline.top/channels/pt/eleven1.php",
-          "https://sporrtsonline.top/channels/bra/br2.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Club Brugge x Liverpool",
-        "streams": [
-          "https://sporrtsonline.top/channels/hd/hd2.php",
-          "https://sporrtsonline.top/channels/pt/eleven2.php",
-          "https://sporrtsonline.top/channels/bra/br6.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Sporting CP x Manchester United",
-        "streams": [
-          "https://sporrtsonline.top/channels/hd/hd1.php",
-          "https://sporrtsonline.top/channels/pt/sporttv5.php",
-          "https://sporrtsonline.top/channels/bra/br3.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Shakhtar Donetsk x FenerbahÃ§e",
-        "streams": [
-          "https://sporrtsonline.top/channels/hd/hd11.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Lille x Bayern MÃ¼nchen",
-        "streams": [
-          "https://sporrtsonline.top/channels/hd/hd9.php",
-          "https://sporrtsonline.top/channels/hd/hd3.php",
-          "https://sporrtsonline.top/channels/pt/eleven3.php",
-          "https://sporrtsonline.top/channels/bra/br5.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Internazionale x Stuttgart",
-        "streams": [
-          "https://sporrtsonline.top/channels/hd/hd8.php",
-          "https://sporrtsonline.top/channels/bra/br4.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "AtlÃ©tico Madrid x Viking",
-        "streams": [
-          "https://sporrtsonline.top/channels/hd/hd10.php",
-          "https://sporrtsonline.top/channels/hd/hd6.php"
-        ]
-      },
-      {
-        "time": "20:00",
-        "event": "Stoke City x Milwall",
-        "streams": [
-          "https://sporrtsonline.top/channels/pt/sporttv1.php"
-        ]
-      },
-      {
-        "time": "22:00",
-        "event": "NBA: Miami Heat @ Philadelphia 76ers",
-        "streams": [
-          "https://sporrtsonline.top/channels/hd/hd5.php",
-          "https://sporrtsonline.top/channels/pt/sporttv2.php"
-        ]
-      },
       {
         "time": "23:00",
         "event": "AtlÃ©tico Mineiro x Corinthians",
@@ -363,6 +265,245 @@
         "event": "Golf: BMW Australian PGA Championship - D2",
         "streams": [
           "https://sporrtsonline.top/channels/pt/sporttv2.php"
+        ]
+      }
+    ],
+    "FRIDAY": [
+      {
+        "time": "08:00",
+        "event": "MotoGP: Valencia FP1",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd9.php",
+          "https://sporrtsonline.top/channels/pt/sporttv4.php",
+          "https://sporrtsonline.top/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "08:40",
+        "event": "Macarthur x Melbourne City",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd2.php"
+        ]
+      },
+      {
+        "time": "12:15",
+        "event": "MotoGP: Valencia Practice",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd9.php",
+          "https://sporrtsonline.top/channels/pt/sporttv4.php",
+          "https://sporrtsonline.top/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "13:00",
+        "event": "Azam x Al Ahli Tripoli",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "13:00",
+        "event": "Qatar F1 GP: Practice 1",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd10.php",
+          "https://sporrtsonline.top/channels/hd/hd8.php",
+          "https://sporrtsonline.top/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "14:00",
+        "event": "Costa Rica U17 x Brazil U17",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "14:20",
+        "event": "Al Quadisiya x Al-Fayha",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "14:55",
+        "event": "Qatar F2: Qualifying",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd10.php",
+          "https://sporrtsonline.top/channels/hd/hd8.php",
+          "https://sporrtsonline.top/channels/bra/br3.php"
+        ]
+      },
+      {
+        "time": "16:00",
+        "event": "Venezuela U17 x Mexico U17",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd5.php"
+        ]
+      },
+      {
+        "time": "16:30",
+        "event": "Rugby: Fiji x Italy",
+        "streams": [
+          "https://sporrtsonline.top/channels/pt/eleven3.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "RakÃ³w CzÄstochowa x Piast Gliwice",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd4.php"
+        ]
+      },
+      {
+        "time": "17:00",
+        "event": "Rizespor x KasÄ±mpaÅa",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd9.php"
+        ]
+      },
+      {
+        "time": "17:30",
+        "event": "Heidenheim x NÃ¼rnberg",
+        "streams": [
+          "https://sporrtsonline.top/channels/pt/eleven1.php"
+        ]
+      },
+      {
+        "time": "17:30",
+        "event": "Al Ittihad x NEOM",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd11.php",
+          "https://sporrtsonline.top/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "Werder Bremen x Borussia M'gladbach",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd3.php",
+          "https://sporrtsonline.top/channels/pt/eleven3.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "Largs Thistle x Ayr United",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "19:30",
+        "event": "LeganÃ©s x Sabadell",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Venezia x Bologna",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd7.php",
+          "https://sporrtsonline.top/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "19:45",
+        "event": "Brest x Paris",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd4.php",
+          "https://sporrtsonline.top/channels/pt/sporttv3.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Nottingham Forest x Chelsea",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd1.php",
+          "https://sporrtsonline.top/channels/pt/eleven1.php",
+          "https://sporrtsonline.top/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Levante x Racing Santander",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd2.php",
+          "https://sporrtsonline.top/channels/hd/hd6.php",
+          "https://sporrtsonline.top/channels/pt/eleven2.php"
+        ]
+      },
+      {
+        "time": "20:00",
+        "event": "Southampton x Middlesbrough",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd5.php",
+          "https://sporrtsonline.top/channels/pt/sporttv5.php",
+          "https://sporrtsonline.top/channels/bra/br6.php"
+        ]
+      },
+      {
+        "time": "20:15",
+        "event": "MarÃ­timo x Nacional",
+        "streams": [
+          "https://sporrtsonline.top/channels/pt/sporttv1.php"
+        ]
+      },
+      {
+        "time": "21:45",
+        "event": "Cricket: 2nd Test: New Zealand v India",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd8.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "Vila Nova x AtlÃ©tico Goianiense",
+        "streams": [
+          "https://sporrtsonline.top/channels/bra/br2.php"
+        ]
+      },
+      {
+        "time": "23:00",
+        "event": "Fluminense x Cruzeiro",
+        "streams": [
+          "https://sporrtsonline.top/channels/bra/br1.php"
+        ]
+      },
+      {
+        "time": "23:35",
+        "event": "Deportivo Cali x AtlÃ©tico Bucaramanga",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "01:00",
+        "event": "Columbus Crew x Inter Miami",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd2.php",
+          "https://sporrtsonline.top/channels/hd/hd11.php"
+        ]
+      },
+      {
+        "time": "01:40",
+        "event": "Millonarios x AmÃ©rica de Cali",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd10.php"
+        ]
+      },
+      {
+        "time": "02:30",
+        "event": "Golf: BMW Australian PGA Championship - D3",
+        "streams": [
+          "https://sporrtsonline.top/channels/pt/sporttv2.php"
+        ]
+      },
+      {
+        "time": "03:00",
+        "event": "Real Salt Lake x Vancouver Whitecaps",
+        "streams": [
+          "https://sporrtsonline.top/channels/hd/hd2.php",
+          "https://sporrtsonline.top/channels/hd/hd11.php"
         ]
       }
     ]
